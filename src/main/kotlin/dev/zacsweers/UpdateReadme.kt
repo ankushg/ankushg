@@ -61,7 +61,8 @@ private fun fetchGithubActivity(
 ): List<ActivityItem> {
   val moshi = Moshi.Builder().build()
   val githubApi = GitHubApi.create(client, moshi)
-  val activity = runBlocking { githubApi.getUserActivity("ZacSweers") }
+  val activity = runBlocking { githubApi.getUserActivity("ankushg") }
+
   return activity
     .filter { it.public }
     .mapNotNull { event ->
