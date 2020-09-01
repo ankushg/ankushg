@@ -105,6 +105,9 @@ private fun fetchGithubActivity(
           )
         }
       }
+    }.filter {
+        // Ignore events from forestry.io CMS
+        !it.text.contains("Forestry.io")
     }
     .take(10)
 }
