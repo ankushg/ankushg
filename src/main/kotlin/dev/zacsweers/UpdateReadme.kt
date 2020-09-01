@@ -1,5 +1,7 @@
 package dev.zacsweers
 
+import com.ankushg.atom.AtomBlogApi
+import com.ankushg.atom.InstantParseTypeConverter
 import com.github.ajalt.clikt.core.CliktCommand
 import com.github.ajalt.clikt.parameters.options.option
 import com.github.ajalt.clikt.parameters.options.required
@@ -36,18 +38,19 @@ class UpdateReadmeCommand : CliktCommand() {
 private fun fetchBlogActivity(
   client: OkHttpClient
 ): List<ActivityItem> {
-  val blogApi = BlogApi.create(
+  val blogApi = AtomBlogApi.create(
     client, TikXml.Builder()
       .exceptionOnUnreadXml(false)
-      .addTypeConverter(Instant::class.java, InstantTypeConverter())
+      .addTypeConverter(Instant::class.java, InstantParseTypeConverter())
       .build()
   )
 
-  return runBlocking { blogApi.main().channel }.itemList
+  return runBlocking { blogApi.main().entries }
     .map { entry ->
+      val text = entry.link?.uri?.let { uri -> "[${entry.title}](${uri})" } ?: entry.title
       ActivityItem(
-        text = "[${entry.title}](${entry.link})",
-        timestamp = entry.pubDate
+        text = text,
+        timestamp = entry.published ?: entry.updated
       )
     }
     .take(10)
