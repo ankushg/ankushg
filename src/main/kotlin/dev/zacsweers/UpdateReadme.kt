@@ -114,6 +114,6 @@ data class ActivityItem(
   val timestamp: Instant
 ) {
   override fun toString(): String {
-    return "**${timestamp.atZone(ZoneId.of("America/New_York")).toLocalDate()}** — $text"
+    return "**${timestamp.atZone(ZoneId.of("America/Los_Angeles")).toLocalDate()}** — $text"
   }
 }
