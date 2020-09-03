@@ -8,6 +8,7 @@ fun createReadMe(
     Currently working at [Quizlet](https://quizlet.com/). Read [my blog](https://ankushg.com/) or [follow @ankushg on Twitter](https://twitter.com/ankushg).
 
     <table><tr><td valign="top" width="40%">
+
     ## On My Blog
     <!-- blog starts -->
 ${blogActivity.joinToString("\n\n") { "    $it" }}
