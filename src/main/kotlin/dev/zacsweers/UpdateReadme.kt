@@ -1,5 +1,6 @@
 package dev.zacsweers
 
+import com.ankushg.Config
 import com.ankushg.atom.AtomBlogApi
 import com.ankushg.atom.InstantParseTypeConverter
 import com.github.ajalt.clikt.core.CliktCommand
@@ -105,9 +106,8 @@ private fun fetchGithubActivity(
           )
         }
       }
-    }.filter {
-        // Ignore events from forestry.io CMS
-        !it.text.contains("Forestry.io")
+    }.filter {item ->
+        !Config.blocklistedActivityStrings.any { it in item.text }
     }
     .take(10)
 }
