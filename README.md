@@ -1,6 +1,7 @@
 Currently working at [Quizlet](https://quizlet.com/). Read [my blog](https://ankushg.com/) or [follow @ankushg on Twitter](https://twitter.com/ankushg).
 
 <table><tr><td valign="top" width="40%">
+
 ## On My Blog
 <!-- blog starts -->
 **2020-08-31** — [Quizlet + Kotlin Multiplatform Case Study](https://ankushg.com/posts/quizlet-kotlin-multiplatform-case-study/)
