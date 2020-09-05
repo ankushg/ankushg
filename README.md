@@ -22,8 +22,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2020-08-13** — opened issue [#601](https://api.github.com/repos/koush/vysor.io/issues/601) on [koush/vysor.io](https://api.github.com/repos/koush/vysor.io): "[Feature Request] "Show taps" option"
 
 **2020-08-10** — commented on [#10](https://github.com/form-com/diff-coverage-gradle/pull/10#issuecomment-671532748) in [form-com/diff-coverage-gradle](https://api.github.com/repos/form-com/diff-coverage-gradle)
-
-**2020-06-04** — opened issue [#2](https://api.github.com/repos/haoict/facebook-no-ads/issues/2) on [haoict/facebook-no-ads](https://api.github.com/repos/haoict/facebook-no-ads): "Facebook Lite support?"
 <!-- githubActivity ends -->
 </td></tr></table>
 
