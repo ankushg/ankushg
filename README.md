@@ -17,6 +17,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2020-09-06** — commented on [#1755](https://github.com/cashapp/sqldelight/issues/1755#issuecomment-687852776) in [cashapp/sqldelight](https://api.github.com/repos/cashapp/sqldelight)
+
 **2020-08-25** — commented on [#961](https://github.com/Kotlin/kotlinx.serialization/issues/961#issuecomment-680392356) in [Kotlin/kotlinx.serialization](https://api.github.com/repos/Kotlin/kotlinx.serialization)
 
 **2020-08-13** — opened issue [#601](https://api.github.com/repos/koush/vysor.io/issues/601) on [koush/vysor.io](https://api.github.com/repos/koush/vysor.io): "[Feature Request] "Show taps" option"
