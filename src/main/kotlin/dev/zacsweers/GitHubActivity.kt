@@ -13,6 +13,7 @@ import retrofit2.converter.moshi.MoshiConverterFactory
 import retrofit2.create
 import retrofit2.http.GET
 import retrofit2.http.Path
+import java.lang.IllegalStateException
 import java.lang.reflect.Type
 import java.time.Instant
 import kotlin.reflect.KClass
@@ -92,6 +93,7 @@ data class GitHubActivityEvent(
   }
 }
 
+
 sealed class GitHubActivityEventPayload {
   enum class Type(val subclass: KClass<out GitHubActivityEventPayload>) {
     UNKNOWN(UnknownPayload::class),
@@ -129,8 +131,12 @@ data class Issue(
   val title: String,
   val body: String,
   val url: String,
-  val number: Int
-)
+  val number: Int,
+  @Json(name = "html_url")
+  val htmlUrl: String? = null
+) {
+  val displayUrl = htmlUrl ?: url
+}
 
 @JsonClass(generateAdapter = true)
 data class IssueCommentEventPayload(
@@ -142,9 +148,13 @@ data class IssueCommentEventPayload(
 @JsonClass(generateAdapter = true)
 data class Comment(
   @Json(name = "html_url")
-  val htmlUrl: String,
-  val body: String
-)
+  val htmlUrl: String? = null,
+  val body: String,
+  val url: String
+) {
+  val displayUrl
+    get() = htmlUrl ?: url
+}
 
 @JsonClass(generateAdapter = true)
 data class PushEventPayload(
@@ -153,25 +163,23 @@ data class PushEventPayload(
   @Json(name = "distinct_size")
   val distinctSize: Int,
   val commits: List<Commit>
-) : GitHubActivityEventPayload() {
-  fun commitMessage(event: GitHubActivityEvent): String {
-    return if (distinctSize == 1) {
-      val commit = commits[0]
-      "pushed [`${commit.sha.substring(0..7)}`](${commit.adjustedUrl()}) to ${event.repo?.markdownUrl()}: \"${commit.title()}\""
-    } else {
-      "pushed $size commits to ${event.repo?.markdownUrl()}."
-    }
-  }
-}
+) : GitHubActivityEventPayload()
 
 @JsonClass(generateAdapter = true)
 data class Commit(
   val sha: String,
   val message: String,
-  val url: String
+  val url: String,
+  @Json(name = "html_url")
+  val htmlUrl: String? = null
 ) {
-  fun title(): String = message.substringBefore("\n")
-  fun adjustedUrl(): String = url.replace("api.", "").replace("/repos/", "/").replace("/commits/", "/commit/")
+  fun title(): String = message
+      .substringBefore("\n")
+
+  val displayUrl: String
+    get() = htmlUrl ?: adjustedApiUrl()
+
+  private fun adjustedApiUrl(): String = url.replace("api.", "").replace("/repos/", "/").replace("/commits/", "/commit/")
 }
 
 @JsonClass(generateAdapter = true)
@@ -185,16 +193,24 @@ data class PullRequestPayload(
 @JsonClass(generateAdapter = true)
 data class PullRequest(
   val url: String,
+  @Json(name = "html_url")
+  val htmlUrl: String? = null,
   val title: String,
   val body: String
-)
+) {
+  val displayUrl: String
+    get() = htmlUrl ?: url
+}
 
 @JsonClass(generateAdapter = true)
 data class Repo(
   val name: String,
-  val url: String
+  val url: String,
+  @Json(name = "html_url")
+  val htmlUrl: String? = null
 ) {
-  fun markdownUrl(): String = "[$name]($url)"
+  val displayUrl: String
+    get() = htmlUrl ?: url
 }
 
 @JsonClass(generateAdapter = true)
