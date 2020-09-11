@@ -179,7 +179,10 @@ data class Commit(
   val displayUrl: String
     get() = htmlUrl ?: adjustedApiUrl()
 
-  private fun adjustedApiUrl(): String = url.replace("api.", "").replace("/repos/", "/").replace("/commits/", "/commit/")
+  private fun adjustedApiUrl(): String = url
+          .replace("api.", "")
+          .replace("/repos/", "/")
+          .replace("/commits/", "/commit/")
 }
 
 @JsonClass(generateAdapter = true)

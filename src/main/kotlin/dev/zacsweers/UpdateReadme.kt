@@ -3,6 +3,7 @@ package dev.zacsweers
 import com.ankushg.Config
 import com.ankushg.atom.AtomBlogApi
 import com.ankushg.atom.InstantParseTypeConverter
+import com.ankushg.displayText
 import com.github.ajalt.clikt.core.CliktCommand
 import com.github.ajalt.clikt.parameters.options.option
 import com.github.ajalt.clikt.parameters.options.required
@@ -65,51 +66,16 @@ private fun fetchGithubActivity(
   val activity = runBlocking { githubApi.getUserActivity("ankushg") }
 
   return activity
-    .filter { it.public }
-    .mapNotNull { event ->
-      when (val payload = event.payload) {
-        UnknownPayload, null -> return@mapNotNull null
-        is IssuesEventPayload -> {
-          ActivityItem(
-            "${payload.action} issue [#${payload.issue.number}](${payload.issue.url}) on ${event.repo?.markdownUrl()}: \"${payload.issue.title}\"",
-            event.createdAt
-          )
-        }
-        is IssueCommentEventPayload -> {
-          ActivityItem(
-            "commented on [#${payload.issue.number}](${payload.comment.htmlUrl}) in ${event.repo?.markdownUrl()}",
-            event.createdAt
-          )
-        }
-        is PushEventPayload -> {
-          ActivityItem(
-            payload.commitMessage(event),
-            event.createdAt
-          )
-        }
-        is PullRequestPayload -> {
-          ActivityItem(
-            "${payload.action} PR [#${payload.number}](${payload.pullRequest.url}) to ${event.repo?.markdownUrl()}: \"${payload.pullRequest.title}\"",
-            event.createdAt
-          )
-        }
-        is CreateEvent -> {
-          ActivityItem(
-            "created ${payload.refType}${payload.ref?.let { " \"$it\"" } ?: ""} on ${event.repo?.markdownUrl()}",
-            event.createdAt
-          )
-        }
-        is DeleteEvent -> {
-          ActivityItem(
-            "deleted ${payload.refType}${payload.ref?.let { " \"$it\"" } ?: ""} on ${event.repo?.markdownUrl()}",
-            event.createdAt
-          )
-        }
-      }
-    }.filter {item ->
-        !Config.blocklistedActivityStrings.any { it in item.text }
+    .asSequence()
+    .filter {event ->
+      event.public
+          && event.displayText != null
+          && event.displayText !in Config.blocklistedActivityStrings
     }
-    .take(10)
+    .map { event ->
+      ActivityItem(event.displayText!!, event.createdAt)
+    }.take(10)
+    .toList()
 }
 
 fun main(argv: Array<String>) {
