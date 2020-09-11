@@ -17,15 +17,25 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
-**2020-09-07** — opened issue [#7](https://api.github.com/repos/icerockdev/multiplatform-libraries/issues/7) on [icerockdev/multiplatform-libraries](https://api.github.com/repos/icerockdev/multiplatform-libraries): "JS targets not listed"
+**2020-09-11** — pushed 2 commits to [ankushg/ankushg](https://api.github.com/repos/ankushg/ankushg).
+
+**2020-09-07** — opened issue [#7](https://github.com/icerockdev/multiplatform-libraries/issues/7) on [icerockdev/multiplatform-libraries](https://api.github.com/repos/icerockdev/multiplatform-libraries): "JS targets not listed"
 
 **2020-09-06** — commented on [#1755](https://github.com/cashapp/sqldelight/issues/1755#issuecomment-687852776) in [cashapp/sqldelight](https://api.github.com/repos/cashapp/sqldelight)
 
-**2020-08-25** — commented on [#961](https://github.com/Kotlin/kotlinx.serialization/issues/961#issuecomment-680392356) in [Kotlin/kotlinx.serialization](https://api.github.com/repos/Kotlin/kotlinx.serialization)
+**2020-09-03** — pushed [`e161f90b`](https://github.com/ankushg/ankushg/commit/e161f90b32fc5089cd4e77244826d126af1d5376) to [ankushg/ankushg](https://api.github.com/repos/ankushg/ankushg): "fix spacing"
 
-**2020-08-13** — opened issue [#601](https://api.github.com/repos/koush/vysor.io/issues/601) on [koush/vysor.io](https://api.github.com/repos/koush/vysor.io): "[Feature Request] "Show taps" option"
+**2020-09-03** — pushed 2 commits to [ankushg/ankushg.github.io](https://api.github.com/repos/ankushg/ankushg.github.io).
 
-**2020-08-10** — commented on [#10](https://github.com/form-com/diff-coverage-gradle/pull/10#issuecomment-671532748) in [form-com/diff-coverage-gradle](https://api.github.com/repos/form-com/diff-coverage-gradle)
+**2020-09-03** — deleted branch "master" on [ankushg/ankushg.github.io](https://api.github.com/repos/ankushg/ankushg.github.io)
+
+**2020-09-03** — created branch "main" on [ankushg/ankushg.github.io](https://api.github.com/repos/ankushg/ankushg.github.io)
+
+**2020-09-03** — pushed 2 commits to [ankushg/ankushg](https://api.github.com/repos/ankushg/ankushg).
+
+**2020-08-31** — pushed 6 commits to [ankushg/ankushg](https://api.github.com/repos/ankushg/ankushg).
+
+**2020-08-31** — pushed 2 commits to [ankushg/ankushg](https://api.github.com/repos/ankushg/ankushg).
 <!-- githubActivity ends -->
 </td></tr></table>
 
