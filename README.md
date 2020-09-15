@@ -17,6 +17,10 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2020-09-14** — pushed [`6bd026e6`](https://github.com/ankushg/CocktailApp/commit/6bd026e69ed312b993129b5c968cf15028dcafb5) to [ankushg/CocktailApp](https://api.github.com/repos/ankushg/CocktailApp): "rename platform-specific koins to avoid jvm conflicts"
+
+**2020-09-14** — pushed 5 commits to [ankushg/CocktailApp](https://api.github.com/repos/ankushg/CocktailApp).
+
 **2020-09-14** — commented on [#601](https://github.com/koush/vysor.io/issues/601#issuecomment-692161460) in [koush/vysor.io](https://api.github.com/repos/koush/vysor.io)
 
 **2020-09-13** — opened issue [#14](https://github.com/ankushg/CocktailApp/issues/14) on [ankushg/CocktailApp](https://api.github.com/repos/ankushg/CocktailApp): "Use separate data classes for local/remote/data entities"
@@ -32,10 +36,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2020-09-06** — commented on [#1755](https://github.com/cashapp/sqldelight/issues/1755#issuecomment-687852776) in [cashapp/sqldelight](https://api.github.com/repos/cashapp/sqldelight)
 
 **2020-09-03** — pushed [`e161f90b`](https://github.com/ankushg/ankushg/commit/e161f90b32fc5089cd4e77244826d126af1d5376) to [ankushg/ankushg](https://api.github.com/repos/ankushg/ankushg): "fix spacing"
-
-**2020-09-03** — pushed 2 commits to [ankushg/ankushg.github.io](https://api.github.com/repos/ankushg/ankushg.github.io).
-
-**2020-09-03** — deleted branch "master" on [ankushg/ankushg.github.io](https://api.github.com/repos/ankushg/ankushg.github.io)
 <!-- githubActivity ends -->
 </td></tr></table>
 
