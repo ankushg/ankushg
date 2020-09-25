@@ -17,6 +17,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2020-09-24** — pushed 29 commits to [ankushg/CocktailApp](https://api.github.com/repos/ankushg/CocktailApp).
+
 **2020-09-16** — pushed [`007d1969`](https://github.com/ankushg/CocktailApp/commit/007d1969c188a0f1534c7bb821a941f5e53fd614) to [ankushg/CocktailApp](https://api.github.com/repos/ankushg/CocktailApp): "cleaned up compose UI using material cards, state extraction"
 
 **2020-09-14** — pushed [`6bd026e6`](https://github.com/ankushg/CocktailApp/commit/6bd026e69ed312b993129b5c968cf15028dcafb5) to [ankushg/CocktailApp](https://api.github.com/repos/ankushg/CocktailApp): "rename platform-specific koins to avoid jvm conflicts"
@@ -34,8 +36,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2020-09-11** — pushed 2 commits to [ankushg/ankushg](https://api.github.com/repos/ankushg/ankushg).
 
 **2020-09-07** — opened issue [#7](https://github.com/icerockdev/multiplatform-libraries/issues/7) on [icerockdev/multiplatform-libraries](https://api.github.com/repos/icerockdev/multiplatform-libraries): "JS targets not listed"
-
-**2020-09-06** — commented on [#1755](https://github.com/cashapp/sqldelight/issues/1755#issuecomment-687852776) in [cashapp/sqldelight](https://api.github.com/repos/cashapp/sqldelight)
 <!-- githubActivity ends -->
 </td></tr></table>
 
