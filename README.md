@@ -17,6 +17,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2020-09-25** — pushed 8 commits to [ankushg/CocktailApp](https://api.github.com/repos/ankushg/CocktailApp).
+
 **2020-09-24** — pushed 29 commits to [ankushg/CocktailApp](https://api.github.com/repos/ankushg/CocktailApp).
 
 **2020-09-16** — pushed [`007d1969`](https://github.com/ankushg/CocktailApp/commit/007d1969c188a0f1534c7bb821a941f5e53fd614) to [ankushg/CocktailApp](https://api.github.com/repos/ankushg/CocktailApp): "cleaned up compose UI using material cards, state extraction"
@@ -34,8 +36,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2020-09-13** — pushed [`2f91cf35`](https://github.com/ankushg/ankushg.github.io/commit/2f91cf350856ade03a606ee8a422db886c022fa8) to [ankushg/ankushg.github.io](https://api.github.com/repos/ankushg/ankushg.github.io): "Update from Forestry.io - Updated Forestry configuration"
 
 **2020-09-11** — pushed 2 commits to [ankushg/ankushg](https://api.github.com/repos/ankushg/ankushg).
-
-**2020-09-07** — opened issue [#7](https://github.com/icerockdev/multiplatform-libraries/issues/7) on [icerockdev/multiplatform-libraries](https://api.github.com/repos/icerockdev/multiplatform-libraries): "JS targets not listed"
 <!-- githubActivity ends -->
 </td></tr></table>
 
