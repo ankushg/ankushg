@@ -17,6 +17,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2020-09-27** — pushed [`b69417cf`](https://github.com/ankushg/CocktailApp/commit/b69417cf7db55763d071a1d79a2eece9e26a6ba8) to [ankushg/CocktailApp](https://api.github.com/repos/ankushg/CocktailApp): "update selectByCategory to not return summary"
+
 **2020-09-27** — pushed [`a612a718`](https://github.com/ankushg/CocktailApp/commit/a612a718147bc0961a2abf2ad25e59cb87b0fb1e) to [ankushg/CocktailApp](https://api.github.com/repos/ankushg/CocktailApp): "Update KoinIosPlatform.kt"
 
 **2020-09-25** — pushed 8 commits to [ankushg/CocktailApp](https://api.github.com/repos/ankushg/CocktailApp).
@@ -34,8 +36,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2020-09-13** — opened issue [#14](https://github.com/ankushg/CocktailApp/issues/14) on [ankushg/CocktailApp](https://api.github.com/repos/ankushg/CocktailApp): "Use separate data classes for local/remote/data entities"
 
 **2020-09-13** — pushed [`62a4f954`](https://github.com/ankushg/ankushg.github.io/commit/62a4f95440bf2ec8dc19415e93fd3ef737c5ea3f) to [ankushg/ankushg.github.io](https://api.github.com/repos/ankushg/ankushg.github.io): "Update from Forestry.io - Updated Forestry configuration"
-
-**2020-09-13** — pushed [`2f91cf35`](https://github.com/ankushg/ankushg.github.io/commit/2f91cf350856ade03a606ee8a422db886c022fa8) to [ankushg/ankushg.github.io](https://api.github.com/repos/ankushg/ankushg.github.io): "Update from Forestry.io - Updated Forestry configuration"
 <!-- githubActivity ends -->
 </td></tr></table>
 
