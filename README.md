@@ -17,6 +17,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2020-10-29** — commented on [#1122](https://github.com/Kotlin/kotlinx.serialization/pull/1122#issuecomment-718803561) in [Kotlin/kotlinx.serialization](https://api.github.com/repos/Kotlin/kotlinx.serialization)
+
 **2020-10-28** — commented on [#1122](https://github.com/Kotlin/kotlinx.serialization/pull/1122#issuecomment-718264315) in [Kotlin/kotlinx.serialization](https://api.github.com/repos/Kotlin/kotlinx.serialization)
 
 **2020-09-27** — pushed [`b69417cf`](https://github.com/ankushg/CocktailApp/commit/b69417cf7db55763d071a1d79a2eece9e26a6ba8) to [ankushg/CocktailApp](https://api.github.com/repos/ankushg/CocktailApp): "update selectByCategory to not return summary"
@@ -34,8 +36,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2020-09-14** — pushed 5 commits to [ankushg/CocktailApp](https://api.github.com/repos/ankushg/CocktailApp).
 
 **2020-09-14** — commented on [#601](https://github.com/koush/vysor.io/issues/601#issuecomment-692161460) in [koush/vysor.io](https://api.github.com/repos/koush/vysor.io)
-
-**2020-09-13** — opened issue [#14](https://github.com/ankushg/CocktailApp/issues/14) on [ankushg/CocktailApp](https://api.github.com/repos/ankushg/CocktailApp): "Use separate data classes for local/remote/data entities"
 <!-- githubActivity ends -->
 </td></tr></table>
 
