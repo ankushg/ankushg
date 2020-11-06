@@ -17,6 +17,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2020-11-06** — commented on [#198](https://github.com/Kotlin/kotlinx.serialization/issues/198#issuecomment-723316734) in [Kotlin/kotlinx.serialization](https://api.github.com/repos/Kotlin/kotlinx.serialization)
+
 **2020-10-29** — commented on [#1122](https://github.com/Kotlin/kotlinx.serialization/pull/1122#issuecomment-718803561) in [Kotlin/kotlinx.serialization](https://api.github.com/repos/Kotlin/kotlinx.serialization)
 
 **2020-10-28** — commented on [#1122](https://github.com/Kotlin/kotlinx.serialization/pull/1122#issuecomment-718264315) in [Kotlin/kotlinx.serialization](https://api.github.com/repos/Kotlin/kotlinx.serialization)
@@ -34,8 +36,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2020-09-14** — pushed [`6bd026e6`](https://github.com/ankushg/CocktailApp/commit/6bd026e69ed312b993129b5c968cf15028dcafb5) to [ankushg/CocktailApp](https://api.github.com/repos/ankushg/CocktailApp): "rename platform-specific koins to avoid jvm conflicts"
 
 **2020-09-14** — pushed 5 commits to [ankushg/CocktailApp](https://api.github.com/repos/ankushg/CocktailApp).
-
-**2020-09-14** — commented on [#601](https://github.com/koush/vysor.io/issues/601#issuecomment-692161460) in [koush/vysor.io](https://api.github.com/repos/koush/vysor.io)
 <!-- githubActivity ends -->
 </td></tr></table>
 
