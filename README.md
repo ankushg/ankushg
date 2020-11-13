@@ -17,6 +17,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2020-11-13** — pushed [`d1149d63`](https://github.com/ankushg/kotlinx.serialization/commit/d1149d63492679ff38bf0966ff4d9909ff4960fb) to [ankushg/kotlinx.serialization](https://api.github.com/repos/ankushg/kotlinx.serialization): "Update compatibility policy with actual state of different Kotlin components (#1174)"
+
 **2020-11-12** — opened PR [#1199](https://github.com/Kotlin/kotlinx.serialization/pull/1199) to [Kotlin/kotlinx.serialization](https://api.github.com/repos/Kotlin/kotlinx.serialization): "Fix dynamic serialization for nullable values"
 
 **2020-11-12** — opened issue [#1198](https://github.com/Kotlin/kotlinx.serialization/issues/1198) on [Kotlin/kotlinx.serialization](https://api.github.com/repos/Kotlin/kotlinx.serialization): "Object-based dynamic encoding fails with null values"
@@ -34,8 +36,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2020-09-27** — pushed [`a612a718`](https://github.com/ankushg/CocktailApp/commit/a612a718147bc0961a2abf2ad25e59cb87b0fb1e) to [ankushg/CocktailApp](https://api.github.com/repos/ankushg/CocktailApp): "Update KoinIosPlatform.kt"
 
 **2020-09-25** — pushed 8 commits to [ankushg/CocktailApp](https://api.github.com/repos/ankushg/CocktailApp).
-
-**2020-09-24** — pushed 29 commits to [ankushg/CocktailApp](https://api.github.com/repos/ankushg/CocktailApp).
 <!-- githubActivity ends -->
 </td></tr></table>
 
