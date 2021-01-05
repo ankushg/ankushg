@@ -17,6 +17,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2021-01-05** — pushed 2 commits to [ankushg/ankushg.github.io](https://api.github.com/repos/ankushg/ankushg.github.io).
+
 **2020-11-20** — pushed [`c3d2e31b`](https://github.com/ankushg/kotlinx.serialization/commit/c3d2e31b8670f87c53ea8ae26c8c1c2240cb674f) to [ankushg/kotlinx.serialization](https://api.github.com/repos/ankushg/kotlinx.serialization): "Update formats/json/jsMain/src/kotlinx/serialization/json/Dynamics.kt"
 
 **2020-11-19** — pushed [`6f3c61a5`](https://github.com/ankushg/kotlinx.serialization/commit/6f3c61a559eee00185cc8038581c26d6bb58c610) to [ankushg/kotlinx.serialization](https://api.github.com/repos/ankushg/kotlinx.serialization): "split test cases in DynamicPolymorphismTest"
@@ -34,8 +36,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2020-11-12** — created branch "ankushg/fix-dynamic-serialization-for-nullable-values" on [ankushg/kotlinx.serialization](https://api.github.com/repos/ankushg/kotlinx.serialization)
 
 **2020-11-06** — commented on [#198](https://github.com/Kotlin/kotlinx.serialization/issues/198#issuecomment-723316734) in [Kotlin/kotlinx.serialization](https://api.github.com/repos/Kotlin/kotlinx.serialization)
-
-**2020-10-29** — commented on [#1122](https://github.com/Kotlin/kotlinx.serialization/pull/1122#issuecomment-718803561) in [Kotlin/kotlinx.serialization](https://api.github.com/repos/Kotlin/kotlinx.serialization)
 <!-- githubActivity ends -->
 </td></tr></table>
 
