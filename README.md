@@ -17,6 +17,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2021-01-26** — commented on [#6](https://github.com/FutureMind/kmm-ios-suspendwrapper/issues/6#issuecomment-767657920) in [FutureMind/kmm-ios-suspendwrapper](https://api.github.com/repos/FutureMind/kmm-ios-suspendwrapper)
+
 **2021-01-26** — opened issue [#6](https://github.com/FutureMind/kmm-ios-suspendwrapper/issues/6) on [FutureMind/kmm-ios-suspendwrapper](https://api.github.com/repos/FutureMind/kmm-ios-suspendwrapper): "Include (or link to) sample app"
 
 **2021-01-05** — pushed 2 commits to [ankushg/ankushg.github.io](https://api.github.com/repos/ankushg/ankushg.github.io).
@@ -34,8 +36,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2020-11-12** — opened PR [#1199](https://github.com/Kotlin/kotlinx.serialization/pull/1199) to [Kotlin/kotlinx.serialization](https://api.github.com/repos/Kotlin/kotlinx.serialization): "Fix dynamic serialization for nullable values"
 
 **2020-11-12** — opened issue [#1198](https://github.com/Kotlin/kotlinx.serialization/issues/1198) on [Kotlin/kotlinx.serialization](https://api.github.com/repos/Kotlin/kotlinx.serialization): "Object-based dynamic encoding fails with null values"
-
-**2020-11-12** — created branch "ankushg/fix-dynamic-serialization-for-nullable-values" on [ankushg/kotlinx.serialization](https://api.github.com/repos/ankushg/kotlinx.serialization)
 <!-- githubActivity ends -->
 </td></tr></table>
 
