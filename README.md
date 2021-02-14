@@ -32,8 +32,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2020-11-19** — pushed 2 commits to [ankushg/kotlinx.serialization](https://api.github.com/repos/ankushg/kotlinx.serialization).
 
 **2020-11-16** — commented on [#1199](https://github.com/Kotlin/kotlinx.serialization/pull/1199#issuecomment-728317001) in [Kotlin/kotlinx.serialization](https://api.github.com/repos/Kotlin/kotlinx.serialization)
-
-**2020-11-13** — pushed [`d1149d63`](https://github.com/ankushg/kotlinx.serialization/commit/d1149d63492679ff38bf0966ff4d9909ff4960fb) to [ankushg/kotlinx.serialization](https://api.github.com/repos/ankushg/kotlinx.serialization): "Update compatibility policy with actual state of different Kotlin components (#1174)"
 <!-- githubActivity ends -->
 </td></tr></table>
 
