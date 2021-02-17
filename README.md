@@ -30,8 +30,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2020-11-19** — pushed [`6f3c61a5`](https://github.com/ankushg/kotlinx.serialization/commit/6f3c61a559eee00185cc8038581c26d6bb58c610) to [ankushg/kotlinx.serialization](https://api.github.com/repos/ankushg/kotlinx.serialization): "split test cases in DynamicPolymorphismTest"
 
 **2020-11-19** — pushed 2 commits to [ankushg/kotlinx.serialization](https://api.github.com/repos/ankushg/kotlinx.serialization).
-
-**2020-11-16** — commented on [#1199](https://github.com/Kotlin/kotlinx.serialization/pull/1199#issuecomment-728317001) in [Kotlin/kotlinx.serialization](https://api.github.com/repos/Kotlin/kotlinx.serialization)
 <!-- githubActivity ends -->
 </td></tr></table>
 
