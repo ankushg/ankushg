@@ -24,8 +24,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2021-01-26** — opened issue [#6](https://github.com/FutureMind/kmm-ios-suspendwrapper/issues/6) on [FutureMind/kmm-ios-suspendwrapper](https://api.github.com/repos/FutureMind/kmm-ios-suspendwrapper): "Include (or link to) sample app"
 
 **2021-01-05** — pushed 2 commits to [ankushg/ankushg.github.io](https://api.github.com/repos/ankushg/ankushg.github.io).
-
-**2020-11-20** — pushed [`c3d2e31b`](https://github.com/ankushg/kotlinx.serialization/commit/c3d2e31b8670f87c53ea8ae26c8c1c2240cb674f) to [ankushg/kotlinx.serialization](https://api.github.com/repos/ankushg/kotlinx.serialization): "Update formats/json/jsMain/src/kotlinx/serialization/json/Dynamics.kt"
 <!-- githubActivity ends -->
 </td></tr></table>
 
