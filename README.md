@@ -17,6 +17,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2021-04-02** — opened issue [#469](https://github.com/codeclimate/test-reporter/issues/469) on [codeclimate/test-reporter](https://api.github.com/repos/codeclimate/test-reporter): "Include diff coverage in show-coverage command"
+
 **2021-04-01** — commented on [#898](https://github.com/reviewdog/reviewdog/issues/898#issuecomment-812200267) in [reviewdog/reviewdog](https://api.github.com/repos/reviewdog/reviewdog)
 
 **2021-03-30** — opened issue [#30](https://github.com/ealmansi/graphqlzero/issues/30) on [ealmansi/graphqlzero](https://api.github.com/repos/ealmansi/graphqlzero): "Creating Comments on specific Posts?"
