@@ -30,8 +30,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2021-01-26** — commented on [#6](https://github.com/FutureMind/kmm-ios-suspendwrapper/issues/6#issuecomment-767657920) in [FutureMind/kmm-ios-suspendwrapper](https://api.github.com/repos/FutureMind/kmm-ios-suspendwrapper)
 
 **2021-01-26** — opened issue [#6](https://github.com/FutureMind/kmm-ios-suspendwrapper/issues/6) on [FutureMind/kmm-ios-suspendwrapper](https://api.github.com/repos/FutureMind/kmm-ios-suspendwrapper): "Include (or link to) sample app"
-
-**2021-01-05** — pushed 2 commits to [ankushg/ankushg.github.io](https://api.github.com/repos/ankushg/ankushg.github.io).
 <!-- githubActivity ends -->
 </td></tr></table>
 
