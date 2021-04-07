@@ -17,6 +17,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2021-04-07** — opened issue [#125](https://github.com/detekt/detekt-intellij-plugin/issues/125) on [detekt/detekt-intellij-plugin](https://api.github.com/repos/detekt/detekt-intellij-plugin): "Specify detekt version from settings"
+
 **2021-04-05** — opened issue [#470](https://github.com/codeclimate/test-reporter/issues/470) on [codeclimate/test-reporter](https://api.github.com/repos/codeclimate/test-reporter): "Builds for Apple Silicon?"
 
 **2021-04-02** — opened issue [#469](https://github.com/codeclimate/test-reporter/issues/469) on [codeclimate/test-reporter](https://api.github.com/repos/codeclimate/test-reporter): "Include diff coverage in show-coverage command"
