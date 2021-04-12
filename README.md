@@ -17,21 +17,25 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
-**2021-04-07** — opened issue [#125](https://github.com/detekt/detekt-intellij-plugin/issues/125) on [detekt/detekt-intellij-plugin](https://api.github.com/repos/detekt/detekt-intellij-plugin): "Specify detekt version from settings"
+**2021-04-12** — deleted branch "fix-old-feed-url" on [ankushg/ankushg.com](https://api.github.com/repos/ankushg/ankushg.com)
 
-**2021-04-05** — opened issue [#470](https://github.com/codeclimate/test-reporter/issues/470) on [codeclimate/test-reporter](https://api.github.com/repos/codeclimate/test-reporter): "Builds for Apple Silicon?"
+**2021-04-12** — pushed [`6e674a80`](https://github.com/ankushg/ankushg.com/commit/6e674a80f1d69725c908837e7cc1165d6801445c) to [ankushg/ankushg.com](https://api.github.com/repos/ankushg/ankushg.com): "redirect /feed/ to /feed.xml (#8)"
 
-**2021-04-02** — opened issue [#469](https://github.com/codeclimate/test-reporter/issues/469) on [codeclimate/test-reporter](https://api.github.com/repos/codeclimate/test-reporter): "Include diff coverage in show-coverage command"
+**2021-04-12** — closed PR [#8](https://github.com/ankushg/ankushg.com/pull/8) to [ankushg/ankushg.com](https://api.github.com/repos/ankushg/ankushg.com): "redirect /feed/ to /feed.xml"
 
-**2021-04-01** — commented on [#898](https://github.com/reviewdog/reviewdog/issues/898#issuecomment-812200267) in [reviewdog/reviewdog](https://api.github.com/repos/reviewdog/reviewdog)
+**2021-04-12** — opened PR [#8](https://github.com/ankushg/ankushg.com/pull/8) to [ankushg/ankushg.com](https://api.github.com/repos/ankushg/ankushg.com): "redirect /feed/ to /feed.xml"
 
-**2021-03-30** — opened issue [#30](https://github.com/ealmansi/graphqlzero/issues/30) on [ealmansi/graphqlzero](https://api.github.com/repos/ealmansi/graphqlzero): "Creating Comments on specific Posts?"
+**2021-04-12** — pushed [`67047263`](https://github.com/ankushg/ankushg.com/commit/670472639784724f0c1e6827dd966c8fb929365b) to [ankushg/ankushg.com](https://api.github.com/repos/ankushg/ankushg.com): "Update _redirects"
 
-**2021-02-03** — commented on [#1996](https://github.com/Kotlin/kotlinx.coroutines/issues/1996#issuecomment-772852797) in [Kotlin/kotlinx.coroutines](https://api.github.com/repos/Kotlin/kotlinx.coroutines)
+**2021-04-12** — created branch "fix-old-feed-url" on [ankushg/ankushg.com](https://api.github.com/repos/ankushg/ankushg.com)
 
-**2021-01-26** — commented on [#6](https://github.com/FutureMind/kmm-ios-suspendwrapper/issues/6#issuecomment-767657920) in [FutureMind/kmm-ios-suspendwrapper](https://api.github.com/repos/FutureMind/kmm-ios-suspendwrapper)
+**2021-04-11** — commented on [#240](https://github.com/rbuchberger/jekyll_picture_tag/issues/240#issuecomment-817392283) in [rbuchberger/jekyll_picture_tag](https://api.github.com/repos/rbuchberger/jekyll_picture_tag)
 
-**2021-01-26** — opened issue [#6](https://github.com/FutureMind/kmm-ios-suspendwrapper/issues/6) on [FutureMind/kmm-ios-suspendwrapper](https://api.github.com/repos/FutureMind/kmm-ios-suspendwrapper): "Include (or link to) sample app"
+**2021-04-11** — pushed 4 commits to [ankushg/ankushg.github.io](https://api.github.com/repos/ankushg/ankushg.github.io).
+
+**2021-04-11** — deleted branch "jekyll-4" on [ankushg/ankushg.github.io](https://api.github.com/repos/ankushg/ankushg.github.io)
+
+**2021-04-11** — closed PR [#5](https://github.com/ankushg/ankushg.github.io/pull/5) to [ankushg/ankushg.github.io](https://api.github.com/repos/ankushg/ankushg.github.io): "Update to Jekyll 4, remove pages gem"
 <!-- githubActivity ends -->
 </td></tr></table>
 
