@@ -63,7 +63,12 @@ private fun fetchGithubActivity(
 ): List<ActivityItem> {
   val moshi = Moshi.Builder().build()
   val githubApi = GitHubApi.create(client, moshi)
-  val activity = runBlocking { githubApi.getUserActivity("ankushg") }
+  val activity = runBlocking {
+    githubApi.getUserActivity(
+      username = "ankushg",
+      perPage = 100
+    )
+  }
 
   return activity
     .asSequence()

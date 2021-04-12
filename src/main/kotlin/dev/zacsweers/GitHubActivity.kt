@@ -13,14 +13,18 @@ import retrofit2.converter.moshi.MoshiConverterFactory
 import retrofit2.create
 import retrofit2.http.GET
 import retrofit2.http.Path
+import retrofit2.http.Query
 import java.lang.IllegalStateException
 import java.lang.reflect.Type
 import java.time.Instant
 import kotlin.reflect.KClass
 
 interface GitHubApi {
-  @GET("/users/{login}/events")
-  suspend fun getUserActivity(@Path("login") login: String): List<GitHubActivityEvent>
+  @GET("/users/{username}/events/public")
+  suspend fun getUserActivity(
+    @Path("username") username: String,
+    @Query("per_page") perPage: Int = 30
+  ): List<GitHubActivityEvent>
 
   companion object {
     fun create(
