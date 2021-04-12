@@ -75,7 +75,7 @@ private fun fetchGithubActivity(
     .filter {event ->
       event.public
           && event.displayText != null
-          && event.displayText !in Config.blocklistedActivityStrings
+          && Config.blocklistedActivityStrings.none { event.displayText?.contains(it) == true }
     }
     .map { event ->
       ActivityItem(event.displayText!!, event.createdAt)
