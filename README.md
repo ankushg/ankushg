@@ -17,6 +17,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2021-04-18** — opened issue [#45](https://github.com/liamcain/obsidian-periodic-notes/issues/45) on [liamcain/obsidian-periodic-notes](https://api.github.com/repos/liamcain/obsidian-periodic-notes): "Use templates when opening links to weekly/daily/monthly notes"
+
 **2021-04-11** — commented on [#240](https://github.com/rbuchberger/jekyll_picture_tag/issues/240#issuecomment-817392283) in [rbuchberger/jekyll_picture_tag](https://api.github.com/repos/rbuchberger/jekyll_picture_tag)
 
 **2021-04-07** — opened issue [#125](https://github.com/detekt/detekt-intellij-plugin/issues/125) on [detekt/detekt-intellij-plugin](https://api.github.com/repos/detekt/detekt-intellij-plugin): "Specify detekt version from settings"
