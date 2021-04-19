@@ -17,6 +17,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2021-04-19** — commented on [#45](https://github.com/liamcain/obsidian-periodic-notes/issues/45#issuecomment-822620836) in [liamcain/obsidian-periodic-notes](https://api.github.com/repos/liamcain/obsidian-periodic-notes)
+
 **2021-04-18** — opened issue [#45](https://github.com/liamcain/obsidian-periodic-notes/issues/45) on [liamcain/obsidian-periodic-notes](https://api.github.com/repos/liamcain/obsidian-periodic-notes): "Use templates when opening links to weekly/daily/monthly notes"
 
 **2021-04-11** — commented on [#240](https://github.com/rbuchberger/jekyll_picture_tag/issues/240#issuecomment-817392283) in [rbuchberger/jekyll_picture_tag](https://api.github.com/repos/rbuchberger/jekyll_picture_tag)
@@ -34,8 +36,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2021-02-03** — commented on [#1996](https://github.com/Kotlin/kotlinx.coroutines/issues/1996#issuecomment-772852797) in [Kotlin/kotlinx.coroutines](https://api.github.com/repos/Kotlin/kotlinx.coroutines)
 
 **2021-01-26** — commented on [#6](https://github.com/FutureMind/kmm-ios-suspendwrapper/issues/6#issuecomment-767657920) in [FutureMind/kmm-ios-suspendwrapper](https://api.github.com/repos/FutureMind/kmm-ios-suspendwrapper)
-
-**2021-01-26** — opened issue [#6](https://github.com/FutureMind/kmm-ios-suspendwrapper/issues/6) on [FutureMind/kmm-ios-suspendwrapper](https://api.github.com/repos/FutureMind/kmm-ios-suspendwrapper): "Include (or link to) sample app"
 <!-- githubActivity ends -->
 </td></tr></table>
 
