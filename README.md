@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2021-04-28** — opened issue [#9](https://github.com/Vinzent03/obsidian-advanced-uri/issues/9) on [Vinzent03/obsidian-advanced-uri](https://api.github.com/repos/Vinzent03/obsidian-advanced-uri): "feat: Open note without `data`?"
+
 **2021-04-22** — commented on [#220](https://github.com/jekyll/jekyll-redirect-from/issues/220#issuecomment-824941285) in [jekyll/jekyll-redirect-from](https://api.github.com/repos/jekyll/jekyll-redirect-from)
 
 **2021-04-19** — commented on [#45](https://github.com/liamcain/obsidian-periodic-notes/issues/45#issuecomment-822620836) in [liamcain/obsidian-periodic-notes](https://api.github.com/repos/liamcain/obsidian-periodic-notes)
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2021-04-01** — commented on [#898](https://github.com/reviewdog/reviewdog/issues/898#issuecomment-812200267) in [reviewdog/reviewdog](https://api.github.com/repos/reviewdog/reviewdog)
 
 **2021-03-30** — opened issue [#30](https://github.com/ealmansi/graphqlzero/issues/30) on [ealmansi/graphqlzero](https://api.github.com/repos/ealmansi/graphqlzero): "Creating Comments on specific Posts?"
-
-**2021-02-03** — commented on [#1996](https://github.com/Kotlin/kotlinx.coroutines/issues/1996#issuecomment-772852797) in [Kotlin/kotlinx.coroutines](https://api.github.com/repos/Kotlin/kotlinx.coroutines)
 <!-- githubActivity ends -->
 </td></tr></table>
 
