@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2021-05-04** — opened issue [#193](https://github.com/SilentVoid13/Templater/issues/193) on [SilentVoid13/Templater](https://api.github.com/repos/SilentVoid13/Templater): "Mechanism to share functions/variables across template files"
+
 **2021-04-28** — opened issue [#9](https://github.com/Vinzent03/obsidian-advanced-uri/issues/9) on [Vinzent03/obsidian-advanced-uri](https://api.github.com/repos/Vinzent03/obsidian-advanced-uri): "feat: Open note without `data`?"
 
 **2021-04-22** — commented on [#220](https://github.com/jekyll/jekyll-redirect-from/issues/220#issuecomment-824941285) in [jekyll/jekyll-redirect-from](https://api.github.com/repos/jekyll/jekyll-redirect-from)
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2021-04-02** — opened issue [#469](https://github.com/codeclimate/test-reporter/issues/469) on [codeclimate/test-reporter](https://api.github.com/repos/codeclimate/test-reporter): "Include diff coverage in show-coverage command"
 
 **2021-04-01** — commented on [#898](https://github.com/reviewdog/reviewdog/issues/898#issuecomment-812200267) in [reviewdog/reviewdog](https://api.github.com/repos/reviewdog/reviewdog)
-
-**2021-03-30** — opened issue [#30](https://github.com/ealmansi/graphqlzero/issues/30) on [ealmansi/graphqlzero](https://api.github.com/repos/ealmansi/graphqlzero): "Creating Comments on specific Posts?"
 <!-- githubActivity ends -->
 </td></tr></table>
 
