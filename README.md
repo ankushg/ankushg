@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2021-05-04** — commented on [#45](https://github.com/liamcain/obsidian-periodic-notes/issues/45#issuecomment-832371645) in [liamcain/obsidian-periodic-notes](https://api.github.com/repos/liamcain/obsidian-periodic-notes)
+
 **2021-05-04** — opened issue [#193](https://github.com/SilentVoid13/Templater/issues/193) on [SilentVoid13/Templater](https://api.github.com/repos/SilentVoid13/Templater): "Mechanism to share functions/variables across template files"
 
 **2021-04-28** — opened issue [#9](https://github.com/Vinzent03/obsidian-advanced-uri/issues/9) on [Vinzent03/obsidian-advanced-uri](https://api.github.com/repos/Vinzent03/obsidian-advanced-uri): "feat: Open note without `data`?"
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2021-04-05** — opened issue [#470](https://github.com/codeclimate/test-reporter/issues/470) on [codeclimate/test-reporter](https://api.github.com/repos/codeclimate/test-reporter): "Builds for Apple Silicon?"
 
 **2021-04-02** — opened issue [#469](https://github.com/codeclimate/test-reporter/issues/469) on [codeclimate/test-reporter](https://api.github.com/repos/codeclimate/test-reporter): "Include diff coverage in show-coverage command"
-
-**2021-04-01** — commented on [#898](https://github.com/reviewdog/reviewdog/issues/898#issuecomment-812200267) in [reviewdog/reviewdog](https://api.github.com/repos/reviewdog/reviewdog)
 <!-- githubActivity ends -->
 </td></tr></table>
 
