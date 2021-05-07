@@ -29,6 +29,10 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2021-05-07** — opened PR [#203](https://github.com/SilentVoid13/Templater/pull/203) to [SilentVoid13/Templater](https://api.github.com/repos/SilentVoid13/Templater): "Allow users to provide a default template for empty new files"
+
+**2021-05-07** — created branch "ankushg/default-file-template" on [ankushg/Templater](https://api.github.com/repos/ankushg/Templater)
+
 **2021-05-07** — opened issue [#5](https://github.com/liamcain/obsidian-creases/issues/5) on [liamcain/obsidian-creases](https://api.github.com/repos/liamcain/obsidian-creases): "Make transcludes fold-able"
 
 **2021-05-07** — opened issue [#4](https://github.com/liamcain/obsidian-creases/issues/4) on [liamcain/obsidian-creases](https://api.github.com/repos/liamcain/obsidian-creases): "Folding not honored in transcludes"
@@ -44,10 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2021-04-28** — opened issue [#9](https://github.com/Vinzent03/obsidian-advanced-uri/issues/9) on [Vinzent03/obsidian-advanced-uri](https://api.github.com/repos/Vinzent03/obsidian-advanced-uri): "feat: Open note without `data`?"
 
 **2021-04-22** — commented on [#220](https://github.com/jekyll/jekyll-redirect-from/issues/220#issuecomment-824941285) in [jekyll/jekyll-redirect-from](https://api.github.com/repos/jekyll/jekyll-redirect-from)
-
-**2021-04-19** — commented on [#45](https://github.com/liamcain/obsidian-periodic-notes/issues/45#issuecomment-822620836) in [liamcain/obsidian-periodic-notes](https://api.github.com/repos/liamcain/obsidian-periodic-notes)
-
-**2021-04-18** — opened issue [#45](https://github.com/liamcain/obsidian-periodic-notes/issues/45) on [liamcain/obsidian-periodic-notes](https://api.github.com/repos/liamcain/obsidian-periodic-notes): "Use templates when opening links to weekly/daily/monthly notes"
 <!-- githubActivity ends -->
 </td></tr></table>
 
