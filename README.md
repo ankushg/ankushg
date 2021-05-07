@@ -29,6 +29,10 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2021-05-07** — opened issue [#5](https://github.com/liamcain/obsidian-creases/issues/5) on [liamcain/obsidian-creases](https://api.github.com/repos/liamcain/obsidian-creases): "Make transcludes fold-able"
+
+**2021-05-07** — opened issue [#4](https://github.com/liamcain/obsidian-creases/issues/4) on [liamcain/obsidian-creases](https://api.github.com/repos/liamcain/obsidian-creases): "Folding not honored in transcludes"
+
 **2021-05-07** — opened issue [#200](https://github.com/SilentVoid13/Templater/issues/200) on [SilentVoid13/Templater](https://api.github.com/repos/SilentVoid13/Templater): "Allow users to provide default template for new empty files"
 
 **2021-05-05** — opened issue [#9](https://github.com/trashhalo/obsidian-extract-url/issues/9) on [trashhalo/obsidian-extract-url](https://api.github.com/repos/trashhalo/obsidian-extract-url): "Mobile support"
@@ -44,10 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2021-04-19** — commented on [#45](https://github.com/liamcain/obsidian-periodic-notes/issues/45#issuecomment-822620836) in [liamcain/obsidian-periodic-notes](https://api.github.com/repos/liamcain/obsidian-periodic-notes)
 
 **2021-04-18** — opened issue [#45](https://github.com/liamcain/obsidian-periodic-notes/issues/45) on [liamcain/obsidian-periodic-notes](https://api.github.com/repos/liamcain/obsidian-periodic-notes): "Use templates when opening links to weekly/daily/monthly notes"
-
-**2021-04-11** — commented on [#240](https://github.com/rbuchberger/jekyll_picture_tag/issues/240#issuecomment-817392283) in [rbuchberger/jekyll_picture_tag](https://api.github.com/repos/rbuchberger/jekyll_picture_tag)
-
-**2021-04-07** — opened issue [#125](https://github.com/detekt/detekt-intellij-plugin/issues/125) on [detekt/detekt-intellij-plugin](https://api.github.com/repos/detekt/detekt-intellij-plugin): "Specify detekt version from settings"
 <!-- githubActivity ends -->
 </td></tr></table>
 
