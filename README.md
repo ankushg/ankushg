@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2021-05-07** — commented on [#203](https://github.com/SilentVoid13/Templater/pull/203#issuecomment-834807013) in [SilentVoid13/Templater](https://api.github.com/repos/SilentVoid13/Templater)
+
 **2021-05-07** — opened PR [#203](https://github.com/SilentVoid13/Templater/pull/203) to [SilentVoid13/Templater](https://api.github.com/repos/SilentVoid13/Templater): "Allow users to provide a default template for empty new files"
 
 **2021-05-07** — created branch "ankushg/default-file-template" on [ankushg/Templater](https://api.github.com/repos/ankushg/Templater)
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2021-05-04** — opened issue [#193](https://github.com/SilentVoid13/Templater/issues/193) on [SilentVoid13/Templater](https://api.github.com/repos/SilentVoid13/Templater): "Mechanism to share functions/variables across template files"
 
 **2021-04-28** — opened issue [#9](https://github.com/Vinzent03/obsidian-advanced-uri/issues/9) on [Vinzent03/obsidian-advanced-uri](https://api.github.com/repos/Vinzent03/obsidian-advanced-uri): "feat: Open note without `data`?"
-
-**2021-04-22** — commented on [#220](https://github.com/jekyll/jekyll-redirect-from/issues/220#issuecomment-824941285) in [jekyll/jekyll-redirect-from](https://api.github.com/repos/jekyll/jekyll-redirect-from)
 <!-- githubActivity ends -->
 </td></tr></table>
 
