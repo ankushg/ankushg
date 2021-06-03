@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2021-06-02** — opened issue [#14](https://github.com/kuuuurt/multiplatform-paging/issues/14) on [kuuuurt/multiplatform-paging](https://api.github.com/repos/kuuuurt/multiplatform-paging): "Javascript support?"
+
 **2021-05-28** — commented on [#223](https://github.com/SilentVoid13/Templater/issues/223#issuecomment-850204698) in [SilentVoid13/Templater](https://api.github.com/repos/SilentVoid13/Templater)
 
 **2021-05-07** — commented on [#203](https://github.com/SilentVoid13/Templater/pull/203#issuecomment-834807013) in [SilentVoid13/Templater](https://api.github.com/repos/SilentVoid13/Templater)
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2021-05-05** — opened issue [#9](https://github.com/trashhalo/obsidian-extract-url/issues/9) on [trashhalo/obsidian-extract-url](https://api.github.com/repos/trashhalo/obsidian-extract-url): "Mobile support"
 
 **2021-05-04** — commented on [#45](https://github.com/liamcain/obsidian-periodic-notes/issues/45#issuecomment-832371645) in [liamcain/obsidian-periodic-notes](https://api.github.com/repos/liamcain/obsidian-periodic-notes)
-
-**2021-05-04** — opened issue [#193](https://github.com/SilentVoid13/Templater/issues/193) on [SilentVoid13/Templater](https://api.github.com/repos/SilentVoid13/Templater): "Mechanism to share functions/variables across template files"
 <!-- githubActivity ends -->
 </td></tr></table>
 
