@@ -46,8 +46,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2021-05-07** — opened issue [#4](https://github.com/liamcain/obsidian-creases/issues/4) on [liamcain/obsidian-creases](https://api.github.com/repos/liamcain/obsidian-creases): "Folding not honored in transcludes"
 
 **2021-05-07** — opened issue [#200](https://github.com/SilentVoid13/Templater/issues/200) on [SilentVoid13/Templater](https://api.github.com/repos/SilentVoid13/Templater): "Allow users to provide default template for new empty files"
-
-**2021-05-05** — opened issue [#9](https://github.com/trashhalo/obsidian-extract-url/issues/9) on [trashhalo/obsidian-extract-url](https://api.github.com/repos/trashhalo/obsidian-extract-url): "Mobile support"
 <!-- githubActivity ends -->
 </td></tr></table>
 
