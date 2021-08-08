@@ -34,18 +34,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2021-06-02** — opened issue [#14](https://github.com/kuuuurt/multiplatform-paging/issues/14) on [kuuuurt/multiplatform-paging](https://api.github.com/repos/kuuuurt/multiplatform-paging): "Javascript support?"
 
 **2021-05-28** — commented on [#223](https://github.com/SilentVoid13/Templater/issues/223#issuecomment-850204698) in [SilentVoid13/Templater](https://api.github.com/repos/SilentVoid13/Templater)
-
-**2021-05-07** — commented on [#203](https://github.com/SilentVoid13/Templater/pull/203#issuecomment-834807013) in [SilentVoid13/Templater](https://api.github.com/repos/SilentVoid13/Templater)
-
-**2021-05-07** — opened PR [#203](https://github.com/SilentVoid13/Templater/pull/203) to [SilentVoid13/Templater](https://api.github.com/repos/SilentVoid13/Templater): "Allow users to provide a default template for empty new files"
-
-**2021-05-07** — created branch "ankushg/default-file-template" on [ankushg/Templater](https://api.github.com/repos/ankushg/Templater)
-
-**2021-05-07** — opened issue [#5](https://github.com/liamcain/obsidian-creases/issues/5) on [liamcain/obsidian-creases](https://api.github.com/repos/liamcain/obsidian-creases): "Make transcludes fold-able"
-
-**2021-05-07** — opened issue [#4](https://github.com/liamcain/obsidian-creases/issues/4) on [liamcain/obsidian-creases](https://api.github.com/repos/liamcain/obsidian-creases): "Folding not honored in transcludes"
-
-**2021-05-07** — opened issue [#200](https://github.com/SilentVoid13/Templater/issues/200) on [SilentVoid13/Templater](https://api.github.com/repos/SilentVoid13/Templater): "Allow users to provide default template for new empty files"
 <!-- githubActivity ends -->
 </td></tr></table>
 
