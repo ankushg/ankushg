@@ -203,7 +203,7 @@ data class PullRequest(
   @Json(name = "html_url")
   val htmlUrl: String? = null,
   val title: String,
-  val body: String
+  val body: String? = null
 ) {
   val displayUrl: String
     get() = htmlUrl ?: url
