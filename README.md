@@ -42,8 +42,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2021-07-09** — commented on [#1354](https://github.com/Kotlin/kotlinx.serialization/pull/1354#issuecomment-877498522) in [Kotlin/kotlinx.serialization](https://api.github.com/repos/Kotlin/kotlinx.serialization)
 
 **2021-06-02** — opened issue [#14](https://github.com/kuuuurt/multiplatform-paging/issues/14) on [kuuuurt/multiplatform-paging](https://api.github.com/repos/kuuuurt/multiplatform-paging): "Javascript support?"
-
-**2021-05-28** — commented on [#223](https://github.com/SilentVoid13/Templater/issues/223#issuecomment-850204698) in [SilentVoid13/Templater](https://api.github.com/repos/SilentVoid13/Templater)
 <!-- githubActivity ends -->
 </td></tr></table>
 
