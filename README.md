@@ -10,15 +10,15 @@ Currently working at [Quizlet](https://quizlet.com/). Read [my blog](https://ank
 
 **2019-11-27** — [Shared Code at Quizlet: Deciding on Kotlin Multiplatform](https://ankushg.com/posts/shared-code-kotlin-multiplatform/)
 
-**2019-11-26** — [droidcon SF 2019: Powering Worldwide Learning with Kotlin Multiplatform](https://ankushg.com/speaking/droidcon-sf-2019)
+**2019-11-26** — [Powering Worldwide Learning with Kotlin Multiplatform](https://ankushg.com/speaking/droidcon-sf-2019)
 
 **2019-11-07** — [San Francisco Kotlin Meetup: Powering Worldwide Learning with Kotlin Multiplatform](https://ankushg.com/speaking/sf-kotlin-meetup-2019)
 
 **2019-10-20** — [Using `@Parcelize` in Kotlin Multiplatform](https://ankushg.com/posts/multiplatform-parcelize/)
 
-**2019-09-17** — [Denver Startup Week 2019: Principles of Shared Code](https://ankushg.com/speaking/denver-startup-week-2019)
+**2019-09-17** — [Principles of Shared Code](https://ankushg.com/speaking/denver-startup-week-2019)
 
-**2019-07-03** — [droidcon Berlin 2019: A Journey in Shared Code with Kotlin Multiplatform](https://ankushg.com/speaking/droidcon-berlin-2019)
+**2019-07-03** — [A Journey in Shared Code with Kotlin Multiplatform](https://ankushg.com/speaking/droidcon-berlin-2019)
 
 **2018-08-03** — [Working with TLS 1.2 on Android 4.4 and Lower](https://ankushg.com/posts/tls-1.2-on-android/)
 
