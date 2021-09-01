@@ -4,6 +4,8 @@ Currently working at [Quizlet](https://quizlet.com/). Read [my blog](https://ank
 
 ## On My Blog
 <!-- blog starts -->
+**2021-08-31** — [Write Once, Run Anywhere?](https://ankushg.com/posts/write-once-run-anywhere-increment/)
+
 **2020-08-31** — [Quizlet + Kotlin Multiplatform Case Study](https://ankushg.com/posts/quizlet-kotlin-multiplatform-case-study/)
 
 **2019-11-27** — [Shared Code at Quizlet: Deciding on Kotlin Multiplatform](https://ankushg.com/posts/shared-code-kotlin-multiplatform/)
@@ -21,8 +23,6 @@ Currently working at [Quizlet](https://quizlet.com/). Read [my blog](https://ank
 **2018-08-03** — [Working with TLS 1.2 on Android 4.4 and Lower](https://ankushg.com/posts/tls-1.2-on-android/)
 
 **2016-05-01** — [Cross-Engine Query Execution in Federated Database Systems](https://ankushg.com/projects/thesis)
-
-**2015-05-01** — [Hydra: A Trustless Decentralized Digital Identity System](https://ankushg.com/projects/hydra)
 <!-- blog ends -->
 More on [ankushg.com](https://ankushg.com/)
 </td><td valign="top" width="60%">
