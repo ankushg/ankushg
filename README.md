@@ -44,8 +44,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2021-08-18** — commented on [#91](https://github.com/tuya/tuya-homebridge/issues/91#issuecomment-901645348) in [tuya/tuya-homebridge](https://api.github.com/repos/tuya/tuya-homebridge)
 
 **2021-07-09** — commented on [#1354](https://github.com/Kotlin/kotlinx.serialization/pull/1354#issuecomment-877498522) in [Kotlin/kotlinx.serialization](https://api.github.com/repos/Kotlin/kotlinx.serialization)
-
-**2021-06-02** — opened issue [#14](https://github.com/kuuuurt/multiplatform-paging/issues/14) on [kuuuurt/multiplatform-paging](https://api.github.com/repos/kuuuurt/multiplatform-paging): "Javascript support?"
 <!-- githubActivity ends -->
 </td></tr></table>
 
