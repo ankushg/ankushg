@@ -29,6 +29,10 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2021-09-03** — pushed 3 commits to [ankushg/npm-publish](https://api.github.com/repos/ankushg/npm-publish).
+
+**2021-09-03** — pushed [`471fac0c`](https://github.com/ankushg/npm-publish/commit/471fac0c4885aad323c95abfd401ee52d91ac441) to [ankushg/npm-publish](https://api.github.com/repos/ankushg/npm-publish): "Revert "resolve module method name conflicts, add inter-dependencies""
+
 **2021-09-03** — opened PR [#1](https://github.com/ankushg/npm-publish/pull/1) to [ankushg/npm-publish](https://api.github.com/repos/ankushg/npm-publish): "[wip] work on umbrella publication"
 
 **2021-09-03** — created branch "ankushg/umbrella-wip" on [ankushg/npm-publish](https://api.github.com/repos/ankushg/npm-publish)
@@ -44,10 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2021-08-27** — commented on [#488](https://github.com/badoo/Reaktive/issues/488#issuecomment-907535688) in [badoo/Reaktive](https://api.github.com/repos/badoo/Reaktive)
 
 **2021-08-18** — opened issue [#127](https://github.com/oznu/homebridge-gsh/issues/127) on [oznu/homebridge-gsh](https://api.github.com/repos/oznu/homebridge-gsh): "Blocklist accessories based on source plugin?"
-
-**2021-08-18** — commented on [#91](https://github.com/tuya/tuya-homebridge/issues/91#issuecomment-901645348) in [tuya/tuya-homebridge](https://api.github.com/repos/tuya/tuya-homebridge)
-
-**2021-07-09** — commented on [#1354](https://github.com/Kotlin/kotlinx.serialization/pull/1354#issuecomment-877498522) in [Kotlin/kotlinx.serialization](https://api.github.com/repos/Kotlin/kotlinx.serialization)
 <!-- githubActivity ends -->
 </td></tr></table>
 
