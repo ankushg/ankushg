@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2021-09-20** — commented on [#87](https://github.com/Autodesk/coroutineworker/pull/87#issuecomment-923269012) in [Autodesk/coroutineworker](https://api.github.com/repos/Autodesk/coroutineworker)
+
 **2021-09-12** — opened issue [#12](https://github.com/rickclephas/KMP-NativeCoroutines/issues/12) on [rickclephas/KMP-NativeCoroutines](https://api.github.com/repos/rickclephas/KMP-NativeCoroutines): "Migrate to KSP?"
 
 **2021-09-03** — pushed 3 commits to [ankushg/npm-publish](https://api.github.com/repos/ankushg/npm-publish).
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2021-08-27** — commented on [#488](https://github.com/badoo/Reaktive/issues/488#issuecomment-907542746) in [badoo/Reaktive](https://api.github.com/repos/badoo/Reaktive)
 
 **2021-08-27** — commented on [#488](https://github.com/badoo/Reaktive/issues/488#issuecomment-907539354) in [badoo/Reaktive](https://api.github.com/repos/badoo/Reaktive)
-
-**2021-08-27** — commented on [#488](https://github.com/badoo/Reaktive/issues/488#issuecomment-907535688) in [badoo/Reaktive](https://api.github.com/repos/badoo/Reaktive)
 <!-- githubActivity ends -->
 </td></tr></table>
 
