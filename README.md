@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2021-09-22** — pushed [`a3942f29`](https://github.com/ankushg/home-cluster/commit/a3942f29d037b925f294bf45cfde3f3ddc5d887f) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "attempt fix flux sops access"
+
 **2021-09-21** — commented on [#1058](https://github.com/Kotlin/kotlinx.serialization/issues/1058#issuecomment-924121698) in [Kotlin/kotlinx.serialization](https://api.github.com/repos/Kotlin/kotlinx.serialization)
 
 **2021-09-20** — commented on [#87](https://github.com/Autodesk/coroutineworker/pull/87#issuecomment-923269012) in [Autodesk/coroutineworker](https://api.github.com/repos/Autodesk/coroutineworker)
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2021-09-02** — commented on [#15](https://github.com/zentered/cloudflare-preview-url/issues/15#issuecomment-911818663) in [zentered/cloudflare-preview-url](https://api.github.com/repos/zentered/cloudflare-preview-url)
 
 **2021-09-01** — opened issue [#15](https://github.com/zentered/cloudflare-preview-url/issues/15) on [zentered/cloudflare-preview-url](https://api.github.com/repos/zentered/cloudflare-preview-url): "Add support for default (main) branch and production deploys"
-
-**2021-08-27** — commented on [#488](https://github.com/badoo/Reaktive/issues/488#issuecomment-907542746) in [badoo/Reaktive](https://api.github.com/repos/badoo/Reaktive)
 <!-- githubActivity ends -->
 </td></tr></table>
 
