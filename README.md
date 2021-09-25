@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2021-09-25** — pushed 2 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
+
 **2021-09-25** — pushed [`b7bbf92c`](https://github.com/ankushg/home-cluster/commit/b7bbf92c45131e4b67b5e93e8ecf22c6f0a2e217) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "remove service and loadbalancerIP"
 
 **2021-09-24** — opened PR [#17](https://github.com/zentered/cloudflare-preview-url/pull/17) to [zentered/cloudflare-preview-url](https://api.github.com/repos/zentered/cloudflare-preview-url): "feat: add environment and commit_hash inputs"
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2021-09-03** — pushed [`471fac0c`](https://github.com/ankushg/npm-publish/commit/471fac0c4885aad323c95abfd401ee52d91ac441) to [ankushg/npm-publish](https://api.github.com/repos/ankushg/npm-publish): "Revert "resolve module method name conflicts, add inter-dependencies""
 
 **2021-09-03** — opened PR [#1](https://github.com/ankushg/npm-publish/pull/1) to [ankushg/npm-publish](https://api.github.com/repos/ankushg/npm-publish): "[wip] work on umbrella publication"
-
-**2021-09-03** — created branch "ankushg/umbrella-wip" on [ankushg/npm-publish](https://api.github.com/repos/ankushg/npm-publish)
 <!-- githubActivity ends -->
 </td></tr></table>
 
