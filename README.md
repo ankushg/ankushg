@@ -29,6 +29,12 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2021-09-26** — pushed [`c7cfabe1`](https://github.com/ankushg/home-cluster/commit/c7cfabe11b9e9bf86d35516416276ef44bc0af88) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "Update helm-release.yaml"
+
+**2021-09-26** — pushed [`aee30fab`](https://github.com/ankushg/home-cluster/commit/aee30fab3d37c479f8b3ffad89eb670961b586bc) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "remove git deploykeysecret"
+
+**2021-09-26** — pushed [`ce61d60a`](https://github.com/ankushg/home-cluster/commit/ce61d60ae52366abbc833ae8b1546c857b2eec45) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "add namespace to hass pvc"
+
 **2021-09-25** — pushed 2 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
 
 **2021-09-25** — pushed [`114d02f8`](https://github.com/ankushg/home-cluster/commit/114d02f8349a563c47b3723f5348863768970fe9) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "try fix"
@@ -42,12 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2021-09-24** — opened PR [#17](https://github.com/zentered/cloudflare-preview-url/pull/17) to [zentered/cloudflare-preview-url](https://api.github.com/repos/zentered/cloudflare-preview-url): "feat: add environment and commit_hash inputs"
 
 **2021-09-24** — created branch "ankushg/production-deploys" on [ankushg/cloudflare-preview-url](https://api.github.com/repos/ankushg/cloudflare-preview-url)
-
-**2021-09-21** — commented on [#1058](https://github.com/Kotlin/kotlinx.serialization/issues/1058#issuecomment-924121698) in [Kotlin/kotlinx.serialization](https://api.github.com/repos/Kotlin/kotlinx.serialization)
-
-**2021-09-20** — commented on [#87](https://github.com/Autodesk/coroutineworker/pull/87#issuecomment-923269012) in [Autodesk/coroutineworker](https://api.github.com/repos/Autodesk/coroutineworker)
-
-**2021-09-12** — opened issue [#12](https://github.com/rickclephas/KMP-NativeCoroutines/issues/12) on [rickclephas/KMP-NativeCoroutines](https://api.github.com/repos/rickclephas/KMP-NativeCoroutines): "Migrate to KSP?"
 <!-- githubActivity ends -->
 </td></tr></table>
 
