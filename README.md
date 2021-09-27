@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2021-09-26** — pushed [`c4d0771c`](https://github.com/ankushg/home-cluster/commit/c4d0771c8742099919fb70b19f57c01cc6c2df80) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "Update helm-release.yaml"
+
 **2021-09-26** — pushed [`c7cfabe1`](https://github.com/ankushg/home-cluster/commit/c7cfabe11b9e9bf86d35516416276ef44bc0af88) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "Update helm-release.yaml"
 
 **2021-09-26** — pushed [`aee30fab`](https://github.com/ankushg/home-cluster/commit/aee30fab3d37c479f8b3ffad89eb670961b586bc) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "remove git deploykeysecret"
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2021-09-25** — pushed [`b7bbf92c`](https://github.com/ankushg/home-cluster/commit/b7bbf92c45131e4b67b5e93e8ecf22c6f0a2e217) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "remove service and loadbalancerIP"
 
 **2021-09-24** — opened PR [#17](https://github.com/zentered/cloudflare-preview-url/pull/17) to [zentered/cloudflare-preview-url](https://api.github.com/repos/zentered/cloudflare-preview-url): "feat: add environment and commit_hash inputs"
-
-**2021-09-24** — created branch "ankushg/production-deploys" on [ankushg/cloudflare-preview-url](https://api.github.com/repos/ankushg/cloudflare-preview-url)
 <!-- githubActivity ends -->
 </td></tr></table>
 
