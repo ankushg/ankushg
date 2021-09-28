@@ -29,6 +29,10 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2021-09-27** — pushed [`398f114e`](https://github.com/ankushg/home-cluster/commit/398f114ec92d9a44a1476221c1b9ebf28753e6da) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "Update helm-release.yaml"
+
+**2021-09-27** — pushed [`b85ae7d9`](https://github.com/ankushg/home-cluster/commit/b85ae7d9ebc43dcf419c9af87a0cfc2fedebc069) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "add tls secret"
+
 **2021-09-27** — commented on [#17120](https://github.com/gradle/gradle/issues/17120#issuecomment-928396533) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
 
 **2021-09-26** — pushed [`c4d0771c`](https://github.com/ankushg/home-cluster/commit/c4d0771c8742099919fb70b19f57c01cc6c2df80) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "Update helm-release.yaml"
@@ -44,10 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2021-09-25** — pushed [`114d02f8`](https://github.com/ankushg/home-cluster/commit/114d02f8349a563c47b3723f5348863768970fe9) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "try fix"
 
 **2021-09-25** — pushed [`240f08f3`](https://github.com/ankushg/home-cluster/commit/240f08f378fa6fa80843c5359dde3ce426d3637c) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "add hass codeserver"
-
-**2021-09-25** — pushed 2 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
-
-**2021-09-25** — pushed [`b7bbf92c`](https://github.com/ankushg/home-cluster/commit/b7bbf92c45131e4b67b5e93e8ecf22c6f0a2e217) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "remove service and loadbalancerIP"
 <!-- githubActivity ends -->
 </td></tr></table>
 
