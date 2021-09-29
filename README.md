@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2021-09-29** — commented on [#340](https://github.com/SilentVoid13/Templater/pull/340#issuecomment-930559948) in [SilentVoid13/Templater](https://api.github.com/repos/SilentVoid13/Templater)
+
 **2021-09-27** — pushed [`398f114e`](https://github.com/ankushg/home-cluster/commit/398f114ec92d9a44a1476221c1b9ebf28753e6da) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "Update helm-release.yaml"
 
 **2021-09-27** — pushed [`b85ae7d9`](https://github.com/ankushg/home-cluster/commit/b85ae7d9ebc43dcf419c9af87a0cfc2fedebc069) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "add tls secret"
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2021-09-25** — pushed 2 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
 
 **2021-09-25** — pushed [`114d02f8`](https://github.com/ankushg/home-cluster/commit/114d02f8349a563c47b3723f5348863768970fe9) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "try fix"
-
-**2021-09-25** — pushed [`240f08f3`](https://github.com/ankushg/home-cluster/commit/240f08f378fa6fa80843c5359dde3ce426d3637c) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "add hass codeserver"
 <!-- githubActivity ends -->
 </td></tr></table>
 
