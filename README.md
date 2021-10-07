@@ -29,25 +29,25 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
-**2021-09-29** — commented on [#340](https://github.com/SilentVoid13/Templater/pull/340#issuecomment-930559948) in [SilentVoid13/Templater](https://api.github.com/repos/SilentVoid13/Templater)
+**2021-10-07** — pushed [`b8a12877`](https://github.com/ankushg/home-cluster/commit/b8a12877096079fb86d6402a08049df719f61beb) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image homeassistant/home-assistant to v2021.10.0 (#22)"
 
-**2021-09-27** — pushed [`398f114e`](https://github.com/ankushg/home-cluster/commit/398f114ec92d9a44a1476221c1b9ebf28753e6da) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "Update helm-release.yaml"
+**2021-10-07** — deleted branch "renovate/homeassistant-home-assistant-2021.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
-**2021-09-27** — pushed [`b85ae7d9`](https://github.com/ankushg/home-cluster/commit/b85ae7d9ebc43dcf419c9af87a0cfc2fedebc069) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "add tls secret"
+**2021-10-07** — closed PR [#22](https://github.com/ankushg/home-cluster/pull/22) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image homeassistant/home-assistant to v2021.10.0"
 
-**2021-09-27** — commented on [#17120](https://github.com/gradle/gradle/issues/17120#issuecomment-928396533) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
+**2021-10-07** — pushed [`33501cc6`](https://github.com/ankushg/home-cluster/commit/33501cc6e7a307813df905d5640c8fb765106dcc) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release home-assistant to v11.0.4 (#21)"
 
-**2021-09-26** — pushed [`c4d0771c`](https://github.com/ankushg/home-cluster/commit/c4d0771c8742099919fb70b19f57c01cc6c2df80) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "Update helm-release.yaml"
+**2021-10-07** — deleted branch "renovate/home-assistant-11.0.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
-**2021-09-26** — pushed [`c7cfabe1`](https://github.com/ankushg/home-cluster/commit/c7cfabe11b9e9bf86d35516416276ef44bc0af88) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "Update helm-release.yaml"
+**2021-10-07** — closed PR [#21](https://github.com/ankushg/home-cluster/pull/21) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release home-assistant to v11.0.4"
 
-**2021-09-26** — pushed [`aee30fab`](https://github.com/ankushg/home-cluster/commit/aee30fab3d37c479f8b3ffad89eb670961b586bc) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "remove git deploykeysecret"
+**2021-10-07** — pushed [`3d83ecb3`](https://github.com/ankushg/home-cluster/commit/3d83ecb3f57e8ff83d60ccedfe0bd5e1de9a6f91) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release reloader to v0.0.100 (#18)"
 
-**2021-09-26** — pushed [`ce61d60a`](https://github.com/ankushg/home-cluster/commit/ce61d60ae52366abbc833ae8b1546c857b2eec45) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "add namespace to hass pvc"
+**2021-10-07** — deleted branch "renovate/reloader-0.0.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
-**2021-09-25** — pushed 2 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
+**2021-10-07** — closed PR [#18](https://github.com/ankushg/home-cluster/pull/18) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release reloader to v0.0.100"
 
-**2021-09-25** — pushed [`114d02f8`](https://github.com/ankushg/home-cluster/commit/114d02f8349a563c47b3723f5348863768970fe9) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "try fix"
+**2021-10-07** — pushed 36 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
 <!-- githubActivity ends -->
 </td></tr></table>
 
