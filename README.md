@@ -29,6 +29,12 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2021-10-08** — pushed [`c1f0fb22`](https://github.com/ankushg/home-cluster/commit/c1f0fb2205acc055c843b8927a23a61a1622b53d) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image homeassistant/home-assistant to v2021.10.1 (#24)"
+
+**2021-10-08** — deleted branch "renovate/homeassistant-home-assistant-2021.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+
+**2021-10-08** — closed PR [#24](https://github.com/ankushg/home-cluster/pull/24) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image homeassistant/home-assistant to v2021.10.1"
+
 **2021-10-07** — pushed [`b8a12877`](https://github.com/ankushg/home-cluster/commit/b8a12877096079fb86d6402a08049df719f61beb) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image homeassistant/home-assistant to v2021.10.0 (#22)"
 
 **2021-10-07** — deleted branch "renovate/homeassistant-home-assistant-2021.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
@@ -42,12 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2021-10-07** — closed PR [#21](https://github.com/ankushg/home-cluster/pull/21) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release home-assistant to v11.0.4"
 
 **2021-10-07** — pushed [`3d83ecb3`](https://github.com/ankushg/home-cluster/commit/3d83ecb3f57e8ff83d60ccedfe0bd5e1de9a6f91) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release reloader to v0.0.100 (#18)"
-
-**2021-10-07** — deleted branch "renovate/reloader-0.0.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2021-10-07** — closed PR [#18](https://github.com/ankushg/home-cluster/pull/18) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release reloader to v0.0.100"
-
-**2021-10-07** — pushed 36 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
 <!-- githubActivity ends -->
 </td></tr></table>
 
