@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2021-10-10** — commented on [#22](https://github.com/ozntel/oz-image-in-editor-obsidian/issues/22#issuecomment-939694381) in [ozntel/oz-image-in-editor-obsidian](https://api.github.com/repos/ozntel/oz-image-in-editor-obsidian)
+
 **2021-10-08** — pushed [`c1f0fb22`](https://github.com/ankushg/home-cluster/commit/c1f0fb2205acc055c843b8927a23a61a1622b53d) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image homeassistant/home-assistant to v2021.10.1 (#24)"
 
 **2021-10-08** — deleted branch "renovate/homeassistant-home-assistant-2021.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2021-10-07** — deleted branch "renovate/home-assistant-11.0.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
 **2021-10-07** — closed PR [#21](https://github.com/ankushg/home-cluster/pull/21) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release home-assistant to v11.0.4"
-
-**2021-10-07** — pushed [`3d83ecb3`](https://github.com/ankushg/home-cluster/commit/3d83ecb3f57e8ff83d60ccedfe0bd5e1de9a6f91) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release reloader to v0.0.100 (#18)"
 <!-- githubActivity ends -->
 </td></tr></table>
 
