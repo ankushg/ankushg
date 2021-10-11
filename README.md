@@ -29,25 +29,25 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2021-10-11** — pushed [`33939c30`](https://github.com/ankushg/home-cluster/commit/33939c300bca8cc6a34d3ed90364877a497df13a) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image homeassistant/home-assistant to v2021.10.3 (#25)"
+
+**2021-10-11** — deleted branch "renovate/homeassistant-home-assistant-2021.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+
+**2021-10-11** — closed PR [#25](https://github.com/ankushg/home-cluster/pull/25) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image homeassistant/home-assistant to v2021.10.3"
+
+**2021-10-11** — deleted branch "flux/upgrade-v0.18.1" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+
+**2021-10-11** — closed PR [#28](https://github.com/ankushg/home-cluster/pull/28) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): upgrade flux components to v0.18.1"
+
+**2021-10-11** — deleted branch "flux/upgrade-v0.18.0" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+
+**2021-10-11** — closed PR [#26](https://github.com/ankushg/home-cluster/pull/26) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): upgrade flux components to v0.18.0"
+
 **2021-10-11** — pushed 5 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
 
 **2021-10-10** — commented on [#22](https://github.com/ozntel/oz-image-in-editor-obsidian/issues/22#issuecomment-939694381) in [ozntel/oz-image-in-editor-obsidian](https://api.github.com/repos/ozntel/oz-image-in-editor-obsidian)
 
 **2021-10-08** — pushed [`c1f0fb22`](https://github.com/ankushg/home-cluster/commit/c1f0fb2205acc055c843b8927a23a61a1622b53d) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image homeassistant/home-assistant to v2021.10.1 (#24)"
-
-**2021-10-08** — deleted branch "renovate/homeassistant-home-assistant-2021.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2021-10-08** — closed PR [#24](https://github.com/ankushg/home-cluster/pull/24) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image homeassistant/home-assistant to v2021.10.1"
-
-**2021-10-07** — pushed [`b8a12877`](https://github.com/ankushg/home-cluster/commit/b8a12877096079fb86d6402a08049df719f61beb) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image homeassistant/home-assistant to v2021.10.0 (#22)"
-
-**2021-10-07** — deleted branch "renovate/homeassistant-home-assistant-2021.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2021-10-07** — closed PR [#22](https://github.com/ankushg/home-cluster/pull/22) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image homeassistant/home-assistant to v2021.10.0"
-
-**2021-10-07** — pushed [`33501cc6`](https://github.com/ankushg/home-cluster/commit/33501cc6e7a307813df905d5640c8fb765106dcc) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release home-assistant to v11.0.4 (#21)"
-
-**2021-10-07** — deleted branch "renovate/home-assistant-11.0.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 <!-- githubActivity ends -->
 </td></tr></table>
 
