@@ -29,6 +29,18 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2021-10-12** — pushed [`21d08406`](https://github.com/ankushg/home-cluster/commit/21d084068d8646b0b3cacf52577f22b63ff3c183) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image homeassistant/home-assistant to v2021.10.4 (#30)"
+
+**2021-10-12** — deleted branch "renovate/homeassistant-home-assistant-2021.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+
+**2021-10-12** — closed PR [#30](https://github.com/ankushg/home-cluster/pull/30) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image homeassistant/home-assistant to v2021.10.4"
+
+**2021-10-12** — deleted branch "flux/upgrade-v0.18.2" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+
+**2021-10-12** — closed PR [#31](https://github.com/ankushg/home-cluster/pull/31) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): upgrade flux components to v0.18.2"
+
+**2021-10-12** — pushed 5 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
+
 **2021-10-11** — opened issue [#11](https://github.com/rknightuk/alfred-workflows/issues/11) on [rknightuk/alfred-workflows](https://api.github.com/repos/rknightuk/alfred-workflows): "Audio Device Selector ignores exec_path"
 
 **2021-10-11** — pushed [`33939c30`](https://github.com/ankushg/home-cluster/commit/33939c300bca8cc6a34d3ed90364877a497df13a) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image homeassistant/home-assistant to v2021.10.3 (#25)"
@@ -36,18 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2021-10-11** — deleted branch "renovate/homeassistant-home-assistant-2021.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
 **2021-10-11** — closed PR [#25](https://github.com/ankushg/home-cluster/pull/25) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image homeassistant/home-assistant to v2021.10.3"
-
-**2021-10-11** — deleted branch "flux/upgrade-v0.18.1" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2021-10-11** — closed PR [#28](https://github.com/ankushg/home-cluster/pull/28) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): upgrade flux components to v0.18.1"
-
-**2021-10-11** — deleted branch "flux/upgrade-v0.18.0" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2021-10-11** — closed PR [#26](https://github.com/ankushg/home-cluster/pull/26) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): upgrade flux components to v0.18.0"
-
-**2021-10-11** — pushed 5 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
-
-**2021-10-10** — commented on [#22](https://github.com/ozntel/oz-image-in-editor-obsidian/issues/22#issuecomment-939694381) in [ozntel/oz-image-in-editor-obsidian](https://api.github.com/repos/ozntel/oz-image-in-editor-obsidian)
 <!-- githubActivity ends -->
 </td></tr></table>
 
