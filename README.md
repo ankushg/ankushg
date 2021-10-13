@@ -29,6 +29,10 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2021-10-13** — pushed 2 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
+
+**2021-10-13** — pushed 5 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
+
 **2021-10-12** — pushed [`21d08406`](https://github.com/ankushg/home-cluster/commit/21d084068d8646b0b3cacf52577f22b63ff3c183) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image homeassistant/home-assistant to v2021.10.4 (#30)"
 
 **2021-10-12** — deleted branch "renovate/homeassistant-home-assistant-2021.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
@@ -44,10 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2021-10-11** — opened issue [#11](https://github.com/rknightuk/alfred-workflows/issues/11) on [rknightuk/alfred-workflows](https://api.github.com/repos/rknightuk/alfred-workflows): "Audio Device Selector ignores exec_path"
 
 **2021-10-11** — pushed [`33939c30`](https://github.com/ankushg/home-cluster/commit/33939c300bca8cc6a34d3ed90364877a497df13a) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image homeassistant/home-assistant to v2021.10.3 (#25)"
-
-**2021-10-11** — deleted branch "renovate/homeassistant-home-assistant-2021.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2021-10-11** — closed PR [#25](https://github.com/ankushg/home-cluster/pull/25) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image homeassistant/home-assistant to v2021.10.3"
 <!-- githubActivity ends -->
 </td></tr></table>
 
