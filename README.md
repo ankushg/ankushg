@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2021-10-15** — commented on [#18](https://github.com/guitarrapc/git-shallow-clone-orb/pull/18#issuecomment-944622738) in [guitarrapc/git-shallow-clone-orb](https://api.github.com/repos/guitarrapc/git-shallow-clone-orb)
+
 **2021-10-15** — pushed [`fd9f0316`](https://github.com/ankushg/git-shallow-clone-orb/commit/fd9f031699d58f0890aeccb13ed362ee03665399) to [ankushg/git-shallow-clone-orb](https://api.github.com/repos/ankushg/git-shallow-clone-orb): "use echo instead of cat"
 
 **2021-10-15** — opened PR [#18](https://github.com/guitarrapc/git-shallow-clone-orb/pull/18) to [guitarrapc/git-shallow-clone-orb](https://api.github.com/repos/guitarrapc/git-shallow-clone-orb): "[wip] macOS support"
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2021-10-12** — deleted branch "renovate/homeassistant-home-assistant-2021.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
 **2021-10-12** — closed PR [#30](https://github.com/ankushg/home-cluster/pull/30) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image homeassistant/home-assistant to v2021.10.4"
-
-**2021-10-12** — deleted branch "flux/upgrade-v0.18.2" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 <!-- githubActivity ends -->
 </td></tr></table>
 
