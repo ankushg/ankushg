@@ -69,7 +69,7 @@ data class GitHubActivityEvent(
       val typeAdapter = moshi.adapter(GitHubActivityEventPayload.Type::class.java)
       val repoAdapter = moshi.adapter(Repo::class.java)
       return object : JsonAdapter<GitHubActivityEvent>() {
-        override fun fromJson(reader: JsonReader): GitHubActivityEvent? {
+        override fun fromJson(reader: JsonReader): GitHubActivityEvent {
           @Suppress("UNCHECKED_CAST")
           val value = reader.readJsonValue() as Map<String, *>
           val payloadType = value["type"]?.toString()?.let(typeAdapter::fromJsonValue) ?: error("No type found")
@@ -98,7 +98,7 @@ data class GitHubActivityEvent(
 }
 
 
-sealed class GitHubActivityEventPayload {
+sealed interface GitHubActivityEventPayload {
   enum class Type(val subclass: KClass<out GitHubActivityEventPayload>) {
     UNKNOWN(UnknownPayload::class),
 
@@ -122,18 +122,18 @@ sealed class GitHubActivityEventPayload {
   }
 }
 
-object UnknownPayload : GitHubActivityEventPayload()
+object UnknownPayload : GitHubActivityEventPayload
 
 @JsonClass(generateAdapter = true)
 data class IssuesEventPayload(
   val action: String,
   val issue: Issue
-) : GitHubActivityEventPayload()
+) : GitHubActivityEventPayload
 
 @JsonClass(generateAdapter = true)
 data class Issue(
   val title: String,
-  val body: String,
+  val body: String? = null,
   val url: String,
   val number: Int,
   @Json(name = "html_url")
@@ -147,7 +147,7 @@ data class IssueCommentEventPayload(
   val action: String,
   val comment: Comment,
   val issue: Issue
-) : GitHubActivityEventPayload()
+) : GitHubActivityEventPayload
 
 @JsonClass(generateAdapter = true)
 data class Comment(
@@ -167,7 +167,7 @@ data class PushEventPayload(
   @Json(name = "distinct_size")
   val distinctSize: Int,
   val commits: List<Commit>
-) : GitHubActivityEventPayload()
+) : GitHubActivityEventPayload
 
 @JsonClass(generateAdapter = true)
 data class Commit(
@@ -195,7 +195,7 @@ data class PullRequestPayload(
   val number: Int,
   @Json(name = "pull_request")
   val pullRequest: PullRequest
-) : GitHubActivityEventPayload()
+) : GitHubActivityEventPayload
 
 @JsonClass(generateAdapter = true)
 data class PullRequest(
@@ -225,11 +225,11 @@ data class CreateEvent(
   val ref: String?,
   @Json(name = "ref_type")
   val refType: String
-) : GitHubActivityEventPayload()
+) : GitHubActivityEventPayload
 
 @JsonClass(generateAdapter = true)
 data class DeleteEvent(
   val ref: String?,
   @Json(name = "ref_type")
   val refType: String
-) : GitHubActivityEventPayload()
+) : GitHubActivityEventPayload
