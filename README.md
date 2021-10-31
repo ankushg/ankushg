@@ -29,25 +29,25 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
-**2021-10-19** — opened issue [#3](https://github.com/shiraji/common-custom-channel/issues/3) on [shiraji/common-custom-channel](https://api.github.com/repos/shiraji/common-custom-channel): "Add dev channel"
+**2021-10-31** — deleted branch "renovate/home-assistant-11.0.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
-**2021-10-15** — commented on [#17](https://github.com/Kotlin/kotlinx-kover/issues/17#issuecomment-944842962) in [Kotlin/kotlinx-kover](https://api.github.com/repos/Kotlin/kotlinx-kover)
+**2021-10-31** — pushed [`519186fc`](https://github.com/ankushg/home-cluster/commit/519186fc73a2a5c22ca915a66f9e9271a3d012ed) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release home-assistant to v11.0.6 (#58)"
 
-**2021-10-15** — commented on [#18](https://github.com/guitarrapc/git-shallow-clone-orb/pull/18#issuecomment-944622738) in [guitarrapc/git-shallow-clone-orb](https://api.github.com/repos/guitarrapc/git-shallow-clone-orb)
+**2021-10-31** — closed PR [#58](https://github.com/ankushg/home-cluster/pull/58) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release home-assistant to v11.0.6"
 
-**2021-10-15** — pushed [`fd9f0316`](https://github.com/ankushg/git-shallow-clone-orb/commit/fd9f031699d58f0890aeccb13ed362ee03665399) to [ankushg/git-shallow-clone-orb](https://api.github.com/repos/ankushg/git-shallow-clone-orb): "use echo instead of cat"
+**2021-10-31** — pushed [`5add2b96`](https://github.com/ankushg/home-cluster/commit/5add2b9647117e92c9bb3bb2eab2f544eda8ca5a) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release metallb to v0.11.0 (#53)"
 
-**2021-10-15** — opened PR [#18](https://github.com/guitarrapc/git-shallow-clone-orb/pull/18) to [guitarrapc/git-shallow-clone-orb](https://api.github.com/repos/guitarrapc/git-shallow-clone-orb): "[wip] macOS support"
+**2021-10-31** — deleted branch "renovate/metallb-0.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
-**2021-10-15** — pushed [`dd9bdf6e`](https://github.com/ankushg/git-shallow-clone-orb/commit/dd9bdf6ebd7cf3600cf57739fc5a0953eaa6baa3) to [ankushg/git-shallow-clone-orb](https://api.github.com/repos/ankushg/git-shallow-clone-orb): "add to list (not sure if working yet)"
+**2021-10-31** — closed PR [#53](https://github.com/ankushg/home-cluster/pull/53) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release metallb to v0.11.0"
 
-**2021-10-15** — created branch "add-macos-integration" on [ankushg/git-shallow-clone-orb](https://api.github.com/repos/ankushg/git-shallow-clone-orb)
+**2021-10-31** — pushed [`2308bc66`](https://github.com/ankushg/home-cluster/commit/2308bc66939c437f90f15039b43bdd770e8b9b28) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): upgrade flux components to v0.20.1 (#59)"
 
-**2021-10-13** — pushed 2 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
+**2021-10-31** — deleted branch "flux/upgrade-v0.20.1" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
-**2021-10-13** — pushed 5 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
+**2021-10-31** — closed PR [#59](https://github.com/ankushg/home-cluster/pull/59) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): upgrade flux components to v0.20.1"
 
-**2021-10-12** — pushed [`21d08406`](https://github.com/ankushg/home-cluster/commit/21d084068d8646b0b3cacf52577f22b63ff3c183) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image homeassistant/home-assistant to v2021.10.4 (#30)"
+**2021-10-31** — pushed [`2019b0af`](https://github.com/ankushg/home-cluster/commit/2019b0af48e56f6c24acb09dc2c465c77f63397c) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release cert-manager to v1.6.0 (#45)"
 <!-- githubActivity ends -->
 </td></tr></table>
 
