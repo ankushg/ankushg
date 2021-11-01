@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-01** — commented on [#16](https://github.com/sibalzer/primelooter/issues/16#issuecomment-956397555) in [sibalzer/primelooter](https://api.github.com/repos/sibalzer/primelooter)
+
 **2021-10-31** — pushed [`89c55c16`](https://github.com/ankushg/home-cluster/commit/89c55c16d6ea6077f8526fa435159c0106685904) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(blocky): add additional cloudflare defaults"
 
 **2021-10-31** — pushed [`26725770`](https://github.com/ankushg/home-cluster/commit/2672577073a1dcc792c5fd672b4a241d6cdc2605) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(blocky): attempt to split main/dns"
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2021-10-31** — pushed [`561aacb5`](https://github.com/ankushg/home-cluster/commit/561aacb586a7116fd3bc601be0c0eaddf6a2a361) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(blocky): attempt fix by defining multiple services instead of one service with many porst"
 
 **2021-10-31** — pushed [`aac1cbcc`](https://github.com/ankushg/home-cluster/commit/aac1cbccc2435b894b9a085d3e36aafef47388dc) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(blocky): just disable metrics"
-
-**2021-10-31** — pushed [`d4b8f285`](https://github.com/ankushg/home-cluster/commit/d4b8f285b4956e77fa3ca3201627907555f9ccb5) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(blocky): remove prometheus rule block"
 <!-- githubActivity ends -->
 </td></tr></table>
 
