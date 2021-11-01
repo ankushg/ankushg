@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-01** — pushed [`8c45c52e`](https://github.com/ankushg/home-cluster/commit/8c45c52e6ca8fbe9d0509c7b29ef8c204e5bdce1) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "docs: update readme with feature gates and remove fixed k3s version"
+
 **2021-11-01** — commented on [#16](https://github.com/sibalzer/primelooter/issues/16#issuecomment-956397555) in [sibalzer/primelooter](https://api.github.com/repos/sibalzer/primelooter)
 
 **2021-10-31** — pushed [`89c55c16`](https://github.com/ankushg/home-cluster/commit/89c55c16d6ea6077f8526fa435159c0106685904) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(blocky): add additional cloudflare defaults"
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2021-10-31** — pushed 4 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
 
 **2021-10-31** — pushed [`561aacb5`](https://github.com/ankushg/home-cluster/commit/561aacb586a7116fd3bc601be0c0eaddf6a2a361) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(blocky): attempt fix by defining multiple services instead of one service with many porst"
-
-**2021-10-31** — pushed [`aac1cbcc`](https://github.com/ankushg/home-cluster/commit/aac1cbccc2435b894b9a085d3e36aafef47388dc) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(blocky): just disable metrics"
 <!-- githubActivity ends -->
 </td></tr></table>
 
