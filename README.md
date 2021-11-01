@@ -29,6 +29,14 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2021-10-31** — pushed [`89c55c16`](https://github.com/ankushg/home-cluster/commit/89c55c16d6ea6077f8526fa435159c0106685904) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(blocky): add additional cloudflare defaults"
+
+**2021-10-31** — pushed [`26725770`](https://github.com/ankushg/home-cluster/commit/2672577073a1dcc792c5fd672b4a241d6cdc2605) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(blocky): attempt to split main/dns"
+
+**2021-10-31** — pushed [`f9ad0e10`](https://github.com/ankushg/home-cluster/commit/f9ad0e10d0832a42f5864f97f65e9d8a260d538b) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(blocky): attempt to use loadbalancer externalIP"
+
+**2021-10-31** — pushed 2 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
+
 **2021-10-31** — pushed 0 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
 
 **2021-10-31** — pushed [`d78bf325`](https://github.com/ankushg/home-cluster/commit/d78bf3254c57d5c204b8266d9a33d56d6739bdf1) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(blocky): add http service with loadbalancerIP"
@@ -40,14 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2021-10-31** — pushed [`aac1cbcc`](https://github.com/ankushg/home-cluster/commit/aac1cbccc2435b894b9a085d3e36aafef47388dc) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(blocky): just disable metrics"
 
 **2021-10-31** — pushed [`d4b8f285`](https://github.com/ankushg/home-cluster/commit/d4b8f285b4956e77fa3ca3201627907555f9ccb5) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(blocky): remove prometheus rule block"
-
-**2021-10-31** — pushed [`292cf365`](https://github.com/ankushg/home-cluster/commit/292cf365b7215e31f746370df1bf30c2b6046b8a) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(blocky): add blocky to networking kustomization"
-
-**2021-10-31** — pushed [`8150ffde`](https://github.com/ankushg/home-cluster/commit/8150ffde4e6d9ad8a2796fdb52e4ccb63db24209) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "feat(blocky): add customDNS"
-
-**2021-10-31** — pushed 2 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
-
-**2021-10-31** — deleted branch "renovate/home-assistant-11.0.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 <!-- githubActivity ends -->
 </td></tr></table>
 
