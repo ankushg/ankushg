@@ -29,6 +29,12 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2021-10-31** — pushed 0 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
+
+**2021-10-31** — pushed [`d78bf325`](https://github.com/ankushg/home-cluster/commit/d78bf3254c57d5c204b8266d9a33d56d6739bdf1) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(blocky): add http service with loadbalancerIP"
+
+**2021-10-31** — pushed 4 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
+
 **2021-10-31** — pushed [`561aacb5`](https://github.com/ankushg/home-cluster/commit/561aacb586a7116fd3bc601be0c0eaddf6a2a361) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(blocky): attempt fix by defining multiple services instead of one service with many porst"
 
 **2021-10-31** — pushed [`aac1cbcc`](https://github.com/ankushg/home-cluster/commit/aac1cbccc2435b894b9a085d3e36aafef47388dc) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(blocky): just disable metrics"
@@ -42,12 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2021-10-31** — pushed 2 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
 
 **2021-10-31** — deleted branch "renovate/home-assistant-11.0.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2021-10-31** — pushed [`519186fc`](https://github.com/ankushg/home-cluster/commit/519186fc73a2a5c22ca915a66f9e9271a3d012ed) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release home-assistant to v11.0.6 (#58)"
-
-**2021-10-31** — closed PR [#58](https://github.com/ankushg/home-cluster/pull/58) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release home-assistant to v11.0.6"
-
-**2021-10-31** — pushed [`5add2b96`](https://github.com/ankushg/home-cluster/commit/5add2b9647117e92c9bb3bb2eab2f544eda8ca5a) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release metallb to v0.11.0 (#53)"
 <!-- githubActivity ends -->
 </td></tr></table>
 
