@@ -29,6 +29,18 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2021-10-31** — pushed [`561aacb5`](https://github.com/ankushg/home-cluster/commit/561aacb586a7116fd3bc601be0c0eaddf6a2a361) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(blocky): attempt fix by defining multiple services instead of one service with many porst"
+
+**2021-10-31** — pushed [`aac1cbcc`](https://github.com/ankushg/home-cluster/commit/aac1cbccc2435b894b9a085d3e36aafef47388dc) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(blocky): just disable metrics"
+
+**2021-10-31** — pushed [`d4b8f285`](https://github.com/ankushg/home-cluster/commit/d4b8f285b4956e77fa3ca3201627907555f9ccb5) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(blocky): remove prometheus rule block"
+
+**2021-10-31** — pushed [`292cf365`](https://github.com/ankushg/home-cluster/commit/292cf365b7215e31f746370df1bf30c2b6046b8a) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(blocky): add blocky to networking kustomization"
+
+**2021-10-31** — pushed [`8150ffde`](https://github.com/ankushg/home-cluster/commit/8150ffde4e6d9ad8a2796fdb52e4ccb63db24209) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "feat(blocky): add customDNS"
+
+**2021-10-31** — pushed 2 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
+
 **2021-10-31** — deleted branch "renovate/home-assistant-11.0.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
 **2021-10-31** — pushed [`519186fc`](https://github.com/ankushg/home-cluster/commit/519186fc73a2a5c22ca915a66f9e9271a3d012ed) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release home-assistant to v11.0.6 (#58)"
@@ -36,18 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2021-10-31** — closed PR [#58](https://github.com/ankushg/home-cluster/pull/58) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release home-assistant to v11.0.6"
 
 **2021-10-31** — pushed [`5add2b96`](https://github.com/ankushg/home-cluster/commit/5add2b9647117e92c9bb3bb2eab2f544eda8ca5a) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release metallb to v0.11.0 (#53)"
-
-**2021-10-31** — deleted branch "renovate/metallb-0.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2021-10-31** — closed PR [#53](https://github.com/ankushg/home-cluster/pull/53) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release metallb to v0.11.0"
-
-**2021-10-31** — pushed [`2308bc66`](https://github.com/ankushg/home-cluster/commit/2308bc66939c437f90f15039b43bdd770e8b9b28) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): upgrade flux components to v0.20.1 (#59)"
-
-**2021-10-31** — deleted branch "flux/upgrade-v0.20.1" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2021-10-31** — closed PR [#59](https://github.com/ankushg/home-cluster/pull/59) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): upgrade flux components to v0.20.1"
-
-**2021-10-31** — pushed [`2019b0af`](https://github.com/ankushg/home-cluster/commit/2019b0af48e56f6c24acb09dc2c465c77f63397c) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release cert-manager to v1.6.0 (#45)"
 <!-- githubActivity ends -->
 </td></tr></table>
 
