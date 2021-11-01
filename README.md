@@ -29,25 +29,25 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-01** — pushed [`997186ae`](https://github.com/ankushg/home-cluster/commit/997186aee67dd39de53d9c07a5a4a3be877dbd8f) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release home-assistant to v11.1.0 (#60)"
+
+**2021-11-01** — deleted branch "renovate/home-assistant-11.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+
+**2021-11-01** — closed PR [#60](https://github.com/ankushg/home-cluster/pull/60) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release home-assistant to v11.1.0"
+
+**2021-11-01** — pushed [`a82588f8`](https://github.com/ankushg/home-cluster/commit/a82588f86f9765736d45400b03652a05ca82af59) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release cert-manager to v1.6.1 (#61)"
+
+**2021-11-01** — deleted branch "renovate/cert-manager-1.6.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+
+**2021-11-01** — closed PR [#61](https://github.com/ankushg/home-cluster/pull/61) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release cert-manager to v1.6.1"
+
+**2021-11-01** — deleted branch "renovate/homeassistant-home-assistant-2021.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+
+**2021-11-01** — pushed [`82ed0499`](https://github.com/ankushg/home-cluster/commit/82ed0499153dcd79e25dc07efae207fa5858c08a) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image homeassistant/home-assistant to v2021.10.7 (#62)"
+
+**2021-11-01** — closed PR [#62](https://github.com/ankushg/home-cluster/pull/62) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image homeassistant/home-assistant to v2021.10.7"
+
 **2021-11-01** — pushed [`8c45c52e`](https://github.com/ankushg/home-cluster/commit/8c45c52e6ca8fbe9d0509c7b29ef8c204e5bdce1) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "docs: update readme with feature gates and remove fixed k3s version"
-
-**2021-11-01** — commented on [#16](https://github.com/sibalzer/primelooter/issues/16#issuecomment-956397555) in [sibalzer/primelooter](https://api.github.com/repos/sibalzer/primelooter)
-
-**2021-10-31** — pushed [`89c55c16`](https://github.com/ankushg/home-cluster/commit/89c55c16d6ea6077f8526fa435159c0106685904) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(blocky): add additional cloudflare defaults"
-
-**2021-10-31** — pushed [`26725770`](https://github.com/ankushg/home-cluster/commit/2672577073a1dcc792c5fd672b4a241d6cdc2605) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(blocky): attempt to split main/dns"
-
-**2021-10-31** — pushed [`f9ad0e10`](https://github.com/ankushg/home-cluster/commit/f9ad0e10d0832a42f5864f97f65e9d8a260d538b) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(blocky): attempt to use loadbalancer externalIP"
-
-**2021-10-31** — pushed 2 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
-
-**2021-10-31** — pushed 0 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
-
-**2021-10-31** — pushed [`d78bf325`](https://github.com/ankushg/home-cluster/commit/d78bf3254c57d5c204b8266d9a33d56d6739bdf1) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(blocky): add http service with loadbalancerIP"
-
-**2021-10-31** — pushed 4 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
-
-**2021-10-31** — pushed [`561aacb5`](https://github.com/ankushg/home-cluster/commit/561aacb586a7116fd3bc601be0c0eaddf6a2a361) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(blocky): attempt fix by defining multiple services instead of one service with many porst"
 <!-- githubActivity ends -->
 </td></tr></table>
 
