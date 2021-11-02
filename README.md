@@ -29,6 +29,10 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-02** — pushed [`10b46d85`](https://github.com/ankushg/home-cluster/commit/10b46d852914669657f4296b230f30e48b478053) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "feat(dashboard): icon"
+
+**2021-11-02** — opened issue [#26](https://github.com/toboshii/hajimari/issues/26) on [toboshii/hajimari](https://api.github.com/repos/toboshii/hajimari): "Support custom templates"
+
 **2021-11-01** — pushed [`609ac7ef`](https://github.com/ankushg/home-cluster/commit/609ac7ef9b160091be3addadf0b3c642f6ada5a4) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix: broken kustomization for dashboard"
 
 **2021-11-01** — pushed [`8d4d3ab8`](https://github.com/ankushg/home-cluster/commit/8d4d3ab84e952283e089dfa84fe73f10f72cd949) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(dashboard): change namespace to kubernetes-dashboard"
@@ -44,10 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2021-11-01** — pushed [`84fd51a2`](https://github.com/ankushg/home-cluster/commit/84fd51a27e918f393f9968d395176d82dc9aa65a) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "feat: add monitoring namespace"
 
 **2021-11-01** — pushed [`7c47b22e`](https://github.com/ankushg/home-cluster/commit/7c47b22e56a8aff08ec5b56e2429e49029916c31) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(helm): indentation error"
-
-**2021-11-01** — pushed 3 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
-
-**2021-11-01** — pushed [`997186ae`](https://github.com/ankushg/home-cluster/commit/997186aee67dd39de53d9c07a5a4a3be877dbd8f) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release home-assistant to v11.1.0 (#60)"
 <!-- githubActivity ends -->
 </td></tr></table>
 
