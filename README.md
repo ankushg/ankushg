@@ -29,6 +29,16 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-01** — pushed [`609ac7ef`](https://github.com/ankushg/home-cluster/commit/609ac7ef9b160091be3addadf0b3c642f6ada5a4) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix: broken kustomization for dashboard"
+
+**2021-11-01** — pushed [`8d4d3ab8`](https://github.com/ankushg/home-cluster/commit/8d4d3ab84e952283e089dfa84fe73f10f72cd949) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(dashboard): change namespace to kubernetes-dashboard"
+
+**2021-11-01** — pushed [`9ab2c997`](https://github.com/ankushg/home-cluster/commit/9ab2c997e4552fb26e3a82910587d600e9fdc5ce) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "feat(dashboard): add user/rolebinding"
+
+**2021-11-01** — pushed 2 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
+
+**2021-11-01** — pushed [`0c072b13`](https://github.com/ankushg/home-cluster/commit/0c072b13c1f2e695411f7e5589d52c8b652d8e07) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(dashboard): host"
+
 **2021-11-01** — pushed [`0323065c`](https://github.com/ankushg/home-cluster/commit/0323065cf6a9183eaf21dfa06198d5f7454359e7) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(dashboard): remove interval"
 
 **2021-11-01** — pushed [`84fd51a2`](https://github.com/ankushg/home-cluster/commit/84fd51a27e918f393f9968d395176d82dc9aa65a) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "feat: add monitoring namespace"
@@ -38,16 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2021-11-01** — pushed 3 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
 
 **2021-11-01** — pushed [`997186ae`](https://github.com/ankushg/home-cluster/commit/997186aee67dd39de53d9c07a5a4a3be877dbd8f) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release home-assistant to v11.1.0 (#60)"
-
-**2021-11-01** — deleted branch "renovate/home-assistant-11.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2021-11-01** — closed PR [#60](https://github.com/ankushg/home-cluster/pull/60) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release home-assistant to v11.1.0"
-
-**2021-11-01** — pushed [`a82588f8`](https://github.com/ankushg/home-cluster/commit/a82588f86f9765736d45400b03652a05ca82af59) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release cert-manager to v1.6.1 (#61)"
-
-**2021-11-01** — deleted branch "renovate/cert-manager-1.6.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2021-11-01** — closed PR [#61](https://github.com/ankushg/home-cluster/pull/61) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release cert-manager to v1.6.1"
 <!-- githubActivity ends -->
 </td></tr></table>
 
