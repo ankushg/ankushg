@@ -29,6 +29,14 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-01** — pushed [`0323065c`](https://github.com/ankushg/home-cluster/commit/0323065cf6a9183eaf21dfa06198d5f7454359e7) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(dashboard): remove interval"
+
+**2021-11-01** — pushed [`84fd51a2`](https://github.com/ankushg/home-cluster/commit/84fd51a27e918f393f9968d395176d82dc9aa65a) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "feat: add monitoring namespace"
+
+**2021-11-01** — pushed [`7c47b22e`](https://github.com/ankushg/home-cluster/commit/7c47b22e56a8aff08ec5b56e2429e49029916c31) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(helm): indentation error"
+
+**2021-11-01** — pushed 3 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
+
 **2021-11-01** — pushed [`997186ae`](https://github.com/ankushg/home-cluster/commit/997186aee67dd39de53d9c07a5a4a3be877dbd8f) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release home-assistant to v11.1.0 (#60)"
 
 **2021-11-01** — deleted branch "renovate/home-assistant-11.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
@@ -40,14 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2021-11-01** — deleted branch "renovate/cert-manager-1.6.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
 **2021-11-01** — closed PR [#61](https://github.com/ankushg/home-cluster/pull/61) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release cert-manager to v1.6.1"
-
-**2021-11-01** — deleted branch "renovate/homeassistant-home-assistant-2021.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2021-11-01** — pushed [`82ed0499`](https://github.com/ankushg/home-cluster/commit/82ed0499153dcd79e25dc07efae207fa5858c08a) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image homeassistant/home-assistant to v2021.10.7 (#62)"
-
-**2021-11-01** — closed PR [#62](https://github.com/ankushg/home-cluster/pull/62) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image homeassistant/home-assistant to v2021.10.7"
-
-**2021-11-01** — pushed [`8c45c52e`](https://github.com/ankushg/home-cluster/commit/8c45c52e6ca8fbe9d0509c7b29ef8c204e5bdce1) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "docs: update readme with feature gates and remove fixed k3s version"
 <!-- githubActivity ends -->
 </td></tr></table>
 
