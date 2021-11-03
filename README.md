@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-03** — opened issue [#3](https://github.com/selfire1/obsidian-you-theme/issues/3) on [selfire1/obsidian-you-theme](https://api.github.com/repos/selfire1/obsidian-you-theme): "Support iOS safe area insets"
+
 **2021-11-02** — pushed [`10b46d85`](https://github.com/ankushg/home-cluster/commit/10b46d852914669657f4296b230f30e48b478053) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "feat(dashboard): icon"
 
 **2021-11-02** — opened issue [#26](https://github.com/toboshii/hajimari/issues/26) on [toboshii/hajimari](https://api.github.com/repos/toboshii/hajimari): "Support custom templates"
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2021-11-01** — pushed [`0323065c`](https://github.com/ankushg/home-cluster/commit/0323065cf6a9183eaf21dfa06198d5f7454359e7) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(dashboard): remove interval"
 
 **2021-11-01** — pushed [`84fd51a2`](https://github.com/ankushg/home-cluster/commit/84fd51a27e918f393f9968d395176d82dc9aa65a) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "feat: add monitoring namespace"
-
-**2021-11-01** — pushed [`7c47b22e`](https://github.com/ankushg/home-cluster/commit/7c47b22e56a8aff08ec5b56e2429e49029916c31) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(helm): indentation error"
 <!-- githubActivity ends -->
 </td></tr></table>
 
