@@ -29,6 +29,12 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-04** — closed PR [#63](https://github.com/ankushg/home-cluster/pull/63) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): upgrade flux components to v0.21.0"
+
+**2021-11-04** — pushed [`633676e1`](https://github.com/ankushg/home-cluster/commit/633676e12ac11860f030f2fe67f06c3d880265f1) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): upgrade flux components to v0.21.0 (#63)"
+
+**2021-11-04** — deleted branch "flux/upgrade-v0.21.0" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+
 **2021-11-04** — pushed [`332cacbb`](https://github.com/ankushg/home-cluster/commit/332cacbb6147bfdf49d75d791db28189ec34b988) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "Create README.md"
 
 **2021-11-04** — pushed [`5569c176`](https://github.com/ankushg/home-cluster/commit/5569c17601a0208d629c5a56810ff59c2c28b16f) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "docs: move README.md to SETUP.md"
@@ -42,12 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2021-11-01** — pushed [`609ac7ef`](https://github.com/ankushg/home-cluster/commit/609ac7ef9b160091be3addadf0b3c642f6ada5a4) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix: broken kustomization for dashboard"
 
 **2021-11-01** — pushed [`8d4d3ab8`](https://github.com/ankushg/home-cluster/commit/8d4d3ab84e952283e089dfa84fe73f10f72cd949) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(dashboard): change namespace to kubernetes-dashboard"
-
-**2021-11-01** — pushed [`9ab2c997`](https://github.com/ankushg/home-cluster/commit/9ab2c997e4552fb26e3a82910587d600e9fdc5ce) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "feat(dashboard): add user/rolebinding"
-
-**2021-11-01** — pushed 2 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
-
-**2021-11-01** — pushed [`0c072b13`](https://github.com/ankushg/home-cluster/commit/0c072b13c1f2e695411f7e5589d52c8b652d8e07) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(dashboard): host"
 <!-- githubActivity ends -->
 </td></tr></table>
 
