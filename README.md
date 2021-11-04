@@ -29,6 +29,10 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-04** — pushed [`332cacbb`](https://github.com/ankushg/home-cluster/commit/332cacbb6147bfdf49d75d791db28189ec34b988) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "Create README.md"
+
+**2021-11-04** — pushed [`5569c176`](https://github.com/ankushg/home-cluster/commit/5569c17601a0208d629c5a56810ff59c2c28b16f) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "docs: move README.md to SETUP.md"
+
 **2021-11-03** — opened issue [#3](https://github.com/selfire1/obsidian-you-theme/issues/3) on [selfire1/obsidian-you-theme](https://api.github.com/repos/selfire1/obsidian-you-theme): "Support iOS safe area insets"
 
 **2021-11-02** — pushed [`10b46d85`](https://github.com/ankushg/home-cluster/commit/10b46d852914669657f4296b230f30e48b478053) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "feat(dashboard): icon"
@@ -44,10 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2021-11-01** — pushed 2 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
 
 **2021-11-01** — pushed [`0c072b13`](https://github.com/ankushg/home-cluster/commit/0c072b13c1f2e695411f7e5589d52c8b652d8e07) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(dashboard): host"
-
-**2021-11-01** — pushed [`0323065c`](https://github.com/ankushg/home-cluster/commit/0323065cf6a9183eaf21dfa06198d5f7454359e7) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(dashboard): remove interval"
-
-**2021-11-01** — pushed [`84fd51a2`](https://github.com/ankushg/home-cluster/commit/84fd51a27e918f393f9968d395176d82dc9aa65a) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "feat: add monitoring namespace"
 <!-- githubActivity ends -->
 </td></tr></table>
 
