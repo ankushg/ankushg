@@ -29,6 +29,12 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-05** — pushed [`d8c21ee8`](https://github.com/ankushg/home-cluster/commit/d8c21ee8ed457a1be1b28a93b69db9e77d167039) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): upgrade flux components to v0.21.1 (#64)"
+
+**2021-11-05** — deleted branch "flux/upgrade-v0.21.1" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+
+**2021-11-05** — closed PR [#64](https://github.com/ankushg/home-cluster/pull/64) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): upgrade flux components to v0.21.1"
+
 **2021-11-04** — closed PR [#63](https://github.com/ankushg/home-cluster/pull/63) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): upgrade flux components to v0.21.0"
 
 **2021-11-04** — pushed [`633676e1`](https://github.com/ankushg/home-cluster/commit/633676e12ac11860f030f2fe67f06c3d880265f1) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): upgrade flux components to v0.21.0 (#63)"
@@ -42,12 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2021-11-03** — opened issue [#3](https://github.com/selfire1/obsidian-you-theme/issues/3) on [selfire1/obsidian-you-theme](https://api.github.com/repos/selfire1/obsidian-you-theme): "Support iOS safe area insets"
 
 **2021-11-02** — pushed [`10b46d85`](https://github.com/ankushg/home-cluster/commit/10b46d852914669657f4296b230f30e48b478053) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "feat(dashboard): icon"
-
-**2021-11-02** — opened issue [#26](https://github.com/toboshii/hajimari/issues/26) on [toboshii/hajimari](https://api.github.com/repos/toboshii/hajimari): "Support custom templates"
-
-**2021-11-01** — pushed [`609ac7ef`](https://github.com/ankushg/home-cluster/commit/609ac7ef9b160091be3addadf0b3c642f6ada5a4) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix: broken kustomization for dashboard"
-
-**2021-11-01** — pushed [`8d4d3ab8`](https://github.com/ankushg/home-cluster/commit/8d4d3ab84e952283e089dfa84fe73f10f72cd949) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(dashboard): change namespace to kubernetes-dashboard"
 <!-- githubActivity ends -->
 </td></tr></table>
 
