@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-09** — opened issue [#2](https://github.com/deezer/KustomExport/issues/2) on [deezer/KustomExport](https://api.github.com/repos/deezer/KustomExport): "Plugin-based architecture?"
+
 **2021-11-09** — commented on [#9](https://github.com/TfTHacker/obsidian42-brat/issues/9#issuecomment-964132455) in [TfTHacker/obsidian42-brat](https://api.github.com/repos/TfTHacker/obsidian42-brat)
 
 **2021-11-08** — pushed [`b1a38c06`](https://github.com/ankushg/home-cluster/commit/b1a38c06df3bf7318dfbe6385b71e774bb948d36) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix: attempt use ip-range for nodes"
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2021-11-08** — pushed [`b5e03000`](https://github.com/ankushg/home-cluster/commit/b5e03000d098260422cdafa7263d30f2c8069615) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release traefik to v10.6.1 (#66)"
 
 **2021-11-08** — deleted branch "renovate/traefik-10.6.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2021-11-08** — closed PR [#66](https://github.com/ankushg/home-cluster/pull/66) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release traefik to v10.6.1"
 <!-- githubActivity ends -->
 </td></tr></table>
 
