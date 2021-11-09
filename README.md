@@ -29,25 +29,25 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-08** — pushed 3 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
+
+**2021-11-08** — pushed [`1ec89beb`](https://github.com/ankushg/home-cluster/commit/1ec89beb566907b486c4e962da819cad08c4ca22) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image homeassistant/home-assistant to v2021.11.1 (#67)"
+
+**2021-11-08** — deleted branch "renovate/homeassistant-home-assistant-2021.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+
+**2021-11-08** — closed PR [#67](https://github.com/ankushg/home-cluster/pull/67) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image homeassistant/home-assistant to v2021.11.1"
+
+**2021-11-08** — pushed [`b5e03000`](https://github.com/ankushg/home-cluster/commit/b5e03000d098260422cdafa7263d30f2c8069615) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release traefik to v10.6.1 (#66)"
+
+**2021-11-08** — deleted branch "renovate/traefik-10.6.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+
+**2021-11-08** — closed PR [#66](https://github.com/ankushg/home-cluster/pull/66) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release traefik to v10.6.1"
+
 **2021-11-05** — pushed [`d8c21ee8`](https://github.com/ankushg/home-cluster/commit/d8c21ee8ed457a1be1b28a93b69db9e77d167039) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): upgrade flux components to v0.21.1 (#64)"
 
 **2021-11-05** — deleted branch "flux/upgrade-v0.21.1" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
 **2021-11-05** — closed PR [#64](https://github.com/ankushg/home-cluster/pull/64) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): upgrade flux components to v0.21.1"
-
-**2021-11-04** — closed PR [#63](https://github.com/ankushg/home-cluster/pull/63) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): upgrade flux components to v0.21.0"
-
-**2021-11-04** — pushed [`633676e1`](https://github.com/ankushg/home-cluster/commit/633676e12ac11860f030f2fe67f06c3d880265f1) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): upgrade flux components to v0.21.0 (#63)"
-
-**2021-11-04** — deleted branch "flux/upgrade-v0.21.0" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2021-11-04** — pushed [`332cacbb`](https://github.com/ankushg/home-cluster/commit/332cacbb6147bfdf49d75d791db28189ec34b988) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "Create README.md"
-
-**2021-11-04** — pushed [`5569c176`](https://github.com/ankushg/home-cluster/commit/5569c17601a0208d629c5a56810ff59c2c28b16f) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "docs: move README.md to SETUP.md"
-
-**2021-11-03** — opened issue [#3](https://github.com/selfire1/obsidian-you-theme/issues/3) on [selfire1/obsidian-you-theme](https://api.github.com/repos/selfire1/obsidian-you-theme): "Support iOS safe area insets"
-
-**2021-11-02** — pushed [`10b46d85`](https://github.com/ankushg/home-cluster/commit/10b46d852914669657f4296b230f30e48b478053) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "feat(dashboard): icon"
 <!-- githubActivity ends -->
 </td></tr></table>
 
