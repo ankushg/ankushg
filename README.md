@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-08** — pushed [`27e1bf55`](https://github.com/ankushg/home-cluster/commit/27e1bf5562ad02c50efe87155f18e63e318bdf61) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix: attempt fix tailscale advertise routes"
+
 **2021-11-08** — pushed 3 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
 
 **2021-11-08** — pushed [`1ec89beb`](https://github.com/ankushg/home-cluster/commit/1ec89beb566907b486c4e962da819cad08c4ca22) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image homeassistant/home-assistant to v2021.11.1 (#67)"
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2021-11-05** — pushed [`d8c21ee8`](https://github.com/ankushg/home-cluster/commit/d8c21ee8ed457a1be1b28a93b69db9e77d167039) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): upgrade flux components to v0.21.1 (#64)"
 
 **2021-11-05** — deleted branch "flux/upgrade-v0.21.1" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2021-11-05** — closed PR [#64](https://github.com/ankushg/home-cluster/pull/64) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): upgrade flux components to v0.21.1"
 <!-- githubActivity ends -->
 </td></tr></table>
 
