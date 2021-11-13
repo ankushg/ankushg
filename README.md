@@ -29,25 +29,25 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
-**2021-11-12** — pushed 2 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
+**2021-11-13** — closed PR [#69](https://github.com/ankushg/home-cluster/pull/69) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): upgrade flux components to v0.22.1"
 
-**2021-11-09** — pushed [`b0ff109c`](https://github.com/ankushg/home-cluster/commit/b0ff109c606f0604cb39717b700dc2a6c63e7769) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(renovate): don't pin github action digests"
+**2021-11-13** — closed PR [#68](https://github.com/ankushg/home-cluster/pull/68) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): upgrade flux components to v0.22.0"
 
-**2021-11-09** — opened issue [#2](https://github.com/deezer/KustomExport/issues/2) on [deezer/KustomExport](https://api.github.com/repos/deezer/KustomExport): "Plugin-based architecture?"
+**2021-11-13** — pushed [`3cf719cc`](https://github.com/ankushg/home-cluster/commit/3cf719cc07c10dc97195e28be319443cf10a04f5) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): upgrade flux components to v0.23.0 (#72)"
 
-**2021-11-09** — commented on [#9](https://github.com/TfTHacker/obsidian42-brat/issues/9#issuecomment-964132455) in [TfTHacker/obsidian42-brat](https://api.github.com/repos/TfTHacker/obsidian42-brat)
+**2021-11-13** — deleted branch "flux/upgrade-v0.23.0" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
-**2021-11-08** — pushed [`b1a38c06`](https://github.com/ankushg/home-cluster/commit/b1a38c06df3bf7318dfbe6385b71e774bb948d36) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix: attempt use ip-range for nodes"
+**2021-11-13** — closed PR [#72](https://github.com/ankushg/home-cluster/pull/72) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): upgrade flux components to v0.23.0"
 
-**2021-11-08** — pushed [`27e1bf55`](https://github.com/ankushg/home-cluster/commit/27e1bf5562ad02c50efe87155f18e63e318bdf61) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix: attempt fix tailscale advertise routes"
+**2021-11-13** — deleted branch "renovate/homeassistant-home-assistant-2021.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
-**2021-11-08** — pushed 3 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
+**2021-11-13** — pushed [`fe963ba9`](https://github.com/ankushg/home-cluster/commit/fe963ba983a18458d27c98df0524a6dd0ffdfc9a) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image homeassistant/home-assistant to v2021.11.3 (#70)"
 
-**2021-11-08** — pushed [`1ec89beb`](https://github.com/ankushg/home-cluster/commit/1ec89beb566907b486c4e962da819cad08c4ca22) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image homeassistant/home-assistant to v2021.11.1 (#67)"
+**2021-11-13** — closed PR [#70](https://github.com/ankushg/home-cluster/pull/70) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image homeassistant/home-assistant to v2021.11.3"
 
-**2021-11-08** — deleted branch "renovate/homeassistant-home-assistant-2021.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+**2021-11-13** — pushed [`22763816`](https://github.com/ankushg/home-cluster/commit/227638166a4a83dbd55fcf2936276c823c1d79a6) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release reloader to v0.0.103 (#71)"
 
-**2021-11-08** — closed PR [#67](https://github.com/ankushg/home-cluster/pull/67) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image homeassistant/home-assistant to v2021.11.1"
+**2021-11-13** — deleted branch "renovate/reloader-0.0.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 <!-- githubActivity ends -->
 </td></tr></table>
 
