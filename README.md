@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-16** — opened issue [#1762](https://github.com/Kotlin/kotlinx.serialization/issues/1762) on [Kotlin/kotlinx.serialization](https://api.github.com/repos/Kotlin/kotlinx.serialization): "Option to include class discriminator as property in class"
+
 **2021-11-13** — closed PR [#69](https://github.com/ankushg/home-cluster/pull/69) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): upgrade flux components to v0.22.1"
 
 **2021-11-13** — closed PR [#68](https://github.com/ankushg/home-cluster/pull/68) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): upgrade flux components to v0.22.0"
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2021-11-13** — closed PR [#70](https://github.com/ankushg/home-cluster/pull/70) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image homeassistant/home-assistant to v2021.11.3"
 
 **2021-11-13** — pushed [`22763816`](https://github.com/ankushg/home-cluster/commit/227638166a4a83dbd55fcf2936276c823c1d79a6) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release reloader to v0.0.103 (#71)"
-
-**2021-11-13** — deleted branch "renovate/reloader-0.0.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 <!-- githubActivity ends -->
 </td></tr></table>
 
