@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-17** — pushed [`66ff7dc8`](https://github.com/ankushg/home-cluster/commit/66ff7dc82e0ba419d20aa7007d9b9f234b084456) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "Revert "fix(omada): try hostnetwork""
+
 **2021-11-17** — pushed [`1896282c`](https://github.com/ankushg/home-cluster/commit/1896282c458b9b366412ade0e32ce15a36260632) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(omada): try hostnetwork"
 
 **2021-11-17** — pushed [`a93b7c68`](https://github.com/ankushg/home-cluster/commit/a93b7c68a77932f9ba88bf96f8019f0f02a28a66) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(omada): another too-long port"
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2021-11-13** — closed PR [#69](https://github.com/ankushg/home-cluster/pull/69) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): upgrade flux components to v0.22.1"
 
 **2021-11-13** — closed PR [#68](https://github.com/ankushg/home-cluster/pull/68) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): upgrade flux components to v0.22.0"
-
-**2021-11-13** — pushed [`3cf719cc`](https://github.com/ankushg/home-cluster/commit/3cf719cc07c10dc97195e28be319443cf10a04f5) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): upgrade flux components to v0.23.0 (#72)"
 <!-- githubActivity ends -->
 </td></tr></table>
 
