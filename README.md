@@ -29,6 +29,16 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-17** — pushed [`1896282c`](https://github.com/ankushg/home-cluster/commit/1896282c458b9b366412ade0e32ce15a36260632) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(omada): try hostnetwork"
+
+**2021-11-17** — pushed [`a93b7c68`](https://github.com/ankushg/home-cluster/commit/a93b7c68a77932f9ba88bf96f8019f0f02a28a66) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(omada): another too-long port"
+
+**2021-11-17** — pushed [`e140dc45`](https://github.com/ankushg/home-cluster/commit/e140dc45071afcf3125c70151b42b4f30831ff15) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(omada): add more thorough port info"
+
+**2021-11-17** — pushed [`845d0e26`](https://github.com/ankushg/home-cluster/commit/845d0e26c012ff2315201620a8198bb5444a4e2f) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(omada): add more thorough port info"
+
+**2021-11-17** — pushed [`aec734ae`](https://github.com/ankushg/home-cluster/commit/aec734ae40c71f1d41e5c5a24e7349ad883f0d77) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(omada): shorten too-long port name"
+
 **2021-11-17** — pushed [`b0b3f6ba`](https://github.com/ankushg/home-cluster/commit/b0b3f6ba37dbbb2689d74447dcb63621c1c3e183) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(omada): add additional ports for discovery"
 
 **2021-11-16** — opened issue [#1762](https://github.com/Kotlin/kotlinx.serialization/issues/1762) on [Kotlin/kotlinx.serialization](https://api.github.com/repos/Kotlin/kotlinx.serialization): "Option to include class discriminator as property in class"
@@ -38,16 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2021-11-13** — closed PR [#68](https://github.com/ankushg/home-cluster/pull/68) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): upgrade flux components to v0.22.0"
 
 **2021-11-13** — pushed [`3cf719cc`](https://github.com/ankushg/home-cluster/commit/3cf719cc07c10dc97195e28be319443cf10a04f5) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): upgrade flux components to v0.23.0 (#72)"
-
-**2021-11-13** — deleted branch "flux/upgrade-v0.23.0" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2021-11-13** — closed PR [#72](https://github.com/ankushg/home-cluster/pull/72) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): upgrade flux components to v0.23.0"
-
-**2021-11-13** — deleted branch "renovate/homeassistant-home-assistant-2021.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2021-11-13** — pushed [`fe963ba9`](https://github.com/ankushg/home-cluster/commit/fe963ba983a18458d27c98df0524a6dd0ffdfc9a) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image homeassistant/home-assistant to v2021.11.3 (#70)"
-
-**2021-11-13** — closed PR [#70](https://github.com/ankushg/home-cluster/pull/70) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image homeassistant/home-assistant to v2021.11.3"
 <!-- githubActivity ends -->
 </td></tr></table>
 
