@@ -29,25 +29,25 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
-**2021-11-17** — pushed [`66ff7dc8`](https://github.com/ankushg/home-cluster/commit/66ff7dc82e0ba419d20aa7007d9b9f234b084456) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "Revert "fix(omada): try hostnetwork""
+**2021-11-19** — pushed [`f1299364`](https://github.com/ankushg/home-cluster/commit/f12993643f638d19058abb22009c612490a1cf0b) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image ghcr.io/toboshii/hajimari to v0.2.0 (#76)"
 
-**2021-11-17** — pushed [`1896282c`](https://github.com/ankushg/home-cluster/commit/1896282c458b9b366412ade0e32ce15a36260632) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(omada): try hostnetwork"
+**2021-11-19** — closed PR [#76](https://github.com/ankushg/home-cluster/pull/76) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image ghcr.io/toboshii/hajimari to v0.2.0"
 
-**2021-11-17** — pushed [`a93b7c68`](https://github.com/ankushg/home-cluster/commit/a93b7c68a77932f9ba88bf96f8019f0f02a28a66) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(omada): another too-long port"
+**2021-11-19** — deleted branch "renovate/ghcr.io-toboshii-hajimari-0.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
-**2021-11-17** — pushed [`e140dc45`](https://github.com/ankushg/home-cluster/commit/e140dc45071afcf3125c70151b42b4f30831ff15) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(omada): add more thorough port info"
+**2021-11-19** — pushed [`463dfcc9`](https://github.com/ankushg/home-cluster/commit/463dfcc978d90a0cb5fdc9938def61475a2c7bf7) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release hajimari to v1.2.0 (#77)"
 
-**2021-11-17** — pushed [`845d0e26`](https://github.com/ankushg/home-cluster/commit/845d0e26c012ff2315201620a8198bb5444a4e2f) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(omada): add more thorough port info"
+**2021-11-19** — deleted branch "renovate/hajimari-1.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
-**2021-11-17** — pushed [`aec734ae`](https://github.com/ankushg/home-cluster/commit/aec734ae40c71f1d41e5c5a24e7349ad883f0d77) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(omada): shorten too-long port name"
+**2021-11-19** — closed PR [#77](https://github.com/ankushg/home-cluster/pull/77) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release hajimari to v1.2.0"
 
-**2021-11-17** — pushed [`b0b3f6ba`](https://github.com/ankushg/home-cluster/commit/b0b3f6ba37dbbb2689d74447dcb63621c1c3e183) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(omada): add additional ports for discovery"
+**2021-11-19** — pushed [`60a72eaf`](https://github.com/ankushg/home-cluster/commit/60a72eaf65fae7ad46e17cc1d84e2e5836f79c75) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release traefik to v10.6.2 (#75)"
 
-**2021-11-16** — opened issue [#1762](https://github.com/Kotlin/kotlinx.serialization/issues/1762) on [Kotlin/kotlinx.serialization](https://api.github.com/repos/Kotlin/kotlinx.serialization): "Option to include class discriminator as property in class"
+**2021-11-19** — deleted branch "renovate/traefik-10.6.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
-**2021-11-13** — closed PR [#69](https://github.com/ankushg/home-cluster/pull/69) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): upgrade flux components to v0.22.1"
+**2021-11-19** — closed PR [#75](https://github.com/ankushg/home-cluster/pull/75) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release traefik to v10.6.2"
 
-**2021-11-13** — closed PR [#68](https://github.com/ankushg/home-cluster/pull/68) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): upgrade flux components to v0.22.0"
+**2021-11-19** — pushed [`41506b33`](https://github.com/ankushg/home-cluster/commit/41506b330e59e8b15d16a32428169debabff2da4) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image homeassistant/home-assistant to v2021.11.5 (#74)"
 <!-- githubActivity ends -->
 </td></tr></table>
 
