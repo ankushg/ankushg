@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-21** — pushed [`2cca80ce`](https://github.com/ankushg/home-cluster/commit/2cca80ceaee5ee553a47a8470f3ac5baa30a4398) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "feat(tailscale): autorestart?"
+
 **2021-11-21** — pushed [`63efb7bf`](https://github.com/ankushg/home-cluster/commit/63efb7bfd17e17eb334fc2d2738fb0f170ad05a2) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(tailscale): force reauth?"
 
 **2021-11-21** — pushed [`cad895e9`](https://github.com/ankushg/home-cluster/commit/cad895e9012ac6272ee2bdc788114eb1b7a622d7) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "feat(tailscale): update secret"
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2021-11-19** — deleted branch "renovate/hajimari-1.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
 **2021-11-19** — closed PR [#77](https://github.com/ankushg/home-cluster/pull/77) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release hajimari to v1.2.0"
-
-**2021-11-19** — pushed [`60a72eaf`](https://github.com/ankushg/home-cluster/commit/60a72eaf65fae7ad46e17cc1d84e2e5836f79c75) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release traefik to v10.6.2 (#75)"
 <!-- githubActivity ends -->
 </td></tr></table>
 
