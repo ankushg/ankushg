@@ -29,6 +29,12 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-21** — pushed [`63efb7bf`](https://github.com/ankushg/home-cluster/commit/63efb7bfd17e17eb334fc2d2738fb0f170ad05a2) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(tailscale): force reauth?"
+
+**2021-11-21** — pushed [`cad895e9`](https://github.com/ankushg/home-cluster/commit/cad895e9012ac6272ee2bdc788114eb1b7a622d7) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "feat(tailscale): update secret"
+
+**2021-11-21** — pushed [`d882b9ca`](https://github.com/ankushg/home-cluster/commit/d882b9cae2d09a2599386b168ea08b4ff1875a50) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "docs: omada-controller readme"
+
 **2021-11-19** — pushed [`f1299364`](https://github.com/ankushg/home-cluster/commit/f12993643f638d19058abb22009c612490a1cf0b) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image ghcr.io/toboshii/hajimari to v0.2.0 (#76)"
 
 **2021-11-19** — closed PR [#76](https://github.com/ankushg/home-cluster/pull/76) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image ghcr.io/toboshii/hajimari to v0.2.0"
@@ -42,12 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2021-11-19** — closed PR [#77](https://github.com/ankushg/home-cluster/pull/77) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release hajimari to v1.2.0"
 
 **2021-11-19** — pushed [`60a72eaf`](https://github.com/ankushg/home-cluster/commit/60a72eaf65fae7ad46e17cc1d84e2e5836f79c75) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release traefik to v10.6.2 (#75)"
-
-**2021-11-19** — deleted branch "renovate/traefik-10.6.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2021-11-19** — closed PR [#75](https://github.com/ankushg/home-cluster/pull/75) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release traefik to v10.6.2"
-
-**2021-11-19** — pushed [`41506b33`](https://github.com/ankushg/home-cluster/commit/41506b330e59e8b15d16a32428169debabff2da4) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image homeassistant/home-assistant to v2021.11.5 (#74)"
 <!-- githubActivity ends -->
 </td></tr></table>
 
