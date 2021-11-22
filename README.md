@@ -29,6 +29,10 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-21** — pushed [`8fbd78cd`](https://github.com/ankushg/home-cluster/commit/8fbd78cdd808103113b1d81252a9e7d9ce158199) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(omada-exporter): fix namespace"
+
+**2021-11-21** — pushed 2 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
+
 **2021-11-21** — pushed [`2cca80ce`](https://github.com/ankushg/home-cluster/commit/2cca80ceaee5ee553a47a8470f3ac5baa30a4398) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "feat(tailscale): autorestart?"
 
 **2021-11-21** — pushed [`63efb7bf`](https://github.com/ankushg/home-cluster/commit/63efb7bfd17e17eb334fc2d2738fb0f170ad05a2) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(tailscale): force reauth?"
@@ -44,10 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2021-11-19** — deleted branch "renovate/ghcr.io-toboshii-hajimari-0.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
 **2021-11-19** — pushed [`463dfcc9`](https://github.com/ankushg/home-cluster/commit/463dfcc978d90a0cb5fdc9938def61475a2c7bf7) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release hajimari to v1.2.0 (#77)"
-
-**2021-11-19** — deleted branch "renovate/hajimari-1.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2021-11-19** — closed PR [#77](https://github.com/ankushg/home-cluster/pull/77) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release hajimari to v1.2.0"
 <!-- githubActivity ends -->
 </td></tr></table>
 
