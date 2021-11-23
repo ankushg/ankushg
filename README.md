@@ -29,6 +29,10 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-23** — opened issue [#26](https://github.com/mvisonneau/helm-charts/issues/26) on [mvisonneau/helm-charts](https://api.github.com/repos/mvisonneau/helm-charts): "Migrate Tailscale to official k8s setup"
+
+**2021-11-23** — opened issue [#3389](https://github.com/tailscale/tailscale/issues/3389) on [tailscale/tailscale](https://api.github.com/repos/tailscale/tailscale): "Accept Non-CIDR IP ranges in advertise-routes"
+
 **2021-11-23** — pushed [`b7502e52`](https://github.com/ankushg/home-cluster/commit/b7502e5257f4875cab8dba6174dccc783d6c2416) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(tailscale): attempt to rollback tailscale config to last-known working"
 
 **2021-11-22** — opened issue [#3385](https://github.com/tailscale/tailscale/issues/3385) on [tailscale/tailscale](https://api.github.com/repos/tailscale/tailscale): "FR: Distribute tailscale-k8s container image"
@@ -44,10 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2021-11-21** — pushed [`8fbd78cd`](https://github.com/ankushg/home-cluster/commit/8fbd78cdd808103113b1d81252a9e7d9ce158199) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(omada-exporter): fix namespace"
 
 **2021-11-21** — pushed 2 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
-
-**2021-11-21** — pushed [`2cca80ce`](https://github.com/ankushg/home-cluster/commit/2cca80ceaee5ee553a47a8470f3ac5baa30a4398) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "feat(tailscale): autorestart?"
-
-**2021-11-21** — pushed [`63efb7bf`](https://github.com/ankushg/home-cluster/commit/63efb7bfd17e17eb334fc2d2738fb0f170ad05a2) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(tailscale): force reauth?"
 <!-- githubActivity ends -->
 </td></tr></table>
 
