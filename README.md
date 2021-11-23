@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-23** — pushed [`b7502e52`](https://github.com/ankushg/home-cluster/commit/b7502e5257f4875cab8dba6174dccc783d6c2416) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(tailscale): attempt to rollback tailscale config to last-known working"
+
 **2021-11-22** — opened issue [#3385](https://github.com/tailscale/tailscale/issues/3385) on [tailscale/tailscale](https://api.github.com/repos/tailscale/tailscale): "FR: Distribute tailscale-k8s container image"
 
 **2021-11-22** — commented on [#462](https://github.com/Kotlin/kotlinx.coroutines/issues/462#issuecomment-975871844) in [Kotlin/kotlinx.coroutines](https://api.github.com/repos/Kotlin/kotlinx.coroutines)
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2021-11-21** — pushed [`2cca80ce`](https://github.com/ankushg/home-cluster/commit/2cca80ceaee5ee553a47a8470f3ac5baa30a4398) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "feat(tailscale): autorestart?"
 
 **2021-11-21** — pushed [`63efb7bf`](https://github.com/ankushg/home-cluster/commit/63efb7bfd17e17eb334fc2d2738fb0f170ad05a2) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(tailscale): force reauth?"
-
-**2021-11-21** — pushed [`cad895e9`](https://github.com/ankushg/home-cluster/commit/cad895e9012ac6272ee2bdc788114eb1b7a622d7) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "feat(tailscale): update secret"
 <!-- githubActivity ends -->
 </td></tr></table>
 
