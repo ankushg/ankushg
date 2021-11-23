@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-22** — opened issue [#3385](https://github.com/tailscale/tailscale/issues/3385) on [tailscale/tailscale](https://api.github.com/repos/tailscale/tailscale): "FR: Distribute tailscale-k8s container image"
+
 **2021-11-22** — commented on [#462](https://github.com/Kotlin/kotlinx.coroutines/issues/462#issuecomment-975871844) in [Kotlin/kotlinx.coroutines](https://api.github.com/repos/Kotlin/kotlinx.coroutines)
 
 **2021-11-22** — pushed [`a65a7a5d`](https://github.com/ankushg/home-cluster/commit/a65a7a5d4d0f3d6ecc0e10607b2c5ce61f33a4f4) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(tailscale): try change hostname"
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2021-11-21** — pushed [`63efb7bf`](https://github.com/ankushg/home-cluster/commit/63efb7bfd17e17eb334fc2d2738fb0f170ad05a2) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(tailscale): force reauth?"
 
 **2021-11-21** — pushed [`cad895e9`](https://github.com/ankushg/home-cluster/commit/cad895e9012ac6272ee2bdc788114eb1b7a622d7) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "feat(tailscale): update secret"
-
-**2021-11-21** — pushed [`d882b9ca`](https://github.com/ankushg/home-cluster/commit/d882b9cae2d09a2599386b168ea08b4ff1875a50) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "docs: omada-controller readme"
 <!-- githubActivity ends -->
 </td></tr></table>
 
