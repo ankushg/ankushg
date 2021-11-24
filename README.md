@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-24** — pushed [`2e283914`](https://github.com/ankushg/home-cluster/commit/2e283914cdc84b7b6d96f2a2f17c0acc7795f821) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(tailscale): use correct variable name"
+
 **2021-11-24** — pushed [`7793a59c`](https://github.com/ankushg/home-cluster/commit/7793a59c1299583329e9ec0594f54f96b3c64ffb) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): upgrade flux components to v0.24.0 (#79)"
 
 **2021-11-24** — deleted branch "flux/upgrade-v0.24.0" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2021-11-23** — opened issue [#3389](https://github.com/tailscale/tailscale/issues/3389) on [tailscale/tailscale](https://api.github.com/repos/tailscale/tailscale): "Accept Non-CIDR IP ranges in advertise-routes"
 
 **2021-11-23** — pushed [`b7502e52`](https://github.com/ankushg/home-cluster/commit/b7502e5257f4875cab8dba6174dccc783d6c2416) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(tailscale): attempt to rollback tailscale config to last-known working"
-
-**2021-11-22** — opened issue [#3385](https://github.com/tailscale/tailscale/issues/3385) on [tailscale/tailscale](https://api.github.com/repos/tailscale/tailscale): "FR: Distribute tailscale-k8s container image"
 <!-- githubActivity ends -->
 </td></tr></table>
 
