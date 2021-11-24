@@ -29,6 +29,14 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-24** — pushed [`7793a59c`](https://github.com/ankushg/home-cluster/commit/7793a59c1299583329e9ec0594f54f96b3c64ffb) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): upgrade flux components to v0.24.0 (#79)"
+
+**2021-11-24** — deleted branch "flux/upgrade-v0.24.0" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+
+**2021-11-24** — closed PR [#79](https://github.com/ankushg/home-cluster/pull/79) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): upgrade flux components to v0.24.0"
+
+**2021-11-24** — pushed [`76c5f3d1`](https://github.com/ankushg/home-cluster/commit/76c5f3d1738c799822cfdf23be0ba49b96a5095b) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(tailscale): remove quotation marks"
+
 **2021-11-23** — pushed [`7e0e8983`](https://github.com/ankushg/home-cluster/commit/7e0e8983fecfcd08b93b60808bc2d91198782a31) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(tailscale): attempt to expose entire reserved lan range using multiple CIDRs"
 
 **2021-11-23** — commented on [#3389](https://github.com/tailscale/tailscale/issues/3389#issuecomment-976775842) in [tailscale/tailscale](https://api.github.com/repos/tailscale/tailscale)
@@ -40,14 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2021-11-23** — pushed [`b7502e52`](https://github.com/ankushg/home-cluster/commit/b7502e5257f4875cab8dba6174dccc783d6c2416) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(tailscale): attempt to rollback tailscale config to last-known working"
 
 **2021-11-22** — opened issue [#3385](https://github.com/tailscale/tailscale/issues/3385) on [tailscale/tailscale](https://api.github.com/repos/tailscale/tailscale): "FR: Distribute tailscale-k8s container image"
-
-**2021-11-22** — commented on [#462](https://github.com/Kotlin/kotlinx.coroutines/issues/462#issuecomment-975871844) in [Kotlin/kotlinx.coroutines](https://api.github.com/repos/Kotlin/kotlinx.coroutines)
-
-**2021-11-22** — pushed [`a65a7a5d`](https://github.com/ankushg/home-cluster/commit/a65a7a5d4d0f3d6ecc0e10607b2c5ce61f33a4f4) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(tailscale): try change hostname"
-
-**2021-11-22** — pushed [`c6aa930d`](https://github.com/ankushg/home-cluster/commit/c6aa930dea5a92d59b9414e27e6a375da2e759cd) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(omada-exporter): fix namespace"
-
-**2021-11-22** — pushed [`e6eea718`](https://github.com/ankushg/home-cluster/commit/e6eea7186f99b61746b03d2733f738c9641b29a7) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(tailscale): fix boolean"
 <!-- githubActivity ends -->
 </td></tr></table>
 
