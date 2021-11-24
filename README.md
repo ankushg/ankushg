@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-24** — pushed [`4fb9df60`](https://github.com/ankushg/home-cluster/commit/4fb9df6040c52d3189f3ef088d4ea9a7cd1ca127) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "docs(omada-controller): document dhcp option"
+
 **2021-11-24** — pushed [`460770dc`](https://github.com/ankushg/home-cluster/commit/460770dcb217feef9e62c74ef614c0d92e5b6e8b) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(tailscale): another typo"
 
 **2021-11-24** — pushed [`2e283914`](https://github.com/ankushg/home-cluster/commit/2e283914cdc84b7b6d96f2a2f17c0acc7795f821) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(tailscale): use correct variable name"
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2021-11-23** — commented on [#3389](https://github.com/tailscale/tailscale/issues/3389#issuecomment-976775842) in [tailscale/tailscale](https://api.github.com/repos/tailscale/tailscale)
 
 **2021-11-23** — opened issue [#26](https://github.com/mvisonneau/helm-charts/issues/26) on [mvisonneau/helm-charts](https://api.github.com/repos/mvisonneau/helm-charts): "Migrate Tailscale to official k8s setup"
-
-**2021-11-23** — opened issue [#3389](https://github.com/tailscale/tailscale/issues/3389) on [tailscale/tailscale](https://api.github.com/repos/tailscale/tailscale): "Accept Non-CIDR IP ranges in advertise-routes"
 <!-- githubActivity ends -->
 </td></tr></table>
 
