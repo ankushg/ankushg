@@ -29,6 +29,18 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-26** — deleted branch "renovate/metrics-server-3.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+
+**2021-11-26** — pushed [`4138054b`](https://github.com/ankushg/home-cluster/commit/4138054b20099535db6f2b265675728e861939a4) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release metrics-server to v3.7.0 (#78)"
+
+**2021-11-26** — closed PR [#78](https://github.com/ankushg/home-cluster/pull/78) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release metrics-server to v3.7.0"
+
+**2021-11-26** — pushed [`86e96642`](https://github.com/ankushg/home-cluster/commit/86e96642ecc7bc5639639034e19a0b77b1603e6a) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release home-assistant to v11.2.0 (#81)"
+
+**2021-11-26** — deleted branch "renovate/home-assistant-11.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+
+**2021-11-26** — closed PR [#81](https://github.com/ankushg/home-cluster/pull/81) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release home-assistant to v11.2.0"
+
 **2021-11-25** — commented on [#3389](https://github.com/tailscale/tailscale/issues/3389#issuecomment-979675472) in [tailscale/tailscale](https://api.github.com/repos/tailscale/tailscale)
 
 **2021-11-24** — pushed [`4fb9df60`](https://github.com/ankushg/home-cluster/commit/4fb9df6040c52d3189f3ef088d4ea9a7cd1ca127) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "docs(omada-controller): document dhcp option"
@@ -36,18 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2021-11-24** — pushed [`460770dc`](https://github.com/ankushg/home-cluster/commit/460770dcb217feef9e62c74ef614c0d92e5b6e8b) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(tailscale): another typo"
 
 **2021-11-24** — pushed [`2e283914`](https://github.com/ankushg/home-cluster/commit/2e283914cdc84b7b6d96f2a2f17c0acc7795f821) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(tailscale): use correct variable name"
-
-**2021-11-24** — pushed [`7793a59c`](https://github.com/ankushg/home-cluster/commit/7793a59c1299583329e9ec0594f54f96b3c64ffb) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): upgrade flux components to v0.24.0 (#79)"
-
-**2021-11-24** — deleted branch "flux/upgrade-v0.24.0" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2021-11-24** — closed PR [#79](https://github.com/ankushg/home-cluster/pull/79) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): upgrade flux components to v0.24.0"
-
-**2021-11-24** — pushed [`76c5f3d1`](https://github.com/ankushg/home-cluster/commit/76c5f3d1738c799822cfdf23be0ba49b96a5095b) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(tailscale): remove quotation marks"
-
-**2021-11-23** — pushed [`7e0e8983`](https://github.com/ankushg/home-cluster/commit/7e0e8983fecfcd08b93b60808bc2d91198782a31) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(tailscale): attempt to expose entire reserved lan range using multiple CIDRs"
-
-**2021-11-23** — commented on [#3389](https://github.com/tailscale/tailscale/issues/3389#issuecomment-976775842) in [tailscale/tailscale](https://api.github.com/repos/tailscale/tailscale)
 <!-- githubActivity ends -->
 </td></tr></table>
 
