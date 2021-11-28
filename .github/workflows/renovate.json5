@@ -1,0 +1,42 @@
+{
+  "enabled": true,
+  "semanticCommits": "enabled",
+  "rebaseWhen": "conflicted",
+  "extends": [
+    "config:base",
+    "schedule:weekly"
+  ],
+  "timezone": "America/Los_Angeles",
+  "packageRules": [
+    {
+      "matchPackagePrefixes": [
+        "org.jetbrains.kotlin:kotlin"
+      ],
+      "groupName": "Kotlin"
+    },
+    {
+      "matchPackagePrefixes": [
+        "dev.zacsweers.moshix:"
+      ],
+      "groupName": "MoshiX"
+    },
+    {
+      "matchPackagePrefixes": [
+        "com.tickaroo.tikxml:"
+      ],
+      "groupName": "tikxml"
+    },
+    {
+      "matchPackagePrefixes": [
+        "com.squareup.retrofit2:"
+      ],
+      "groupName": "Retrofit"
+    },
+    {
+      "matchPackagePrefixes": [
+        "com.squareup.moshi:"
+      ],
+      "groupName": "Moshi"
+    }
+  ]
+}
