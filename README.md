@@ -29,6 +29,18 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-29** — pushed [`a5ee3515`](https://github.com/ankushg/home-cluster/commit/a5ee35152616b81e12d334c9b4a77869a974b8aa) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release omada-controller to v4.1.0 (#82)"
+
+**2021-11-29** — deleted branch "renovate/omada-controller-4.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+
+**2021-11-29** — closed PR [#82](https://github.com/ankushg/home-cluster/pull/82) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release omada-controller to v4.1.0"
+
+**2021-11-29** — pushed [`64e324e4`](https://github.com/ankushg/home-cluster/commit/64e324e421893776702d47507a3d924408bfea96) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release blocky to v9.1.0 (#80)"
+
+**2021-11-29** — deleted branch "renovate/blocky-9.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+
+**2021-11-29** — closed PR [#80](https://github.com/ankushg/home-cluster/pull/80) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release blocky to v9.1.0"
+
 **2021-11-26** — deleted branch "renovate/metrics-server-3.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
 **2021-11-26** — pushed [`4138054b`](https://github.com/ankushg/home-cluster/commit/4138054b20099535db6f2b265675728e861939a4) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release metrics-server to v3.7.0 (#78)"
@@ -36,18 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2021-11-26** — closed PR [#78](https://github.com/ankushg/home-cluster/pull/78) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release metrics-server to v3.7.0"
 
 **2021-11-26** — pushed [`86e96642`](https://github.com/ankushg/home-cluster/commit/86e96642ecc7bc5639639034e19a0b77b1603e6a) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release home-assistant to v11.2.0 (#81)"
-
-**2021-11-26** — deleted branch "renovate/home-assistant-11.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2021-11-26** — closed PR [#81](https://github.com/ankushg/home-cluster/pull/81) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release home-assistant to v11.2.0"
-
-**2021-11-25** — commented on [#3389](https://github.com/tailscale/tailscale/issues/3389#issuecomment-979675472) in [tailscale/tailscale](https://api.github.com/repos/tailscale/tailscale)
-
-**2021-11-24** — pushed [`4fb9df60`](https://github.com/ankushg/home-cluster/commit/4fb9df6040c52d3189f3ef088d4ea9a7cd1ca127) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "docs(omada-controller): document dhcp option"
-
-**2021-11-24** — pushed [`460770dc`](https://github.com/ankushg/home-cluster/commit/460770dcb217feef9e62c74ef614c0d92e5b6e8b) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(tailscale): another typo"
-
-**2021-11-24** — pushed [`2e283914`](https://github.com/ankushg/home-cluster/commit/2e283914cdc84b7b6d96f2a2f17c0acc7795f821) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(tailscale): use correct variable name"
 <!-- githubActivity ends -->
 </td></tr></table>
 
