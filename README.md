@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-30** — pushed [`ba6da598`](https://github.com/ankushg/home-cluster/commit/ba6da598869d616bd40600e3f6b197dcd54ff998) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "feat(hass): host networking"
+
 **2021-11-29** — pushed [`a5ee3515`](https://github.com/ankushg/home-cluster/commit/a5ee35152616b81e12d334c9b4a77869a974b8aa) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release omada-controller to v4.1.0 (#82)"
 
 **2021-11-29** — deleted branch "renovate/omada-controller-4.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2021-11-26** — pushed [`4138054b`](https://github.com/ankushg/home-cluster/commit/4138054b20099535db6f2b265675728e861939a4) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release metrics-server to v3.7.0 (#78)"
 
 **2021-11-26** — closed PR [#78](https://github.com/ankushg/home-cluster/pull/78) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release metrics-server to v3.7.0"
-
-**2021-11-26** — pushed [`86e96642`](https://github.com/ankushg/home-cluster/commit/86e96642ecc7bc5639639034e19a0b77b1603e6a) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release home-assistant to v11.2.0 (#81)"
 <!-- githubActivity ends -->
 </td></tr></table>
 
