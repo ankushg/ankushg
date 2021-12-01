@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-30** — pushed [`4737a1fe`](https://github.com/ankushg/home-cluster/commit/4737a1feb4859b9a1ab41e3cb4cdd8f77a70f9a5) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(hass): move dnsPolicy up a level?"
+
 **2021-11-30** — pushed [`150ecff5`](https://github.com/ankushg/home-cluster/commit/150ecff587f5b78fa247a5ebf9518f8d2befb29d) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "feat(hass): use privileged mode"
 
 **2021-11-30** — pushed [`ba6da598`](https://github.com/ankushg/home-cluster/commit/ba6da598869d616bd40600e3f6b197dcd54ff998) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "feat(hass): host networking"
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2021-11-29** — closed PR [#80](https://github.com/ankushg/home-cluster/pull/80) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release blocky to v9.1.0"
 
 **2021-11-26** — deleted branch "renovate/metrics-server-3.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2021-11-26** — pushed [`4138054b`](https://github.com/ankushg/home-cluster/commit/4138054b20099535db6f2b265675728e861939a4) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release metrics-server to v3.7.0 (#78)"
 <!-- githubActivity ends -->
 </td></tr></table>
 
