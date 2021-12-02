@@ -29,6 +29,10 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2021-12-01** — created repository on [ankushg/advent-of-code-2021](https://api.github.com/repos/ankushg/advent-of-code-2021)
+
+**2021-12-01** — created branch "main" on [ankushg/advent-of-code-2021](https://api.github.com/repos/ankushg/advent-of-code-2021)
+
 **2021-12-01** — opened issue [#35](https://github.com/ericpignet/home-assistant-tplink_router/issues/35) on [ericpignet/home-assistant-tplink_router](https://api.github.com/repos/ericpignet/home-assistant-tplink_router): "Support Omada?"
 
 **2021-11-30** — pushed [`4737a1fe`](https://github.com/ankushg/home-cluster/commit/4737a1feb4859b9a1ab41e3cb4cdd8f77a70f9a5) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(hass): move dnsPolicy up a level?"
@@ -44,10 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2021-11-29** — closed PR [#82](https://github.com/ankushg/home-cluster/pull/82) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release omada-controller to v4.1.0"
 
 **2021-11-29** — pushed [`64e324e4`](https://github.com/ankushg/home-cluster/commit/64e324e421893776702d47507a3d924408bfea96) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release blocky to v9.1.0 (#80)"
-
-**2021-11-29** — deleted branch "renovate/blocky-9.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2021-11-29** — closed PR [#80](https://github.com/ankushg/home-cluster/pull/80) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release blocky to v9.1.0"
 <!-- githubActivity ends -->
 </td></tr></table>
 
