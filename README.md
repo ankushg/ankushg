@@ -29,6 +29,12 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2021-12-06** — pushed [`034533c5`](https://github.com/ankushg/home-cluster/commit/034533c517a7de8549edac1dc226b175b009442c) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release home-assistant to v11.2.1 (#83)"
+
+**2021-12-06** — deleted branch "renovate/home-assistant-11.2.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+
+**2021-12-06** — closed PR [#83](https://github.com/ankushg/home-cluster/pull/83) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release home-assistant to v11.2.1"
+
 **2021-12-05** — pushed [`8c599cb9`](https://github.com/ankushg/advent-of-code-2021/commit/8c599cb971c3e8233f0f301d9287b7763020f3ba) to [ankushg/advent-of-code-2021](https://api.github.com/repos/ankushg/advent-of-code-2021): "Create Day03.kt"
 
 **2021-12-01** — pushed 4 commits to [ankushg/advent-of-code-2021](https://api.github.com/repos/ankushg/advent-of-code-2021).
@@ -42,12 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2021-12-01** — opened issue [#35](https://github.com/ericpignet/home-assistant-tplink_router/issues/35) on [ericpignet/home-assistant-tplink_router](https://api.github.com/repos/ericpignet/home-assistant-tplink_router): "Support Omada?"
 
 **2021-11-30** — pushed [`4737a1fe`](https://github.com/ankushg/home-cluster/commit/4737a1feb4859b9a1ab41e3cb4cdd8f77a70f9a5) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(hass): move dnsPolicy up a level?"
-
-**2021-11-30** — pushed [`150ecff5`](https://github.com/ankushg/home-cluster/commit/150ecff587f5b78fa247a5ebf9518f8d2befb29d) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "feat(hass): use privileged mode"
-
-**2021-11-30** — pushed [`ba6da598`](https://github.com/ankushg/home-cluster/commit/ba6da598869d616bd40600e3f6b197dcd54ff998) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "feat(hass): host networking"
-
-**2021-11-29** — pushed [`a5ee3515`](https://github.com/ankushg/home-cluster/commit/a5ee35152616b81e12d334c9b4a77869a974b8aa) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release omada-controller to v4.1.0 (#82)"
 <!-- githubActivity ends -->
 </td></tr></table>
 
