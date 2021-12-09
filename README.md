@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2021-12-08** — pushed [`2daf2358`](https://github.com/ankushg/advent-of-code-2021/commit/2daf2358e96a0385a68264833850fd27134ab3d6) to [ankushg/advent-of-code-2021](https://api.github.com/repos/ankushg/advent-of-code-2021): "gradle updates"
+
 **2021-12-08** — pushed 4 commits to [ankushg/advent-of-code-2021](https://api.github.com/repos/ankushg/advent-of-code-2021).
 
 **2021-12-07** — created branch "main" on [ankushg/dotfiles](https://api.github.com/repos/ankushg/dotfiles)
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2021-12-01** — pushed 4 commits to [ankushg/advent-of-code-2021](https://api.github.com/repos/ankushg/advent-of-code-2021).
 
 **2021-12-01** — pushed 6 commits to [ankushg/advent-of-code-2021](https://api.github.com/repos/ankushg/advent-of-code-2021).
-
-**2021-12-01** — created repository on [ankushg/advent-of-code-2021](https://api.github.com/repos/ankushg/advent-of-code-2021)
 <!-- githubActivity ends -->
 </td></tr></table>
 
