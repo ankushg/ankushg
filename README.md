@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2021-12-08** — pushed 4 commits to [ankushg/advent-of-code-2021](https://api.github.com/repos/ankushg/advent-of-code-2021).
+
 **2021-12-07** — created branch "main" on [ankushg/dotfiles](https://api.github.com/repos/ankushg/dotfiles)
 
 **2021-12-07** — created repository on [ankushg/dotfiles](https://api.github.com/repos/ankushg/dotfiles)
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2021-12-01** — pushed 6 commits to [ankushg/advent-of-code-2021](https://api.github.com/repos/ankushg/advent-of-code-2021).
 
 **2021-12-01** — created repository on [ankushg/advent-of-code-2021](https://api.github.com/repos/ankushg/advent-of-code-2021)
-
-**2021-12-01** — created branch "main" on [ankushg/advent-of-code-2021](https://api.github.com/repos/ankushg/advent-of-code-2021)
 <!-- githubActivity ends -->
 </td></tr></table>
 
