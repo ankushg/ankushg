@@ -29,6 +29,12 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2021-12-10** — deleted branch "flux/upgrade-v0.24.1" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+
+**2021-12-10** — pushed [`0346f718`](https://github.com/ankushg/home-cluster/commit/0346f718614fe0b8204a90eec1e3d2ed046da1e9) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): upgrade flux components to v0.24.1 (#84)"
+
+**2021-12-10** — closed PR [#84](https://github.com/ankushg/home-cluster/pull/84) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): upgrade flux components to v0.24.1"
+
 **2021-12-08** — pushed [`2daf2358`](https://github.com/ankushg/advent-of-code-2021/commit/2daf2358e96a0385a68264833850fd27134ab3d6) to [ankushg/advent-of-code-2021](https://api.github.com/repos/ankushg/advent-of-code-2021): "gradle updates"
 
 **2021-12-08** — pushed 4 commits to [ankushg/advent-of-code-2021](https://api.github.com/repos/ankushg/advent-of-code-2021).
@@ -42,12 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2021-12-06** — deleted branch "renovate/home-assistant-11.2.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
 **2021-12-06** — closed PR [#83](https://github.com/ankushg/home-cluster/pull/83) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release home-assistant to v11.2.1"
-
-**2021-12-05** — pushed [`8c599cb9`](https://github.com/ankushg/advent-of-code-2021/commit/8c599cb971c3e8233f0f301d9287b7763020f3ba) to [ankushg/advent-of-code-2021](https://api.github.com/repos/ankushg/advent-of-code-2021): "Create Day03.kt"
-
-**2021-12-01** — pushed 4 commits to [ankushg/advent-of-code-2021](https://api.github.com/repos/ankushg/advent-of-code-2021).
-
-**2021-12-01** — pushed 6 commits to [ankushg/advent-of-code-2021](https://api.github.com/repos/ankushg/advent-of-code-2021).
 <!-- githubActivity ends -->
 </td></tr></table>
 
