@@ -29,6 +29,12 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2021-12-22** — deleted branch "renovate/homeassistant-home-assistant-2021.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+
+**2021-12-22** — pushed [`92b795e8`](https://github.com/ankushg/home-cluster/commit/92b795e811c4cc33dfd8095aa2f88c415a32bc8e) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image homeassistant/home-assistant to v2021.12.4 (#90)"
+
+**2021-12-22** — closed PR [#90](https://github.com/ankushg/home-cluster/pull/90) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image homeassistant/home-assistant to v2021.12.4"
+
 **2021-12-16** — opened issue [#5216](https://github.com/refined-github/refined-github/issues/5216) on [refined-github/refined-github](https://api.github.com/repos/refined-github/refined-github): "Option to Show comments/annotations for all files in PR"
 
 **2021-12-16** — deleted branch "renovate/homeassistant-home-assistant-2021.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
@@ -42,12 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2021-12-16** — pushed [`e172dd3a`](https://github.com/ankushg/home-cluster/commit/e172dd3a27cab70d7e5fda9041a78c15f2586dab) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image rancher/system-upgrade-controller to v0.8.1 (#88)"
 
 **2021-12-16** — closed PR [#88](https://github.com/ankushg/home-cluster/pull/88) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image rancher/system-upgrade-controller to v0.8.1"
-
-**2021-12-16** — pushed [`b2b492b8`](https://github.com/ankushg/home-cluster/commit/b2b492b8e96e798fe36be0473dd7c3d3fa3ab20c) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release kubernetes-dashboard to v5.0.5 (#89)"
-
-**2021-12-16** — deleted branch "renovate/kubernetes-dashboard-5.0.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2021-12-16** — closed PR [#89](https://github.com/ankushg/home-cluster/pull/89) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release kubernetes-dashboard to v5.0.5"
 <!-- githubActivity ends -->
 </td></tr></table>
 
