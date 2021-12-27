@@ -29,6 +29,18 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2021-12-27** — pushed [`27dda7d7`](https://github.com/ankushg/home-cluster/commit/27dda7d794a55519690cae29e75aeaca62786aa9) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image homeassistant/home-assistant to v2021.12.5 (#91)"
+
+**2021-12-27** — closed PR [#91](https://github.com/ankushg/home-cluster/pull/91) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image homeassistant/home-assistant to v2021.12.5"
+
+**2021-12-27** — deleted branch "renovate/homeassistant-home-assistant-2021.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+
+**2021-12-27** — pushed [`34110be8`](https://github.com/ankushg/home-cluster/commit/34110be86e86d0e73e99868fc51917c19d67912f) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release traefik to v10.9.1 (#92)"
+
+**2021-12-27** — deleted branch "renovate/traefik-10.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+
+**2021-12-27** — closed PR [#92](https://github.com/ankushg/home-cluster/pull/92) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release traefik to v10.9.1"
+
 **2021-12-22** — deleted branch "renovate/homeassistant-home-assistant-2021.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
 **2021-12-22** — pushed [`92b795e8`](https://github.com/ankushg/home-cluster/commit/92b795e811c4cc33dfd8095aa2f88c415a32bc8e) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image homeassistant/home-assistant to v2021.12.4 (#90)"
@@ -36,18 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2021-12-22** — closed PR [#90](https://github.com/ankushg/home-cluster/pull/90) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image homeassistant/home-assistant to v2021.12.4"
 
 **2021-12-16** — opened issue [#5216](https://github.com/refined-github/refined-github/issues/5216) on [refined-github/refined-github](https://api.github.com/repos/refined-github/refined-github): "Option to Show comments/annotations for all files in PR"
-
-**2021-12-16** — deleted branch "renovate/homeassistant-home-assistant-2021.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2021-12-16** — pushed [`4d08f3dd`](https://github.com/ankushg/home-cluster/commit/4d08f3ddf213ceac8f59eec2463a6eec902d2a9c) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image homeassistant/home-assistant to v2021.12.2 (#87)"
-
-**2021-12-16** — closed PR [#87](https://github.com/ankushg/home-cluster/pull/87) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image homeassistant/home-assistant to v2021.12.2"
-
-**2021-12-16** — deleted branch "renovate/rancher-system-upgrade-controller-0.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2021-12-16** — pushed [`e172dd3a`](https://github.com/ankushg/home-cluster/commit/e172dd3a27cab70d7e5fda9041a78c15f2586dab) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image rancher/system-upgrade-controller to v0.8.1 (#88)"
-
-**2021-12-16** — closed PR [#88](https://github.com/ankushg/home-cluster/pull/88) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image rancher/system-upgrade-controller to v0.8.1"
 <!-- githubActivity ends -->
 </td></tr></table>
 
