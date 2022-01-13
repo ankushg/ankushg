@@ -29,25 +29,25 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-01-13** — pushed [`c0a5798c`](https://github.com/ankushg/home-cluster/commit/c0a5798c46d03d6b1e19e426fdacabb25617e40c) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(renovate): attempt fix renovate matchpackagepatterns"
+
+**2022-01-13** — pushed [`73dcfee0`](https://github.com/ankushg/home-cluster/commit/73dcfee0751ec4d2caad08ce13510ce7b75f9490) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image ghcr.io/k8s-at-home/code-server to v4.0.1 (#99)"
+
+**2022-01-13** — deleted branch "renovate/ghcr.io-k8s-at-home-code-server-4.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+
+**2022-01-13** — closed PR [#99](https://github.com/ankushg/home-cluster/pull/99) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image ghcr.io/k8s-at-home/code-server to v4.0.1"
+
+**2022-01-13** — pushed [`07f9457f`](https://github.com/ankushg/home-cluster/commit/07f9457f527ca4ae290e5843f4080cfffc75a722) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): upgrade flux components to v0.25.1 (#102)"
+
+**2022-01-13** — deleted branch "flux/upgrade-v0.25.1" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+
+**2022-01-13** — closed PR [#102](https://github.com/ankushg/home-cluster/pull/102) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): upgrade flux components to v0.25.1"
+
+**2022-01-13** — pushed [`199981b2`](https://github.com/ankushg/home-cluster/commit/199981b23cebf6095a6516773f400a76d9b8ca97) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(renovate): fix regex"
+
+**2022-01-13** — pushed [`48c696fa`](https://github.com/ankushg/home-cluster/commit/48c696fab2220f49f85dd7f52bc9e21087d99d29) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "feat(renovate): hardcoded grouping for some dependencies"
+
 **2022-01-13** — pushed 4 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
-
-**2022-01-11** — deleted branch "renovate/reloader-0.0.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2022-01-11** — pushed [`80468405`](https://github.com/ankushg/home-cluster/commit/80468405394bef06a989b32dd1af25f6d1266b34) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release reloader to v0.0.104 (#97)"
-
-**2022-01-11** — closed PR [#97](https://github.com/ankushg/home-cluster/pull/97) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release reloader to v0.0.104"
-
-**2021-12-27** — pushed [`27dda7d7`](https://github.com/ankushg/home-cluster/commit/27dda7d794a55519690cae29e75aeaca62786aa9) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image homeassistant/home-assistant to v2021.12.5 (#91)"
-
-**2021-12-27** — closed PR [#91](https://github.com/ankushg/home-cluster/pull/91) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image homeassistant/home-assistant to v2021.12.5"
-
-**2021-12-27** — deleted branch "renovate/homeassistant-home-assistant-2021.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2021-12-27** — pushed [`34110be8`](https://github.com/ankushg/home-cluster/commit/34110be86e86d0e73e99868fc51917c19d67912f) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release traefik to v10.9.1 (#92)"
-
-**2021-12-27** — deleted branch "renovate/traefik-10.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2021-12-27** — closed PR [#92](https://github.com/ankushg/home-cluster/pull/92) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release traefik to v10.9.1"
 <!-- githubActivity ends -->
 </td></tr></table>
 
