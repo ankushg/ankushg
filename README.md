@@ -29,6 +29,12 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-01-13** — pushed [`335bcd96`](https://github.com/ankushg/home-cluster/commit/335bcd968e0427013eefe07cb638659cfd4098bd) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release blocky to v10 (#109)"
+
+**2022-01-13** — closed PR [#109](https://github.com/ankushg/home-cluster/pull/109) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release blocky to v10"
+
+**2022-01-13** — deleted branch "renovate/major-blocky" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+
 **2022-01-13** — pushed 3 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
 
 **2022-01-13** — pushed [`1498283e`](https://github.com/ankushg/home-cluster/commit/1498283e69a4f4e5d76cd1d1b1776bb0a6bd8fc1) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(omada): remove redirect middleware"
@@ -42,12 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-01-13** — closed PR [#108](https://github.com/ankushg/home-cluster/pull/108) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release kubernetes-dashboard to v5.0.6"
 
 **2022-01-13** — pushed [`39e6329f`](https://github.com/ankushg/home-cluster/commit/39e6329f3579c42141c50cbe478b007a6ed13dcb) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image mbentley/omada-controller to v5.0 (#107)"
-
-**2022-01-13** — deleted branch "renovate/major-omada-controller" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2022-01-13** — closed PR [#107](https://github.com/ankushg/home-cluster/pull/107) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image mbentley/omada-controller to v5.0"
-
-**2022-01-13** — deleted branch "renovate/omada-controller" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 <!-- githubActivity ends -->
 </td></tr></table>
 
