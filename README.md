@@ -29,6 +29,12 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-01-13** — pushed 3 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
+
+**2022-01-13** — pushed [`1498283e`](https://github.com/ankushg/home-cluster/commit/1498283e69a4f4e5d76cd1d1b1776bb0a6bd8fc1) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(omada): remove redirect middleware"
+
+**2022-01-13** — pushed [`54f73a87`](https://github.com/ankushg/home-cluster/commit/54f73a8744b8d7f816175c2bf2c96ea30c0adc31) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(omada): attempt fix ports"
+
 **2022-01-13** — pushed [`10cee5fc`](https://github.com/ankushg/home-cluster/commit/10cee5fc3dfefc338bf24a43e8a2307b15f9f9eb) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release kubernetes-dashboard to v5.0.6 (#108)"
 
 **2022-01-13** — deleted branch "renovate/kubernetes-dashboard-5.0.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
@@ -42,12 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-01-13** — closed PR [#107](https://github.com/ankushg/home-cluster/pull/107) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image mbentley/omada-controller to v5.0"
 
 **2022-01-13** — deleted branch "renovate/omada-controller" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2022-01-13** — pushed [`1b0ac0c9`](https://github.com/ankushg/home-cluster/commit/1b0ac0c9012cdcae08fb38ee9f248d5c2a2d0f6b) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release omada-controller to v4.2.0 (#106)"
-
-**2022-01-13** — closed PR [#106](https://github.com/ankushg/home-cluster/pull/106) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release omada-controller to v4.2.0"
-
-**2022-01-13** — deleted branch "renovate/patch-tailscale-relay" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 <!-- githubActivity ends -->
 </td></tr></table>
 
