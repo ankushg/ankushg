@@ -29,6 +29,14 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-01-20** — opened issue [#115](https://github.com/ankushg/home-cluster/issues/115) on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "Migrate sops from gpg to age"
+
+**2022-01-20** — pushed [`cb583d28`](https://github.com/ankushg/home-cluster/commit/cb583d28cee61482225e2b604d6a64c049848660) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): upgrade flux components to v0.25.3 (#114)"
+
+**2022-01-20** — deleted branch "flux/upgrade-v0.25.3" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+
+**2022-01-20** — closed PR [#114](https://github.com/ankushg/home-cluster/pull/114) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): upgrade flux components to v0.25.3"
+
 **2022-01-19** — pushed 2 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
 
 **2022-01-18** — deleted branch "renovate/home-assistant" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
@@ -40,14 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-01-18** — pushed [`5cb38dc6`](https://github.com/ankushg/home-cluster/commit/5cb38dc6c28acb7815f5bb665a366b7b3e6e3ce7) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release home-assistant to v12 (#110)"
 
 **2022-01-18** — deleted branch "renovate/major-home-assistant" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2022-01-18** — closed PR [#110](https://github.com/ankushg/home-cluster/pull/110) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release home-assistant to v12"
-
-**2022-01-16** — pushed [`3b259a4b`](https://github.com/ankushg/home-cluster/commit/3b259a4bb88d5c536afc7769957b120c4a0c5839) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "feat(omada): re-introduce middlewares"
-
-**2022-01-16** — pushed [`42472e8f`](https://github.com/ankushg/home-cluster/commit/42472e8f651a765274663449a22178cb0fab209e) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release kubernetes-dashboard to v5.1.1 (#113)"
-
-**2022-01-16** — deleted branch "renovate/kubernetes-dashboard-5.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 <!-- githubActivity ends -->
 </td></tr></table>
 
