@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-01-23** — pushed [`efdb3626`](https://github.com/ankushg/home-cluster/commit/efdb3626646d3287e484029d732974435ec51018) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(cloudflared): fix secret"
+
 **2022-01-22** — pushed [`c9c24b0c`](https://github.com/ankushg/home-cluster/commit/c9c24b0cecf399b068d0b8610abbe00731bf7c7a) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(cloudflared): move the replicaCount field"
 
 **2022-01-22** — pushed [`e8c6462d`](https://github.com/ankushg/home-cluster/commit/e8c6462d1fc0ac405f90cd7047675d106bf3aacd) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(cloudflared): set replicacount to 1"
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-01-20** — deleted branch "flux/upgrade-v0.25.3" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
 **2022-01-20** — closed PR [#114](https://github.com/ankushg/home-cluster/pull/114) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): upgrade flux components to v0.25.3"
-
-**2022-01-19** — pushed 2 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
 <!-- githubActivity ends -->
 </td></tr></table>
 
