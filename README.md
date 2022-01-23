@@ -29,6 +29,12 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-01-23** — pushed [`0d1ca6e3`](https://github.com/ankushg/home-cluster/commit/0d1ca6e3c2be160cc772000a67489047c10b44ac) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(cloudflared): attempt to use traefik IP?"
+
+**2022-01-23** — opened issue [#661](https://github.com/go-task/task/issues/661) on [go-task/task](https://api.github.com/repos/go-task/task): ""default" task from included taskfile should be executed when no task name is provided"
+
+**2022-01-23** — pushed [`1be38018`](https://github.com/ankushg/home-cluster/commit/1be380185f88a6a86a02a62214a70e641fa959fb) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(cloudflare): attempt to use -${SECRET_DOMAIN} instead of ."
+
 **2022-01-23** — pushed [`c8a3bd0c`](https://github.com/ankushg/home-cluster/commit/c8a3bd0c1d555ce4296bcab60de273bb640ab7d4) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "feat(cloudflared): use https + traefik service dns name"
 
 **2022-01-23** — pushed 2 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
@@ -42,12 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-01-22** — pushed 3 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
 
 **2022-01-22** — commented on [#22](https://github.com/ozntel/oz-image-in-editor-obsidian/issues/22#issuecomment-1019401409) in [ozntel/oz-image-in-editor-obsidian](https://api.github.com/repos/ozntel/oz-image-in-editor-obsidian)
-
-**2022-01-20** — pushed [`33f10850`](https://github.com/ankushg/home-cluster/commit/33f108503a0b4aa959b8fe71a9a06265bee03bc7) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "feat(omada): remove omada chart retries"
-
-**2022-01-20** — opened issue [#115](https://github.com/ankushg/home-cluster/issues/115) on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "Migrate sops from gpg to age"
-
-**2022-01-20** — pushed [`cb583d28`](https://github.com/ankushg/home-cluster/commit/cb583d28cee61482225e2b604d6a64c049848660) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): upgrade flux components to v0.25.3 (#114)"
 <!-- githubActivity ends -->
 </td></tr></table>
 
