@@ -29,6 +29,12 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-01-22** — pushed [`c9c24b0c`](https://github.com/ankushg/home-cluster/commit/c9c24b0cecf399b068d0b8610abbe00731bf7c7a) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(cloudflared): move the replicaCount field"
+
+**2022-01-22** — pushed [`e8c6462d`](https://github.com/ankushg/home-cluster/commit/e8c6462d1fc0ac405f90cd7047675d106bf3aacd) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(cloudflared): set replicacount to 1"
+
+**2022-01-22** — pushed 3 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
+
 **2022-01-22** — commented on [#22](https://github.com/ozntel/oz-image-in-editor-obsidian/issues/22#issuecomment-1019401409) in [ozntel/oz-image-in-editor-obsidian](https://api.github.com/repos/ozntel/oz-image-in-editor-obsidian)
 
 **2022-01-20** — pushed [`33f10850`](https://github.com/ankushg/home-cluster/commit/33f108503a0b4aa959b8fe71a9a06265bee03bc7) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "feat(omada): remove omada chart retries"
@@ -42,12 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-01-20** — closed PR [#114](https://github.com/ankushg/home-cluster/pull/114) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): upgrade flux components to v0.25.3"
 
 **2022-01-19** — pushed 2 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
-
-**2022-01-18** — deleted branch "renovate/home-assistant" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2022-01-18** — pushed [`4bc4edce`](https://github.com/ankushg/home-cluster/commit/4bc4edce64aed25a80382d9303b988005c07ac52) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image homeassistant/home-assistant to v2021.12.10 (#111)"
-
-**2022-01-18** — closed PR [#111](https://github.com/ankushg/home-cluster/pull/111) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image homeassistant/home-assistant to v2021.12.10"
 <!-- githubActivity ends -->
 </td></tr></table>
 
