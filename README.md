@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-01-22** — commented on [#22](https://github.com/ozntel/oz-image-in-editor-obsidian/issues/22#issuecomment-1019401409) in [ozntel/oz-image-in-editor-obsidian](https://api.github.com/repos/ozntel/oz-image-in-editor-obsidian)
+
 **2022-01-20** — pushed [`33f10850`](https://github.com/ankushg/home-cluster/commit/33f108503a0b4aa959b8fe71a9a06265bee03bc7) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "feat(omada): remove omada chart retries"
 
 **2022-01-20** — opened issue [#115](https://github.com/ankushg/home-cluster/issues/115) on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "Migrate sops from gpg to age"
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-01-18** — pushed [`4bc4edce`](https://github.com/ankushg/home-cluster/commit/4bc4edce64aed25a80382d9303b988005c07ac52) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image homeassistant/home-assistant to v2021.12.10 (#111)"
 
 **2022-01-18** — closed PR [#111](https://github.com/ankushg/home-cluster/pull/111) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image homeassistant/home-assistant to v2021.12.10"
-
-**2022-01-18** — pushed [`5cb38dc6`](https://github.com/ankushg/home-cluster/commit/5cb38dc6c28acb7815f5bb665a366b7b3e6e3ce7) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release home-assistant to v12 (#110)"
 <!-- githubActivity ends -->
 </td></tr></table>
 
