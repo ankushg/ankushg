@@ -29,6 +29,10 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-01-23** — pushed [`9e4424bd`](https://github.com/ankushg/home-cluster/commit/9e4424bd8f46449fdcafebabbdec227ca48f79da) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(cloudflare): revert to subdomains"
+
+**2022-01-23** — pushed [`77fc46b7`](https://github.com/ankushg/home-cluster/commit/77fc46b7f921463b80bda1c560b7f8e3591e9866) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(cloudflared): attempt to add traefik.networking.svc.cluster.local cert"
+
 **2022-01-23** — pushed 2 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
 
 **2022-01-23** — pushed [`a6694868`](https://github.com/ankushg/home-cluster/commit/a6694868c86078b61908587f531b693aef42754b) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(cloudflared): attempt to remove subdomain wildcard hostname"
@@ -44,10 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-01-23** — pushed 2 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
 
 **2022-01-23** — pushed [`efdb3626`](https://github.com/ankushg/home-cluster/commit/efdb3626646d3287e484029d732974435ec51018) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(cloudflared): fix secret"
-
-**2022-01-22** — pushed [`c9c24b0c`](https://github.com/ankushg/home-cluster/commit/c9c24b0cecf399b068d0b8610abbe00731bf7c7a) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(cloudflared): move the replicaCount field"
-
-**2022-01-22** — pushed [`e8c6462d`](https://github.com/ankushg/home-cluster/commit/e8c6462d1fc0ac405f90cd7047675d106bf3aacd) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(cloudflared): set replicacount to 1"
 <!-- githubActivity ends -->
 </td></tr></table>
 
