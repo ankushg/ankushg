@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-01-23** — pushed [`ffacb846`](https://github.com/ankushg/home-cluster/commit/ffacb8463df62666f4d181e801108ff8b54c6186) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(cloudflared): add noTLSVerify"
+
 **2022-01-23** — pushed [`f2111db0`](https://github.com/ankushg/home-cluster/commit/f2111db0a69f5d332e914d8fe17c83660ba2b36b) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "feat(cloudflared): try adding cloudflare test endpoint"
 
 **2022-01-23** — pushed [`2bcfff86`](https://github.com/ankushg/home-cluster/commit/2bcfff860e753683bea76866b0ca606fac0184f6) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(cloudflared): remove originServerName"
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-01-23** — pushed [`0d1ca6e3`](https://github.com/ankushg/home-cluster/commit/0d1ca6e3c2be160cc772000a67489047c10b44ac) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(cloudflared): attempt to use traefik IP?"
 
 **2022-01-23** — opened issue [#661](https://github.com/go-task/task/issues/661) on [go-task/task](https://api.github.com/repos/go-task/task): ""default" task from included taskfile should be executed when no task name is provided"
-
-**2022-01-23** — pushed [`1be38018`](https://github.com/ankushg/home-cluster/commit/1be380185f88a6a86a02a62214a70e641fa959fb) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(cloudflare): attempt to use -${SECRET_DOMAIN} instead of ."
 <!-- githubActivity ends -->
 </td></tr></table>
 
