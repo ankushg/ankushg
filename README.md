@@ -29,6 +29,10 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-01-23** — pushed [`2bcfff86`](https://github.com/ankushg/home-cluster/commit/2bcfff860e753683bea76866b0ca606fac0184f6) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(cloudflared): remove originServerName"
+
+**2022-01-23** — pushed [`a0dcdd05`](https://github.com/ankushg/home-cluster/commit/a0dcdd053293527cc49a7205f0648b2820840978) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(cloudflared): change SECRET_DOMAIN to not be a subdomain"
+
 **2022-01-23** — pushed [`9e4424bd`](https://github.com/ankushg/home-cluster/commit/9e4424bd8f46449fdcafebabbdec227ca48f79da) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(cloudflare): revert to subdomains"
 
 **2022-01-23** — pushed [`77fc46b7`](https://github.com/ankushg/home-cluster/commit/77fc46b7f921463b80bda1c560b7f8e3591e9866) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(cloudflared): attempt to add traefik.networking.svc.cluster.local cert"
@@ -44,10 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-01-23** — pushed [`1be38018`](https://github.com/ankushg/home-cluster/commit/1be380185f88a6a86a02a62214a70e641fa959fb) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(cloudflare): attempt to use -${SECRET_DOMAIN} instead of ."
 
 **2022-01-23** — pushed [`c8a3bd0c`](https://github.com/ankushg/home-cluster/commit/c8a3bd0c1d555ce4296bcab60de273bb640ab7d4) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "feat(cloudflared): use https + traefik service dns name"
-
-**2022-01-23** — pushed 2 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
-
-**2022-01-23** — pushed [`efdb3626`](https://github.com/ankushg/home-cluster/commit/efdb3626646d3287e484029d732974435ec51018) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(cloudflared): fix secret"
 <!-- githubActivity ends -->
 </td></tr></table>
 
