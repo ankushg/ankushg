@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-01-23** — pushed [`e6bbd362`](https://github.com/ankushg/home-cluster/commit/e6bbd362896256fc4d6ac2d8e1fe2a31048273ad) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "feat(traefik): update pilot key"
+
 **2022-01-23** — pushed [`ffacb846`](https://github.com/ankushg/home-cluster/commit/ffacb8463df62666f4d181e801108ff8b54c6186) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(cloudflared): add noTLSVerify"
 
 **2022-01-23** — pushed [`f2111db0`](https://github.com/ankushg/home-cluster/commit/f2111db0a69f5d332e914d8fe17c83660ba2b36b) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "feat(cloudflared): try adding cloudflare test endpoint"
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-01-23** — pushed [`a6694868`](https://github.com/ankushg/home-cluster/commit/a6694868c86078b61908587f531b693aef42754b) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(cloudflared): attempt to remove subdomain wildcard hostname"
 
 **2022-01-23** — pushed [`0d1ca6e3`](https://github.com/ankushg/home-cluster/commit/0d1ca6e3c2be160cc772000a67489047c10b44ac) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(cloudflared): attempt to use traefik IP?"
-
-**2022-01-23** — opened issue [#661](https://github.com/go-task/task/issues/661) on [go-task/task](https://api.github.com/repos/go-task/task): ""default" task from included taskfile should be executed when no task name is provided"
 <!-- githubActivity ends -->
 </td></tr></table>
 
