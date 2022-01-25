@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-01-25** — opened issue [#25](https://github.com/TfTHacker/obsidian42-brat/issues/25) on [TfTHacker/obsidian42-brat](https://api.github.com/repos/TfTHacker/obsidian42-brat): "Support CSS Snippets"
+
 **2022-01-23** — pushed [`e6bbd362`](https://github.com/ankushg/home-cluster/commit/e6bbd362896256fc4d6ac2d8e1fe2a31048273ad) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "feat(traefik): update pilot key"
 
 **2022-01-23** — pushed [`ffacb846`](https://github.com/ankushg/home-cluster/commit/ffacb8463df62666f4d181e801108ff8b54c6186) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(cloudflared): add noTLSVerify"
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-01-23** — pushed 2 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
 
 **2022-01-23** — pushed [`a6694868`](https://github.com/ankushg/home-cluster/commit/a6694868c86078b61908587f531b693aef42754b) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(cloudflared): attempt to remove subdomain wildcard hostname"
-
-**2022-01-23** — pushed [`0d1ca6e3`](https://github.com/ankushg/home-cluster/commit/0d1ca6e3c2be160cc772000a67489047c10b44ac) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(cloudflared): attempt to use traefik IP?"
 <!-- githubActivity ends -->
 </td></tr></table>
 
