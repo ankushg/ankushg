@@ -29,6 +29,12 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-01-26** — commented on [#34](https://github.com/rickclephas/KMP-NativeCoroutines/issues/34#issuecomment-1022661704) in [rickclephas/KMP-NativeCoroutines](https://api.github.com/repos/rickclephas/KMP-NativeCoroutines)
+
+**2022-01-26** — opened issue [#34](https://github.com/rickclephas/KMP-NativeCoroutines/issues/34) on [rickclephas/KMP-NativeCoroutines](https://api.github.com/repos/rickclephas/KMP-NativeCoroutines): "Ability to use different NativeCoroutineScope on each platform?"
+
+**2022-01-26** — opened issue [#2](https://github.com/macstories/obsidian-shortcut-launcher/issues/2) on [macstories/obsidian-shortcut-launcher](https://api.github.com/repos/macstories/obsidian-shortcut-launcher): "Receiving result value from Shortcut?"
+
 **2022-01-25** — opened issue [#25](https://github.com/TfTHacker/obsidian42-brat/issues/25) on [TfTHacker/obsidian42-brat](https://api.github.com/repos/TfTHacker/obsidian42-brat): "Support CSS Snippets"
 
 **2022-01-23** — pushed [`e6bbd362`](https://github.com/ankushg/home-cluster/commit/e6bbd362896256fc4d6ac2d8e1fe2a31048273ad) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "feat(traefik): update pilot key"
@@ -42,12 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-01-23** — pushed [`a0dcdd05`](https://github.com/ankushg/home-cluster/commit/a0dcdd053293527cc49a7205f0648b2820840978) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(cloudflared): change SECRET_DOMAIN to not be a subdomain"
 
 **2022-01-23** — pushed [`9e4424bd`](https://github.com/ankushg/home-cluster/commit/9e4424bd8f46449fdcafebabbdec227ca48f79da) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(cloudflare): revert to subdomains"
-
-**2022-01-23** — pushed [`77fc46b7`](https://github.com/ankushg/home-cluster/commit/77fc46b7f921463b80bda1c560b7f8e3591e9866) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(cloudflared): attempt to add traefik.networking.svc.cluster.local cert"
-
-**2022-01-23** — pushed 2 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
-
-**2022-01-23** — pushed [`a6694868`](https://github.com/ankushg/home-cluster/commit/a6694868c86078b61908587f531b693aef42754b) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(cloudflared): attempt to remove subdomain wildcard hostname"
 <!-- githubActivity ends -->
 </td></tr></table>
 
