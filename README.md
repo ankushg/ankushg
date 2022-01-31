@@ -29,6 +29,10 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-01-31** — opened issue [#27](https://github.com/TfTHacker/obsidian42-brat/issues/27) on [TfTHacker/obsidian42-brat](https://api.github.com/repos/TfTHacker/obsidian42-brat): "Option to delay checking for updates"
+
+**2022-01-31** — opened issue [#26](https://github.com/TfTHacker/obsidian42-brat/issues/26) on [TfTHacker/obsidian42-brat](https://api.github.com/repos/TfTHacker/obsidian42-brat): "Option to disable BRAT notifications"
+
 **2022-01-26** — commented on [#34](https://github.com/rickclephas/KMP-NativeCoroutines/issues/34#issuecomment-1022661704) in [rickclephas/KMP-NativeCoroutines](https://api.github.com/repos/rickclephas/KMP-NativeCoroutines)
 
 **2022-01-26** — opened issue [#34](https://github.com/rickclephas/KMP-NativeCoroutines/issues/34) on [rickclephas/KMP-NativeCoroutines](https://api.github.com/repos/rickclephas/KMP-NativeCoroutines): "Ability to use different NativeCoroutineScope on each platform?"
@@ -44,10 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-01-23** — pushed [`f2111db0`](https://github.com/ankushg/home-cluster/commit/f2111db0a69f5d332e914d8fe17c83660ba2b36b) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "feat(cloudflared): try adding cloudflare test endpoint"
 
 **2022-01-23** — pushed [`2bcfff86`](https://github.com/ankushg/home-cluster/commit/2bcfff860e753683bea76866b0ca606fac0184f6) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(cloudflared): remove originServerName"
-
-**2022-01-23** — pushed [`a0dcdd05`](https://github.com/ankushg/home-cluster/commit/a0dcdd053293527cc49a7205f0648b2820840978) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(cloudflared): change SECRET_DOMAIN to not be a subdomain"
-
-**2022-01-23** — pushed [`9e4424bd`](https://github.com/ankushg/home-cluster/commit/9e4424bd8f46449fdcafebabbdec227ca48f79da) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(cloudflare): revert to subdomains"
 <!-- githubActivity ends -->
 </td></tr></table>
 
