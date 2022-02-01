@@ -29,25 +29,25 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
-**2022-01-31** — opened issue [#27](https://github.com/TfTHacker/obsidian42-brat/issues/27) on [TfTHacker/obsidian42-brat](https://api.github.com/repos/TfTHacker/obsidian42-brat): "Option to delay checking for updates"
+**2022-02-01** — pushed [`3e98cab2`](https://github.com/ankushg/home-cluster/commit/3e98cab2ea4aa5bff48a577201fd22acc612dd38) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image docker.io/raspbernetes/cloudflared to v2022.1.3 (#119)"
 
-**2022-01-31** — opened issue [#26](https://github.com/TfTHacker/obsidian42-brat/issues/26) on [TfTHacker/obsidian42-brat](https://api.github.com/repos/TfTHacker/obsidian42-brat): "Option to disable BRAT notifications"
+**2022-02-01** — deleted branch "renovate/docker.io-raspbernetes-cloudflared-2022.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
-**2022-01-26** — commented on [#34](https://github.com/rickclephas/KMP-NativeCoroutines/issues/34#issuecomment-1022661704) in [rickclephas/KMP-NativeCoroutines](https://api.github.com/repos/rickclephas/KMP-NativeCoroutines)
+**2022-02-01** — closed PR [#119](https://github.com/ankushg/home-cluster/pull/119) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image docker.io/raspbernetes/cloudflared to v2022.1.3"
 
-**2022-01-26** — opened issue [#34](https://github.com/rickclephas/KMP-NativeCoroutines/issues/34) on [rickclephas/KMP-NativeCoroutines](https://api.github.com/repos/rickclephas/KMP-NativeCoroutines): "Ability to use different NativeCoroutineScope on each platform?"
+**2022-02-01** — pushed [`b76a6a4e`](https://github.com/ankushg/home-cluster/commit/b76a6a4eb2da02feb898a9ef56cbd3e3558e92a2) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release cert-manager to v1.7.0 (#118)"
 
-**2022-01-26** — opened issue [#2](https://github.com/macstories/obsidian-shortcut-launcher/issues/2) on [macstories/obsidian-shortcut-launcher](https://api.github.com/repos/macstories/obsidian-shortcut-launcher): "Receiving result value from Shortcut?"
+**2022-02-01** — deleted branch "renovate/cert-manager-1.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
-**2022-01-25** — opened issue [#25](https://github.com/TfTHacker/obsidian42-brat/issues/25) on [TfTHacker/obsidian42-brat](https://api.github.com/repos/TfTHacker/obsidian42-brat): "Support CSS Snippets"
+**2022-02-01** — closed PR [#118](https://github.com/ankushg/home-cluster/pull/118) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release cert-manager to v1.7.0"
 
-**2022-01-23** — pushed [`e6bbd362`](https://github.com/ankushg/home-cluster/commit/e6bbd362896256fc4d6ac2d8e1fe2a31048273ad) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "feat(traefik): update pilot key"
+**2022-02-01** — pushed [`60334c47`](https://github.com/ankushg/home-cluster/commit/60334c472a0f343345fbf688f41242b3021b78d2) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): upgrade flux components to v0.26.0 (#120)"
 
-**2022-01-23** — pushed [`ffacb846`](https://github.com/ankushg/home-cluster/commit/ffacb8463df62666f4d181e801108ff8b54c6186) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(cloudflared): add noTLSVerify"
+**2022-02-01** — deleted branch "flux/upgrade-v0.26.0" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
-**2022-01-23** — pushed [`f2111db0`](https://github.com/ankushg/home-cluster/commit/f2111db0a69f5d332e914d8fe17c83660ba2b36b) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "feat(cloudflared): try adding cloudflare test endpoint"
+**2022-02-01** — closed PR [#120](https://github.com/ankushg/home-cluster/pull/120) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): upgrade flux components to v0.26.0"
 
-**2022-01-23** — pushed [`2bcfff86`](https://github.com/ankushg/home-cluster/commit/2bcfff860e753683bea76866b0ca606fac0184f6) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(cloudflared): remove originServerName"
+**2022-02-01** — pushed [`ceb57dc6`](https://github.com/ankushg/home-cluster/commit/ceb57dc674ff1f306b3f20fe1c74beb720aff3b1) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image ghcr.io/k8s-at-home/code-server to v4.0.2 (#116)"
 <!-- githubActivity ends -->
 </td></tr></table>
 
