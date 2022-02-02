@@ -29,6 +29,12 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-02-01** — pushed [`68da92b6`](https://github.com/ankushg/home-cluster/commit/68da92b6f87a6ca550b006695d48a0f5ed7643d5) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release traefik to v10.13.0 (#121)"
+
+**2022-02-01** — deleted branch "renovate/traefik-10.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+
+**2022-02-01** — closed PR [#121](https://github.com/ankushg/home-cluster/pull/121) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release traefik to v10.13.0"
+
 **2022-02-01** — pushed [`42ab5fc1`](https://github.com/ankushg/home-cluster/commit/42ab5fc180ce8bc1075e68c0771318b7c306b307) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(omada-exporter): add charlie haley charts"
 
 **2022-02-01** — pushed 2 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
@@ -42,12 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-02-01** — pushed [`b76a6a4e`](https://github.com/ankushg/home-cluster/commit/b76a6a4eb2da02feb898a9ef56cbd3e3558e92a2) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release cert-manager to v1.7.0 (#118)"
 
 **2022-02-01** — deleted branch "renovate/cert-manager-1.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2022-02-01** — closed PR [#118](https://github.com/ankushg/home-cluster/pull/118) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release cert-manager to v1.7.0"
-
-**2022-02-01** — pushed [`60334c47`](https://github.com/ankushg/home-cluster/commit/60334c472a0f343345fbf688f41242b3021b78d2) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): upgrade flux components to v0.26.0 (#120)"
-
-**2022-02-01** — deleted branch "flux/upgrade-v0.26.0" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 <!-- githubActivity ends -->
 </td></tr></table>
 
