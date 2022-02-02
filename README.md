@@ -29,6 +29,10 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-02-01** — opened issue [#12](https://github.com/marcjulianschwarz/obsidian-raycast/issues/12) on [marcjulianschwarz/obsidian-raycast](https://api.github.com/repos/marcjulianschwarz/obsidian-raycast): "Feature request: Append to today's daily note"
+
+**2022-02-01** — opened issue [#11](https://github.com/marcjulianschwarz/obsidian-raycast/issues/11) on [marcjulianschwarz/obsidian-raycast](https://api.github.com/repos/marcjulianschwarz/obsidian-raycast): "Feature Request: Open today's daily note"
+
 **2022-02-01** — pushed [`68da92b6`](https://github.com/ankushg/home-cluster/commit/68da92b6f87a6ca550b006695d48a0f5ed7643d5) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release traefik to v10.13.0 (#121)"
 
 **2022-02-01** — deleted branch "renovate/traefik-10.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
@@ -44,10 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-02-01** — deleted branch "renovate/docker.io-raspbernetes-cloudflared-2022.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
 **2022-02-01** — closed PR [#119](https://github.com/ankushg/home-cluster/pull/119) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image docker.io/raspbernetes/cloudflared to v2022.1.3"
-
-**2022-02-01** — pushed [`b76a6a4e`](https://github.com/ankushg/home-cluster/commit/b76a6a4eb2da02feb898a9ef56cbd3e3558e92a2) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release cert-manager to v1.7.0 (#118)"
-
-**2022-02-01** — deleted branch "renovate/cert-manager-1.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 <!-- githubActivity ends -->
 </td></tr></table>
 
