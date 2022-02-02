@@ -29,6 +29,12 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-02-02** — pushed [`6beb12d5`](https://github.com/ankushg/home-cluster/commit/6beb12d54c920b77ed52a900821ffbf97941aef1) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image homeassistant/home-assistant to v2022.2.0 (#122)"
+
+**2022-02-02** — deleted branch "renovate/major-home-assistant" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+
+**2022-02-02** — closed PR [#122](https://github.com/ankushg/home-cluster/pull/122) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image homeassistant/home-assistant to v2022.2.0"
+
 **2022-02-01** — opened issue [#12](https://github.com/marcjulianschwarz/obsidian-raycast/issues/12) on [marcjulianschwarz/obsidian-raycast](https://api.github.com/repos/marcjulianschwarz/obsidian-raycast): "Feature request: Append to today's daily note"
 
 **2022-02-01** — opened issue [#11](https://github.com/marcjulianschwarz/obsidian-raycast/issues/11) on [marcjulianschwarz/obsidian-raycast](https://api.github.com/repos/marcjulianschwarz/obsidian-raycast): "Feature Request: Open today's daily note"
@@ -42,12 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-02-01** — pushed [`42ab5fc1`](https://github.com/ankushg/home-cluster/commit/42ab5fc180ce8bc1075e68c0771318b7c306b307) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(omada-exporter): add charlie haley charts"
 
 **2022-02-01** — pushed 2 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
-
-**2022-02-01** — pushed [`3e98cab2`](https://github.com/ankushg/home-cluster/commit/3e98cab2ea4aa5bff48a577201fd22acc612dd38) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image docker.io/raspbernetes/cloudflared to v2022.1.3 (#119)"
-
-**2022-02-01** — deleted branch "renovate/docker.io-raspbernetes-cloudflared-2022.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2022-02-01** — closed PR [#119](https://github.com/ankushg/home-cluster/pull/119) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image docker.io/raspbernetes/cloudflared to v2022.1.3"
 <!-- githubActivity ends -->
 </td></tr></table>
 
