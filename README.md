@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-02-01** — pushed [`42ab5fc1`](https://github.com/ankushg/home-cluster/commit/42ab5fc180ce8bc1075e68c0771318b7c306b307) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(omada-exporter): add charlie haley charts"
+
 **2022-02-01** — pushed 2 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
 
 **2022-02-01** — pushed [`3e98cab2`](https://github.com/ankushg/home-cluster/commit/3e98cab2ea4aa5bff48a577201fd22acc612dd38) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image docker.io/raspbernetes/cloudflared to v2022.1.3 (#119)"
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-02-01** — pushed [`60334c47`](https://github.com/ankushg/home-cluster/commit/60334c472a0f343345fbf688f41242b3021b78d2) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): upgrade flux components to v0.26.0 (#120)"
 
 **2022-02-01** — deleted branch "flux/upgrade-v0.26.0" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2022-02-01** — closed PR [#120](https://github.com/ankushg/home-cluster/pull/120) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): upgrade flux components to v0.26.0"
 <!-- githubActivity ends -->
 </td></tr></table>
 
