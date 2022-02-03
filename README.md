@@ -29,6 +29,14 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-02-03** — commented on [#11](https://github.com/marcjulianschwarz/obsidian-raycast/issues/11#issuecomment-1029358474) in [marcjulianschwarz/obsidian-raycast](https://api.github.com/repos/marcjulianschwarz/obsidian-raycast)
+
+**2022-02-03** — pushed [`7d949e8a`](https://github.com/ankushg/home-cluster/commit/7d949e8af2d2221fe86987fba9474f947b9408ac) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release traefik to v10.14.0 (#123)"
+
+**2022-02-03** — deleted branch "renovate/traefik-10.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+
+**2022-02-03** — closed PR [#123](https://github.com/ankushg/home-cluster/pull/123) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release traefik to v10.14.0"
+
 **2022-02-02** — pushed [`6beb12d5`](https://github.com/ankushg/home-cluster/commit/6beb12d54c920b77ed52a900821ffbf97941aef1) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image homeassistant/home-assistant to v2022.2.0 (#122)"
 
 **2022-02-02** — deleted branch "renovate/major-home-assistant" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
@@ -40,14 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-02-01** — opened issue [#11](https://github.com/marcjulianschwarz/obsidian-raycast/issues/11) on [marcjulianschwarz/obsidian-raycast](https://api.github.com/repos/marcjulianschwarz/obsidian-raycast): "Feature Request: Open today's daily note"
 
 **2022-02-01** — pushed [`68da92b6`](https://github.com/ankushg/home-cluster/commit/68da92b6f87a6ca550b006695d48a0f5ed7643d5) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release traefik to v10.13.0 (#121)"
-
-**2022-02-01** — deleted branch "renovate/traefik-10.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2022-02-01** — closed PR [#121](https://github.com/ankushg/home-cluster/pull/121) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release traefik to v10.13.0"
-
-**2022-02-01** — pushed [`42ab5fc1`](https://github.com/ankushg/home-cluster/commit/42ab5fc180ce8bc1075e68c0771318b7c306b307) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(omada-exporter): add charlie haley charts"
-
-**2022-02-01** — pushed 2 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
 <!-- githubActivity ends -->
 </td></tr></table>
 
