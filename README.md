@@ -29,6 +29,12 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-02-05** — deleted branch "renovate/kubernetes-dashboard-5.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+
+**2022-02-05** — pushed [`1f00cd47`](https://github.com/ankushg/home-cluster/commit/1f00cd477a31971da1dcda0812a99b076582106e) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release kubernetes-dashboard to v5.2.0 (#128)"
+
+**2022-02-05** — closed PR [#128](https://github.com/ankushg/home-cluster/pull/128) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release kubernetes-dashboard to v5.2.0"
+
 **2022-02-04** — pushed [`144509ff`](https://github.com/ankushg/home-cluster/commit/144509ffb02229dbd3d7106ae649bf3dd5ccd145) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release kubernetes-dashboard to v5.1.3 (#127)"
 
 **2022-02-04** — deleted branch "renovate/kubernetes-dashboard-5.1.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
@@ -42,12 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-02-04** — closed PR [#125](https://github.com/ankushg/home-cluster/pull/125) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image homeassistant/home-assistant to v2022.2.2"
 
 **2022-02-04** — pushed [`ac526233`](https://github.com/ankushg/home-cluster/commit/ac52623380656d7777e9fa03849dc3b52bca9171) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release cert-manager to v1.7.1 (#126)"
-
-**2022-02-04** — deleted branch "renovate/cert-manager-1.7.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2022-02-04** — closed PR [#126](https://github.com/ankushg/home-cluster/pull/126) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release cert-manager to v1.7.1"
-
-**2022-02-04** — pushed [`cf251272`](https://github.com/ankushg/home-cluster/commit/cf2512724e59ecf94193b2138cc8d7d65f57b5d8) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): upgrade flux components to v0.26.1 (#124)"
 <!-- githubActivity ends -->
 </td></tr></table>
 
