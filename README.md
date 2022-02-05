@@ -29,6 +29,18 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-02-04** — pushed [`3fd4d602`](https://github.com/ankushg/home-cluster/commit/3fd4d6026bfae07ceaaeb36d485cbf2e19a26766) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image homeassistant/home-assistant to v2022.2.2 (#125)"
+
+**2022-02-04** — deleted branch "renovate/home-assistant" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+
+**2022-02-04** — closed PR [#125](https://github.com/ankushg/home-cluster/pull/125) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image homeassistant/home-assistant to v2022.2.2"
+
+**2022-02-04** — pushed [`ac526233`](https://github.com/ankushg/home-cluster/commit/ac52623380656d7777e9fa03849dc3b52bca9171) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release cert-manager to v1.7.1 (#126)"
+
+**2022-02-04** — deleted branch "renovate/cert-manager-1.7.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+
+**2022-02-04** — closed PR [#126](https://github.com/ankushg/home-cluster/pull/126) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release cert-manager to v1.7.1"
+
 **2022-02-04** — pushed [`cf251272`](https://github.com/ankushg/home-cluster/commit/cf2512724e59ecf94193b2138cc8d7d65f57b5d8) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): upgrade flux components to v0.26.1 (#124)"
 
 **2022-02-04** — deleted branch "flux/upgrade-v0.26.1" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
@@ -36,18 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-02-04** — closed PR [#124](https://github.com/ankushg/home-cluster/pull/124) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): upgrade flux components to v0.26.1"
 
 **2022-02-04** — pushed [`2cb27009`](https://github.com/ankushg/home-cluster/commit/2cb27009fcd43d8b329d87913af0bdda2f3f0b4a) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(renovate): make helmrelease ignorepaths more permissive"
-
-**2022-02-03** — commented on [#11](https://github.com/marcjulianschwarz/obsidian-raycast/issues/11#issuecomment-1029358474) in [marcjulianschwarz/obsidian-raycast](https://api.github.com/repos/marcjulianschwarz/obsidian-raycast)
-
-**2022-02-03** — pushed [`7d949e8a`](https://github.com/ankushg/home-cluster/commit/7d949e8af2d2221fe86987fba9474f947b9408ac) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release traefik to v10.14.0 (#123)"
-
-**2022-02-03** — deleted branch "renovate/traefik-10.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2022-02-03** — closed PR [#123](https://github.com/ankushg/home-cluster/pull/123) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release traefik to v10.14.0"
-
-**2022-02-02** — pushed [`6beb12d5`](https://github.com/ankushg/home-cluster/commit/6beb12d54c920b77ed52a900821ffbf97941aef1) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image homeassistant/home-assistant to v2022.2.0 (#122)"
-
-**2022-02-02** — deleted branch "renovate/major-home-assistant" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 <!-- githubActivity ends -->
 </td></tr></table>
 
