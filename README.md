@@ -29,6 +29,12 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-02-04** — pushed [`144509ff`](https://github.com/ankushg/home-cluster/commit/144509ffb02229dbd3d7106ae649bf3dd5ccd145) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release kubernetes-dashboard to v5.1.3 (#127)"
+
+**2022-02-04** — deleted branch "renovate/kubernetes-dashboard-5.1.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+
+**2022-02-04** — closed PR [#127](https://github.com/ankushg/home-cluster/pull/127) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release kubernetes-dashboard to v5.1.3"
+
 **2022-02-04** — pushed [`3fd4d602`](https://github.com/ankushg/home-cluster/commit/3fd4d6026bfae07ceaaeb36d485cbf2e19a26766) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image homeassistant/home-assistant to v2022.2.2 (#125)"
 
 **2022-02-04** — deleted branch "renovate/home-assistant" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
@@ -42,12 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-02-04** — closed PR [#126](https://github.com/ankushg/home-cluster/pull/126) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release cert-manager to v1.7.1"
 
 **2022-02-04** — pushed [`cf251272`](https://github.com/ankushg/home-cluster/commit/cf2512724e59ecf94193b2138cc8d7d65f57b5d8) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): upgrade flux components to v0.26.1 (#124)"
-
-**2022-02-04** — deleted branch "flux/upgrade-v0.26.1" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2022-02-04** — closed PR [#124](https://github.com/ankushg/home-cluster/pull/124) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): upgrade flux components to v0.26.1"
-
-**2022-02-04** — pushed [`2cb27009`](https://github.com/ankushg/home-cluster/commit/2cb27009fcd43d8b329d87913af0bdda2f3f0b4a) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(renovate): make helmrelease ignorepaths more permissive"
 <!-- githubActivity ends -->
 </td></tr></table>
 
