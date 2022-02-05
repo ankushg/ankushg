@@ -29,6 +29,12 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-02-05** — pushed [`7392d190`](https://github.com/ankushg/home-cluster/commit/7392d190ac4e02a0edc7b4ec66bab2520a943ab3) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release traefik to v10.14.0 (#130)"
+
+**2022-02-05** — deleted branch "renovate/traefik-10.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+
+**2022-02-05** — closed PR [#130](https://github.com/ankushg/home-cluster/pull/130) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release traefik to v10.14.0"
+
 **2022-02-05** — pushed [`02df4fc3`](https://github.com/ankushg/home-cluster/commit/02df4fc39ee157bf4c960a437bf82d0591173271) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image docker.io/raspbernetes/cloudflared to v2022.2.0 (#129)"
 
 **2022-02-05** — deleted branch "renovate/docker.io-raspbernetes-cloudflared-2022.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
@@ -42,12 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-02-05** — closed PR [#128](https://github.com/ankushg/home-cluster/pull/128) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release kubernetes-dashboard to v5.2.0"
 
 **2022-02-04** — pushed [`144509ff`](https://github.com/ankushg/home-cluster/commit/144509ffb02229dbd3d7106ae649bf3dd5ccd145) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release kubernetes-dashboard to v5.1.3 (#127)"
-
-**2022-02-04** — deleted branch "renovate/kubernetes-dashboard-5.1.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2022-02-04** — closed PR [#127](https://github.com/ankushg/home-cluster/pull/127) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release kubernetes-dashboard to v5.1.3"
-
-**2022-02-04** — pushed [`3fd4d602`](https://github.com/ankushg/home-cluster/commit/3fd4d6026bfae07ceaaeb36d485cbf2e19a26766) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image homeassistant/home-assistant to v2022.2.2 (#125)"
 <!-- githubActivity ends -->
 </td></tr></table>
 
