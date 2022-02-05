@@ -29,6 +29,12 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-02-05** — pushed [`02df4fc3`](https://github.com/ankushg/home-cluster/commit/02df4fc39ee157bf4c960a437bf82d0591173271) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image docker.io/raspbernetes/cloudflared to v2022.2.0 (#129)"
+
+**2022-02-05** — deleted branch "renovate/docker.io-raspbernetes-cloudflared-2022.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+
+**2022-02-05** — closed PR [#129](https://github.com/ankushg/home-cluster/pull/129) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image docker.io/raspbernetes/cloudflared to v2022.2.0"
+
 **2022-02-05** — deleted branch "renovate/kubernetes-dashboard-5.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
 **2022-02-05** — pushed [`1f00cd47`](https://github.com/ankushg/home-cluster/commit/1f00cd477a31971da1dcda0812a99b076582106e) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release kubernetes-dashboard to v5.2.0 (#128)"
@@ -42,12 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-02-04** — closed PR [#127](https://github.com/ankushg/home-cluster/pull/127) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release kubernetes-dashboard to v5.1.3"
 
 **2022-02-04** — pushed [`3fd4d602`](https://github.com/ankushg/home-cluster/commit/3fd4d6026bfae07ceaaeb36d485cbf2e19a26766) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image homeassistant/home-assistant to v2022.2.2 (#125)"
-
-**2022-02-04** — deleted branch "renovate/home-assistant" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2022-02-04** — closed PR [#125](https://github.com/ankushg/home-cluster/pull/125) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image homeassistant/home-assistant to v2022.2.2"
-
-**2022-02-04** — pushed [`ac526233`](https://github.com/ankushg/home-cluster/commit/ac52623380656d7777e9fa03849dc3b52bca9171) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release cert-manager to v1.7.1 (#126)"
 <!-- githubActivity ends -->
 </td></tr></table>
 
