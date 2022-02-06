@@ -29,6 +29,18 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-02-06** — pushed [`1624d6a7`](https://github.com/ankushg/home-cluster/commit/1624d6a7675ae4d25427b5403625cd8fb6ad15e8) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image chhaley/omada_exporter to v0.2.1 (#132)"
+
+**2022-02-06** — deleted branch "renovate/chhaley-omada_exporter-0.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+
+**2022-02-06** — closed PR [#132](https://github.com/ankushg/home-cluster/pull/132) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image chhaley/omada_exporter to v0.2.1"
+
+**2022-02-06** — pushed [`cd7ea589`](https://github.com/ankushg/home-cluster/commit/cd7ea5893e440d5bd4986ec707f494e84f6cc558) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release omada-exporter to v0.2.1 (#131)"
+
+**2022-02-06** — deleted branch "renovate/omada-exporter-0.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+
+**2022-02-06** — closed PR [#131](https://github.com/ankushg/home-cluster/pull/131) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release omada-exporter to v0.2.1"
+
 **2022-02-05** — pushed [`7392d190`](https://github.com/ankushg/home-cluster/commit/7392d190ac4e02a0edc7b4ec66bab2520a943ab3) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release traefik to v10.14.0 (#130)"
 
 **2022-02-05** — deleted branch "renovate/traefik-10.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
@@ -36,18 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-02-05** — closed PR [#130](https://github.com/ankushg/home-cluster/pull/130) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release traefik to v10.14.0"
 
 **2022-02-05** — pushed [`02df4fc3`](https://github.com/ankushg/home-cluster/commit/02df4fc39ee157bf4c960a437bf82d0591173271) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image docker.io/raspbernetes/cloudflared to v2022.2.0 (#129)"
-
-**2022-02-05** — deleted branch "renovate/docker.io-raspbernetes-cloudflared-2022.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2022-02-05** — closed PR [#129](https://github.com/ankushg/home-cluster/pull/129) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image docker.io/raspbernetes/cloudflared to v2022.2.0"
-
-**2022-02-05** — deleted branch "renovate/kubernetes-dashboard-5.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2022-02-05** — pushed [`1f00cd47`](https://github.com/ankushg/home-cluster/commit/1f00cd477a31971da1dcda0812a99b076582106e) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release kubernetes-dashboard to v5.2.0 (#128)"
-
-**2022-02-05** — closed PR [#128](https://github.com/ankushg/home-cluster/pull/128) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release kubernetes-dashboard to v5.2.0"
-
-**2022-02-04** — pushed [`144509ff`](https://github.com/ankushg/home-cluster/commit/144509ffb02229dbd3d7106ae649bf3dd5ccd145) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release kubernetes-dashboard to v5.1.3 (#127)"
 <!-- githubActivity ends -->
 </td></tr></table>
 
