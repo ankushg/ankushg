@@ -29,25 +29,25 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
-**2022-02-06** — pushed [`1624d6a7`](https://github.com/ankushg/home-cluster/commit/1624d6a7675ae4d25427b5403625cd8fb6ad15e8) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image chhaley/omada_exporter to v0.2.1 (#132)"
+**2022-02-06** — pushed [`2d898940`](https://github.com/ankushg/home-cluster/commit/2d89894033b69cf2095ddc08a9cc8d9c515c77bc) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image homeassistant/home-assistant to v2022.2.3 (#135)"
 
-**2022-02-06** — deleted branch "renovate/chhaley-omada_exporter-0.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+**2022-02-06** — deleted branch "renovate/home-assistant" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
-**2022-02-06** — closed PR [#132](https://github.com/ankushg/home-cluster/pull/132) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image chhaley/omada_exporter to v0.2.1"
+**2022-02-06** — closed PR [#135](https://github.com/ankushg/home-cluster/pull/135) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image homeassistant/home-assistant to v2022.2.3"
 
-**2022-02-06** — pushed [`cd7ea589`](https://github.com/ankushg/home-cluster/commit/cd7ea5893e440d5bd4986ec707f494e84f6cc558) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release omada-exporter to v0.2.1 (#131)"
+**2022-02-06** — pushed [`059de3d9`](https://github.com/ankushg/home-cluster/commit/059de3d9d46ed386dfbe333e6d81f4cc77d6096b) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release omada-exporter to v0.3.0 (#134)"
 
 **2022-02-06** — deleted branch "renovate/omada-exporter-0.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
-**2022-02-06** — closed PR [#131](https://github.com/ankushg/home-cluster/pull/131) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release omada-exporter to v0.2.1"
+**2022-02-06** — closed PR [#134](https://github.com/ankushg/home-cluster/pull/134) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release omada-exporter to v0.3.0"
 
-**2022-02-05** — pushed [`7392d190`](https://github.com/ankushg/home-cluster/commit/7392d190ac4e02a0edc7b4ec66bab2520a943ab3) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release traefik to v10.14.0 (#130)"
+**2022-02-06** — pushed [`0887bca9`](https://github.com/ankushg/home-cluster/commit/0887bca92dcd6051bffdddb89d6e329a3c45c47b) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image chhaley/omada_exporter to v0.3.0 (#133)"
 
-**2022-02-05** — deleted branch "renovate/traefik-10.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+**2022-02-06** — deleted branch "renovate/chhaley-omada_exporter-0.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
-**2022-02-05** — closed PR [#130](https://github.com/ankushg/home-cluster/pull/130) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release traefik to v10.14.0"
+**2022-02-06** — closed PR [#133](https://github.com/ankushg/home-cluster/pull/133) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image chhaley/omada_exporter to v0.3.0"
 
-**2022-02-05** — pushed [`02df4fc3`](https://github.com/ankushg/home-cluster/commit/02df4fc39ee157bf4c960a437bf82d0591173271) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image docker.io/raspbernetes/cloudflared to v2022.2.0 (#129)"
+**2022-02-06** — pushed [`1624d6a7`](https://github.com/ankushg/home-cluster/commit/1624d6a7675ae4d25427b5403625cd8fb6ad15e8) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image chhaley/omada_exporter to v0.2.1 (#132)"
 <!-- githubActivity ends -->
 </td></tr></table>
 
