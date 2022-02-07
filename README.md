@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-02-07** — opened issue [#180](https://github.com/kepano/obsidian-minimal/issues/180) on [kepano/obsidian-minimal](https://api.github.com/repos/kepano/obsidian-minimal): " Folder Open/close icon has very low contrast when background context is set to high contrast"
+
 **2022-02-06** — pushed [`2d898940`](https://github.com/ankushg/home-cluster/commit/2d89894033b69cf2095ddc08a9cc8d9c515c77bc) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image homeassistant/home-assistant to v2022.2.3 (#135)"
 
 **2022-02-06** — deleted branch "renovate/home-assistant" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-02-06** — deleted branch "renovate/chhaley-omada_exporter-0.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
 **2022-02-06** — closed PR [#133](https://github.com/ankushg/home-cluster/pull/133) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image chhaley/omada_exporter to v0.3.0"
-
-**2022-02-06** — pushed [`1624d6a7`](https://github.com/ankushg/home-cluster/commit/1624d6a7675ae4d25427b5403625cd8fb6ad15e8) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image chhaley/omada_exporter to v0.2.1 (#132)"
 <!-- githubActivity ends -->
 </td></tr></table>
 
