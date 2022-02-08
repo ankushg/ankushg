@@ -29,25 +29,25 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-02-08** — opened issue [#217](https://github.com/k8s-at-home/template-cluster-k3s/issues/217) on [k8s-at-home/template-cluster-k3s](https://api.github.com/repos/k8s-at-home/template-cluster-k3s): "renovatebot flux update fails kubeval lint checks"
+
+**2022-02-08** — opened issue [#139](https://github.com/ankushg/home-cluster/issues/139) on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "Migrate from tailscale to cloudflare tunnels"
+
+**2022-02-08** — pushed [`2607f629`](https://github.com/ankushg/home-cluster/commit/2607f6299168912df539389dd88c876ffe2b0acb) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release metrics-server to v3.8.0 (#138)"
+
+**2022-02-08** — deleted branch "renovate/metrics-server-3.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+
+**2022-02-08** — closed PR [#138](https://github.com/ankushg/home-cluster/pull/138) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release metrics-server to v3.8.0"
+
+**2022-02-08** — closed PR [#136](https://github.com/ankushg/home-cluster/pull/136) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): upgrade flux components to v0.26.2"
+
+**2022-02-08** — pushed 2 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
+
 **2022-02-07** — opened issue [#180](https://github.com/kepano/obsidian-minimal/issues/180) on [kepano/obsidian-minimal](https://api.github.com/repos/kepano/obsidian-minimal): " Folder Open/close icon has very low contrast when background context is set to high contrast"
 
 **2022-02-06** — pushed [`2d898940`](https://github.com/ankushg/home-cluster/commit/2d89894033b69cf2095ddc08a9cc8d9c515c77bc) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image homeassistant/home-assistant to v2022.2.3 (#135)"
 
 **2022-02-06** — deleted branch "renovate/home-assistant" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2022-02-06** — closed PR [#135](https://github.com/ankushg/home-cluster/pull/135) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image homeassistant/home-assistant to v2022.2.3"
-
-**2022-02-06** — pushed [`059de3d9`](https://github.com/ankushg/home-cluster/commit/059de3d9d46ed386dfbe333e6d81f4cc77d6096b) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release omada-exporter to v0.3.0 (#134)"
-
-**2022-02-06** — deleted branch "renovate/omada-exporter-0.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2022-02-06** — closed PR [#134](https://github.com/ankushg/home-cluster/pull/134) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release omada-exporter to v0.3.0"
-
-**2022-02-06** — pushed [`0887bca9`](https://github.com/ankushg/home-cluster/commit/0887bca92dcd6051bffdddb89d6e329a3c45c47b) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image chhaley/omada_exporter to v0.3.0 (#133)"
-
-**2022-02-06** — deleted branch "renovate/chhaley-omada_exporter-0.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2022-02-06** — closed PR [#133](https://github.com/ankushg/home-cluster/pull/133) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image chhaley/omada_exporter to v0.3.0"
 <!-- githubActivity ends -->
 </td></tr></table>
 
