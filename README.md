@@ -29,25 +29,25 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
-**2022-02-08** — opened issue [#217](https://github.com/k8s-at-home/template-cluster-k3s/issues/217) on [k8s-at-home/template-cluster-k3s](https://api.github.com/repos/k8s-at-home/template-cluster-k3s): "renovatebot flux update fails kubeval lint checks"
+**2022-02-14** — pushed [`86d80990`](https://github.com/ankushg/home-cluster/commit/86d80990411d4f44bd38182b9ac85149151df3f4) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release traefik to v10.14.1 (#142)"
 
-**2022-02-08** — opened issue [#139](https://github.com/ankushg/home-cluster/issues/139) on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "Migrate from tailscale to cloudflare tunnels"
+**2022-02-14** — deleted branch "renovate/traefik-10.14.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
-**2022-02-08** — pushed [`2607f629`](https://github.com/ankushg/home-cluster/commit/2607f6299168912df539389dd88c876ffe2b0acb) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release metrics-server to v3.8.0 (#138)"
+**2022-02-14** — closed PR [#142](https://github.com/ankushg/home-cluster/pull/142) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release traefik to v10.14.1"
 
-**2022-02-08** — deleted branch "renovate/metrics-server-3.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+**2022-02-14** — deleted branch "renovate/home-assistant" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
-**2022-02-08** — closed PR [#138](https://github.com/ankushg/home-cluster/pull/138) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release metrics-server to v3.8.0"
+**2022-02-14** — closed PR [#140](https://github.com/ankushg/home-cluster/pull/140) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image homeassistant/home-assistant to v2022.2.6"
 
-**2022-02-08** — closed PR [#136](https://github.com/ankushg/home-cluster/pull/136) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): upgrade flux components to v0.26.2"
+**2022-02-14** — pushed [`012c7465`](https://github.com/ankushg/home-cluster/commit/012c7465fc4b82d58b419d35a61fb28f804899bb) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image homeassistant/home-assistant to v2022.2.6 (#140)"
 
-**2022-02-08** — pushed 2 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
+**2022-02-14** — pushed [`938031df`](https://github.com/ankushg/home-cluster/commit/938031dfd4b52d342e95c4adaac2085049e12abd) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release metrics-server to v3.8.1 (#141)"
 
-**2022-02-07** — opened issue [#180](https://github.com/kepano/obsidian-minimal/issues/180) on [kepano/obsidian-minimal](https://api.github.com/repos/kepano/obsidian-minimal): " Folder Open/close icon has very low contrast when background context is set to high contrast"
+**2022-02-14** — deleted branch "renovate/metrics-server-3.8.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
-**2022-02-06** — pushed [`2d898940`](https://github.com/ankushg/home-cluster/commit/2d89894033b69cf2095ddc08a9cc8d9c515c77bc) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image homeassistant/home-assistant to v2022.2.3 (#135)"
+**2022-02-14** — closed PR [#141](https://github.com/ankushg/home-cluster/pull/141) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release metrics-server to v3.8.1"
 
-**2022-02-06** — deleted branch "renovate/home-assistant" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+**2022-02-14** — pushed [`2e55fa41`](https://github.com/ankushg/home-cluster/commit/2e55fa41074c045edc6767f288a751910d7f7948) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release reloader to v0.0.105 (#143)"
 <!-- githubActivity ends -->
 </td></tr></table>
 
