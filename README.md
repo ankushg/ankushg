@@ -29,25 +29,25 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-02-15** — pushed [`8a0841dd`](https://github.com/ankushg/home-cluster/commit/8a0841dd3b3951033f50c58688ddc008f01878a8) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore: change chart intervals from 15m to 30m"
+
+**2022-02-15** — pushed [`68952c2d`](https://github.com/ankushg/home-cluster/commit/68952c2d7d618f6f4ff5acdbe91b670ebefc8d6f) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update pre-commit hook lucas-c/pre-commit-hooks to v1.1.12 (#144)"
+
+**2022-02-15** — deleted branch "renovate/lucas-c-pre-commit-hooks-1.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+
+**2022-02-15** — closed PR [#144](https://github.com/ankushg/home-cluster/pull/144) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update pre-commit hook lucas-c/pre-commit-hooks to v1.1.12"
+
+**2022-02-15** — pushed [`d2781b5a`](https://github.com/ankushg/home-cluster/commit/d2781b5ac2513b03ab4368ebb85bdeba9e49383c) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(k3s): k3s 1.23"
+
+**2022-02-15** — pushed [`f88a1b5a`](https://github.com/ankushg/home-cluster/commit/f88a1b5ae3cfe9925b5f983806ee54657071b489) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(renovate): accidentally broke config"
+
+**2022-02-15** — pushed 4 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
+
 **2022-02-14** — pushed [`86d80990`](https://github.com/ankushg/home-cluster/commit/86d80990411d4f44bd38182b9ac85149151df3f4) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release traefik to v10.14.1 (#142)"
 
 **2022-02-14** — deleted branch "renovate/traefik-10.14.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
 **2022-02-14** — closed PR [#142](https://github.com/ankushg/home-cluster/pull/142) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release traefik to v10.14.1"
-
-**2022-02-14** — deleted branch "renovate/home-assistant" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2022-02-14** — closed PR [#140](https://github.com/ankushg/home-cluster/pull/140) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image homeassistant/home-assistant to v2022.2.6"
-
-**2022-02-14** — pushed [`012c7465`](https://github.com/ankushg/home-cluster/commit/012c7465fc4b82d58b419d35a61fb28f804899bb) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image homeassistant/home-assistant to v2022.2.6 (#140)"
-
-**2022-02-14** — pushed [`938031df`](https://github.com/ankushg/home-cluster/commit/938031dfd4b52d342e95c4adaac2085049e12abd) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release metrics-server to v3.8.1 (#141)"
-
-**2022-02-14** — deleted branch "renovate/metrics-server-3.8.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2022-02-14** — closed PR [#141](https://github.com/ankushg/home-cluster/pull/141) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release metrics-server to v3.8.1"
-
-**2022-02-14** — pushed [`2e55fa41`](https://github.com/ankushg/home-cluster/commit/2e55fa41074c045edc6767f288a751910d7f7948) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release reloader to v0.0.105 (#143)"
 <!-- githubActivity ends -->
 </td></tr></table>
 
