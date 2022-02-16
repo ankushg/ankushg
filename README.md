@@ -29,6 +29,10 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-02-15** — pushed [`55e81ffe`](https://github.com/ankushg/home-cluster/commit/55e81ffe7aeb32a5e286e718e324d5561d052670) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "feat(hass): env vars as secrets"
+
+**2022-02-15** — pushed [`e4b6836b`](https://github.com/ankushg/home-cluster/commit/e4b6836bbee7b3050cae883ddbed3b3f54bf4411) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(hass): roll back images to code-server 3.12.0, home-assistant helm chart 11.2.1"
+
 **2022-02-15** — pushed [`f0f4b8a0`](https://github.com/ankushg/home-cluster/commit/f0f4b8a078ce57a002e493f6e3a523e8bea0c733) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "feat(echo-serer): add echo server"
 
 **2022-02-15** — pushed [`8a0841dd`](https://github.com/ankushg/home-cluster/commit/8a0841dd3b3951033f50c58688ddc008f01878a8) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore: change chart intervals from 15m to 30m"
@@ -44,10 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-02-15** — pushed [`f88a1b5a`](https://github.com/ankushg/home-cluster/commit/f88a1b5ae3cfe9925b5f983806ee54657071b489) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(renovate): accidentally broke config"
 
 **2022-02-15** — pushed 4 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
-
-**2022-02-14** — pushed [`86d80990`](https://github.com/ankushg/home-cluster/commit/86d80990411d4f44bd38182b9ac85149151df3f4) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release traefik to v10.14.1 (#142)"
-
-**2022-02-14** — deleted branch "renovate/traefik-10.14.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 <!-- githubActivity ends -->
 </td></tr></table>
 
