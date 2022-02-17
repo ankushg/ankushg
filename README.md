@@ -29,6 +29,16 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-02-17** — opened PR [#44](https://github.com/rickclephas/KMP-NativeCoroutines/pull/44) to [rickclephas/KMP-NativeCoroutines](https://api.github.com/repos/rickclephas/KMP-NativeCoroutines): "Use atomicfu instead of Kotlin/Native for AtomicInts in test cases"
+
+**2022-02-17** — created branch "ankush/atomicfu" on [ankushg/KMP-NativeCoroutines](https://api.github.com/repos/ankushg/KMP-NativeCoroutines)
+
+**2022-02-17** — pushed [`2b68e043`](https://github.com/ankushg/home-cluster/commit/2b68e0434ab0bace2a120d97fb685593a3a503c9) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image ghcr.io/home-assistant/home-assistant to v2022.2.8 (#148)"
+
+**2022-02-17** — deleted branch "renovate/home-assistant" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+
+**2022-02-17** — closed PR [#148](https://github.com/ankushg/home-cluster/pull/148) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image ghcr.io/home-assistant/home-assistant to v2022.2.8"
+
 **2022-02-16** — opened PR [#43](https://github.com/rickclephas/KMP-NativeCoroutines/pull/43) to [rickclephas/KMP-NativeCoroutines](https://api.github.com/repos/rickclephas/KMP-NativeCoroutines): "[WIP] JS Support"
 
 **2022-02-16** — created branch "feat/js-support" on [ankushg/KMP-NativeCoroutines](https://api.github.com/repos/ankushg/KMP-NativeCoroutines)
@@ -38,16 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-02-16** — deleted branch "renovate/home-assistant" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
 **2022-02-16** — closed PR [#145](https://github.com/ankushg/home-cluster/pull/145) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image ghcr.io/home-assistant/home-assistant to v2022.2.7"
-
-**2022-02-16** — pushed [`fa271ff8`](https://github.com/ankushg/home-cluster/commit/fa271ff8b336fcb7471b936f09ea6f9ed11a1aca) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update dependency fluxcd/flux2 to v0.27.0 (#146)"
-
-**2022-02-16** — closed PR [#146](https://github.com/ankushg/home-cluster/pull/146) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update dependency fluxcd/flux2 to v0.27.0"
-
-**2022-02-16** — deleted branch "renovate/fluxcd-flux2-0.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2022-02-16** — deleted branch "renovate/metallb-0.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2022-02-16** — closed PR [#147](https://github.com/ankushg/home-cluster/pull/147) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release metallb to v0.12.1"
 <!-- githubActivity ends -->
 </td></tr></table>
 
