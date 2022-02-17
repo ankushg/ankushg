@@ -29,6 +29,18 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-02-17** — opened PR [#46](https://github.com/rickclephas/KMP-NativeCoroutines/pull/46) to [rickclephas/KMP-NativeCoroutines](https://api.github.com/repos/rickclephas/KMP-NativeCoroutines): "[WIP] Migrate from runBlocking to kotlinx-coroutines-test"
+
+**2022-02-17** — created branch "feat/kotlinx-coroutines-test" on [ankushg/KMP-NativeCoroutines](https://api.github.com/repos/ankushg/KMP-NativeCoroutines)
+
+**2022-02-17** — pushed [`92fb6372`](https://github.com/ankushg/KMP-NativeCoroutines/commit/92fb6372905b8f7c70cc4fc93a3920205997c475) to [ankushg/KMP-NativeCoroutines](https://api.github.com/repos/ankushg/KMP-NativeCoroutines): "move tests from appleTest to supportedTargetTest"
+
+**2022-02-17** — opened PR [#45](https://github.com/rickclephas/KMP-NativeCoroutines/pull/45) to [rickclephas/KMP-NativeCoroutines](https://api.github.com/repos/rickclephas/KMP-NativeCoroutines): "Create intermediate sourceset to share between Apple and non-Apple targets"
+
+**2022-02-17** — created branch "feat/supportedTarget" on [ankushg/KMP-NativeCoroutines](https://api.github.com/repos/ankushg/KMP-NativeCoroutines)
+
+**2022-02-17** — commented on [#3195](https://github.com/Kotlin/kotlinx.coroutines/issues/3195#issuecomment-1043357607) in [Kotlin/kotlinx.coroutines](https://api.github.com/repos/Kotlin/kotlinx.coroutines)
+
 **2022-02-17** — pushed [`a489954c`](https://github.com/ankushg/KMP-NativeCoroutines/commit/a489954c5ac66f64c96bc70055dd7c47e371bafe) to [ankushg/KMP-NativeCoroutines](https://api.github.com/repos/ankushg/KMP-NativeCoroutines): "move atomicfu to commonTest"
 
 **2022-02-17** — opened PR [#44](https://github.com/rickclephas/KMP-NativeCoroutines/pull/44) to [rickclephas/KMP-NativeCoroutines](https://api.github.com/repos/rickclephas/KMP-NativeCoroutines): "Use atomicfu instead of Kotlin/Native for AtomicInts in test cases"
@@ -36,18 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-02-17** — created branch "ankush/atomicfu" on [ankushg/KMP-NativeCoroutines](https://api.github.com/repos/ankushg/KMP-NativeCoroutines)
 
 **2022-02-17** — pushed [`2b68e043`](https://github.com/ankushg/home-cluster/commit/2b68e0434ab0bace2a120d97fb685593a3a503c9) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image ghcr.io/home-assistant/home-assistant to v2022.2.8 (#148)"
-
-**2022-02-17** — deleted branch "renovate/home-assistant" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2022-02-17** — closed PR [#148](https://github.com/ankushg/home-cluster/pull/148) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image ghcr.io/home-assistant/home-assistant to v2022.2.8"
-
-**2022-02-16** — opened PR [#43](https://github.com/rickclephas/KMP-NativeCoroutines/pull/43) to [rickclephas/KMP-NativeCoroutines](https://api.github.com/repos/rickclephas/KMP-NativeCoroutines): "[WIP] JS Support"
-
-**2022-02-16** — created branch "feat/js-support" on [ankushg/KMP-NativeCoroutines](https://api.github.com/repos/ankushg/KMP-NativeCoroutines)
-
-**2022-02-16** — pushed [`9f6db698`](https://github.com/ankushg/home-cluster/commit/9f6db6987a45685936917b07eb637ddf857e23e5) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image ghcr.io/home-assistant/home-assistant to v2022.2.7 (#145)"
-
-**2022-02-16** — deleted branch "renovate/home-assistant" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 <!-- githubActivity ends -->
 </td></tr></table>
 
