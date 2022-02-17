@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-02-17** — pushed 15 commits to [ankushg/KMP-NativeCoroutines](https://api.github.com/repos/ankushg/KMP-NativeCoroutines).
+
 **2022-02-17** — deleted branch "ankush/atomicfu" on [ankushg/KMP-NativeCoroutines](https://api.github.com/repos/ankushg/KMP-NativeCoroutines)
 
 **2022-02-17** — opened PR [#46](https://github.com/rickclephas/KMP-NativeCoroutines/pull/46) to [rickclephas/KMP-NativeCoroutines](https://api.github.com/repos/rickclephas/KMP-NativeCoroutines): "[WIP] Migrate from runBlocking to kotlinx-coroutines-test"
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-02-17** — pushed [`a489954c`](https://github.com/ankushg/KMP-NativeCoroutines/commit/a489954c5ac66f64c96bc70055dd7c47e371bafe) to [ankushg/KMP-NativeCoroutines](https://api.github.com/repos/ankushg/KMP-NativeCoroutines): "move atomicfu to commonTest"
 
 **2022-02-17** — opened PR [#44](https://github.com/rickclephas/KMP-NativeCoroutines/pull/44) to [rickclephas/KMP-NativeCoroutines](https://api.github.com/repos/rickclephas/KMP-NativeCoroutines): "Use atomicfu instead of Kotlin/Native for AtomicInts in test cases"
-
-**2022-02-17** — created branch "ankush/atomicfu" on [ankushg/KMP-NativeCoroutines](https://api.github.com/repos/ankushg/KMP-NativeCoroutines)
 <!-- githubActivity ends -->
 </td></tr></table>
 
