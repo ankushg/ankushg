@@ -29,6 +29,10 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-02-17** — pushed 7 commits to [ankushg/KMP-NativeCoroutines](https://api.github.com/repos/ankushg/KMP-NativeCoroutines).
+
+**2022-02-17** — pushed [`66c11d26`](https://github.com/ankushg/KMP-NativeCoroutines/commit/66c11d264b698b685f1cdee8eb9bc5970b5127b2) to [ankushg/KMP-NativeCoroutines](https://api.github.com/repos/ankushg/KMP-NativeCoroutines): "extract coroutinesVersion"
+
 **2022-02-17** — pushed 15 commits to [ankushg/KMP-NativeCoroutines](https://api.github.com/repos/ankushg/KMP-NativeCoroutines).
 
 **2022-02-17** — deleted branch "ankush/atomicfu" on [ankushg/KMP-NativeCoroutines](https://api.github.com/repos/ankushg/KMP-NativeCoroutines)
@@ -44,10 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-02-17** — created branch "feat/supportedTarget" on [ankushg/KMP-NativeCoroutines](https://api.github.com/repos/ankushg/KMP-NativeCoroutines)
 
 **2022-02-17** — commented on [#3195](https://github.com/Kotlin/kotlinx.coroutines/issues/3195#issuecomment-1043357607) in [Kotlin/kotlinx.coroutines](https://api.github.com/repos/Kotlin/kotlinx.coroutines)
-
-**2022-02-17** — pushed [`a489954c`](https://github.com/ankushg/KMP-NativeCoroutines/commit/a489954c5ac66f64c96bc70055dd7c47e371bafe) to [ankushg/KMP-NativeCoroutines](https://api.github.com/repos/ankushg/KMP-NativeCoroutines): "move atomicfu to commonTest"
-
-**2022-02-17** — opened PR [#44](https://github.com/rickclephas/KMP-NativeCoroutines/pull/44) to [rickclephas/KMP-NativeCoroutines](https://api.github.com/repos/rickclephas/KMP-NativeCoroutines): "Use atomicfu instead of Kotlin/Native for AtomicInts in test cases"
 <!-- githubActivity ends -->
 </td></tr></table>
 
