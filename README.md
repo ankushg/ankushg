@@ -29,6 +29,12 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-02-18** — pushed [`86c79c98`](https://github.com/ankushg/home-cluster/commit/86c79c983c0d642856bfa0fbfbf8c2dd038f1343) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release traefik to v10.14.2 (#149)"
+
+**2022-02-18** — deleted branch "renovate/traefik-10.14.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+
+**2022-02-18** — closed PR [#149](https://github.com/ankushg/home-cluster/pull/149) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release traefik to v10.14.2"
+
 **2022-02-17** — pushed 7 commits to [ankushg/KMP-NativeCoroutines](https://api.github.com/repos/ankushg/KMP-NativeCoroutines).
 
 **2022-02-17** — pushed [`66c11d26`](https://github.com/ankushg/KMP-NativeCoroutines/commit/66c11d264b698b685f1cdee8eb9bc5970b5127b2) to [ankushg/KMP-NativeCoroutines](https://api.github.com/repos/ankushg/KMP-NativeCoroutines): "extract coroutinesVersion"
@@ -42,12 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-02-17** — created branch "feat/kotlinx-coroutines-test" on [ankushg/KMP-NativeCoroutines](https://api.github.com/repos/ankushg/KMP-NativeCoroutines)
 
 **2022-02-17** — pushed [`92fb6372`](https://github.com/ankushg/KMP-NativeCoroutines/commit/92fb6372905b8f7c70cc4fc93a3920205997c475) to [ankushg/KMP-NativeCoroutines](https://api.github.com/repos/ankushg/KMP-NativeCoroutines): "move tests from appleTest to supportedTargetTest"
-
-**2022-02-17** — opened PR [#45](https://github.com/rickclephas/KMP-NativeCoroutines/pull/45) to [rickclephas/KMP-NativeCoroutines](https://api.github.com/repos/rickclephas/KMP-NativeCoroutines): "Create intermediate sourceset to share between Apple and non-Apple targets"
-
-**2022-02-17** — created branch "feat/supportedTarget" on [ankushg/KMP-NativeCoroutines](https://api.github.com/repos/ankushg/KMP-NativeCoroutines)
-
-**2022-02-17** — commented on [#3195](https://github.com/Kotlin/kotlinx.coroutines/issues/3195#issuecomment-1043357607) in [Kotlin/kotlinx.coroutines](https://api.github.com/repos/Kotlin/kotlinx.coroutines)
 <!-- githubActivity ends -->
 </td></tr></table>
 
