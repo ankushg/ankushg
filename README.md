@@ -29,6 +29,18 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-02-19** — deleted branch "renovate/home-assistant" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+
+**2022-02-19** — pushed [`37bf5d66`](https://github.com/ankushg/home-cluster/commit/37bf5d669a3e754b25ab0931caa75324bb2341b2) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image ghcr.io/home-assistant/home-assistant to v2022.2.9 (#150)"
+
+**2022-02-19** — closed PR [#150](https://github.com/ankushg/home-cluster/pull/150) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image ghcr.io/home-assistant/home-assistant to v2022.2.9"
+
+**2022-02-19** — closed PR [#152](https://github.com/ankushg/home-cluster/pull/152) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image docker.io/raspbernetes/cloudflared to v2022.2.1"
+
+**2022-02-19** — deleted branch "renovate/docker.io-raspbernetes-cloudflared-2022.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+
+**2022-02-19** — pushed [`8c39622c`](https://github.com/ankushg/home-cluster/commit/8c39622cd8e13b4ba668a90dfc4e71198c16d352) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image docker.io/raspbernetes/cloudflared to v2022.2.1 (#152)"
+
 **2022-02-18** — pushed [`7de411f8`](https://github.com/ankushg/KMP-NativeCoroutines/commit/7de411f889bec50272043421632a2b6b98958c63) to [ankushg/KMP-NativeCoroutines](https://api.github.com/repos/ankushg/KMP-NativeCoroutines): "move NativeError.kotlinCause from main to test"
 
 **2022-02-18** — pushed [`86c79c98`](https://github.com/ankushg/home-cluster/commit/86c79c983c0d642856bfa0fbfbf8c2dd038f1343) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release traefik to v10.14.2 (#149)"
@@ -36,18 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-02-18** — deleted branch "renovate/traefik-10.14.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
 **2022-02-18** — closed PR [#149](https://github.com/ankushg/home-cluster/pull/149) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release traefik to v10.14.2"
-
-**2022-02-17** — pushed 7 commits to [ankushg/KMP-NativeCoroutines](https://api.github.com/repos/ankushg/KMP-NativeCoroutines).
-
-**2022-02-17** — pushed [`66c11d26`](https://github.com/ankushg/KMP-NativeCoroutines/commit/66c11d264b698b685f1cdee8eb9bc5970b5127b2) to [ankushg/KMP-NativeCoroutines](https://api.github.com/repos/ankushg/KMP-NativeCoroutines): "extract coroutinesVersion"
-
-**2022-02-17** — pushed 15 commits to [ankushg/KMP-NativeCoroutines](https://api.github.com/repos/ankushg/KMP-NativeCoroutines).
-
-**2022-02-17** — deleted branch "ankush/atomicfu" on [ankushg/KMP-NativeCoroutines](https://api.github.com/repos/ankushg/KMP-NativeCoroutines)
-
-**2022-02-17** — opened PR [#46](https://github.com/rickclephas/KMP-NativeCoroutines/pull/46) to [rickclephas/KMP-NativeCoroutines](https://api.github.com/repos/rickclephas/KMP-NativeCoroutines): "[WIP] Migrate from runBlocking to kotlinx-coroutines-test"
-
-**2022-02-17** — created branch "feat/kotlinx-coroutines-test" on [ankushg/KMP-NativeCoroutines](https://api.github.com/repos/ankushg/KMP-NativeCoroutines)
 <!-- githubActivity ends -->
 </td></tr></table>
 
