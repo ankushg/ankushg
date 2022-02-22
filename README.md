@@ -29,6 +29,10 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-02-22** — deleted branch "feat/kotlinx-coroutines-test" on [ankushg/KMP-NativeCoroutines](https://api.github.com/repos/ankushg/KMP-NativeCoroutines)
+
+**2022-02-22** — pushed 2 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
+
 **2022-02-19** — deleted branch "renovate/home-assistant" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
 **2022-02-19** — pushed [`37bf5d66`](https://github.com/ankushg/home-cluster/commit/37bf5d669a3e754b25ab0931caa75324bb2341b2) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image ghcr.io/home-assistant/home-assistant to v2022.2.9 (#150)"
@@ -44,10 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-02-18** — pushed [`7de411f8`](https://github.com/ankushg/KMP-NativeCoroutines/commit/7de411f889bec50272043421632a2b6b98958c63) to [ankushg/KMP-NativeCoroutines](https://api.github.com/repos/ankushg/KMP-NativeCoroutines): "move NativeError.kotlinCause from main to test"
 
 **2022-02-18** — pushed [`86c79c98`](https://github.com/ankushg/home-cluster/commit/86c79c983c0d642856bfa0fbfbf8c2dd038f1343) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release traefik to v10.14.2 (#149)"
-
-**2022-02-18** — deleted branch "renovate/traefik-10.14.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2022-02-18** — closed PR [#149](https://github.com/ankushg/home-cluster/pull/149) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release traefik to v10.14.2"
 <!-- githubActivity ends -->
 </td></tr></table>
 
