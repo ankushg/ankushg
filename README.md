@@ -29,6 +29,16 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-02-22** — commented on [#48](https://github.com/rickclephas/KMP-NativeCoroutines/pull/48#issuecomment-1048215413) in [rickclephas/KMP-NativeCoroutines](https://api.github.com/repos/rickclephas/KMP-NativeCoroutines)
+
+**2022-02-22** — commented on [#48](https://github.com/rickclephas/KMP-NativeCoroutines/pull/48#issuecomment-1048214933) in [rickclephas/KMP-NativeCoroutines](https://api.github.com/repos/rickclephas/KMP-NativeCoroutines)
+
+**2022-02-22** — opened PR [#48](https://github.com/rickclephas/KMP-NativeCoroutines/pull/48) to [rickclephas/KMP-NativeCoroutines](https://api.github.com/repos/rickclephas/KMP-NativeCoroutines): "Add JS as a target for kmp-nativecoroutines-core"
+
+**2022-02-22** — pushed [`abd1248c`](https://github.com/ankushg/KMP-NativeCoroutines/commit/abd1248cbfc1bffbe7c708f6e0309ac983612fc4) to [ankushg/KMP-NativeCoroutines](https://api.github.com/repos/ankushg/KMP-NativeCoroutines): "add js as a target to kmp-nativecoroutines-core"
+
+**2022-02-22** — created branch "ankush/add-js-target" on [ankushg/KMP-NativeCoroutines](https://api.github.com/repos/ankushg/KMP-NativeCoroutines)
+
 **2022-02-22** — deleted branch "feat/kotlinx-coroutines-test" on [ankushg/KMP-NativeCoroutines](https://api.github.com/repos/ankushg/KMP-NativeCoroutines)
 
 **2022-02-22** — pushed 2 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
@@ -38,16 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-02-19** — pushed [`37bf5d66`](https://github.com/ankushg/home-cluster/commit/37bf5d669a3e754b25ab0931caa75324bb2341b2) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image ghcr.io/home-assistant/home-assistant to v2022.2.9 (#150)"
 
 **2022-02-19** — closed PR [#150](https://github.com/ankushg/home-cluster/pull/150) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image ghcr.io/home-assistant/home-assistant to v2022.2.9"
-
-**2022-02-19** — closed PR [#152](https://github.com/ankushg/home-cluster/pull/152) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image docker.io/raspbernetes/cloudflared to v2022.2.1"
-
-**2022-02-19** — deleted branch "renovate/docker.io-raspbernetes-cloudflared-2022.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2022-02-19** — pushed [`8c39622c`](https://github.com/ankushg/home-cluster/commit/8c39622cd8e13b4ba668a90dfc4e71198c16d352) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image docker.io/raspbernetes/cloudflared to v2022.2.1 (#152)"
-
-**2022-02-18** — pushed [`7de411f8`](https://github.com/ankushg/KMP-NativeCoroutines/commit/7de411f889bec50272043421632a2b6b98958c63) to [ankushg/KMP-NativeCoroutines](https://api.github.com/repos/ankushg/KMP-NativeCoroutines): "move NativeError.kotlinCause from main to test"
-
-**2022-02-18** — pushed [`86c79c98`](https://github.com/ankushg/home-cluster/commit/86c79c983c0d642856bfa0fbfbf8c2dd038f1343) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release traefik to v10.14.2 (#149)"
 <!-- githubActivity ends -->
 </td></tr></table>
 
