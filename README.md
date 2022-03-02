@@ -29,25 +29,25 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-03-01** — deleted branch "renovate/fluxcd-flux2-0.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+
+**2022-03-01** — pushed [`eb1ac21c`](https://github.com/ankushg/home-cluster/commit/eb1ac21cc2495a477dfe0e6ac52832f2eb67c138) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update dependency fluxcd/flux2 to v0.27.3 (#161)"
+
+**2022-03-01** — closed PR [#161](https://github.com/ankushg/home-cluster/pull/161) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update dependency fluxcd/flux2 to v0.27.3"
+
+**2022-03-01** — deleted branch "renovate/reloader-0.0.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+
+**2022-03-01** — closed PR [#160](https://github.com/ankushg/home-cluster/pull/160) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release reloader to v0.0.108"
+
+**2022-03-01** — pushed [`5c24148f`](https://github.com/ankushg/home-cluster/commit/5c24148f682104acb4a71e7fc85ea96c29c25b95) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release reloader to v0.0.108 (#160)"
+
+**2022-03-01** — closed PR [#159](https://github.com/ankushg/home-cluster/pull/159) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release blocky to v10.1.1"
+
+**2022-03-01** — pushed [`86d0f952`](https://github.com/ankushg/home-cluster/commit/86d0f95254850556f5db578384ce4f52e0b3a2b8) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release blocky to v10.1.1 (#159)"
+
+**2022-03-01** — deleted branch "renovate/patch-blocky" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+
 **2022-02-25** — pushed [`4e57adf5`](https://github.com/ankushg/home-cluster/commit/4e57adf5d6a3b6be5c16ab3bffe9f4d0fb11980c) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release metrics-server to v3.8.2 (#158)"
-
-**2022-02-25** — deleted branch "renovate/metrics-server-3.8.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2022-02-25** — closed PR [#158](https://github.com/ankushg/home-cluster/pull/158) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release metrics-server to v3.8.2"
-
-**2022-02-25** — deleted branch "renovate/docker.io-raspbernetes-cloudflared-2022.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2022-02-25** — pushed [`f6fd7336`](https://github.com/ankushg/home-cluster/commit/f6fd73365f1de6db1dc29976860f96ca69ae8edc) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image docker.io/raspbernetes/cloudflared to v2022.2.2 (#156)"
-
-**2022-02-25** — closed PR [#156](https://github.com/ankushg/home-cluster/pull/156) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image docker.io/raspbernetes/cloudflared to v2022.2.2"
-
-**2022-02-25** — pushed [`6c3c6966`](https://github.com/ankushg/home-cluster/commit/6c3c6966a0f01d258b9b688019c8aee55bbf44da) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update pre-commit hook zricethezav/gitleaks to v8.3.0 (#155)"
-
-**2022-02-25** — deleted branch "renovate/zricethezav-gitleaks-8.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2022-02-25** — closed PR [#155](https://github.com/ankushg/home-cluster/pull/155) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update pre-commit hook zricethezav/gitleaks to v8.3.0"
-
-**2022-02-25** — deleted branch "renovate/blocky" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 <!-- githubActivity ends -->
 </td></tr></table>
 
