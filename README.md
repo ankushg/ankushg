@@ -29,6 +29,12 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-03-01** — pushed [`3f6c2486`](https://github.com/ankushg/home-cluster/commit/3f6c24867f7093d332901262ab450d390f900692) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update actions/checkout action to v3 (#162)"
+
+**2022-03-01** — deleted branch "renovate/actions-checkout-3.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+
+**2022-03-01** — closed PR [#162](https://github.com/ankushg/home-cluster/pull/162) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update actions/checkout action to v3"
+
 **2022-03-01** — deleted branch "renovate/fluxcd-flux2-0.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
 **2022-03-01** — pushed [`eb1ac21c`](https://github.com/ankushg/home-cluster/commit/eb1ac21cc2495a477dfe0e6ac52832f2eb67c138) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update dependency fluxcd/flux2 to v0.27.3 (#161)"
@@ -42,12 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-03-01** — pushed [`5c24148f`](https://github.com/ankushg/home-cluster/commit/5c24148f682104acb4a71e7fc85ea96c29c25b95) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release reloader to v0.0.108 (#160)"
 
 **2022-03-01** — closed PR [#159](https://github.com/ankushg/home-cluster/pull/159) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release blocky to v10.1.1"
-
-**2022-03-01** — pushed [`86d0f952`](https://github.com/ankushg/home-cluster/commit/86d0f95254850556f5db578384ce4f52e0b3a2b8) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release blocky to v10.1.1 (#159)"
-
-**2022-03-01** — deleted branch "renovate/patch-blocky" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2022-02-25** — pushed [`4e57adf5`](https://github.com/ankushg/home-cluster/commit/4e57adf5d6a3b6be5c16ab3bffe9f4d0fb11980c) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release metrics-server to v3.8.2 (#158)"
 <!-- githubActivity ends -->
 </td></tr></table>
 
