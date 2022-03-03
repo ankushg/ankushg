@@ -29,6 +29,18 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-03-03** — pushed [`981e68be`](https://github.com/ankushg/home-cluster/commit/981e68be8ac4d5c8661cb39677c5f445306df39c) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release reloader to v0.0.109 (#164)"
+
+**2022-03-03** — deleted branch "renovate/reloader-0.0.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+
+**2022-03-03** — closed PR [#164](https://github.com/ankushg/home-cluster/pull/164) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release reloader to v0.0.109"
+
+**2022-03-03** — pushed [`c19d9ed9`](https://github.com/ankushg/home-cluster/commit/c19d9ed9f5297eb1852de7c212dd7806abf66c00) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image ghcr.io/home-assistant/home-assistant to v2022.3.0 (#165)"
+
+**2022-03-03** — deleted branch "renovate/home-assistant" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+
+**2022-03-03** — closed PR [#165](https://github.com/ankushg/home-cluster/pull/165) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image ghcr.io/home-assistant/home-assistant to v2022.3.0"
+
 **2022-03-02** — commented on [#48](https://github.com/rickclephas/KMP-NativeCoroutines/pull/48#issuecomment-1057524802) in [rickclephas/KMP-NativeCoroutines](https://api.github.com/repos/rickclephas/KMP-NativeCoroutines)
 
 **2022-03-02** — pushed [`7e4084af`](https://github.com/ankushg/KMP-NativeCoroutines/commit/7e4084af6279249256c3c6833a1ac42eb7f37aea) to [ankushg/KMP-NativeCoroutines](https://api.github.com/repos/ankushg/KMP-NativeCoroutines): "Update RunTest.kt"
@@ -36,18 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-03-01** — pushed [`3f6c2486`](https://github.com/ankushg/home-cluster/commit/3f6c24867f7093d332901262ab450d390f900692) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update actions/checkout action to v3 (#162)"
 
 **2022-03-01** — deleted branch "renovate/actions-checkout-3.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2022-03-01** — closed PR [#162](https://github.com/ankushg/home-cluster/pull/162) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update actions/checkout action to v3"
-
-**2022-03-01** — deleted branch "renovate/fluxcd-flux2-0.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2022-03-01** — pushed [`eb1ac21c`](https://github.com/ankushg/home-cluster/commit/eb1ac21cc2495a477dfe0e6ac52832f2eb67c138) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update dependency fluxcd/flux2 to v0.27.3 (#161)"
-
-**2022-03-01** — closed PR [#161](https://github.com/ankushg/home-cluster/pull/161) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update dependency fluxcd/flux2 to v0.27.3"
-
-**2022-03-01** — deleted branch "renovate/reloader-0.0.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2022-03-01** — closed PR [#160](https://github.com/ankushg/home-cluster/pull/160) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release reloader to v0.0.108"
 <!-- githubActivity ends -->
 </td></tr></table>
 
