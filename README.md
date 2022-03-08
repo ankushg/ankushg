@@ -29,6 +29,12 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-03-07** — opened issue [#14](https://github.com/redromnon/HeroicBashLauncher/issues/14) on [redromnon/HeroicBashLauncher](https://api.github.com/repos/redromnon/HeroicBashLauncher): "macOS Support"
+
+**2022-03-07** — opened issue [#17](https://github.com/PhilipK/BoilR/issues/17) on [PhilipK/BoilR](https://api.github.com/repos/PhilipK/BoilR): "macOS Binaries?"
+
+**2022-03-07** — opened issue [#415](https://github.com/derrod/legendary/issues/415) on [derrod/legendary](https://api.github.com/repos/derrod/legendary): "Brew Formula"
+
 **2022-03-06** — pushed [`ac56c092`](https://github.com/ankushg/home-cluster/commit/ac56c09286e2d48cab7fadee072461dc8b9d7096) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image docker.io/raspbernetes/cloudflared to v2022.3.0 (#167)"
 
 **2022-03-06** — deleted branch "renovate/docker.io-raspbernetes-cloudflared-2022.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
@@ -42,12 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-03-06** — closed PR [#166](https://github.com/ankushg/home-cluster/pull/166) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image ghcr.io/home-assistant/home-assistant to v2022.3.2"
 
 **2022-03-03** — pushed [`a71a99cd`](https://github.com/ankushg/home-cluster/commit/a71a99cd0e1813776bd387a5c09c4c451642d048) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release home-assistant to v12 (#163)"
-
-**2022-03-03** — deleted branch "renovate/major-home-assistant" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2022-03-03** — closed PR [#163](https://github.com/ankushg/home-cluster/pull/163) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release home-assistant to v12"
-
-**2022-03-03** — pushed [`981e68be`](https://github.com/ankushg/home-cluster/commit/981e68be8ac4d5c8661cb39677c5f445306df39c) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release reloader to v0.0.109 (#164)"
 <!-- githubActivity ends -->
 </td></tr></table>
 
