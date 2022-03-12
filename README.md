@@ -29,6 +29,12 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-03-12** — pushed [`6faa8f24`](https://github.com/ankushg/home-cluster/commit/6faa8f2468a9cc7331a1b6a8e338ad4183d2a2f0) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update pre-commit hook zricethezav/gitleaks to v8.4.0 (#174)"
+
+**2022-03-12** — deleted branch "renovate/zricethezav-gitleaks-8.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+
+**2022-03-12** — closed PR [#174](https://github.com/ankushg/home-cluster/pull/174) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update pre-commit hook zricethezav/gitleaks to v8.4.0"
+
 **2022-03-11** — pushed [`c860dbec`](https://github.com/ankushg/home-cluster/commit/c860dbecdc4a1b0de70c16ebcf46669c33e76bab) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image chhaley/omada_exporter to v0.4.0 (#172)"
 
 **2022-03-11** — closed PR [#172](https://github.com/ankushg/home-cluster/pull/172) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image chhaley/omada_exporter to v0.4.0"
@@ -42,12 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-03-11** — closed PR [#173](https://github.com/ankushg/home-cluster/pull/173) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update pre-commit hook sirosen/texthooks to v0.3.1"
 
 **2022-03-10** — commented on [#24](https://github.com/PhilipK/BoilR/issues/24#issuecomment-1064366779) in [PhilipK/BoilR](https://api.github.com/repos/PhilipK/BoilR)
-
-**2022-03-10** — deleted branch "renovate/docker.io-raspbernetes-cloudflared-2022.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2022-03-10** — pushed [`12266737`](https://github.com/ankushg/home-cluster/commit/12266737406efdad2f32a6a87fdfbb9bb437783f) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image docker.io/raspbernetes/cloudflared to v2022.3.1 (#169)"
-
-**2022-03-10** — closed PR [#169](https://github.com/ankushg/home-cluster/pull/169) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image docker.io/raspbernetes/cloudflared to v2022.3.1"
 <!-- githubActivity ends -->
 </td></tr></table>
 
