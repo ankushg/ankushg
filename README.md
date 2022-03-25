@@ -29,6 +29,16 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-03-25** — pushed [`67fefbc9`](https://github.com/ankushg/home-cluster/commit/67fefbc968a115bcddb4dab5de53d7c997e82199) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release kubernetes-dashboard to v5.3.1 (#179)"
+
+**2022-03-25** — deleted branch "renovate/kubernetes-dashboard-5.3.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+
+**2022-03-25** — closed PR [#179](https://github.com/ankushg/home-cluster/pull/179) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release kubernetes-dashboard to v5.3.1"
+
+**2022-03-25** — deleted branch "renovate/docker.io-raspbernetes-cloudflared-2022.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+
+**2022-03-25** — pushed [`739528cf`](https://github.com/ankushg/home-cluster/commit/739528cf441156c5ffcbff6101f1f733d0c1efa3) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image docker.io/raspbernetes/cloudflared to v2022.3.3 (#180)"
+
 **2022-03-18** — deleted branch "renovate/docker.io-raspbernetes-cloudflared-2022.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
 **2022-03-18** — pushed [`83987fbe`](https://github.com/ankushg/home-cluster/commit/83987fbe235bfd137e18a8cb5fe8417e309721da) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image docker.io/raspbernetes/cloudflared to v2022.3.2 (#177)"
@@ -38,16 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-03-18** — deleted branch "renovate/fluxcd-flux2-0.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
 **2022-03-18** — pushed [`2f7fea54`](https://github.com/ankushg/home-cluster/commit/2f7fea545553197606deb3e0336d86417f08ca18) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update dependency fluxcd/flux2 to v0.27.4 (#178)"
-
-**2022-03-18** — closed PR [#178](https://github.com/ankushg/home-cluster/pull/178) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update dependency fluxcd/flux2 to v0.27.4"
-
-**2022-03-15** — pushed [`907888ab`](https://github.com/ankushg/home-cluster/commit/907888ab4671ac3fd444f9f0bf70ad7be15cb91a) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image ghcr.io/home-assistant/home-assistant to v2022.3.5 (#176)"
-
-**2022-03-15** — closed PR [#176](https://github.com/ankushg/home-cluster/pull/176) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image ghcr.io/home-assistant/home-assistant to v2022.3.5"
-
-**2022-03-15** — deleted branch "renovate/home-assistant" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2022-03-12** — pushed [`6faa8f24`](https://github.com/ankushg/home-cluster/commit/6faa8f2468a9cc7331a1b6a8e338ad4183d2a2f0) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update pre-commit hook zricethezav/gitleaks to v8.4.0 (#174)"
 <!-- githubActivity ends -->
 </td></tr></table>
 
