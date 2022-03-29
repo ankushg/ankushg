@@ -29,25 +29,25 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-03-29** — closed PR [#190](https://github.com/ankushg/home-cluster/pull/190) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update home-assistant"
+
+**2022-03-29** — pushed [`637640b1`](https://github.com/ankushg/home-cluster/commit/637640b15da18bd79a6b5cdc3e265506db1d76a8) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update home-assistant (#190)"
+
+**2022-03-29** — deleted branch "renovate/home-assistant" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+
+**2022-03-29** — pushed [`e6235803`](https://github.com/ankushg/home-cluster/commit/e6235803b04342f389bd0d9e89fb722a9784d82b) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update pre-commit hook zricethezav/gitleaks to v8.5.3 (#191)"
+
+**2022-03-29** — deleted branch "renovate/zricethezav-gitleaks-8.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+
+**2022-03-29** — closed PR [#191](https://github.com/ankushg/home-cluster/pull/191) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update pre-commit hook zricethezav/gitleaks to v8.5.3"
+
+**2022-03-29** — pushed [`0cf3bbb2`](https://github.com/ankushg/home-cluster/commit/0cf3bbb2ac720002fe7156fcef32d1a8737faa59) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release traefik to v10.19.0 (#192)"
+
+**2022-03-29** — deleted branch "renovate/traefik-10.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+
+**2022-03-29** — closed PR [#192](https://github.com/ankushg/home-cluster/pull/192) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release traefik to v10.19.0"
+
 **2022-03-29** — commented on [#57](https://github.com/rickclephas/KMP-NativeCoroutines/issues/57#issuecomment-1082237298) in [rickclephas/KMP-NativeCoroutines](https://api.github.com/repos/rickclephas/KMP-NativeCoroutines)
-
-**2022-03-28** — pushed [`81536d08`](https://github.com/ankushg/home-cluster/commit/81536d086ef7d1a26c2080453da5ecd8d513d3a1) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image mbentley/omada-controller to v5.1 (#185)"
-
-**2022-03-28** — deleted branch "renovate/omada-controller" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2022-03-28** — closed PR [#185](https://github.com/ankushg/home-cluster/pull/185) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image mbentley/omada-controller to v5.1"
-
-**2022-03-28** — pushed 2 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
-
-**2022-03-28** — pushed [`b746498f`](https://github.com/ankushg/home-cluster/commit/b746498f8eea987fadb6115c545968152ab67a01) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image rancher/system-upgrade-controller to v0.9.1 (#186)"
-
-**2022-03-28** — deleted branch "renovate/rancher-system-upgrade-controller-0.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2022-03-28** — closed PR [#186](https://github.com/ankushg/home-cluster/pull/186) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image rancher/system-upgrade-controller to v0.9.1"
-
-**2022-03-28** — deleted branch "renovate/docker.io-raspbernetes-cloudflared-2022.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2022-03-28** — pushed [`2bc243ba`](https://github.com/ankushg/home-cluster/commit/2bc243baa04ad8e3724a357f25af12f8d666fe00) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image docker.io/raspbernetes/cloudflared to v2022.3.4 (#187)"
 <!-- githubActivity ends -->
 </td></tr></table>
 
