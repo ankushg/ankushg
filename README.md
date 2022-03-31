@@ -29,6 +29,18 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-03-31** — deleted branch "renovate/traefik-10.19.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+
+**2022-03-31** — closed PR [#193](https://github.com/ankushg/home-cluster/pull/193) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release traefik to v10.19.4"
+
+**2022-03-31** — pushed [`8136fddd`](https://github.com/ankushg/home-cluster/commit/8136fddd82973b4dedd1b518041ffd2f3d46ff90) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release traefik to v10.19.4 (#193)"
+
+**2022-03-31** — deleted branch "renovate/fluxcd-flux2-0.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+
+**2022-03-31** — pushed [`f132a396`](https://github.com/ankushg/home-cluster/commit/f132a396e6e6208a68a1521fe50b1170793373b8) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update dependency fluxcd/flux2 to v0.28.5 (#194)"
+
+**2022-03-31** — closed PR [#194](https://github.com/ankushg/home-cluster/pull/194) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update dependency fluxcd/flux2 to v0.28.5"
+
 **2022-03-29** — opened issue [#24](https://github.com/Roundtable-Hold/tracker/issues/24) on [Roundtable-Hold/tracker](https://api.github.com/repos/Roundtable-Hold/tracker): "Add nearest grace to main walkthrough tracker events"
 
 **2022-03-29** — commented on [#57](https://github.com/rickclephas/KMP-NativeCoroutines/issues/57#issuecomment-1082484099) in [rickclephas/KMP-NativeCoroutines](https://api.github.com/repos/rickclephas/KMP-NativeCoroutines)
@@ -36,18 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-03-29** — commented on [#57](https://github.com/rickclephas/KMP-NativeCoroutines/issues/57#issuecomment-1082362109) in [rickclephas/KMP-NativeCoroutines](https://api.github.com/repos/rickclephas/KMP-NativeCoroutines)
 
 **2022-03-29** — closed PR [#190](https://github.com/ankushg/home-cluster/pull/190) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update home-assistant"
-
-**2022-03-29** — pushed [`637640b1`](https://github.com/ankushg/home-cluster/commit/637640b15da18bd79a6b5cdc3e265506db1d76a8) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update home-assistant (#190)"
-
-**2022-03-29** — deleted branch "renovate/home-assistant" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2022-03-29** — pushed [`e6235803`](https://github.com/ankushg/home-cluster/commit/e6235803b04342f389bd0d9e89fb722a9784d82b) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update pre-commit hook zricethezav/gitleaks to v8.5.3 (#191)"
-
-**2022-03-29** — deleted branch "renovate/zricethezav-gitleaks-8.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2022-03-29** — closed PR [#191](https://github.com/ankushg/home-cluster/pull/191) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update pre-commit hook zricethezav/gitleaks to v8.5.3"
-
-**2022-03-29** — pushed [`0cf3bbb2`](https://github.com/ankushg/home-cluster/commit/0cf3bbb2ac720002fe7156fcef32d1a8737faa59) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release traefik to v10.19.0 (#192)"
 <!-- githubActivity ends -->
 </td></tr></table>
 
