@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-03-31** — opened issue [#15](https://github.com/Kodein-Framework/MocKMP/issues/15) on [Kodein-Framework/MocKMP](https://api.github.com/repos/Kodein-Framework/MocKMP): "Issues with typealias for functions"
+
 **2022-03-31** — opened PR [#14](https://github.com/Kodein-Framework/MocKMP/pull/14) to [Kodein-Framework/MocKMP](https://api.github.com/repos/Kodein-Framework/MocKMP): "Fix typo in readme for manual KSP configuration"
 
 **2022-03-31** — pushed [`d4a99dbe`](https://github.com/ankushg/MocKMP/commit/d4a99dbe586282227aab8c1e4baf3f607af1259b) to [ankushg/MocKMP](https://api.github.com/repos/ankushg/MocKMP): "Fix typo in readme for manual KSP configuration"
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-03-31** — closed PR [#194](https://github.com/ankushg/home-cluster/pull/194) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update dependency fluxcd/flux2 to v0.28.5"
 
 **2022-03-29** — opened issue [#24](https://github.com/Roundtable-Hold/tracker/issues/24) on [Roundtable-Hold/tracker](https://api.github.com/repos/Roundtable-Hold/tracker): "Add nearest grace to main walkthrough tracker events"
-
-**2022-03-29** — commented on [#57](https://github.com/rickclephas/KMP-NativeCoroutines/issues/57#issuecomment-1082484099) in [rickclephas/KMP-NativeCoroutines](https://api.github.com/repos/rickclephas/KMP-NativeCoroutines)
 <!-- githubActivity ends -->
 </td></tr></table>
 
