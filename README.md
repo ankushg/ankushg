@@ -29,6 +29,12 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-04-05** — pushed [`c79db4ef`](https://github.com/ankushg/home-cluster/commit/c79db4efc393efca817df4c18f27f7d67227e64b) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update pre-commit hook zricethezav/gitleaks to v8.6.0 (#195)"
+
+**2022-04-05** — deleted branch "renovate/zricethezav-gitleaks-8.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+
+**2022-04-05** — closed PR [#195](https://github.com/ankushg/home-cluster/pull/195) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update pre-commit hook zricethezav/gitleaks to v8.6.0"
+
 **2022-04-05** — commented on [#1744](https://github.com/Kotlin/kotlinx.serialization/issues/1744#issuecomment-1089146323) in [Kotlin/kotlinx.serialization](https://api.github.com/repos/Kotlin/kotlinx.serialization)
 
 **2022-03-31** — opened issue [#15](https://github.com/Kodein-Framework/MocKMP/issues/15) on [Kodein-Framework/MocKMP](https://api.github.com/repos/Kodein-Framework/MocKMP): "Issues with typealias for functions"
@@ -42,12 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-03-31** — closed PR [#193](https://github.com/ankushg/home-cluster/pull/193) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release traefik to v10.19.4"
 
 **2022-03-31** — pushed [`8136fddd`](https://github.com/ankushg/home-cluster/commit/8136fddd82973b4dedd1b518041ffd2f3d46ff90) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release traefik to v10.19.4 (#193)"
-
-**2022-03-31** — deleted branch "renovate/fluxcd-flux2-0.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2022-03-31** — pushed [`f132a396`](https://github.com/ankushg/home-cluster/commit/f132a396e6e6208a68a1521fe50b1170793373b8) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update dependency fluxcd/flux2 to v0.28.5 (#194)"
-
-**2022-03-31** — closed PR [#194](https://github.com/ankushg/home-cluster/pull/194) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update dependency fluxcd/flux2 to v0.28.5"
 <!-- githubActivity ends -->
 </td></tr></table>
 
