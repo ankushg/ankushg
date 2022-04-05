@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-04-05** — commented on [#1744](https://github.com/Kotlin/kotlinx.serialization/issues/1744#issuecomment-1089146323) in [Kotlin/kotlinx.serialization](https://api.github.com/repos/Kotlin/kotlinx.serialization)
+
 **2022-03-31** — opened issue [#15](https://github.com/Kodein-Framework/MocKMP/issues/15) on [Kodein-Framework/MocKMP](https://api.github.com/repos/Kodein-Framework/MocKMP): "Issues with typealias for functions"
 
 **2022-03-31** — opened PR [#14](https://github.com/Kodein-Framework/MocKMP/pull/14) to [Kodein-Framework/MocKMP](https://api.github.com/repos/Kodein-Framework/MocKMP): "Fix typo in readme for manual KSP configuration"
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-03-31** — pushed [`f132a396`](https://github.com/ankushg/home-cluster/commit/f132a396e6e6208a68a1521fe50b1170793373b8) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update dependency fluxcd/flux2 to v0.28.5 (#194)"
 
 **2022-03-31** — closed PR [#194](https://github.com/ankushg/home-cluster/pull/194) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update dependency fluxcd/flux2 to v0.28.5"
-
-**2022-03-29** — opened issue [#24](https://github.com/Roundtable-Hold/tracker/issues/24) on [Roundtable-Hold/tracker](https://api.github.com/repos/Roundtable-Hold/tracker): "Add nearest grace to main walkthrough tracker events"
 <!-- githubActivity ends -->
 </td></tr></table>
 
