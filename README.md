@@ -29,25 +29,25 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
-**2022-04-05** — pushed [`c79db4ef`](https://github.com/ankushg/home-cluster/commit/c79db4efc393efca817df4c18f27f7d67227e64b) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update pre-commit hook zricethezav/gitleaks to v8.6.0 (#195)"
+**2022-04-08** — pushed [`6e04e4ee`](https://github.com/ankushg/home-cluster/commit/6e04e4eebc65aa0207758e68d85eb76e6ac0bf4b) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release home-assistant to v13 (#202)"
 
-**2022-04-05** — deleted branch "renovate/zricethezav-gitleaks-8.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+**2022-04-08** — deleted branch "renovate/major-home-assistant" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
-**2022-04-05** — closed PR [#195](https://github.com/ankushg/home-cluster/pull/195) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update pre-commit hook zricethezav/gitleaks to v8.6.0"
+**2022-04-08** — closed PR [#202](https://github.com/ankushg/home-cluster/pull/202) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release home-assistant to v13"
 
-**2022-04-05** — commented on [#1744](https://github.com/Kotlin/kotlinx.serialization/issues/1744#issuecomment-1089146323) in [Kotlin/kotlinx.serialization](https://api.github.com/repos/Kotlin/kotlinx.serialization)
+**2022-04-08** — pushed [`5e78e73a`](https://github.com/ankushg/home-cluster/commit/5e78e73aa1b1b4e503c03deb066e4b985b689c2d) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image ghcr.io/home-assistant/home-assistant to v2022.4.1 (#197)"
 
-**2022-03-31** — opened issue [#15](https://github.com/Kodein-Framework/MocKMP/issues/15) on [Kodein-Framework/MocKMP](https://api.github.com/repos/Kodein-Framework/MocKMP): "Issues with typealias for functions"
+**2022-04-08** — deleted branch "renovate/home-assistant" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
-**2022-03-31** — opened PR [#14](https://github.com/Kodein-Framework/MocKMP/pull/14) to [Kodein-Framework/MocKMP](https://api.github.com/repos/Kodein-Framework/MocKMP): "Fix typo in readme for manual KSP configuration"
+**2022-04-08** — closed PR [#197](https://github.com/ankushg/home-cluster/pull/197) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image ghcr.io/home-assistant/home-assistant to v2022.4.1"
 
-**2022-03-31** — pushed [`d4a99dbe`](https://github.com/ankushg/MocKMP/commit/d4a99dbe586282227aab8c1e4baf3f607af1259b) to [ankushg/MocKMP](https://api.github.com/repos/ankushg/MocKMP): "Fix typo in readme for manual KSP configuration"
+**2022-04-08** — deleted branch "renovate/zricethezav-gitleaks-8.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
-**2022-03-31** — deleted branch "renovate/traefik-10.19.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+**2022-04-08** — pushed [`5b3e249a`](https://github.com/ankushg/home-cluster/commit/5b3e249a2a03221e8a2f32d2f4d7f7c30906d781) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update pre-commit hook zricethezav/gitleaks to v8.6.1 (#196)"
 
-**2022-03-31** — closed PR [#193](https://github.com/ankushg/home-cluster/pull/193) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release traefik to v10.19.4"
+**2022-04-08** — closed PR [#196](https://github.com/ankushg/home-cluster/pull/196) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update pre-commit hook zricethezav/gitleaks to v8.6.1"
 
-**2022-03-31** — pushed [`8136fddd`](https://github.com/ankushg/home-cluster/commit/8136fddd82973b4dedd1b518041ffd2f3d46ff90) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release traefik to v10.19.4 (#193)"
+**2022-04-08** — pushed [`8867235a`](https://github.com/ankushg/home-cluster/commit/8867235a5f2646f998214c1864e5cdab648604ee) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release kubernetes-dashboard to v5.4.1 (#199)"
 <!-- githubActivity ends -->
 </td></tr></table>
 
