@@ -29,6 +29,12 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-04-09** — pushed [`cb94433c`](https://github.com/ankushg/home-cluster/commit/cb94433cc2d1cf2fde481278d000186bfa544015) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release cert-manager to v1.8.0 (#198)"
+
+**2022-04-09** — deleted branch "renovate/cert-manager-1.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+
+**2022-04-09** — closed PR [#198](https://github.com/ankushg/home-cluster/pull/198) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release cert-manager to v1.8.0"
+
 **2022-04-08** — pushed [`6e04e4ee`](https://github.com/ankushg/home-cluster/commit/6e04e4eebc65aa0207758e68d85eb76e6ac0bf4b) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release home-assistant to v13 (#202)"
 
 **2022-04-08** — deleted branch "renovate/major-home-assistant" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
@@ -42,12 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-04-08** — closed PR [#197](https://github.com/ankushg/home-cluster/pull/197) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image ghcr.io/home-assistant/home-assistant to v2022.4.1"
 
 **2022-04-08** — deleted branch "renovate/zricethezav-gitleaks-8.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2022-04-08** — pushed [`5b3e249a`](https://github.com/ankushg/home-cluster/commit/5b3e249a2a03221e8a2f32d2f4d7f7c30906d781) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update pre-commit hook zricethezav/gitleaks to v8.6.1 (#196)"
-
-**2022-04-08** — closed PR [#196](https://github.com/ankushg/home-cluster/pull/196) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update pre-commit hook zricethezav/gitleaks to v8.6.1"
-
-**2022-04-08** — pushed [`8867235a`](https://github.com/ankushg/home-cluster/commit/8867235a5f2646f998214c1864e5cdab648604ee) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release kubernetes-dashboard to v5.4.1 (#199)"
 <!-- githubActivity ends -->
 </td></tr></table>
 
