@@ -29,6 +29,18 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-04-13** — deleted branch "renovate/docker.io-raspbernetes-cloudflared-2022.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+
+**2022-04-13** — pushed [`152cb8c0`](https://github.com/ankushg/home-cluster/commit/152cb8c0bc19a165651d133537daa30fb53b5b7a) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image docker.io/raspbernetes/cloudflared to v2022.4.1 (#205)"
+
+**2022-04-13** — closed PR [#205](https://github.com/ankushg/home-cluster/pull/205) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image docker.io/raspbernetes/cloudflared to v2022.4.1"
+
+**2022-04-13** — pushed [`147f81ff`](https://github.com/ankushg/home-cluster/commit/147f81ff9a2b260ab80f81ac4b7d6148ebabe5ed) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image ghcr.io/home-assistant/home-assistant to v2022.4.3 (#206)"
+
+**2022-04-13** — deleted branch "renovate/home-assistant" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+
+**2022-04-13** — closed PR [#206](https://github.com/ankushg/home-cluster/pull/206) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image ghcr.io/home-assistant/home-assistant to v2022.4.3"
+
 **2022-04-11** — closed PR [#204](https://github.com/ankushg/home-cluster/pull/204) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image ghcr.io/home-assistant/home-assistant to v2022.4.2"
 
 **2022-04-11** — pushed [`47d54b29`](https://github.com/ankushg/home-cluster/commit/47d54b29704d113b5bbe38e1eb52a96501ff9274) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image ghcr.io/home-assistant/home-assistant to v2022.4.2 (#204)"
@@ -36,18 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-04-11** — deleted branch "renovate/home-assistant" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
 **2022-04-09** — pushed [`cb94433c`](https://github.com/ankushg/home-cluster/commit/cb94433cc2d1cf2fde481278d000186bfa544015) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release cert-manager to v1.8.0 (#198)"
-
-**2022-04-09** — deleted branch "renovate/cert-manager-1.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2022-04-09** — closed PR [#198](https://github.com/ankushg/home-cluster/pull/198) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release cert-manager to v1.8.0"
-
-**2022-04-08** — pushed [`6e04e4ee`](https://github.com/ankushg/home-cluster/commit/6e04e4eebc65aa0207758e68d85eb76e6ac0bf4b) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release home-assistant to v13 (#202)"
-
-**2022-04-08** — deleted branch "renovate/major-home-assistant" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2022-04-08** — closed PR [#202](https://github.com/ankushg/home-cluster/pull/202) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release home-assistant to v13"
-
-**2022-04-08** — pushed [`5e78e73a`](https://github.com/ankushg/home-cluster/commit/5e78e73aa1b1b4e503c03deb066e4b985b689c2d) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image ghcr.io/home-assistant/home-assistant to v2022.4.1 (#197)"
 <!-- githubActivity ends -->
 </td></tr></table>
 
