@@ -29,25 +29,25 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
-**2022-04-19** — commented on [#19](https://github.com/synthead/mint-adfree/issues/19#issuecomment-1102172532) in [synthead/mint-adfree](https://api.github.com/repos/synthead/mint-adfree)
+**2022-04-20** — pushed [`b77bb300`](https://github.com/ankushg/home-cluster/commit/b77bb300d316c8087b889b56dcde13fcd2eb2915) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update dependency fluxcd/flux2 to v0.29.1 (#213)"
 
-**2022-04-18** — opened issue [#19](https://github.com/synthead/mint-adfree/issues/19) on [synthead/mint-adfree](https://api.github.com/repos/synthead/mint-adfree): "Doesn't support beta redesign"
+**2022-04-20** — deleted branch "renovate/fluxcd-flux2-0.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
-**2022-04-13** — deleted branch "renovate/docker.io-raspbernetes-cloudflared-2022.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+**2022-04-20** — closed PR [#213](https://github.com/ankushg/home-cluster/pull/213) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update dependency fluxcd/flux2 to v0.29.1"
 
-**2022-04-13** — pushed [`152cb8c0`](https://github.com/ankushg/home-cluster/commit/152cb8c0bc19a165651d133537daa30fb53b5b7a) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image docker.io/raspbernetes/cloudflared to v2022.4.1 (#205)"
+**2022-04-20** — pushed [`7233a133`](https://github.com/ankushg/home-cluster/commit/7233a1338cbf3d0215e6c1ed4ba1c4e2669373f2) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release home-assistant to v13.0.2 (#210)"
 
-**2022-04-13** — closed PR [#205](https://github.com/ankushg/home-cluster/pull/205) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image docker.io/raspbernetes/cloudflared to v2022.4.1"
+**2022-04-20** — deleted branch "renovate/patch-home-assistant" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
-**2022-04-13** — pushed [`147f81ff`](https://github.com/ankushg/home-cluster/commit/147f81ff9a2b260ab80f81ac4b7d6148ebabe5ed) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image ghcr.io/home-assistant/home-assistant to v2022.4.3 (#206)"
+**2022-04-20** — closed PR [#210](https://github.com/ankushg/home-cluster/pull/210) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release home-assistant to v13.0.2"
 
-**2022-04-13** — deleted branch "renovate/home-assistant" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+**2022-04-20** — pushed [`41e450b8`](https://github.com/ankushg/home-cluster/commit/41e450b8ebe8315cdd5a27b013dfd5be4d645939) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release tailscale-relay to v0.1.2 (#211)"
 
-**2022-04-13** — closed PR [#206](https://github.com/ankushg/home-cluster/pull/206) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image ghcr.io/home-assistant/home-assistant to v2022.4.3"
+**2022-04-20** — deleted branch "renovate/patch-tailscale-relay" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
-**2022-04-11** — closed PR [#204](https://github.com/ankushg/home-cluster/pull/204) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image ghcr.io/home-assistant/home-assistant to v2022.4.2"
+**2022-04-20** — closed PR [#211](https://github.com/ankushg/home-cluster/pull/211) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release tailscale-relay to v0.1.2"
 
-**2022-04-11** — pushed [`47d54b29`](https://github.com/ankushg/home-cluster/commit/47d54b29704d113b5bbe38e1eb52a96501ff9274) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image ghcr.io/home-assistant/home-assistant to v2022.4.2 (#204)"
+**2022-04-20** — closed PR [#212](https://github.com/ankushg/home-cluster/pull/212) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image docker.io/mvisonneau/tailscale to v1.22.2"
 <!-- githubActivity ends -->
 </td></tr></table>
 
