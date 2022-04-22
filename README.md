@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-04-21** — pushed 77 commits to [ankushg/KMP-NativeCoroutines](https://api.github.com/repos/ankushg/KMP-NativeCoroutines).
+
 **2022-04-20** — pushed [`b77bb300`](https://github.com/ankushg/home-cluster/commit/b77bb300d316c8087b889b56dcde13fcd2eb2915) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update dependency fluxcd/flux2 to v0.29.1 (#213)"
 
 **2022-04-20** — deleted branch "renovate/fluxcd-flux2-0.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-04-20** — deleted branch "renovate/patch-tailscale-relay" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
 **2022-04-20** — closed PR [#211](https://github.com/ankushg/home-cluster/pull/211) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release tailscale-relay to v0.1.2"
-
-**2022-04-20** — closed PR [#212](https://github.com/ankushg/home-cluster/pull/212) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image docker.io/mvisonneau/tailscale to v1.22.2"
 <!-- githubActivity ends -->
 </td></tr></table>
 
