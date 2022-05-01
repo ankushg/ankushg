@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-05-01** — pushed [`cf02af53`](https://github.com/ankushg/home-cluster/commit/cf02af53ede851fd0d67c4737bcc3f121fca349b) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(scrypted): attempt to set https enabled and primary"
+
 **2022-05-01** — pushed 2 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
 
 **2022-05-01** — pushed [`e82dec55`](https://github.com/ankushg/home-cluster/commit/e82dec5504293d9314306599261e72a489f11928) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(scrypted): update ingress.main"
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-05-01** — pushed [`916e54b8`](https://github.com/ankushg/home-cluster/commit/916e54b896c7dd33326bce65f2a8e9153c8d8d8b) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update pre-commit hook zricethezav/gitleaks to v8.8.4 (#215)"
 
 **2022-05-01** — deleted branch "renovate/zricethezav-gitleaks-8.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2022-05-01** — closed PR [#215](https://github.com/ankushg/home-cluster/pull/215) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update pre-commit hook zricethezav/gitleaks to v8.8.4"
 <!-- githubActivity ends -->
 </td></tr></table>
 
