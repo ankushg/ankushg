@@ -29,25 +29,25 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
-**2022-04-21** — pushed 77 commits to [ankushg/KMP-NativeCoroutines](https://api.github.com/repos/ankushg/KMP-NativeCoroutines).
+**2022-05-01** — pushed [`800bec3c`](https://github.com/ankushg/home-cluster/commit/800bec3c77041e0d41268e843ed76817728ccdd4) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(scrypted): attempt fix"
 
-**2022-04-20** — pushed [`b77bb300`](https://github.com/ankushg/home-cluster/commit/b77bb300d316c8087b889b56dcde13fcd2eb2915) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update dependency fluxcd/flux2 to v0.29.1 (#213)"
+**2022-05-01** — pushed 3 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
 
-**2022-04-20** — deleted branch "renovate/fluxcd-flux2-0.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+**2022-05-01** — pushed [`0c2423db`](https://github.com/ankushg/home-cluster/commit/0c2423db1e4314a0ad3d014328fc6c36be7529b6) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update dependency fluxcd/flux2 to v0.29.5 (#214)"
 
-**2022-04-20** — closed PR [#213](https://github.com/ankushg/home-cluster/pull/213) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update dependency fluxcd/flux2 to v0.29.1"
+**2022-05-01** — deleted branch "renovate/fluxcd-flux2-0.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
-**2022-04-20** — pushed [`7233a133`](https://github.com/ankushg/home-cluster/commit/7233a1338cbf3d0215e6c1ed4ba1c4e2669373f2) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release home-assistant to v13.0.2 (#210)"
+**2022-05-01** — closed PR [#214](https://github.com/ankushg/home-cluster/pull/214) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update dependency fluxcd/flux2 to v0.29.5"
 
-**2022-04-20** — deleted branch "renovate/patch-home-assistant" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+**2022-05-01** — pushed [`916e54b8`](https://github.com/ankushg/home-cluster/commit/916e54b896c7dd33326bce65f2a8e9153c8d8d8b) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update pre-commit hook zricethezav/gitleaks to v8.8.4 (#215)"
 
-**2022-04-20** — closed PR [#210](https://github.com/ankushg/home-cluster/pull/210) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release home-assistant to v13.0.2"
+**2022-05-01** — deleted branch "renovate/zricethezav-gitleaks-8.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
-**2022-04-20** — pushed [`41e450b8`](https://github.com/ankushg/home-cluster/commit/41e450b8ebe8315cdd5a27b013dfd5be4d645939) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release tailscale-relay to v0.1.2 (#211)"
+**2022-05-01** — closed PR [#215](https://github.com/ankushg/home-cluster/pull/215) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update pre-commit hook zricethezav/gitleaks to v8.8.4"
 
-**2022-04-20** — deleted branch "renovate/patch-tailscale-relay" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+**2022-05-01** — closed PR [#217](https://github.com/ankushg/home-cluster/pull/217) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release tailscale-relay to v0.1.3"
 
-**2022-04-20** — closed PR [#211](https://github.com/ankushg/home-cluster/pull/211) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release tailscale-relay to v0.1.2"
+**2022-05-01** — pushed [`a3d1a59e`](https://github.com/ankushg/home-cluster/commit/a3d1a59ed6ba44ff1598e5b1bbbe3d3116707151) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release tailscale-relay to v0.1.3 (#217)"
 <!-- githubActivity ends -->
 </td></tr></table>
 
