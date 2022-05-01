@@ -29,6 +29,10 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-05-01** — pushed 2 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
+
+**2022-05-01** — pushed [`e82dec55`](https://github.com/ankushg/home-cluster/commit/e82dec5504293d9314306599261e72a489f11928) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(scrypted): update ingress.main"
+
 **2022-05-01** — pushed [`800bec3c`](https://github.com/ankushg/home-cluster/commit/800bec3c77041e0d41268e843ed76817728ccdd4) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(scrypted): attempt fix"
 
 **2022-05-01** — pushed 3 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
@@ -44,10 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-05-01** — deleted branch "renovate/zricethezav-gitleaks-8.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
 **2022-05-01** — closed PR [#215](https://github.com/ankushg/home-cluster/pull/215) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update pre-commit hook zricethezav/gitleaks to v8.8.4"
-
-**2022-05-01** — closed PR [#217](https://github.com/ankushg/home-cluster/pull/217) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release tailscale-relay to v0.1.3"
-
-**2022-05-01** — pushed [`a3d1a59e`](https://github.com/ankushg/home-cluster/commit/a3d1a59ed6ba44ff1598e5b1bbbe3d3116707151) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release tailscale-relay to v0.1.3 (#217)"
 <!-- githubActivity ends -->
 </td></tr></table>
 
