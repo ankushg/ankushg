@@ -29,6 +29,10 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-05-01** — pushed [`84a78467`](https://github.com/ankushg/home-cluster/commit/84a784676ad11876c6df3b8cf447a7dc0f6cfd96) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(scrypted): attempt to use https"
+
+**2022-05-01** — pushed [`f17eb102`](https://github.com/ankushg/home-cluster/commit/f17eb1022e11fdf8f4334e117b92c85e12b842b3) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(scrypted): attempt ot simplify"
+
 **2022-05-01** — pushed [`cf02af53`](https://github.com/ankushg/home-cluster/commit/cf02af53ede851fd0d67c4737bcc3f121fca349b) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(scrypted): attempt to set https enabled and primary"
 
 **2022-05-01** — pushed 2 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
@@ -44,10 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-05-01** — deleted branch "renovate/fluxcd-flux2-0.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
 **2022-05-01** — closed PR [#214](https://github.com/ankushg/home-cluster/pull/214) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update dependency fluxcd/flux2 to v0.29.5"
-
-**2022-05-01** — pushed [`916e54b8`](https://github.com/ankushg/home-cluster/commit/916e54b896c7dd33326bce65f2a8e9153c8d8d8b) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update pre-commit hook zricethezav/gitleaks to v8.8.4 (#215)"
-
-**2022-05-01** — deleted branch "renovate/zricethezav-gitleaks-8.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 <!-- githubActivity ends -->
 </td></tr></table>
 
