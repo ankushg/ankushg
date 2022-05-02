@@ -29,6 +29,12 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-05-02** — opened issue [#223](https://github.com/ankushg/home-cluster/issues/223) on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "add external-dns for managing public DNS records"
+
+**2022-05-02** — opened issue [#222](https://github.com/ankushg/home-cluster/issues/222) on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): " add k8s_gateway for accessing ingresses locally over DNS"
+
+**2022-05-02** — opened issue [#221](https://github.com/ankushg/home-cluster/issues/221) on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "move system-upgrade-controller to crds and apps"
+
 **2022-05-01** — pushed [`84a78467`](https://github.com/ankushg/home-cluster/commit/84a784676ad11876c6df3b8cf447a7dc0f6cfd96) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(scrypted): attempt to use https"
 
 **2022-05-01** — pushed [`f17eb102`](https://github.com/ankushg/home-cluster/commit/f17eb1022e11fdf8f4334e117b92c85e12b842b3) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(scrypted): attempt ot simplify"
@@ -42,12 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-05-01** — pushed [`800bec3c`](https://github.com/ankushg/home-cluster/commit/800bec3c77041e0d41268e843ed76817728ccdd4) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(scrypted): attempt fix"
 
 **2022-05-01** — pushed 3 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
-
-**2022-05-01** — pushed [`0c2423db`](https://github.com/ankushg/home-cluster/commit/0c2423db1e4314a0ad3d014328fc6c36be7529b6) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update dependency fluxcd/flux2 to v0.29.5 (#214)"
-
-**2022-05-01** — deleted branch "renovate/fluxcd-flux2-0.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2022-05-01** — closed PR [#214](https://github.com/ankushg/home-cluster/pull/214) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update dependency fluxcd/flux2 to v0.29.5"
 <!-- githubActivity ends -->
 </td></tr></table>
 
