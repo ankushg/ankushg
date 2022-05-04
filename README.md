@@ -29,6 +29,10 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-05-04** — opened issue [#236](https://github.com/ankushg/home-cluster/issues/236) on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "Github webhook for flux updates"
+
+**2022-05-04** — opened issue [#235](https://github.com/ankushg/home-cluster/issues/235) on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "Local-only access middleware for traefik dashboard"
+
 **2022-05-04** — pushed [`773d6f02`](https://github.com/ankushg/home-cluster/commit/773d6f02baae3938cc86ebc9991c13fd1f3d1019) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image koush/scrypted to v0.0.174 (#233)"
 
 **2022-05-04** — deleted branch "renovate/scrypted" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
@@ -44,10 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-05-04** — closed PR [#231](https://github.com/ankushg/home-cluster/pull/231) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update dependency fluxcd/flux2 to v0.30.2"
 
 **2022-05-04** — pushed [`6d28b4a5`](https://github.com/ankushg/home-cluster/commit/6d28b4a524d47a100c1966cbdc3d5375608ff41c) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update dependency fluxcd/flux2 to v0.30.2 (#231)"
-
-**2022-05-04** — deleted branch "renovate/fluxcd-flux2-0.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2022-05-04** — pushed [`4f3aee15`](https://github.com/ankushg/home-cluster/commit/4f3aee15a4de625d5c3004f81f81c5832b5e1a56) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release omada-exporter to v0.5.0 (#232)"
 <!-- githubActivity ends -->
 </td></tr></table>
 
