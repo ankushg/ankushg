@@ -29,25 +29,25 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
-**2022-05-02** — opened issue [#223](https://github.com/ankushg/home-cluster/issues/223) on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "add external-dns for managing public DNS records"
+**2022-05-04** — pushed [`773d6f02`](https://github.com/ankushg/home-cluster/commit/773d6f02baae3938cc86ebc9991c13fd1f3d1019) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image koush/scrypted to v0.0.174 (#233)"
 
-**2022-05-02** — opened issue [#222](https://github.com/ankushg/home-cluster/issues/222) on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): " add k8s_gateway for accessing ingresses locally over DNS"
+**2022-05-04** — deleted branch "renovate/scrypted" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
-**2022-05-02** — opened issue [#221](https://github.com/ankushg/home-cluster/issues/221) on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "move system-upgrade-controller to crds and apps"
+**2022-05-04** — closed PR [#233](https://github.com/ankushg/home-cluster/pull/233) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image koush/scrypted to v0.0.174"
 
-**2022-05-01** — pushed [`84a78467`](https://github.com/ankushg/home-cluster/commit/84a784676ad11876c6df3b8cf447a7dc0f6cfd96) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(scrypted): attempt to use https"
+**2022-05-04** — closed PR [#234](https://github.com/ankushg/home-cluster/pull/234) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release scrypted to v0.2.1"
 
-**2022-05-01** — pushed [`f17eb102`](https://github.com/ankushg/home-cluster/commit/f17eb1022e11fdf8f4334e117b92c85e12b842b3) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(scrypted): attempt ot simplify"
+**2022-05-04** — pushed [`63384ee1`](https://github.com/ankushg/home-cluster/commit/63384ee1b4bef05ef2a01bd36b8e446daa55acbb) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release scrypted to v0.2.1 (#234)"
 
-**2022-05-01** — pushed [`cf02af53`](https://github.com/ankushg/home-cluster/commit/cf02af53ede851fd0d67c4737bcc3f121fca349b) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(scrypted): attempt to set https enabled and primary"
+**2022-05-04** — deleted branch "renovate/patch-scrypted" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
-**2022-05-01** — pushed 2 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
+**2022-05-04** — closed PR [#231](https://github.com/ankushg/home-cluster/pull/231) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update dependency fluxcd/flux2 to v0.30.2"
 
-**2022-05-01** — pushed [`e82dec55`](https://github.com/ankushg/home-cluster/commit/e82dec5504293d9314306599261e72a489f11928) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(scrypted): update ingress.main"
+**2022-05-04** — pushed [`6d28b4a5`](https://github.com/ankushg/home-cluster/commit/6d28b4a524d47a100c1966cbdc3d5375608ff41c) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update dependency fluxcd/flux2 to v0.30.2 (#231)"
 
-**2022-05-01** — pushed [`800bec3c`](https://github.com/ankushg/home-cluster/commit/800bec3c77041e0d41268e843ed76817728ccdd4) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(scrypted): attempt fix"
+**2022-05-04** — deleted branch "renovate/fluxcd-flux2-0.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
-**2022-05-01** — pushed 3 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
+**2022-05-04** — pushed [`4f3aee15`](https://github.com/ankushg/home-cluster/commit/4f3aee15a4de625d5c3004f81f81c5832b5e1a56) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release omada-exporter to v0.5.0 (#232)"
 <!-- githubActivity ends -->
 </td></tr></table>
 
