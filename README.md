@@ -29,6 +29,12 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-05-06** — pushed [`fa1d1d1c`](https://github.com/ankushg/home-cluster/commit/fa1d1d1c4d60aab27d3112eb61cf53cc58c8f926) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release echo-server to v0.4.0 (#241)"
+
+**2022-05-06** — deleted branch "renovate/echo-server-0.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+
+**2022-05-06** — closed PR [#241](https://github.com/ankushg/home-cluster/pull/241) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release echo-server to v0.4.0"
+
 **2022-05-05** — pushed [`fabd2c7c`](https://github.com/ankushg/home-cluster/commit/fabd2c7ca31f27535ebde2a1fefc6d092acfd918) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image ghcr.io/home-assistant/home-assistant to v2022.5.1 (#238)"
 
 **2022-05-05** — deleted branch "renovate/home-assistant" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
@@ -42,12 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-05-05** — closed PR [#237](https://github.com/ankushg/home-cluster/pull/237) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image koush/scrypted to v0.0.175"
 
 **2022-05-04** — opened issue [#236](https://github.com/ankushg/home-cluster/issues/236) on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "Github webhook for flux updates"
-
-**2022-05-04** — opened issue [#235](https://github.com/ankushg/home-cluster/issues/235) on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "Local-only access middleware for traefik dashboard"
-
-**2022-05-04** — pushed [`773d6f02`](https://github.com/ankushg/home-cluster/commit/773d6f02baae3938cc86ebc9991c13fd1f3d1019) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image koush/scrypted to v0.0.174 (#233)"
-
-**2022-05-04** — deleted branch "renovate/scrypted" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 <!-- githubActivity ends -->
 </td></tr></table>
 
