@@ -29,25 +29,25 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
-**2022-05-06** — pushed [`fa1d1d1c`](https://github.com/ankushg/home-cluster/commit/fa1d1d1c4d60aab27d3112eb61cf53cc58c8f926) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release echo-server to v0.4.0 (#241)"
+**2022-05-06** — pushed [`8eefaa9b`](https://github.com/ankushg/home-cluster/commit/8eefaa9b92826523f24ce631ed90a74490bcba83) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore: rename tailscale renovate group"
 
-**2022-05-06** — deleted branch "renovate/echo-server-0.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+**2022-05-06** — pushed [`40d82fc3`](https://github.com/ankushg/home-cluster/commit/40d82fc39a0707265c218df77958765ccf763482) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release tailscale-relay to v0.1.4 (#240)"
 
-**2022-05-06** — closed PR [#241](https://github.com/ankushg/home-cluster/pull/241) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release echo-server to v0.4.0"
+**2022-05-06** — closed PR [#240](https://github.com/ankushg/home-cluster/pull/240) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release tailscale-relay to v0.1.4"
 
-**2022-05-05** — pushed [`fabd2c7c`](https://github.com/ankushg/home-cluster/commit/fabd2c7ca31f27535ebde2a1fefc6d092acfd918) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image ghcr.io/home-assistant/home-assistant to v2022.5.1 (#238)"
+**2022-05-06** — deleted branch "renovate/patch-tailscale" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
-**2022-05-05** — deleted branch "renovate/home-assistant" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+**2022-05-06** — pushed [`e442f12c`](https://github.com/ankushg/home-cluster/commit/e442f12c287395ba514ae0400861542c2db7b1b6) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image docker.io/mvisonneau/tailscale to v1.24.2 (#239)"
 
-**2022-05-05** — closed PR [#238](https://github.com/ankushg/home-cluster/pull/238) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image ghcr.io/home-assistant/home-assistant to v2022.5.1"
+**2022-05-06** — deleted branch "renovate/tailscale" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
-**2022-05-05** — pushed [`9db39d81`](https://github.com/ankushg/home-cluster/commit/9db39d81b5d1d6fe63227825a7413f6cf9c389ab) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image koush/scrypted to v0.0.175 (#237)"
+**2022-05-06** — closed PR [#239](https://github.com/ankushg/home-cluster/pull/239) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image docker.io/mvisonneau/tailscale to v1.24.2"
 
-**2022-05-05** — deleted branch "renovate/scrypted" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+**2022-05-06** — pushed [`f48ad511`](https://github.com/ankushg/home-cluster/commit/f48ad5116592250b1d9852e4121b8d695d16e2fa) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image ghcr.io/home-assistant/home-assistant to v2022.5.2 (#242)"
 
-**2022-05-05** — closed PR [#237](https://github.com/ankushg/home-cluster/pull/237) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image koush/scrypted to v0.0.175"
+**2022-05-06** — deleted branch "renovate/home-assistant" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
-**2022-05-04** — opened issue [#236](https://github.com/ankushg/home-cluster/issues/236) on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "Github webhook for flux updates"
+**2022-05-06** — closed PR [#242](https://github.com/ankushg/home-cluster/pull/242) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image ghcr.io/home-assistant/home-assistant to v2022.5.2"
 <!-- githubActivity ends -->
 </td></tr></table>
 
