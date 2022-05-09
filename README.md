@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-05-09** — opened issue [#18](https://github.com/Kodein-Framework/MocKMP/issues/18) on [Kodein-Framework/MocKMP](https://api.github.com/repos/Kodein-Framework/MocKMP): "Feature Request: Enable mocking for `expect interface`"
+
 **2022-05-09** — pushed [`98032907`](https://github.com/ankushg/home-cluster/commit/980329072fb09bd04617a952ba23de266715a524) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(omada): attempt to switch middleware order"
 
 **2022-05-09** — pushed [`6124d6a9`](https://github.com/ankushg/home-cluster/commit/6124d6a93afe5dc8d5fbaab5ec9d0d120578bbe8) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image ghcr.io/home-assistant/home-assistant to v2022.5.3 (#244)"
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-05-06** — pushed [`8eefaa9b`](https://github.com/ankushg/home-cluster/commit/8eefaa9b92826523f24ce631ed90a74490bcba83) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore: rename tailscale renovate group"
 
 **2022-05-06** — pushed [`40d82fc3`](https://github.com/ankushg/home-cluster/commit/40d82fc39a0707265c218df77958765ccf763482) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release tailscale-relay to v0.1.4 (#240)"
-
-**2022-05-06** — closed PR [#240](https://github.com/ankushg/home-cluster/pull/240) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release tailscale-relay to v0.1.4"
 <!-- githubActivity ends -->
 </td></tr></table>
 
