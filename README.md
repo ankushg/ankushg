@@ -29,6 +29,18 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-05-09** — pushed [`6124d6a9`](https://github.com/ankushg/home-cluster/commit/6124d6a93afe5dc8d5fbaab5ec9d0d120578bbe8) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image ghcr.io/home-assistant/home-assistant to v2022.5.3 (#244)"
+
+**2022-05-09** — deleted branch "renovate/home-assistant" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+
+**2022-05-09** — closed PR [#244](https://github.com/ankushg/home-cluster/pull/244) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image ghcr.io/home-assistant/home-assistant to v2022.5.3"
+
+**2022-05-09** — pushed [`b1410159`](https://github.com/ankushg/home-cluster/commit/b1410159ce9c04e3492dbc9fd49d691534c685d1) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image mbentley/omada-controller to v5.3 (#243)"
+
+**2022-05-09** — deleted branch "renovate/omada-controller" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+
+**2022-05-09** — closed PR [#243](https://github.com/ankushg/home-cluster/pull/243) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image mbentley/omada-controller to v5.3"
+
 **2022-05-06** — pushed [`8eefaa9b`](https://github.com/ankushg/home-cluster/commit/8eefaa9b92826523f24ce631ed90a74490bcba83) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore: rename tailscale renovate group"
 
 **2022-05-06** — pushed [`40d82fc3`](https://github.com/ankushg/home-cluster/commit/40d82fc39a0707265c218df77958765ccf763482) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release tailscale-relay to v0.1.4 (#240)"
@@ -36,18 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-05-06** — closed PR [#240](https://github.com/ankushg/home-cluster/pull/240) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release tailscale-relay to v0.1.4"
 
 **2022-05-06** — deleted branch "renovate/patch-tailscale" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2022-05-06** — pushed [`e442f12c`](https://github.com/ankushg/home-cluster/commit/e442f12c287395ba514ae0400861542c2db7b1b6) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image docker.io/mvisonneau/tailscale to v1.24.2 (#239)"
-
-**2022-05-06** — deleted branch "renovate/tailscale" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2022-05-06** — closed PR [#239](https://github.com/ankushg/home-cluster/pull/239) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image docker.io/mvisonneau/tailscale to v1.24.2"
-
-**2022-05-06** — pushed [`f48ad511`](https://github.com/ankushg/home-cluster/commit/f48ad5116592250b1d9852e4121b8d695d16e2fa) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image ghcr.io/home-assistant/home-assistant to v2022.5.2 (#242)"
-
-**2022-05-06** — deleted branch "renovate/home-assistant" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2022-05-06** — closed PR [#242](https://github.com/ankushg/home-cluster/pull/242) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image ghcr.io/home-assistant/home-assistant to v2022.5.2"
 <!-- githubActivity ends -->
 </td></tr></table>
 
