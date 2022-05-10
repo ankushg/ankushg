@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-05-10** — opened issue [#20](https://github.com/synthead/mint-adfree/issues/20) on [synthead/mint-adfree](https://api.github.com/repos/synthead/mint-adfree): "Hide Tax Hub tab in beta redesign?"
+
 **2022-05-09** — opened issue [#18](https://github.com/Kodein-Framework/MocKMP/issues/18) on [Kodein-Framework/MocKMP](https://api.github.com/repos/Kodein-Framework/MocKMP): "Feature Request: Enable mocking for `expect interface`"
 
 **2022-05-09** — pushed [`98032907`](https://github.com/ankushg/home-cluster/commit/980329072fb09bd04617a952ba23de266715a524) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(omada): attempt to switch middleware order"
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-05-09** — closed PR [#243](https://github.com/ankushg/home-cluster/pull/243) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image mbentley/omada-controller to v5.3"
 
 **2022-05-06** — pushed [`8eefaa9b`](https://github.com/ankushg/home-cluster/commit/8eefaa9b92826523f24ce631ed90a74490bcba83) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore: rename tailscale renovate group"
-
-**2022-05-06** — pushed [`40d82fc3`](https://github.com/ankushg/home-cluster/commit/40d82fc39a0707265c218df77958765ccf763482) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release tailscale-relay to v0.1.4 (#240)"
 <!-- githubActivity ends -->
 </td></tr></table>
 
