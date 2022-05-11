@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-05-11** — opened issue [#19](https://github.com/Kodein-Framework/MocKMP/issues/19) on [Kodein-Framework/MocKMP](https://api.github.com/repos/Kodein-Framework/MocKMP): "Provide `throws` in addition to `runs` and `returns`"
+
 **2022-05-10** — opened issue [#20](https://github.com/synthead/mint-adfree/issues/20) on [synthead/mint-adfree](https://api.github.com/repos/synthead/mint-adfree): "Hide Tax Hub tab in beta redesign?"
 
 **2022-05-09** — opened issue [#18](https://github.com/Kodein-Framework/MocKMP/issues/18) on [Kodein-Framework/MocKMP](https://api.github.com/repos/Kodein-Framework/MocKMP): "Feature Request: Enable mocking for `expect interface`"
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-05-09** — deleted branch "renovate/omada-controller" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
 **2022-05-09** — closed PR [#243](https://github.com/ankushg/home-cluster/pull/243) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image mbentley/omada-controller to v5.3"
-
-**2022-05-06** — pushed [`8eefaa9b`](https://github.com/ankushg/home-cluster/commit/8eefaa9b92826523f24ce631ed90a74490bcba83) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore: rename tailscale renovate group"
 <!-- githubActivity ends -->
 </td></tr></table>
 
