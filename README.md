@@ -29,6 +29,10 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-05-13** — opened issue [#255](https://github.com/ankushg/home-cluster/issues/255) on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "Add cloudflare-only and internal-only middlewares"
+
+**2022-05-13** — opened issue [#254](https://github.com/ankushg/home-cluster/issues/254) on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "add error-pages"
+
 **2022-05-13** — pushed [`c5362a62`](https://github.com/ankushg/home-cluster/commit/c5362a620bf7644e4984d0ddcc22de7e2f5d320b) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update pre-commit hook lucas-c/pre-commit-hooks to v1.1.14 (#252)"
 
 **2022-05-13** — deleted branch "renovate/lucas-c-pre-commit-hooks-1.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
@@ -44,10 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-05-13** — pushed [`a3fc5498`](https://github.com/ankushg/home-cluster/commit/a3fc549809df8b95c8e2eb949e0177007e5ae4ec) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release scrypted to v0.2.2 (#251)"
 
 **2022-05-13** — deleted branch "renovate/patch-scrypted" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2022-05-13** — closed PR [#251](https://github.com/ankushg/home-cluster/pull/251) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release scrypted to v0.2.2"
-
-**2022-05-13** — pushed [`0cb657c8`](https://github.com/ankushg/home-cluster/commit/0cb657c88b86dbdaa1fe994d61c487e4f4f52012) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image docker.io/raspbernetes/cloudflared to v2022.5.1 (#245)"
 <!-- githubActivity ends -->
 </td></tr></table>
 
