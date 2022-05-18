@@ -29,6 +29,12 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-05-18** — pushed [`560a71a1`](https://github.com/ankushg/home-cluster/commit/560a71a175d33053dfb73a46f689ee78331253a1) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update pre-commit hook lucas-c/pre-commit-hooks to v1.2.0 (#258)"
+
+**2022-05-18** — deleted branch "renovate/lucas-c-pre-commit-hooks-1.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+
+**2022-05-18** — closed PR [#258](https://github.com/ankushg/home-cluster/pull/258) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update pre-commit hook lucas-c/pre-commit-hooks to v1.2.0"
+
 **2022-05-17** — pushed [`c0740ede`](https://github.com/ankushg/home-cluster/commit/c0740ede0fb56defed66cbb297f438e1d14a844b) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image koush/scrypted to v0.0.177 (#256)"
 
 **2022-05-17** — deleted branch "renovate/scrypted" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
@@ -42,12 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-05-17** — closed PR [#257](https://github.com/ankushg/home-cluster/pull/257) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release home-assistant to v13.2.0"
 
 **2022-05-13** — opened issue [#255](https://github.com/ankushg/home-cluster/issues/255) on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "Add cloudflare-only and internal-only middlewares"
-
-**2022-05-13** — opened issue [#254](https://github.com/ankushg/home-cluster/issues/254) on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "add error-pages"
-
-**2022-05-13** — pushed [`c5362a62`](https://github.com/ankushg/home-cluster/commit/c5362a620bf7644e4984d0ddcc22de7e2f5d320b) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update pre-commit hook lucas-c/pre-commit-hooks to v1.1.14 (#252)"
-
-**2022-05-13** — deleted branch "renovate/lucas-c-pre-commit-hooks-1.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 <!-- githubActivity ends -->
 </td></tr></table>
 
