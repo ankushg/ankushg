@@ -29,6 +29,18 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-05-17** — pushed [`c0740ede`](https://github.com/ankushg/home-cluster/commit/c0740ede0fb56defed66cbb297f438e1d14a844b) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image koush/scrypted to v0.0.177 (#256)"
+
+**2022-05-17** — deleted branch "renovate/scrypted" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+
+**2022-05-17** — closed PR [#256](https://github.com/ankushg/home-cluster/pull/256) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image koush/scrypted to v0.0.177"
+
+**2022-05-17** — pushed [`e2c81bd4`](https://github.com/ankushg/home-cluster/commit/e2c81bd4c94e9929dcc76d73dfa186ecebeaa1f0) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release home-assistant to v13.2.0 (#257)"
+
+**2022-05-17** — deleted branch "renovate/home-assistant" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+
+**2022-05-17** — closed PR [#257](https://github.com/ankushg/home-cluster/pull/257) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release home-assistant to v13.2.0"
+
 **2022-05-13** — opened issue [#255](https://github.com/ankushg/home-cluster/issues/255) on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "Add cloudflare-only and internal-only middlewares"
 
 **2022-05-13** — opened issue [#254](https://github.com/ankushg/home-cluster/issues/254) on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "add error-pages"
@@ -36,18 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-05-13** — pushed [`c5362a62`](https://github.com/ankushg/home-cluster/commit/c5362a620bf7644e4984d0ddcc22de7e2f5d320b) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update pre-commit hook lucas-c/pre-commit-hooks to v1.1.14 (#252)"
 
 **2022-05-13** — deleted branch "renovate/lucas-c-pre-commit-hooks-1.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2022-05-13** — closed PR [#252](https://github.com/ankushg/home-cluster/pull/252) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update pre-commit hook lucas-c/pre-commit-hooks to v1.1.14"
-
-**2022-05-13** — pushed [`6e6fa3d3`](https://github.com/ankushg/home-cluster/commit/6e6fa3d3270bcc83b6832c841666b86be1862dff) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release blocky to v10.3.0 (#253)"
-
-**2022-05-13** — deleted branch "renovate/blocky" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2022-05-13** — closed PR [#253](https://github.com/ankushg/home-cluster/pull/253) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release blocky to v10.3.0"
-
-**2022-05-13** — pushed [`a3fc5498`](https://github.com/ankushg/home-cluster/commit/a3fc549809df8b95c8e2eb949e0177007e5ae4ec) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release scrypted to v0.2.2 (#251)"
-
-**2022-05-13** — deleted branch "renovate/patch-scrypted" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 <!-- githubActivity ends -->
 </td></tr></table>
 
