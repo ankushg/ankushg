@@ -29,25 +29,25 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
-**2022-05-26** — pushed [`d8a79d91`](https://github.com/ankushg/home-cluster/commit/d8a79d91e191e0b5194fc9e5955960b89e773012) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image koush/scrypted to v0.0.181 (#265)"
+**2022-06-06** — pushed [`8c15a464`](https://github.com/ankushg/home-cluster/commit/8c15a464588a305b10e4179fc822c32fe8f3365e) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image ghcr.io/home-assistant/home-assistant to v2022.6.2 (#272)"
 
-**2022-05-26** — deleted branch "renovate/scrypted" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+**2022-06-06** — deleted branch "renovate/home-assistant" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
-**2022-05-26** — closed PR [#265](https://github.com/ankushg/home-cluster/pull/265) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image koush/scrypted to v0.0.181"
+**2022-06-06** — closed PR [#272](https://github.com/ankushg/home-cluster/pull/272) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image ghcr.io/home-assistant/home-assistant to v2022.6.2"
 
-**2022-05-26** — pushed [`f662b293`](https://github.com/ankushg/home-cluster/commit/f662b2939f1f15dc875539f45facf5a3bf9743f9) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update pre-commit hook zricethezav/gitleaks to v8.8.5 (#263)"
+**2022-06-06** — pushed [`07773df6`](https://github.com/ankushg/home-cluster/commit/07773df6caca934331720a89fb802ea76c599ac3) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release traefik to v10.20.1 (#271)"
 
-**2022-05-26** — deleted branch "renovate/zricethezav-gitleaks-8.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+**2022-06-06** — deleted branch "renovate/traefik-10.20.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
-**2022-05-26** — closed PR [#263](https://github.com/ankushg/home-cluster/pull/263) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update pre-commit hook zricethezav/gitleaks to v8.8.5"
+**2022-06-06** — closed PR [#271](https://github.com/ankushg/home-cluster/pull/271) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release traefik to v10.20.1"
 
-**2022-05-26** — pushed [`8e5c03a1`](https://github.com/ankushg/home-cluster/commit/8e5c03a18f8d7e68b3dc8413278929bed297ff65) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release traefik to v10.20.0 (#264)"
+**2022-06-06** — deleted branch "renovate/patch-tailscale" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
-**2022-05-26** — deleted branch "renovate/traefik-10.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+**2022-06-06** — pushed [`3f3a2efc`](https://github.com/ankushg/home-cluster/commit/3f3a2efc32d484c1f726a7cf3fac2b4394c67b5f) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release tailscale-relay to v0.1.5 (#270)"
 
-**2022-05-26** — closed PR [#264](https://github.com/ankushg/home-cluster/pull/264) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release traefik to v10.20.0"
+**2022-06-06** — closed PR [#270](https://github.com/ankushg/home-cluster/pull/270) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release tailscale-relay to v0.1.5"
 
-**2022-05-26** — pushed [`cbb9cc7a`](https://github.com/ankushg/home-cluster/commit/cbb9cc7a8969ed82d27e0342da78567dbc0e8671) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release reloader to v0.0.112 (#266)"
+**2022-06-06** — pushed [`b88e4613`](https://github.com/ankushg/home-cluster/commit/b88e46139e8ccea3878ec1d9add187ab441c77e1) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image docker.io/raspbernetes/cloudflared to v2022.5.3 (#269)"
 <!-- githubActivity ends -->
 </td></tr></table>
 
