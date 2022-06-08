@@ -29,6 +29,14 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-06-08** — pushed [`181b2628`](https://github.com/ankushg/home-cluster/commit/181b262899c38318805c4f5fa0d7ed4347c52304) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(ring-mqtt): attempt to fix ring mqtt"
+
+**2022-06-08** — pushed [`591f7187`](https://github.com/ankushg/home-cluster/commit/591f7187816ebbce813e27fde7590671937b7b56) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image koush/scrypted to v0.1.1 (#275)"
+
+**2022-06-08** — deleted branch "renovate/scrypted" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+
+**2022-06-08** — closed PR [#275](https://github.com/ankushg/home-cluster/pull/275) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image koush/scrypted to v0.1.1"
+
 **2022-06-08** — pushed [`b17a61a1`](https://github.com/ankushg/home-cluster/commit/b17a61a113dd71a29f73be6622bcf614db3577c5) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image ghcr.io/home-assistant/home-assistant to v2022.6.4 (#273)"
 
 **2022-06-08** — deleted branch "renovate/home-assistant" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
@@ -40,14 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-06-08** — deleted branch "renovate/tsightler-ring-mqtt-5.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
 **2022-06-08** — closed PR [#274](https://github.com/ankushg/home-cluster/pull/274) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image tsightler/ring-mqtt to v5.0.2"
-
-**2022-06-06** — pushed [`8c15a464`](https://github.com/ankushg/home-cluster/commit/8c15a464588a305b10e4179fc822c32fe8f3365e) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image ghcr.io/home-assistant/home-assistant to v2022.6.2 (#272)"
-
-**2022-06-06** — deleted branch "renovate/home-assistant" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2022-06-06** — closed PR [#272](https://github.com/ankushg/home-cluster/pull/272) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image ghcr.io/home-assistant/home-assistant to v2022.6.2"
-
-**2022-06-06** — pushed [`07773df6`](https://github.com/ankushg/home-cluster/commit/07773df6caca934331720a89fb802ea76c599ac3) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release traefik to v10.20.1 (#271)"
 <!-- githubActivity ends -->
 </td></tr></table>
 
