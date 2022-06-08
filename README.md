@@ -29,6 +29,18 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-06-08** — pushed [`b17a61a1`](https://github.com/ankushg/home-cluster/commit/b17a61a113dd71a29f73be6622bcf614db3577c5) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image ghcr.io/home-assistant/home-assistant to v2022.6.4 (#273)"
+
+**2022-06-08** — deleted branch "renovate/home-assistant" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+
+**2022-06-08** — closed PR [#273](https://github.com/ankushg/home-cluster/pull/273) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image ghcr.io/home-assistant/home-assistant to v2022.6.4"
+
+**2022-06-08** — pushed [`4f515602`](https://github.com/ankushg/home-cluster/commit/4f5156021f85cf54117f5b7379928b8cabe0f097) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image tsightler/ring-mqtt to v5.0.2 (#274)"
+
+**2022-06-08** — deleted branch "renovate/tsightler-ring-mqtt-5.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+
+**2022-06-08** — closed PR [#274](https://github.com/ankushg/home-cluster/pull/274) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image tsightler/ring-mqtt to v5.0.2"
+
 **2022-06-06** — pushed [`8c15a464`](https://github.com/ankushg/home-cluster/commit/8c15a464588a305b10e4179fc822c32fe8f3365e) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image ghcr.io/home-assistant/home-assistant to v2022.6.2 (#272)"
 
 **2022-06-06** — deleted branch "renovate/home-assistant" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
@@ -36,18 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-06-06** — closed PR [#272](https://github.com/ankushg/home-cluster/pull/272) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image ghcr.io/home-assistant/home-assistant to v2022.6.2"
 
 **2022-06-06** — pushed [`07773df6`](https://github.com/ankushg/home-cluster/commit/07773df6caca934331720a89fb802ea76c599ac3) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release traefik to v10.20.1 (#271)"
-
-**2022-06-06** — deleted branch "renovate/traefik-10.20.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2022-06-06** — closed PR [#271](https://github.com/ankushg/home-cluster/pull/271) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release traefik to v10.20.1"
-
-**2022-06-06** — deleted branch "renovate/patch-tailscale" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2022-06-06** — pushed [`3f3a2efc`](https://github.com/ankushg/home-cluster/commit/3f3a2efc32d484c1f726a7cf3fac2b4394c67b5f) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release tailscale-relay to v0.1.5 (#270)"
-
-**2022-06-06** — closed PR [#270](https://github.com/ankushg/home-cluster/pull/270) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release tailscale-relay to v0.1.5"
-
-**2022-06-06** — pushed [`b88e4613`](https://github.com/ankushg/home-cluster/commit/b88e46139e8ccea3878ec1d9add187ab441c77e1) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image docker.io/raspbernetes/cloudflared to v2022.5.3 (#269)"
 <!-- githubActivity ends -->
 </td></tr></table>
 
