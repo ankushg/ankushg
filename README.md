@@ -29,25 +29,25 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
-**2022-06-08** — pushed [`181b2628`](https://github.com/ankushg/home-cluster/commit/181b262899c38318805c4f5fa0d7ed4347c52304) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(ring-mqtt): attempt to fix ring mqtt"
+**2022-06-09** — closed PR [#279](https://github.com/ankushg/home-cluster/pull/279) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update dependency fluxcd/flux2 to v0.31.1"
 
-**2022-06-08** — pushed [`591f7187`](https://github.com/ankushg/home-cluster/commit/591f7187816ebbce813e27fde7590671937b7b56) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image koush/scrypted to v0.1.1 (#275)"
+**2022-06-09** — pushed [`6d6e7ab1`](https://github.com/ankushg/home-cluster/commit/6d6e7ab17ea425ea7a9fb964e367730fc96a8904) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update dependency fluxcd/flux2 to v0.31.1 (#279)"
 
-**2022-06-08** — deleted branch "renovate/scrypted" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+**2022-06-09** — deleted branch "renovate/fluxcd-flux2-0.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
-**2022-06-08** — closed PR [#275](https://github.com/ankushg/home-cluster/pull/275) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image koush/scrypted to v0.1.1"
+**2022-06-09** — pushed [`c8aede6c`](https://github.com/ankushg/home-cluster/commit/c8aede6c25d80f7440b691bfa41c8efc24b8b623) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release tailscale-relay to v0.1.7 (#276)"
 
-**2022-06-08** — pushed [`b17a61a1`](https://github.com/ankushg/home-cluster/commit/b17a61a113dd71a29f73be6622bcf614db3577c5) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image ghcr.io/home-assistant/home-assistant to v2022.6.4 (#273)"
+**2022-06-09** — deleted branch "renovate/patch-tailscale" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
-**2022-06-08** — deleted branch "renovate/home-assistant" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+**2022-06-09** — closed PR [#276](https://github.com/ankushg/home-cluster/pull/276) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release tailscale-relay to v0.1.7"
 
-**2022-06-08** — closed PR [#273](https://github.com/ankushg/home-cluster/pull/273) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image ghcr.io/home-assistant/home-assistant to v2022.6.4"
+**2022-06-09** — deleted branch "renovate/tailscale" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
-**2022-06-08** — pushed [`4f515602`](https://github.com/ankushg/home-cluster/commit/4f5156021f85cf54117f5b7379928b8cabe0f097) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image tsightler/ring-mqtt to v5.0.2 (#274)"
+**2022-06-09** — pushed [`13d9568c`](https://github.com/ankushg/home-cluster/commit/13d9568c4dc030fa41c57869a54d853813821ee3) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image docker.io/mvisonneau/tailscale to v1.26.0 (#277)"
 
-**2022-06-08** — deleted branch "renovate/tsightler-ring-mqtt-5.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+**2022-06-09** — closed PR [#277](https://github.com/ankushg/home-cluster/pull/277) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image docker.io/mvisonneau/tailscale to v1.26.0"
 
-**2022-06-08** — closed PR [#274](https://github.com/ankushg/home-cluster/pull/274) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image tsightler/ring-mqtt to v5.0.2"
+**2022-06-09** — closed PR [#278](https://github.com/ankushg/home-cluster/pull/278) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image ghcr.io/0xerr0r/blocky to v0.19"
 <!-- githubActivity ends -->
 </td></tr></table>
 
