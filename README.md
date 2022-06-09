@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-06-09** — commented on [#1940](https://github.com/Kotlin/kotlinx.serialization/issues/1940#issuecomment-1151594065) in [Kotlin/kotlinx.serialization](https://api.github.com/repos/Kotlin/kotlinx.serialization)
+
 **2022-06-09** — pushed [`f8a0d11a`](https://github.com/ankushg/home-cluster/commit/f8a0d11a362166a2687d1ca80862b439cc763ced) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update pre-commit hook pre-commit/pre-commit-hooks to v4.3.0 (#281)"
 
 **2022-06-09** — closed PR [#281](https://github.com/ankushg/home-cluster/pull/281) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update pre-commit hook pre-commit/pre-commit-hooks to v4.3.0"
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-06-09** — deleted branch "renovate/patch-tailscale" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
 **2022-06-09** — closed PR [#276](https://github.com/ankushg/home-cluster/pull/276) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release tailscale-relay to v0.1.7"
-
-**2022-06-09** — deleted branch "renovate/tailscale" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 <!-- githubActivity ends -->
 </td></tr></table>
 
