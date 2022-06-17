@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-06-17** — opened issue [#27](https://github.com/Kodein-Framework/MocKMP/issues/27) on [Kodein-Framework/MocKMP](https://api.github.com/repos/Kodein-Framework/MocKMP): "Kotlin 1.7.0 Compatibility"
+
 **2022-06-16** — commented on [#21](https://github.com/synthead/mint-adfree/issues/21#issuecomment-1158057764) in [synthead/mint-adfree](https://api.github.com/repos/synthead/mint-adfree)
 
 **2022-06-13** — opened issue [#26](https://github.com/Kodein-Framework/MocKMP/issues/26) on [Kodein-Framework/MocKMP](https://api.github.com/repos/Kodein-Framework/MocKMP): "JS-only error: TypeError: Cannot set property message of Error which has only a getter"
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-06-09** — pushed [`6d6e7ab1`](https://github.com/ankushg/home-cluster/commit/6d6e7ab17ea425ea7a9fb964e367730fc96a8904) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update dependency fluxcd/flux2 to v0.31.1 (#279)"
 
 **2022-06-09** — deleted branch "renovate/fluxcd-flux2-0.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2022-06-09** — pushed [`c8aede6c`](https://github.com/ankushg/home-cluster/commit/c8aede6c25d80f7440b691bfa41c8efc24b8b623) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release tailscale-relay to v0.1.7 (#276)"
 <!-- githubActivity ends -->
 </td></tr></table>
 
