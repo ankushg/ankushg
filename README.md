@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-06-22** — pushed [`26765bb0`](https://github.com/ankushg/home-cluster/commit/26765bb0c6398ebdc754f1ff61deb0c3336a7bcf) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "feat(traefik-hub): attempt to enable traefik hub"
+
 **2022-06-22** — pushed [`8c07de62`](https://github.com/ankushg/home-cluster/commit/8c07de62f219c8cee25fed8370864f957514dde1) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(ring-mqtt): fix domain name secret reference"
 
 **2022-06-22** — deleted branch "renovate/home-assistant" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-06-22** — deleted branch "renovate/reloader-0.0.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
 **2022-06-22** — closed PR [#283](https://github.com/ankushg/home-cluster/pull/283) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release reloader to v0.0.117"
-
-**2022-06-22** — pushed [`f457e3d8`](https://github.com/ankushg/home-cluster/commit/f457e3d82b2c7bab349cfe1b21b82cf4ada2823f) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release reloader to v0.0.117 (#283)"
 <!-- githubActivity ends -->
 </td></tr></table>
 
