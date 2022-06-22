@@ -29,25 +29,25 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
-**2022-06-17** — opened issue [#27](https://github.com/Kodein-Framework/MocKMP/issues/27) on [Kodein-Framework/MocKMP](https://api.github.com/repos/Kodein-Framework/MocKMP): "Kotlin 1.7.0 Compatibility"
+**2022-06-22** — pushed [`8c07de62`](https://github.com/ankushg/home-cluster/commit/8c07de62f219c8cee25fed8370864f957514dde1) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(ring-mqtt): fix domain name secret reference"
 
-**2022-06-16** — commented on [#21](https://github.com/synthead/mint-adfree/issues/21#issuecomment-1158057764) in [synthead/mint-adfree](https://api.github.com/repos/synthead/mint-adfree)
+**2022-06-22** — deleted branch "renovate/home-assistant" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
-**2022-06-13** — opened issue [#26](https://github.com/Kodein-Framework/MocKMP/issues/26) on [Kodein-Framework/MocKMP](https://api.github.com/repos/Kodein-Framework/MocKMP): "JS-only error: TypeError: Cannot set property message of Error which has only a getter"
+**2022-06-22** — pushed [`58cb7b1c`](https://github.com/ankushg/home-cluster/commit/58cb7b1cfbf0c7afed3660d8e69101146cbc93ad) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image ghcr.io/home-assistant/home-assistant to v2022.6.7 (#282)"
 
-**2022-06-09** — commented on [#1940](https://github.com/Kotlin/kotlinx.serialization/issues/1940#issuecomment-1151594065) in [Kotlin/kotlinx.serialization](https://api.github.com/repos/Kotlin/kotlinx.serialization)
+**2022-06-22** — closed PR [#282](https://github.com/ankushg/home-cluster/pull/282) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image ghcr.io/home-assistant/home-assistant to v2022.6.7"
 
-**2022-06-09** — pushed [`f8a0d11a`](https://github.com/ankushg/home-cluster/commit/f8a0d11a362166a2687d1ca80862b439cc763ced) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update pre-commit hook pre-commit/pre-commit-hooks to v4.3.0 (#281)"
+**2022-06-22** — pushed [`eac8e1e3`](https://github.com/ankushg/home-cluster/commit/eac8e1e3d54a94a2d0075d3809a4db476f13e559) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release cert-manager to v1.8.1 (#285)"
 
-**2022-06-09** — closed PR [#281](https://github.com/ankushg/home-cluster/pull/281) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update pre-commit hook pre-commit/pre-commit-hooks to v4.3.0"
+**2022-06-22** — deleted branch "renovate/cert-manager-1.8.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
-**2022-06-09** — deleted branch "renovate/pre-commit-pre-commit-hooks-4.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+**2022-06-22** — closed PR [#285](https://github.com/ankushg/home-cluster/pull/285) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release cert-manager to v1.8.1"
 
-**2022-06-09** — closed PR [#279](https://github.com/ankushg/home-cluster/pull/279) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update dependency fluxcd/flux2 to v0.31.1"
+**2022-06-22** — deleted branch "renovate/reloader-0.0.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
-**2022-06-09** — pushed [`6d6e7ab1`](https://github.com/ankushg/home-cluster/commit/6d6e7ab17ea425ea7a9fb964e367730fc96a8904) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update dependency fluxcd/flux2 to v0.31.1 (#279)"
+**2022-06-22** — closed PR [#283](https://github.com/ankushg/home-cluster/pull/283) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release reloader to v0.0.117"
 
-**2022-06-09** — deleted branch "renovate/fluxcd-flux2-0.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+**2022-06-22** — pushed [`f457e3d8`](https://github.com/ankushg/home-cluster/commit/f457e3d82b2c7bab349cfe1b21b82cf4ada2823f) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release reloader to v0.0.117 (#283)"
 <!-- githubActivity ends -->
 </td></tr></table>
 
