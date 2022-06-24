@@ -29,6 +29,12 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-06-24** — pushed [`bc3c6f1c`](https://github.com/ankushg/home-cluster/commit/bc3c6f1c4bc2c0ba0fde7afbf7e5a80811c3b299) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix: attempt to update hub token again?"
+
+**2022-06-24** — pushed [`f8254eec`](https://github.com/ankushg/home-cluster/commit/f8254eec63874a96f6367a7a6979176c46a18736) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix: attempt update hub token"
+
+**2022-06-24** — pushed [`ff895ff9`](https://github.com/ankushg/home-cluster/commit/ff895ff99624b3cefe3347e7fdc13366cc8e42e3) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(ring-mqtt): codeserver fixes"
+
 **2022-06-24** — pushed [`8d273ab8`](https://github.com/ankushg/home-cluster/commit/8d273ab820be966af3a7e6ad961d1ec6f0d1025d) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix: rename traefik-hub to hub-agent"
 
 **2022-06-24** — pushed [`41dc2fd9`](https://github.com/ankushg/home-cluster/commit/41dc2fd9bfead207c1ac2538f13d009fb3fb4f38) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "feat(hub-agent): attempt to set up traefik hub properly"
@@ -42,12 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-06-24** — pushed [`6b170bda`](https://github.com/ankushg/home-cluster/commit/6b170bda4ed46fd58487d9daaad397e85740232a) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix: attempt secrets again"
 
 **2022-06-24** — pushed [`7f0cd0fe`](https://github.com/ankushg/home-cluster/commit/7f0cd0fe4327bd82616cad9a332b7e53fbf63590) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix: attempt to load secretes using substituteFrom"
-
-**2022-06-24** — pushed [`921ac8cd`](https://github.com/ankushg/home-cluster/commit/921ac8cd76ed2729a7db285c62cb0784b49d7e4b) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(traefik-hub): attempt to just rename the chart"
-
-**2022-06-24** — pushed [`a91d8fae`](https://github.com/ankushg/home-cluster/commit/a91d8faebd925343cf3dabc007a3fd5436b6b6fd) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(traefik-hub): attempt fix again"
-
-**2022-06-24** — pushed [`d61c6323`](https://github.com/ankushg/home-cluster/commit/d61c6323629c612326506da1136ba2e4628170cb) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(traefik-hub): fix secret name"
 <!-- githubActivity ends -->
 </td></tr></table>
 
