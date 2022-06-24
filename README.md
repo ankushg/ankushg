@@ -29,25 +29,25 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-06-24** — pushed [`8d273ab8`](https://github.com/ankushg/home-cluster/commit/8d273ab820be966af3a7e6ad961d1ec6f0d1025d) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix: rename traefik-hub to hub-agent"
+
+**2022-06-24** — pushed [`41dc2fd9`](https://github.com/ankushg/home-cluster/commit/41dc2fd9bfead207c1ac2538f13d009fb3fb4f38) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "feat(hub-agent): attempt to set up traefik hub properly"
+
+**2022-06-24** — pushed [`c48135a4`](https://github.com/ankushg/home-cluster/commit/c48135a45a4d91aad4bd1e387318ead1dc354b46) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "feat(traefik): update pilot token"
+
+**2022-06-24** — pushed [`e80fd7d4`](https://github.com/ankushg/home-cluster/commit/e80fd7d4cfc88529ff5865a2753d937f6802e895) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(hub-agent): pullPolicy"
+
+**2022-06-24** — pushed [`4b0d4c6d`](https://github.com/ankushg/home-cluster/commit/4b0d4c6d8186c8ccf1a944bb170edad0cb4fe7ee) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix: remove extra postbuild"
+
+**2022-06-24** — pushed [`6b170bda`](https://github.com/ankushg/home-cluster/commit/6b170bda4ed46fd58487d9daaad397e85740232a) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix: attempt secrets again"
+
+**2022-06-24** — pushed [`7f0cd0fe`](https://github.com/ankushg/home-cluster/commit/7f0cd0fe4327bd82616cad9a332b7e53fbf63590) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix: attempt to load secretes using substituteFrom"
+
 **2022-06-24** — pushed [`921ac8cd`](https://github.com/ankushg/home-cluster/commit/921ac8cd76ed2729a7db285c62cb0784b49d7e4b) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(traefik-hub): attempt to just rename the chart"
 
 **2022-06-24** — pushed [`a91d8fae`](https://github.com/ankushg/home-cluster/commit/a91d8faebd925343cf3dabc007a3fd5436b6b6fd) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(traefik-hub): attempt fix again"
 
 **2022-06-24** — pushed [`d61c6323`](https://github.com/ankushg/home-cluster/commit/d61c6323629c612326506da1136ba2e4628170cb) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(traefik-hub): fix secret name"
-
-**2022-06-24** — pushed [`0c3aee0c`](https://github.com/ankushg/home-cluster/commit/0c3aee0c4460320af28858d2ec744c9927599e20) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix: flux-system"
-
-**2022-06-24** — pushed [`c330a9f2`](https://github.com/ankushg/home-cluster/commit/c330a9f27ae6c1af47df01372d3320d7d9f76d86) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix: attempt to fix pulling out charts"
-
-**2022-06-24** — pushed 12 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
-
-**2022-06-22** — pushed [`e9f1d719`](https://github.com/ankushg/home-cluster/commit/e9f1d7192d3f47c13995a9fb8b8cbf800409d51b) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(traefik-hub): use different name for secret"
-
-**2022-06-22** — pushed [`26765bb0`](https://github.com/ankushg/home-cluster/commit/26765bb0c6398ebdc754f1ff61deb0c3336a7bcf) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "feat(traefik-hub): attempt to enable traefik hub"
-
-**2022-06-22** — pushed [`8c07de62`](https://github.com/ankushg/home-cluster/commit/8c07de62f219c8cee25fed8370864f957514dde1) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(ring-mqtt): fix domain name secret reference"
-
-**2022-06-22** — deleted branch "renovate/home-assistant" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 <!-- githubActivity ends -->
 </td></tr></table>
 
