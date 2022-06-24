@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-06-24** — pushed [`efbe4bc5`](https://github.com/ankushg/home-cluster/commit/efbe4bc557672fd76d333330f2910a31291a0937) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix: wrap secrets in quotes"
+
 **2022-06-24** — pushed [`bc3c6f1c`](https://github.com/ankushg/home-cluster/commit/bc3c6f1c4bc2c0ba0fde7afbf7e5a80811c3b299) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix: attempt to update hub token again?"
 
 **2022-06-24** — pushed [`f8254eec`](https://github.com/ankushg/home-cluster/commit/f8254eec63874a96f6367a7a6979176c46a18736) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix: attempt update hub token"
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-06-24** — pushed [`4b0d4c6d`](https://github.com/ankushg/home-cluster/commit/4b0d4c6d8186c8ccf1a944bb170edad0cb4fe7ee) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix: remove extra postbuild"
 
 **2022-06-24** — pushed [`6b170bda`](https://github.com/ankushg/home-cluster/commit/6b170bda4ed46fd58487d9daaad397e85740232a) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix: attempt secrets again"
-
-**2022-06-24** — pushed [`7f0cd0fe`](https://github.com/ankushg/home-cluster/commit/7f0cd0fe4327bd82616cad9a332b7e53fbf63590) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix: attempt to load secretes using substituteFrom"
 <!-- githubActivity ends -->
 </td></tr></table>
 
