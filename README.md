@@ -29,6 +29,16 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-06-24** — pushed [`921ac8cd`](https://github.com/ankushg/home-cluster/commit/921ac8cd76ed2729a7db285c62cb0784b49d7e4b) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(traefik-hub): attempt to just rename the chart"
+
+**2022-06-24** — pushed [`a91d8fae`](https://github.com/ankushg/home-cluster/commit/a91d8faebd925343cf3dabc007a3fd5436b6b6fd) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(traefik-hub): attempt fix again"
+
+**2022-06-24** — pushed [`d61c6323`](https://github.com/ankushg/home-cluster/commit/d61c6323629c612326506da1136ba2e4628170cb) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(traefik-hub): fix secret name"
+
+**2022-06-24** — pushed [`0c3aee0c`](https://github.com/ankushg/home-cluster/commit/0c3aee0c4460320af28858d2ec744c9927599e20) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix: flux-system"
+
+**2022-06-24** — pushed [`c330a9f2`](https://github.com/ankushg/home-cluster/commit/c330a9f27ae6c1af47df01372d3320d7d9f76d86) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix: attempt to fix pulling out charts"
+
 **2022-06-24** — pushed 12 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
 
 **2022-06-22** — pushed [`e9f1d719`](https://github.com/ankushg/home-cluster/commit/e9f1d7192d3f47c13995a9fb8b8cbf800409d51b) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(traefik-hub): use different name for secret"
@@ -38,16 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-06-22** — pushed [`8c07de62`](https://github.com/ankushg/home-cluster/commit/8c07de62f219c8cee25fed8370864f957514dde1) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(ring-mqtt): fix domain name secret reference"
 
 **2022-06-22** — deleted branch "renovate/home-assistant" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2022-06-22** — pushed [`58cb7b1c`](https://github.com/ankushg/home-cluster/commit/58cb7b1cfbf0c7afed3660d8e69101146cbc93ad) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image ghcr.io/home-assistant/home-assistant to v2022.6.7 (#282)"
-
-**2022-06-22** — closed PR [#282](https://github.com/ankushg/home-cluster/pull/282) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image ghcr.io/home-assistant/home-assistant to v2022.6.7"
-
-**2022-06-22** — pushed [`eac8e1e3`](https://github.com/ankushg/home-cluster/commit/eac8e1e3d54a94a2d0075d3809a4db476f13e559) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release cert-manager to v1.8.1 (#285)"
-
-**2022-06-22** — deleted branch "renovate/cert-manager-1.8.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2022-06-22** — closed PR [#285](https://github.com/ankushg/home-cluster/pull/285) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release cert-manager to v1.8.1"
 <!-- githubActivity ends -->
 </td></tr></table>
 
