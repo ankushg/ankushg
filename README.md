@@ -29,25 +29,25 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
-**2022-06-24** — pushed [`efbe4bc5`](https://github.com/ankushg/home-cluster/commit/efbe4bc557672fd76d333330f2910a31291a0937) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix: wrap secrets in quotes"
+**2022-06-24** — pushed [`56009855`](https://github.com/ankushg/home-cluster/commit/560098557316bb99cc0b19a8c47ce28948e5dda1) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update dependency fluxcd/flux2 to v0.31.2 (#290)"
 
-**2022-06-24** — pushed [`bc3c6f1c`](https://github.com/ankushg/home-cluster/commit/bc3c6f1c4bc2c0ba0fde7afbf7e5a80811c3b299) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix: attempt to update hub token again?"
+**2022-06-24** — deleted branch "renovate/fluxcd-flux2-0.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
-**2022-06-24** — pushed [`f8254eec`](https://github.com/ankushg/home-cluster/commit/f8254eec63874a96f6367a7a6979176c46a18736) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix: attempt update hub token"
+**2022-06-24** — closed PR [#290](https://github.com/ankushg/home-cluster/pull/290) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update dependency fluxcd/flux2 to v0.31.2"
 
-**2022-06-24** — pushed [`ff895ff9`](https://github.com/ankushg/home-cluster/commit/ff895ff99624b3cefe3347e7fdc13366cc8e42e3) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(ring-mqtt): codeserver fixes"
+**2022-06-24** — pushed [`00294cb2`](https://github.com/ankushg/home-cluster/commit/00294cb2662bfe79149f958f28f38930de497e79) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release omada-exporter to v0.6.0 (#288)"
 
-**2022-06-24** — pushed [`8d273ab8`](https://github.com/ankushg/home-cluster/commit/8d273ab820be966af3a7e6ad961d1ec6f0d1025d) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix: rename traefik-hub to hub-agent"
+**2022-06-24** — deleted branch "renovate/omada-exporter-0.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
-**2022-06-24** — pushed [`41dc2fd9`](https://github.com/ankushg/home-cluster/commit/41dc2fd9bfead207c1ac2538f13d009fb3fb4f38) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "feat(hub-agent): attempt to set up traefik hub properly"
+**2022-06-24** — closed PR [#288](https://github.com/ankushg/home-cluster/pull/288) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release omada-exporter to v0.6.0"
 
-**2022-06-24** — pushed [`c48135a4`](https://github.com/ankushg/home-cluster/commit/c48135a45a4d91aad4bd1e387318ead1dc354b46) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "feat(traefik): update pilot token"
+**2022-06-24** — pushed [`b398cb69`](https://github.com/ankushg/home-cluster/commit/b398cb6983e5d1750d2fa406a253bfc9b18eb7f1) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image chhaley/omada_exporter to v0.6.0 (#286)"
 
-**2022-06-24** — pushed [`e80fd7d4`](https://github.com/ankushg/home-cluster/commit/e80fd7d4cfc88529ff5865a2753d937f6802e895) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(hub-agent): pullPolicy"
+**2022-06-24** — deleted branch "renovate/chhaley-omada_exporter-0.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
-**2022-06-24** — pushed [`4b0d4c6d`](https://github.com/ankushg/home-cluster/commit/4b0d4c6d8186c8ccf1a944bb170edad0cb4fe7ee) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix: remove extra postbuild"
+**2022-06-24** — closed PR [#286](https://github.com/ankushg/home-cluster/pull/286) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image chhaley/omada_exporter to v0.6.0"
 
-**2022-06-24** — pushed [`6b170bda`](https://github.com/ankushg/home-cluster/commit/6b170bda4ed46fd58487d9daaad397e85740232a) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix: attempt secrets again"
+**2022-06-24** — pushed [`2143a296`](https://github.com/ankushg/home-cluster/commit/2143a2963aaecac09e4152cae355de8fa9bbfc72) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image docker.io/raspbernetes/cloudflared to v2022.6.3 (#287)"
 <!-- githubActivity ends -->
 </td></tr></table>
 
