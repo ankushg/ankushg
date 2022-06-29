@@ -29,25 +29,25 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-06-29** — pushed 2 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
+
+**2022-06-29** — pushed [`d778c8e7`](https://github.com/ankushg/home-cluster/commit/d778c8e74a04b6df5ae9a5329689de656a59407a) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(omada-exporter): use annotation instead of ingressClassName"
+
+**2022-06-29** — pushed [`df1d891e`](https://github.com/ankushg/home-cluster/commit/df1d891e1a15009d20214a2262b7db6466d19d5c) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(netdata): set hosts to strings"
+
+**2022-06-29** — pushed [`26142346`](https://github.com/ankushg/home-cluster/commit/26142346ddcd016bea7bc16380ba8e42d7137e34) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(omada-exporter): add ingress rules"
+
+**2022-06-29** — pushed [`8d316f78`](https://github.com/ankushg/home-cluster/commit/8d316f7870030021535b0d3ac8224ae73e2ddf52) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(netdata):  actual last try"
+
+**2022-06-29** — pushed [`18b78b53`](https://github.com/ankushg/home-cluster/commit/18b78b53c92b95a03f330e75110db0cb04550072) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix: last attempt at fixing netdata"
+
+**2022-06-29** — pushed [`97d02e8a`](https://github.com/ankushg/home-cluster/commit/97d02e8a41ac8ff06d6994fb67d5fdae14e49b41) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(netdata): messing around"
+
 **2022-06-29** — pushed [`28d646bd`](https://github.com/ankushg/home-cluster/commit/28d646bd82d3ea2f7f2626eb1de95268c36a0a08) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(netdata): temp commentout hsots and tls for ingress"
 
 **2022-06-29** — pushed [`5f0ccbd4`](https://github.com/ankushg/home-cluster/commit/5f0ccbd41f9b67057551a1be77a97713a36d6355) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix: attempt fix netdata ingressClassName"
 
 **2022-06-29** — pushed [`696d1786`](https://github.com/ankushg/home-cluster/commit/696d17868f067329d084679081fec2661e6299c3) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix: omada-exporter remove releaseName"
-
-**2022-06-29** — pushed 5 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
-
-**2022-06-29** — pushed [`605445ba`](https://github.com/ankushg/home-cluster/commit/605445baa4d454fcf1d99488eaa43b9652c1bbf2) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update dependency fluxcd/flux2 to v0.31.3 (#295)"
-
-**2022-06-29** — deleted branch "renovate/fluxcd-flux2-0.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2022-06-29** — closed PR [#295](https://github.com/ankushg/home-cluster/pull/295) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update dependency fluxcd/flux2 to v0.31.3"
-
-**2022-06-29** — pushed [`e21641e9`](https://github.com/ankushg/home-cluster/commit/e21641e9fbe3ecaafdf25857f2b8d877534f9d61) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release cert-manager to v1.8.2 (#296)"
-
-**2022-06-29** — deleted branch "renovate/cert-manager-1.8.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2022-06-29** — closed PR [#296](https://github.com/ankushg/home-cluster/pull/296) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release cert-manager to v1.8.2"
 <!-- githubActivity ends -->
 </td></tr></table>
 
