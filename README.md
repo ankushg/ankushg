@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-06-29** — pushed [`0eb3e66e`](https://github.com/ankushg/home-cluster/commit/0eb3e66e231d2aa27eff36305b1cebf36af95ce6) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "revert: disable hub-agent for now"
+
 **2022-06-29** — deleted branch "renovate/scrypted" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
 **2022-06-29** — closed PR [#293](https://github.com/ankushg/home-cluster/pull/293) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image koush/scrypted to v0.1.11"
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-06-29** — closed PR [#294](https://github.com/ankushg/home-cluster/pull/294) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release kured to v2.16.0"
 
 **2022-06-29** — pushed [`b384f559`](https://github.com/ankushg/home-cluster/commit/b384f5596b2afc84415a3dd336b6d125fdfcd6b8) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release kured to v2.16.0 (#294)"
-
-**2022-06-24** — pushed [`56009855`](https://github.com/ankushg/home-cluster/commit/560098557316bb99cc0b19a8c47ce28948e5dda1) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update dependency fluxcd/flux2 to v0.31.2 (#290)"
 <!-- githubActivity ends -->
 </td></tr></table>
 
