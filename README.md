@@ -29,25 +29,25 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-06-29** — deleted branch "renovate/scrypted" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+
+**2022-06-29** — closed PR [#293](https://github.com/ankushg/home-cluster/pull/293) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image koush/scrypted to v0.1.11"
+
+**2022-06-29** — pushed [`e3a8a9d2`](https://github.com/ankushg/home-cluster/commit/e3a8a9d25efcc30479a2a81305d6bd80ed87b070) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image koush/scrypted to v0.1.11 (#293)"
+
+**2022-06-29** — pushed [`25780bca`](https://github.com/ankushg/home-cluster/commit/25780bca75b8ac7921286c737734ed723dd869c5) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release traefik to v10.23.0 (#292)"
+
+**2022-06-29** — deleted branch "renovate/traefik-10.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+
+**2022-06-29** — closed PR [#292](https://github.com/ankushg/home-cluster/pull/292) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release traefik to v10.23.0"
+
+**2022-06-29** — deleted branch "renovate/kured-2.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+
+**2022-06-29** — closed PR [#294](https://github.com/ankushg/home-cluster/pull/294) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release kured to v2.16.0"
+
+**2022-06-29** — pushed [`b384f559`](https://github.com/ankushg/home-cluster/commit/b384f5596b2afc84415a3dd336b6d125fdfcd6b8) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release kured to v2.16.0 (#294)"
+
 **2022-06-24** — pushed [`56009855`](https://github.com/ankushg/home-cluster/commit/560098557316bb99cc0b19a8c47ce28948e5dda1) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update dependency fluxcd/flux2 to v0.31.2 (#290)"
-
-**2022-06-24** — deleted branch "renovate/fluxcd-flux2-0.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2022-06-24** — closed PR [#290](https://github.com/ankushg/home-cluster/pull/290) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update dependency fluxcd/flux2 to v0.31.2"
-
-**2022-06-24** — pushed [`00294cb2`](https://github.com/ankushg/home-cluster/commit/00294cb2662bfe79149f958f28f38930de497e79) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release omada-exporter to v0.6.0 (#288)"
-
-**2022-06-24** — deleted branch "renovate/omada-exporter-0.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2022-06-24** — closed PR [#288](https://github.com/ankushg/home-cluster/pull/288) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release omada-exporter to v0.6.0"
-
-**2022-06-24** — pushed [`b398cb69`](https://github.com/ankushg/home-cluster/commit/b398cb6983e5d1750d2fa406a253bfc9b18eb7f1) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image chhaley/omada_exporter to v0.6.0 (#286)"
-
-**2022-06-24** — deleted branch "renovate/chhaley-omada_exporter-0.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2022-06-24** — closed PR [#286](https://github.com/ankushg/home-cluster/pull/286) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image chhaley/omada_exporter to v0.6.0"
-
-**2022-06-24** — pushed [`2143a296`](https://github.com/ankushg/home-cluster/commit/2143a2963aaecac09e4152cae355de8fa9bbfc72) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image docker.io/raspbernetes/cloudflared to v2022.6.3 (#287)"
 <!-- githubActivity ends -->
 </td></tr></table>
 
