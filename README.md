@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-06-29** — pushed [`02759953`](https://github.com/ankushg/home-cluster/commit/0275995385f42a8aca3760cdd8dc057521060bdf) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "revert: disable hub-agent for now"
+
 **2022-06-29** — pushed [`0eb3e66e`](https://github.com/ankushg/home-cluster/commit/0eb3e66e231d2aa27eff36305b1cebf36af95ce6) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "revert: disable hub-agent for now"
 
 **2022-06-29** — deleted branch "renovate/scrypted" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-06-29** — deleted branch "renovate/kured-2.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
 **2022-06-29** — closed PR [#294](https://github.com/ankushg/home-cluster/pull/294) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release kured to v2.16.0"
-
-**2022-06-29** — pushed [`b384f559`](https://github.com/ankushg/home-cluster/commit/b384f5596b2afc84415a3dd336b6d125fdfcd6b8) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release kured to v2.16.0 (#294)"
 <!-- githubActivity ends -->
 </td></tr></table>
 
