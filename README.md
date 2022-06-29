@@ -29,25 +29,25 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-06-29** — pushed [`6b6d2611`](https://github.com/ankushg/home-cluster/commit/6b6d2611cd15ec22f16018d7042830dbba7f407e) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(ringmqtt): add tls"
+
+**2022-06-29** — pushed [`ab89d187`](https://github.com/ankushg/home-cluster/commit/ab89d1875338387eebf9f58cf53cce96a85dbed6) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(ring-mqtt): attemp to clean up vscode/ring-mqtt mount paths"
+
+**2022-06-29** — closed PR [#297](https://github.com/ankushg/home-cluster/pull/297) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image docker.io/mvisonneau/tailscale to v1.26.1"
+
+**2022-06-29** — pushed [`a878277e`](https://github.com/ankushg/home-cluster/commit/a878277e9ef879f6a1f97d04417896ce0926a046) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image docker.io/mvisonneau/tailscale to v1.26.1 (#297)"
+
+**2022-06-29** — deleted branch "renovate/tailscale" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+
+**2022-06-29** — deleted branch "renovate/cloudflared-0.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+
+**2022-06-29** — pushed [`1901e72a`](https://github.com/ankushg/home-cluster/commit/1901e72aa5688ab887c7a94fbbb08c4b81dbc5f2) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release cloudflared to v0.4.3 (#298)"
+
+**2022-06-29** — closed PR [#298](https://github.com/ankushg/home-cluster/pull/298) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release cloudflared to v0.4.3"
+
 **2022-06-29** — pushed 2 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
 
 **2022-06-29** — pushed [`d778c8e7`](https://github.com/ankushg/home-cluster/commit/d778c8e74a04b6df5ae9a5329689de656a59407a) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(omada-exporter): use annotation instead of ingressClassName"
-
-**2022-06-29** — pushed [`df1d891e`](https://github.com/ankushg/home-cluster/commit/df1d891e1a15009d20214a2262b7db6466d19d5c) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(netdata): set hosts to strings"
-
-**2022-06-29** — pushed [`26142346`](https://github.com/ankushg/home-cluster/commit/26142346ddcd016bea7bc16380ba8e42d7137e34) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(omada-exporter): add ingress rules"
-
-**2022-06-29** — pushed [`8d316f78`](https://github.com/ankushg/home-cluster/commit/8d316f7870030021535b0d3ac8224ae73e2ddf52) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(netdata):  actual last try"
-
-**2022-06-29** — pushed [`18b78b53`](https://github.com/ankushg/home-cluster/commit/18b78b53c92b95a03f330e75110db0cb04550072) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix: last attempt at fixing netdata"
-
-**2022-06-29** — pushed [`97d02e8a`](https://github.com/ankushg/home-cluster/commit/97d02e8a41ac8ff06d6994fb67d5fdae14e49b41) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(netdata): messing around"
-
-**2022-06-29** — pushed [`28d646bd`](https://github.com/ankushg/home-cluster/commit/28d646bd82d3ea2f7f2626eb1de95268c36a0a08) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(netdata): temp commentout hsots and tls for ingress"
-
-**2022-06-29** — pushed [`5f0ccbd4`](https://github.com/ankushg/home-cluster/commit/5f0ccbd41f9b67057551a1be77a97713a36d6355) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix: attempt fix netdata ingressClassName"
-
-**2022-06-29** — pushed [`696d1786`](https://github.com/ankushg/home-cluster/commit/696d17868f067329d084679081fec2661e6299c3) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix: omada-exporter remove releaseName"
 <!-- githubActivity ends -->
 </td></tr></table>
 
