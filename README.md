@@ -29,25 +29,25 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
-**2022-06-29** — pushed [`6b6d2611`](https://github.com/ankushg/home-cluster/commit/6b6d2611cd15ec22f16018d7042830dbba7f407e) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(ringmqtt): add tls"
+**2022-06-30** — pushed [`aca0b49a`](https://github.com/ankushg/home-cluster/commit/aca0b49a5c24fcfadd5757c1d5b8aa07adc84ec1) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update dependency fluxcd/flux2 to v0.31.3 (#300)"
 
-**2022-06-29** — pushed [`ab89d187`](https://github.com/ankushg/home-cluster/commit/ab89d1875338387eebf9f58cf53cce96a85dbed6) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(ring-mqtt): attemp to clean up vscode/ring-mqtt mount paths"
+**2022-06-30** — deleted branch "renovate/fluxcd-flux2-0.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
-**2022-06-29** — closed PR [#297](https://github.com/ankushg/home-cluster/pull/297) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image docker.io/mvisonneau/tailscale to v1.26.1"
+**2022-06-30** — closed PR [#300](https://github.com/ankushg/home-cluster/pull/300) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update dependency fluxcd/flux2 to v0.31.3"
 
-**2022-06-29** — pushed [`a878277e`](https://github.com/ankushg/home-cluster/commit/a878277e9ef879f6a1f97d04417896ce0926a046) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image docker.io/mvisonneau/tailscale to v1.26.1 (#297)"
+**2022-06-30** — deleted branch "renovate/traefik-10.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
-**2022-06-29** — deleted branch "renovate/tailscale" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+**2022-06-30** — pushed [`141f8cfb`](https://github.com/ankushg/home-cluster/commit/141f8cfb2a7659fd2b5877804cdbdf5d02fd0dc9) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release traefik to v10.24.0 (#299)"
 
-**2022-06-29** — deleted branch "renovate/cloudflared-0.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+**2022-06-30** — closed PR [#299](https://github.com/ankushg/home-cluster/pull/299) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release traefik to v10.24.0"
 
-**2022-06-29** — pushed [`1901e72a`](https://github.com/ankushg/home-cluster/commit/1901e72aa5688ab887c7a94fbbb08c4b81dbc5f2) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release cloudflared to v0.4.3 (#298)"
+**2022-06-30** — pushed [`7d6fc83c`](https://github.com/ankushg/home-cluster/commit/7d6fc83c9b5fbda6a26983b9d7be7f447369fd31) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix: attempt to fix system-upgrade-controller?"
 
-**2022-06-29** — closed PR [#298](https://github.com/ankushg/home-cluster/pull/298) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release cloudflared to v0.4.3"
+**2022-06-30** — pushed [`16d7a993`](https://github.com/ankushg/home-cluster/commit/16d7a993190034738b0a8900fce8d6106a8673e5) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix: add namespace.yaml for system-upgrade-controller"
 
-**2022-06-29** — pushed 2 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
+**2022-06-30** — pushed 2 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
 
-**2022-06-29** — pushed [`d778c8e7`](https://github.com/ankushg/home-cluster/commit/d778c8e74a04b6df5ae9a5329689de656a59407a) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(omada-exporter): use annotation instead of ingressClassName"
+**2022-06-30** — pushed 17 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
 <!-- githubActivity ends -->
 </td></tr></table>
 
