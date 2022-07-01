@@ -29,6 +29,10 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-07-01** — pushed [`030fd3ae`](https://github.com/ankushg/home-cluster/commit/030fd3aef6f393ff58734900d253527ce20b9183) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix: revert cloudflared tunnel ingress hostname back to SECRET_DOMAIN"
+
+**2022-07-01** — pushed [`4b84c48f`](https://github.com/ankushg/home-cluster/commit/4b84c48f4652d2c761b441080aef40057442e434) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(cloudflared): try not to use wildcard for ingress"
+
 **2022-07-01** — pushed [`35cc3e56`](https://github.com/ankushg/home-cluster/commit/35cc3e56f2ef63cbb0687012f93e8394b58e9849) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix: try to line things up"
 
 **2022-07-01** — pushed 2 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
@@ -44,10 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-07-01** — pushed 2 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
 
 **2022-07-01** — pushed [`effc6d65`](https://github.com/ankushg/home-cluster/commit/effc6d651452b55f0318f805d7e7e656839d41d2) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "feat: attempt to make cloudflared work as an additional container"
-
-**2022-06-30** — pushed [`de850f75`](https://github.com/ankushg/home-cluster/commit/de850f7521b3dfeffbe91001fa0a1172e81f59f6) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(cloudflared): attemp to just run as additionalContainer"
-
-**2022-06-30** — pushed [`ed08b83d`](https://github.com/ankushg/home-cluster/commit/ed08b83d50f8810ce707d68a1fe12e5c7dee3382) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix: don't override secret from sops file"
 <!-- githubActivity ends -->
 </td></tr></table>
 
