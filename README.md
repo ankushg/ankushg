@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-07-01** — pushed [`f07b1656`](https://github.com/ankushg/home-cluster/commit/f07b165688be88652a7a865a956adc03ac93c754) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(cloudflared): use wildcard for hostname"
+
 **2022-07-01** — pushed [`d5111906`](https://github.com/ankushg/home-cluster/commit/d511190660962fc13ef4607552a04074ffef7e80) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "feat(github receiver): remove extra annotation for traefik"
 
 **2022-07-01** — pushed [`172b682d`](https://github.com/ankushg/home-cluster/commit/172b682d68b41b2600e095e1c6582012f674c802) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "feat: add github webhook to repo"
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-07-01** — closed issue [#54](https://github.com/ankushg/home-cluster/issues/54) on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "Document/automate tailscale auth setup"
 
 **2022-07-01** — commented on [#54](https://github.com/ankushg/home-cluster/issues/54#issuecomment-1172600660) in [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2022-07-01** — closed issue [#139](https://github.com/ankushg/home-cluster/issues/139) on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "Migrate from tailscale to cloudflare tunnels or traefik hub"
 <!-- githubActivity ends -->
 </td></tr></table>
 
