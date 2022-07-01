@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-07-01** — pushed 2 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
+
 **2022-07-01** — opened issue [#302](https://github.com/ankushg/home-cluster/issues/302) on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "Document cloudflare tunnel setup"
 
 **2022-07-01** — closed issue [#54](https://github.com/ankushg/home-cluster/issues/54) on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "Document/automate tailscale auth setup"
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-07-01** — commented on [#223](https://github.com/ankushg/home-cluster/issues/223#issuecomment-1172597062) in [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
 **2022-07-01** — pushed 6 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
-
-**2022-07-01** — pushed [`030fd3ae`](https://github.com/ankushg/home-cluster/commit/030fd3aef6f393ff58734900d253527ce20b9183) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix: revert cloudflared tunnel ingress hostname back to SECRET_DOMAIN"
 <!-- githubActivity ends -->
 </td></tr></table>
 
