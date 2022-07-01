@@ -29,6 +29,16 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-07-01** — pushed [`d5111906`](https://github.com/ankushg/home-cluster/commit/d511190660962fc13ef4607552a04074ffef7e80) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "feat(github receiver): remove extra annotation for traefik"
+
+**2022-07-01** — pushed [`172b682d`](https://github.com/ankushg/home-cluster/commit/172b682d68b41b2600e095e1c6582012f674c802) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "feat: add github webhook to repo"
+
+**2022-07-01** — closed issue [#235](https://github.com/ankushg/home-cluster/issues/235) on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "Local-only access middleware for traefik dashboard"
+
+**2022-07-01** — closed issue [#255](https://github.com/ankushg/home-cluster/issues/255) on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "Add cloudflare-only and internal-only middlewares"
+
+**2022-07-01** — pushed 3 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
+
 **2022-07-01** — pushed 2 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
 
 **2022-07-01** — opened issue [#302](https://github.com/ankushg/home-cluster/issues/302) on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "Document cloudflare tunnel setup"
@@ -38,16 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-07-01** — commented on [#54](https://github.com/ankushg/home-cluster/issues/54#issuecomment-1172600660) in [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
 **2022-07-01** — closed issue [#139](https://github.com/ankushg/home-cluster/issues/139) on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "Migrate from tailscale to cloudflare tunnels or traefik hub"
-
-**2022-07-01** — commented on [#139](https://github.com/ankushg/home-cluster/issues/139#issuecomment-1172600138) in [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2022-07-01** — pushed [`56911289`](https://github.com/ankushg/home-cluster/commit/56911289bf40d25902e204efeead8cc846f8e678) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore: delete unused tailscale-relay and hub-agent"
-
-**2022-07-01** — closed issue [#223](https://github.com/ankushg/home-cluster/issues/223) on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "add external-dns for managing public DNS records"
-
-**2022-07-01** — commented on [#223](https://github.com/ankushg/home-cluster/issues/223#issuecomment-1172597062) in [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2022-07-01** — pushed 6 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
 <!-- githubActivity ends -->
 </td></tr></table>
 
