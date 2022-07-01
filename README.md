@@ -29,6 +29,16 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-07-01** — commented on [#236](https://github.com/ankushg/home-cluster/issues/236#issuecomment-1172759999) in [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+
+**2022-07-01** — pushed [`c4aeda1a`](https://github.com/ankushg/home-cluster/commit/c4aeda1a1a3a8ab78bbfd4366315f01c4973ac23) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update terraform cloudflare to v3.18.0 (#301)"
+
+**2022-07-01** — deleted branch "renovate/cloudflare-3.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+
+**2022-07-01** — closed PR [#301](https://github.com/ankushg/home-cluster/pull/301) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update terraform cloudflare to v3.18.0"
+
+**2022-07-01** — pushed [`cd3da01a`](https://github.com/ankushg/home-cluster/commit/cd3da01afe38f3ecd38279fdbf09096f9dad983f) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(cloudflared): just manually define them for now"
+
 **2022-07-01** — pushed [`f07b1656`](https://github.com/ankushg/home-cluster/commit/f07b165688be88652a7a865a956adc03ac93c754) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(cloudflared): use wildcard for hostname"
 
 **2022-07-01** — pushed [`d5111906`](https://github.com/ankushg/home-cluster/commit/d511190660962fc13ef4607552a04074ffef7e80) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "feat(github receiver): remove extra annotation for traefik"
@@ -38,16 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-07-01** — closed issue [#235](https://github.com/ankushg/home-cluster/issues/235) on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "Local-only access middleware for traefik dashboard"
 
 **2022-07-01** — closed issue [#255](https://github.com/ankushg/home-cluster/issues/255) on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "Add cloudflare-only and internal-only middlewares"
-
-**2022-07-01** — pushed 3 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
-
-**2022-07-01** — pushed 2 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
-
-**2022-07-01** — opened issue [#302](https://github.com/ankushg/home-cluster/issues/302) on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "Document cloudflare tunnel setup"
-
-**2022-07-01** — closed issue [#54](https://github.com/ankushg/home-cluster/issues/54) on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "Document/automate tailscale auth setup"
-
-**2022-07-01** — commented on [#54](https://github.com/ankushg/home-cluster/issues/54#issuecomment-1172600660) in [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 <!-- githubActivity ends -->
 </td></tr></table>
 
