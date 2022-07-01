@@ -29,6 +29,14 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-07-01** — pushed [`d5cbdf58`](https://github.com/ankushg/home-cluster/commit/d5cbdf5824990a6fef88a902d2db268a1f683409) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix: traefik update hostname"
+
+**2022-07-01** — pushed 2 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
+
+**2022-07-01** — pushed [`effc6d65`](https://github.com/ankushg/home-cluster/commit/effc6d651452b55f0318f805d7e7e656839d41d2) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "feat: attempt to make cloudflared work as an additional container"
+
+**2022-06-30** — pushed [`de850f75`](https://github.com/ankushg/home-cluster/commit/de850f7521b3dfeffbe91001fa0a1172e81f59f6) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(cloudflared): attemp to just run as additionalContainer"
+
 **2022-06-30** — pushed [`ed08b83d`](https://github.com/ankushg/home-cluster/commit/ed08b83d50f8810ce707d68a1fe12e5c7dee3382) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix: don't override secret from sops file"
 
 **2022-06-30** — pushed [`4ee28fe9`](https://github.com/ankushg/home-cluster/commit/4ee28fe9883b2e79d2d7b59d0a7bde88da969e5b) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(external-dns): make echo-server public?"
@@ -40,14 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-06-30** — pushed [`a04d0131`](https://github.com/ankushg/home-cluster/commit/a04d0131c45df931c7ba61650e24a1a67e40e5b4) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix: properly add xunholy charts"
 
 **2022-06-30** — pushed [`724d37fa`](https://github.com/ankushg/home-cluster/commit/724d37fab8e380a58363397f17e47b36a2104b95) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "feat(cloudflared): attempt xunholy chart"
-
-**2022-06-30** — pushed [`87b3c29c`](https://github.com/ankushg/home-cluster/commit/87b3c29ca8f80dfdc0d64edad3efffbcb753ea77) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "feat(cloudflared): attempt xunholy chart"
-
-**2022-06-30** — pushed [`0035bc8b`](https://github.com/ankushg/home-cluster/commit/0035bc8b545599f9982ef0d6d397c37b332d3b5f) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(cloudflared): try using better traefik url"
-
-**2022-06-30** — pushed [`bcb3aa95`](https://github.com/ankushg/home-cluster/commit/bcb3aa950f794667a3646704620ff99d8adc4426) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(cloudflared): use traefik service address?"
-
-**2022-06-30** — pushed 7 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
 <!-- githubActivity ends -->
 </td></tr></table>
 
