@@ -29,6 +29,10 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-06-30** — pushed [`bcb3aa95`](https://github.com/ankushg/home-cluster/commit/bcb3aa950f794667a3646704620ff99d8adc4426) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(cloudflared): use traefik service address?"
+
+**2022-06-30** — pushed 7 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
+
 **2022-06-30** — pushed [`3fd4095b`](https://github.com/ankushg/home-cluster/commit/3fd4095b120b1bf8a82a8c09f4d80bd495a09b4a) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "feat(cloudflare-ddns): add cronjob to updte cloudflare"
 
 **2022-06-30** — closed issue [#222](https://github.com/ankushg/home-cluster/issues/222) on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): " add k8s_gateway for accessing ingresses locally over DNS"
@@ -44,10 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-06-30** — pushed [`39191763`](https://github.com/ankushg/home-cluster/commit/3919176391cd65bd516c7e262da6bd652f598ae5) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "feat: add error-pages (#254)"
 
 **2022-06-30** — closed issue [#221](https://github.com/ankushg/home-cluster/issues/221) on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "move system-upgrade-controller to crds and apps"
-
-**2022-06-30** — commented on [#221](https://github.com/ankushg/home-cluster/issues/221#issuecomment-1171807434) in [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2022-06-30** — pushed 2 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
 <!-- githubActivity ends -->
 </td></tr></table>
 
