@@ -29,6 +29,14 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-06-30** — pushed [`ed08b83d`](https://github.com/ankushg/home-cluster/commit/ed08b83d50f8810ce707d68a1fe12e5c7dee3382) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix: don't override secret from sops file"
+
+**2022-06-30** — pushed [`4ee28fe9`](https://github.com/ankushg/home-cluster/commit/4ee28fe9883b2e79d2d7b59d0a7bde88da969e5b) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(external-dns): make echo-server public?"
+
+**2022-06-30** — pushed [`ecbf0e25`](https://github.com/ankushg/home-cluster/commit/ecbf0e258b7bbe2b6813d8c60501d3ddf14d0620) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(external-dns): fix typo"
+
+**2022-06-30** — pushed [`f8f09526`](https://github.com/ankushg/home-cluster/commit/f8f095266fcd3e68bd72acf1bf3c31eba3d526a6) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(cloudflared): rename credential"
+
 **2022-06-30** — pushed [`a04d0131`](https://github.com/ankushg/home-cluster/commit/a04d0131c45df931c7ba61650e24a1a67e40e5b4) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix: properly add xunholy charts"
 
 **2022-06-30** — pushed [`724d37fa`](https://github.com/ankushg/home-cluster/commit/724d37fab8e380a58363397f17e47b36a2104b95) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "feat(cloudflared): attempt xunholy chart"
@@ -40,14 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-06-30** — pushed [`bcb3aa95`](https://github.com/ankushg/home-cluster/commit/bcb3aa950f794667a3646704620ff99d8adc4426) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(cloudflared): use traefik service address?"
 
 **2022-06-30** — pushed 7 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
-
-**2022-06-30** — pushed [`3fd4095b`](https://github.com/ankushg/home-cluster/commit/3fd4095b120b1bf8a82a8c09f4d80bd495a09b4a) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "feat(cloudflare-ddns): add cronjob to updte cloudflare"
-
-**2022-06-30** — closed issue [#222](https://github.com/ankushg/home-cluster/issues/222) on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): " add k8s_gateway for accessing ingresses locally over DNS"
-
-**2022-06-30** — commented on [#222](https://github.com/ankushg/home-cluster/issues/222#issuecomment-1171827554) in [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2022-06-30** — pushed [`8c7a3522`](https://github.com/ankushg/home-cluster/commit/8c7a35223574d4ac77b458a10b112b5ea539aa96) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "feat: add k8s_gateway for accessing ingresses locally over DNS"
 <!-- githubActivity ends -->
 </td></tr></table>
 
