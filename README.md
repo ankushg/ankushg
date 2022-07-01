@@ -29,6 +29,14 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-06-30** — pushed [`a04d0131`](https://github.com/ankushg/home-cluster/commit/a04d0131c45df931c7ba61650e24a1a67e40e5b4) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix: properly add xunholy charts"
+
+**2022-06-30** — pushed [`724d37fa`](https://github.com/ankushg/home-cluster/commit/724d37fab8e380a58363397f17e47b36a2104b95) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "feat(cloudflared): attempt xunholy chart"
+
+**2022-06-30** — pushed [`87b3c29c`](https://github.com/ankushg/home-cluster/commit/87b3c29ca8f80dfdc0d64edad3efffbcb753ea77) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "feat(cloudflared): attempt xunholy chart"
+
+**2022-06-30** — pushed [`0035bc8b`](https://github.com/ankushg/home-cluster/commit/0035bc8b545599f9982ef0d6d397c37b332d3b5f) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(cloudflared): try using better traefik url"
+
 **2022-06-30** — pushed [`bcb3aa95`](https://github.com/ankushg/home-cluster/commit/bcb3aa950f794667a3646704620ff99d8adc4426) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(cloudflared): use traefik service address?"
 
 **2022-06-30** — pushed 7 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
@@ -40,14 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-06-30** — commented on [#222](https://github.com/ankushg/home-cluster/issues/222#issuecomment-1171827554) in [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
 **2022-06-30** — pushed [`8c7a3522`](https://github.com/ankushg/home-cluster/commit/8c7a35223574d4ac77b458a10b112b5ea539aa96) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "feat: add k8s_gateway for accessing ingresses locally over DNS"
-
-**2022-06-30** — closed issue [#254](https://github.com/ankushg/home-cluster/issues/254) on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "add error-pages"
-
-**2022-06-30** — pushed [`08c7d202`](https://github.com/ankushg/home-cluster/commit/08c7d2020665f61006ead25cc17dab561be8f93b) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "feat: add error-pages (#254)"
-
-**2022-06-30** — pushed [`39191763`](https://github.com/ankushg/home-cluster/commit/3919176391cd65bd516c7e262da6bd652f598ae5) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "feat: add error-pages (#254)"
-
-**2022-06-30** — closed issue [#221](https://github.com/ankushg/home-cluster/issues/221) on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "move system-upgrade-controller to crds and apps"
 <!-- githubActivity ends -->
 </td></tr></table>
 
