@@ -29,25 +29,25 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
-**2022-06-30** — pushed [`aca0b49a`](https://github.com/ankushg/home-cluster/commit/aca0b49a5c24fcfadd5757c1d5b8aa07adc84ec1) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update dependency fluxcd/flux2 to v0.31.3 (#300)"
+**2022-06-30** — pushed [`3fd4095b`](https://github.com/ankushg/home-cluster/commit/3fd4095b120b1bf8a82a8c09f4d80bd495a09b4a) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "feat(cloudflare-ddns): add cronjob to updte cloudflare"
 
-**2022-06-30** — deleted branch "renovate/fluxcd-flux2-0.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+**2022-06-30** — closed issue [#222](https://github.com/ankushg/home-cluster/issues/222) on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): " add k8s_gateway for accessing ingresses locally over DNS"
 
-**2022-06-30** — closed PR [#300](https://github.com/ankushg/home-cluster/pull/300) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update dependency fluxcd/flux2 to v0.31.3"
+**2022-06-30** — commented on [#222](https://github.com/ankushg/home-cluster/issues/222#issuecomment-1171827554) in [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
-**2022-06-30** — deleted branch "renovate/traefik-10.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+**2022-06-30** — pushed [`8c7a3522`](https://github.com/ankushg/home-cluster/commit/8c7a35223574d4ac77b458a10b112b5ea539aa96) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "feat: add k8s_gateway for accessing ingresses locally over DNS"
 
-**2022-06-30** — pushed [`141f8cfb`](https://github.com/ankushg/home-cluster/commit/141f8cfb2a7659fd2b5877804cdbdf5d02fd0dc9) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release traefik to v10.24.0 (#299)"
+**2022-06-30** — closed issue [#254](https://github.com/ankushg/home-cluster/issues/254) on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "add error-pages"
 
-**2022-06-30** — closed PR [#299](https://github.com/ankushg/home-cluster/pull/299) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release traefik to v10.24.0"
+**2022-06-30** — pushed [`08c7d202`](https://github.com/ankushg/home-cluster/commit/08c7d2020665f61006ead25cc17dab561be8f93b) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "feat: add error-pages (#254)"
 
-**2022-06-30** — pushed [`7d6fc83c`](https://github.com/ankushg/home-cluster/commit/7d6fc83c9b5fbda6a26983b9d7be7f447369fd31) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix: attempt to fix system-upgrade-controller?"
+**2022-06-30** — pushed [`39191763`](https://github.com/ankushg/home-cluster/commit/3919176391cd65bd516c7e262da6bd652f598ae5) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "feat: add error-pages (#254)"
 
-**2022-06-30** — pushed [`16d7a993`](https://github.com/ankushg/home-cluster/commit/16d7a993190034738b0a8900fce8d6106a8673e5) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix: add namespace.yaml for system-upgrade-controller"
+**2022-06-30** — closed issue [#221](https://github.com/ankushg/home-cluster/issues/221) on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "move system-upgrade-controller to crds and apps"
+
+**2022-06-30** — commented on [#221](https://github.com/ankushg/home-cluster/issues/221#issuecomment-1171807434) in [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
 **2022-06-30** — pushed 2 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
-
-**2022-06-30** — pushed 17 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
 <!-- githubActivity ends -->
 </td></tr></table>
 
