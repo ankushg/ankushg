@@ -29,25 +29,25 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-07-01** — opened issue [#302](https://github.com/ankushg/home-cluster/issues/302) on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "Document cloudflare tunnel setup"
+
+**2022-07-01** — closed issue [#54](https://github.com/ankushg/home-cluster/issues/54) on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "Document/automate tailscale auth setup"
+
+**2022-07-01** — commented on [#54](https://github.com/ankushg/home-cluster/issues/54#issuecomment-1172600660) in [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+
+**2022-07-01** — closed issue [#139](https://github.com/ankushg/home-cluster/issues/139) on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "Migrate from tailscale to cloudflare tunnels or traefik hub"
+
+**2022-07-01** — commented on [#139](https://github.com/ankushg/home-cluster/issues/139#issuecomment-1172600138) in [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+
+**2022-07-01** — pushed [`56911289`](https://github.com/ankushg/home-cluster/commit/56911289bf40d25902e204efeead8cc846f8e678) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore: delete unused tailscale-relay and hub-agent"
+
+**2022-07-01** — closed issue [#223](https://github.com/ankushg/home-cluster/issues/223) on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "add external-dns for managing public DNS records"
+
+**2022-07-01** — commented on [#223](https://github.com/ankushg/home-cluster/issues/223#issuecomment-1172597062) in [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+
 **2022-07-01** — pushed 6 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
 
 **2022-07-01** — pushed [`030fd3ae`](https://github.com/ankushg/home-cluster/commit/030fd3aef6f393ff58734900d253527ce20b9183) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix: revert cloudflared tunnel ingress hostname back to SECRET_DOMAIN"
-
-**2022-07-01** — pushed [`4b84c48f`](https://github.com/ankushg/home-cluster/commit/4b84c48f4652d2c761b441080aef40057442e434) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(cloudflared): try not to use wildcard for ingress"
-
-**2022-07-01** — pushed [`35cc3e56`](https://github.com/ankushg/home-cluster/commit/35cc3e56f2ef63cbb0687012f93e8394b58e9849) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix: try to line things up"
-
-**2022-07-01** — pushed 2 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
-
-**2022-07-01** — pushed [`632b7a09`](https://github.com/ankushg/home-cluster/commit/632b7a09cdaefe2ec68b27e9b018e21fb83fd752) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(cloudflared): fix typo on filename"
-
-**2022-07-01** — pushed [`6f5862cc`](https://github.com/ankushg/home-cluster/commit/6f5862ccc7473b89ab13b53309098fd19c5dae89) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix: update traefik hostname to not be root"
-
-**2022-07-01** — pushed [`bccd777c`](https://github.com/ankushg/home-cluster/commit/bccd777c2ec99e7138510035acb1fc6fae253b68) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix: traefik - create default tlsoption for quic/http3"
-
-**2022-07-01** — pushed [`d5cbdf58`](https://github.com/ankushg/home-cluster/commit/d5cbdf5824990a6fef88a902d2db268a1f683409) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix: traefik update hostname"
-
-**2022-07-01** — pushed 2 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
 <!-- githubActivity ends -->
 </td></tr></table>
 
