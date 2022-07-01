@@ -29,6 +29,16 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-07-01** — pushed [`35cc3e56`](https://github.com/ankushg/home-cluster/commit/35cc3e56f2ef63cbb0687012f93e8394b58e9849) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix: try to line things up"
+
+**2022-07-01** — pushed 2 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
+
+**2022-07-01** — pushed [`632b7a09`](https://github.com/ankushg/home-cluster/commit/632b7a09cdaefe2ec68b27e9b018e21fb83fd752) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(cloudflared): fix typo on filename"
+
+**2022-07-01** — pushed [`6f5862cc`](https://github.com/ankushg/home-cluster/commit/6f5862ccc7473b89ab13b53309098fd19c5dae89) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix: update traefik hostname to not be root"
+
+**2022-07-01** — pushed [`bccd777c`](https://github.com/ankushg/home-cluster/commit/bccd777c2ec99e7138510035acb1fc6fae253b68) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix: traefik - create default tlsoption for quic/http3"
+
 **2022-07-01** — pushed [`d5cbdf58`](https://github.com/ankushg/home-cluster/commit/d5cbdf5824990a6fef88a902d2db268a1f683409) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix: traefik update hostname"
 
 **2022-07-01** — pushed 2 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
@@ -38,16 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-06-30** — pushed [`de850f75`](https://github.com/ankushg/home-cluster/commit/de850f7521b3dfeffbe91001fa0a1172e81f59f6) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(cloudflared): attemp to just run as additionalContainer"
 
 **2022-06-30** — pushed [`ed08b83d`](https://github.com/ankushg/home-cluster/commit/ed08b83d50f8810ce707d68a1fe12e5c7dee3382) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix: don't override secret from sops file"
-
-**2022-06-30** — pushed [`4ee28fe9`](https://github.com/ankushg/home-cluster/commit/4ee28fe9883b2e79d2d7b59d0a7bde88da969e5b) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(external-dns): make echo-server public?"
-
-**2022-06-30** — pushed [`ecbf0e25`](https://github.com/ankushg/home-cluster/commit/ecbf0e258b7bbe2b6813d8c60501d3ddf14d0620) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(external-dns): fix typo"
-
-**2022-06-30** — pushed [`f8f09526`](https://github.com/ankushg/home-cluster/commit/f8f095266fcd3e68bd72acf1bf3c31eba3d526a6) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(cloudflared): rename credential"
-
-**2022-06-30** — pushed [`a04d0131`](https://github.com/ankushg/home-cluster/commit/a04d0131c45df931c7ba61650e24a1a67e40e5b4) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix: properly add xunholy charts"
-
-**2022-06-30** — pushed [`724d37fa`](https://github.com/ankushg/home-cluster/commit/724d37fab8e380a58363397f17e47b36a2104b95) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "feat(cloudflared): attempt xunholy chart"
 <!-- githubActivity ends -->
 </td></tr></table>
 
