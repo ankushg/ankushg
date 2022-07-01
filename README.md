@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-07-01** — pushed 6 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
+
 **2022-07-01** — pushed [`030fd3ae`](https://github.com/ankushg/home-cluster/commit/030fd3aef6f393ff58734900d253527ce20b9183) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix: revert cloudflared tunnel ingress hostname back to SECRET_DOMAIN"
 
 **2022-07-01** — pushed [`4b84c48f`](https://github.com/ankushg/home-cluster/commit/4b84c48f4652d2c761b441080aef40057442e434) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(cloudflared): try not to use wildcard for ingress"
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-07-01** — pushed [`d5cbdf58`](https://github.com/ankushg/home-cluster/commit/d5cbdf5824990a6fef88a902d2db268a1f683409) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix: traefik update hostname"
 
 **2022-07-01** — pushed 2 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
-
-**2022-07-01** — pushed [`effc6d65`](https://github.com/ankushg/home-cluster/commit/effc6d651452b55f0318f805d7e7e656839d41d2) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "feat: attempt to make cloudflared work as an additional container"
 <!-- githubActivity ends -->
 </td></tr></table>
 
