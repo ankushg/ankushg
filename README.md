@@ -29,25 +29,25 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
-**2022-07-01** — commented on [#236](https://github.com/ankushg/home-cluster/issues/236#issuecomment-1172759999) in [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+**2022-07-04** — pushed [`97d6b773`](https://github.com/ankushg/home-cluster/commit/97d6b773b91ca12737800988c34ce06bda093291) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release netdata to v3.7.21 (#304)"
 
-**2022-07-01** — pushed [`c4aeda1a`](https://github.com/ankushg/home-cluster/commit/c4aeda1a1a3a8ab78bbfd4366315f01c4973ac23) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update terraform cloudflare to v3.18.0 (#301)"
+**2022-07-04** — deleted branch "renovate/netdata-3.7.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
-**2022-07-01** — deleted branch "renovate/cloudflare-3.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+**2022-07-04** — closed PR [#304](https://github.com/ankushg/home-cluster/pull/304) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release netdata to v3.7.21"
 
-**2022-07-01** — closed PR [#301](https://github.com/ankushg/home-cluster/pull/301) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update terraform cloudflare to v3.18.0"
+**2022-07-04** — pushed [`6a209cae`](https://github.com/ankushg/home-cluster/commit/6a209cae89e5df5d111471f0bce2b5309e5c3189) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release kured to v2.17.0 (#307)"
 
-**2022-07-01** — pushed [`cd3da01a`](https://github.com/ankushg/home-cluster/commit/cd3da01afe38f3ecd38279fdbf09096f9dad983f) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(cloudflared): just manually define them for now"
+**2022-07-04** — deleted branch "renovate/kured-2.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
-**2022-07-01** — pushed [`f07b1656`](https://github.com/ankushg/home-cluster/commit/f07b165688be88652a7a865a956adc03ac93c754) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(cloudflared): use wildcard for hostname"
+**2022-07-04** — closed PR [#307](https://github.com/ankushg/home-cluster/pull/307) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release kured to v2.17.0"
 
-**2022-07-01** — pushed [`d5111906`](https://github.com/ankushg/home-cluster/commit/d511190660962fc13ef4607552a04074ffef7e80) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "feat(github receiver): remove extra annotation for traefik"
+**2022-07-04** — pushed [`7e35692b`](https://github.com/ankushg/home-cluster/commit/7e35692b91cc89c7e2de5c551419f61326606937) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release blocky to v10.4.0 (#305)"
 
-**2022-07-01** — pushed [`172b682d`](https://github.com/ankushg/home-cluster/commit/172b682d68b41b2600e095e1c6582012f674c802) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "feat: add github webhook to repo"
+**2022-07-04** — deleted branch "renovate/blocky" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
-**2022-07-01** — closed issue [#235](https://github.com/ankushg/home-cluster/issues/235) on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "Local-only access middleware for traefik dashboard"
+**2022-07-04** — closed PR [#305](https://github.com/ankushg/home-cluster/pull/305) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release blocky to v10.4.0"
 
-**2022-07-01** — closed issue [#255](https://github.com/ankushg/home-cluster/issues/255) on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "Add cloudflare-only and internal-only middlewares"
+**2022-07-04** — pushed [`455d5072`](https://github.com/ankushg/home-cluster/commit/455d50723909f4b347d4ef2bf40b935c8a27a7cc) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image koush/scrypted to v0.1.14 (#303)"
 <!-- githubActivity ends -->
 </td></tr></table>
 
