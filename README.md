@@ -29,6 +29,18 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-07-05** — pushed [`5563c592`](https://github.com/ankushg/home-cluster/commit/5563c592500b22be6f35b4e363121f7930e0a662) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release netdata to v3.7.22 (#309)"
+
+**2022-07-05** — deleted branch "renovate/netdata-3.7.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+
+**2022-07-05** — closed PR [#309](https://github.com/ankushg/home-cluster/pull/309) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release netdata to v3.7.22"
+
+**2022-07-05** — deleted branch "renovate/lucas-c-pre-commit-hooks-1.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+
+**2022-07-05** — closed PR [#308](https://github.com/ankushg/home-cluster/pull/308) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update pre-commit hook lucas-c/pre-commit-hooks to v1.3.0"
+
+**2022-07-05** — pushed [`ecccc4d3`](https://github.com/ankushg/home-cluster/commit/ecccc4d36618c20a6bee4bc02cbb48a1f1b92df1) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update pre-commit hook lucas-c/pre-commit-hooks to v1.3.0 (#308)"
+
 **2022-07-04** — pushed [`97d6b773`](https://github.com/ankushg/home-cluster/commit/97d6b773b91ca12737800988c34ce06bda093291) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release netdata to v3.7.21 (#304)"
 
 **2022-07-04** — deleted branch "renovate/netdata-3.7.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
@@ -36,18 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-07-04** — closed PR [#304](https://github.com/ankushg/home-cluster/pull/304) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release netdata to v3.7.21"
 
 **2022-07-04** — pushed [`6a209cae`](https://github.com/ankushg/home-cluster/commit/6a209cae89e5df5d111471f0bce2b5309e5c3189) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release kured to v2.17.0 (#307)"
-
-**2022-07-04** — deleted branch "renovate/kured-2.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2022-07-04** — closed PR [#307](https://github.com/ankushg/home-cluster/pull/307) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release kured to v2.17.0"
-
-**2022-07-04** — pushed [`7e35692b`](https://github.com/ankushg/home-cluster/commit/7e35692b91cc89c7e2de5c551419f61326606937) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release blocky to v10.4.0 (#305)"
-
-**2022-07-04** — deleted branch "renovate/blocky" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2022-07-04** — closed PR [#305](https://github.com/ankushg/home-cluster/pull/305) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release blocky to v10.4.0"
-
-**2022-07-04** — pushed [`455d5072`](https://github.com/ankushg/home-cluster/commit/455d50723909f4b347d4ef2bf40b935c8a27a7cc) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image koush/scrypted to v0.1.14 (#303)"
 <!-- githubActivity ends -->
 </td></tr></table>
 
