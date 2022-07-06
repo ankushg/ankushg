@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-07-06** — pushed 6 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
+
 **2022-07-05** — pushed [`5563c592`](https://github.com/ankushg/home-cluster/commit/5563c592500b22be6f35b4e363121f7930e0a662) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release netdata to v3.7.22 (#309)"
 
 **2022-07-05** — deleted branch "renovate/netdata-3.7.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-07-04** — deleted branch "renovate/netdata-3.7.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
 **2022-07-04** — closed PR [#304](https://github.com/ankushg/home-cluster/pull/304) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release netdata to v3.7.21"
-
-**2022-07-04** — pushed [`6a209cae`](https://github.com/ankushg/home-cluster/commit/6a209cae89e5df5d111471f0bce2b5309e5c3189) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release kured to v2.17.0 (#307)"
 <!-- githubActivity ends -->
 </td></tr></table>
 
