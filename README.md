@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-07-06** — opened issue [#312](https://github.com/ankushg/home-cluster/issues/312) on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "Determine how to make Cloudflare Tunnel + TLS play nicely with wildcard hostnames"
+
 **2022-07-06** — pushed 6 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
 
 **2022-07-05** — pushed [`5563c592`](https://github.com/ankushg/home-cluster/commit/5563c592500b22be6f35b4e363121f7930e0a662) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release netdata to v3.7.22 (#309)"
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-07-04** — pushed [`97d6b773`](https://github.com/ankushg/home-cluster/commit/97d6b773b91ca12737800988c34ce06bda093291) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release netdata to v3.7.21 (#304)"
 
 **2022-07-04** — deleted branch "renovate/netdata-3.7.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2022-07-04** — closed PR [#304](https://github.com/ankushg/home-cluster/pull/304) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release netdata to v3.7.21"
 <!-- githubActivity ends -->
 </td></tr></table>
 
