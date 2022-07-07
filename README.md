@@ -29,25 +29,25 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-07-07** — opened issue [#315](https://github.com/ankushg/home-cluster/issues/315) on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "Migrate from traefik to ingress-nginx to match upstream"
+
+**2022-07-07** — pushed [`cc61c4f0`](https://github.com/ankushg/home-cluster/commit/cc61c4f031cf23aa042c7be3bd406a14241b18c0) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update terraform kubernetes to v2.12.1 (#313)"
+
+**2022-07-07** — deleted branch "renovate/kubernetes-2.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+
+**2022-07-07** — closed PR [#313](https://github.com/ankushg/home-cluster/pull/313) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update terraform kubernetes to v2.12.1"
+
+**2022-07-07** — pushed [`8574c0ec`](https://github.com/ankushg/home-cluster/commit/8574c0ec91bb9eea6ea1ae4a74b6900fa99d52fc) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image raspbernetes/cloudflared to v2022.7.1 (#310)"
+
+**2022-07-07** — deleted branch "renovate/raspbernetes-cloudflared-2022.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+
+**2022-07-07** — closed PR [#310](https://github.com/ankushg/home-cluster/pull/310) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image raspbernetes/cloudflared to v2022.7.1"
+
 **2022-07-06** — pushed [`27efc27d`](https://github.com/ankushg/home-cluster/commit/27efc27d23429f5304b2ee1d478931c6fd98c2c5) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(flux-receiver): attempt to fix setup"
 
 **2022-07-06** — opened issue [#312](https://github.com/ankushg/home-cluster/issues/312) on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "Determine how to make Cloudflare Tunnel + TLS play nicely with wildcard hostnames"
 
 **2022-07-06** — pushed 6 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
-
-**2022-07-05** — pushed [`5563c592`](https://github.com/ankushg/home-cluster/commit/5563c592500b22be6f35b4e363121f7930e0a662) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release netdata to v3.7.22 (#309)"
-
-**2022-07-05** — deleted branch "renovate/netdata-3.7.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2022-07-05** — closed PR [#309](https://github.com/ankushg/home-cluster/pull/309) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release netdata to v3.7.22"
-
-**2022-07-05** — deleted branch "renovate/lucas-c-pre-commit-hooks-1.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2022-07-05** — closed PR [#308](https://github.com/ankushg/home-cluster/pull/308) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update pre-commit hook lucas-c/pre-commit-hooks to v1.3.0"
-
-**2022-07-05** — pushed [`ecccc4d3`](https://github.com/ankushg/home-cluster/commit/ecccc4d36618c20a6bee4bc02cbb48a1f1b92df1) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update pre-commit hook lucas-c/pre-commit-hooks to v1.3.0 (#308)"
-
-**2022-07-04** — pushed [`97d6b773`](https://github.com/ankushg/home-cluster/commit/97d6b773b91ca12737800988c34ce06bda093291) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release netdata to v3.7.21 (#304)"
 <!-- githubActivity ends -->
 </td></tr></table>
 
