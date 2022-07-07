@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-07-07** — opened issue [#1378](https://github.com/InsertKoinIO/koin/issues/1378) on [InsertKoinIO/koin](https://api.github.com/repos/InsertKoinIO/koin): "Feature Request: Allow instances to be reused, but also garbage collected"
+
 **2022-07-07** — opened issue [#315](https://github.com/ankushg/home-cluster/issues/315) on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "Migrate from traefik to ingress-nginx to match upstream"
 
 **2022-07-07** — pushed [`cc61c4f0`](https://github.com/ankushg/home-cluster/commit/cc61c4f031cf23aa042c7be3bd406a14241b18c0) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update terraform kubernetes to v2.12.1 (#313)"
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-07-06** — pushed [`27efc27d`](https://github.com/ankushg/home-cluster/commit/27efc27d23429f5304b2ee1d478931c6fd98c2c5) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(flux-receiver): attempt to fix setup"
 
 **2022-07-06** — opened issue [#312](https://github.com/ankushg/home-cluster/issues/312) on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "Determine how to make Cloudflare Tunnel + TLS play nicely with wildcard hostnames"
-
-**2022-07-06** — pushed 6 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
 <!-- githubActivity ends -->
 </td></tr></table>
 
