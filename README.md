@@ -29,25 +29,25 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-07-11** — pushed [`6db8dd20`](https://github.com/ankushg/home-cluster/commit/6db8dd206016e022603c5459e7766d85de7851e4) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release external-dns to v1.10.0 (#317)"
+
+**2022-07-11** — deleted branch "renovate/external-dns-1.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+
+**2022-07-11** — closed PR [#317](https://github.com/ankushg/home-cluster/pull/317) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release external-dns to v1.10.0"
+
+**2022-07-11** — closed PR [#318](https://github.com/ankushg/home-cluster/pull/318) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update pre-commit hook adrienverge/yamllint to v1.27.1"
+
+**2022-07-11** — pushed [`f1904d05`](https://github.com/ankushg/home-cluster/commit/f1904d050e712fa09de69db4ca0766e4c7d13b0d) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update pre-commit hook adrienverge/yamllint to v1.27.1 (#318)"
+
+**2022-07-11** — deleted branch "renovate/adrienverge-yamllint-1.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+
+**2022-07-11** — pushed [`563cf00b`](https://github.com/ankushg/home-cluster/commit/563cf00b7e339797691b4404217dd8309c735aff) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image docker.io/jmalloc/echo-server to v0.3.3 (#316)"
+
+**2022-07-11** — deleted branch "renovate/docker.io-jmalloc-echo-server-0.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+
+**2022-07-11** — closed PR [#316](https://github.com/ankushg/home-cluster/pull/316) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image docker.io/jmalloc/echo-server to v0.3.3"
+
 **2022-07-07** — opened issue [#1378](https://github.com/InsertKoinIO/koin/issues/1378) on [InsertKoinIO/koin](https://api.github.com/repos/InsertKoinIO/koin): "Feature Request: Allow instances to be reused, but also garbage collected"
-
-**2022-07-07** — opened issue [#315](https://github.com/ankushg/home-cluster/issues/315) on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "Migrate from traefik to ingress-nginx to match upstream"
-
-**2022-07-07** — pushed [`cc61c4f0`](https://github.com/ankushg/home-cluster/commit/cc61c4f031cf23aa042c7be3bd406a14241b18c0) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update terraform kubernetes to v2.12.1 (#313)"
-
-**2022-07-07** — deleted branch "renovate/kubernetes-2.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2022-07-07** — closed PR [#313](https://github.com/ankushg/home-cluster/pull/313) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update terraform kubernetes to v2.12.1"
-
-**2022-07-07** — pushed [`8574c0ec`](https://github.com/ankushg/home-cluster/commit/8574c0ec91bb9eea6ea1ae4a74b6900fa99d52fc) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image raspbernetes/cloudflared to v2022.7.1 (#310)"
-
-**2022-07-07** — deleted branch "renovate/raspbernetes-cloudflared-2022.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2022-07-07** — closed PR [#310](https://github.com/ankushg/home-cluster/pull/310) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image raspbernetes/cloudflared to v2022.7.1"
-
-**2022-07-06** — pushed [`27efc27d`](https://github.com/ankushg/home-cluster/commit/27efc27d23429f5304b2ee1d478931c6fd98c2c5) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(flux-receiver): attempt to fix setup"
-
-**2022-07-06** — opened issue [#312](https://github.com/ankushg/home-cluster/issues/312) on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "Determine how to make Cloudflare Tunnel + TLS play nicely with wildcard hostnames"
 <!-- githubActivity ends -->
 </td></tr></table>
 
