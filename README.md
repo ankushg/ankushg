@@ -29,6 +29,12 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-07-12** — pushed [`917d1728`](https://github.com/ankushg/home-cluster/commit/917d1728c8fb8e826817d74b980c629f86a5eced) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image ghcr.io/home-assistant/home-assistant to v2022.7.3 (#314)"
+
+**2022-07-12** — deleted branch "renovate/home-assistant" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+
+**2022-07-12** — closed PR [#314](https://github.com/ankushg/home-cluster/pull/314) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image ghcr.io/home-assistant/home-assistant to v2022.7.3"
+
 **2022-07-11** — pushed [`6db8dd20`](https://github.com/ankushg/home-cluster/commit/6db8dd206016e022603c5459e7766d85de7851e4) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release external-dns to v1.10.0 (#317)"
 
 **2022-07-11** — deleted branch "renovate/external-dns-1.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
@@ -42,12 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-07-11** — deleted branch "renovate/adrienverge-yamllint-1.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
 **2022-07-11** — pushed [`563cf00b`](https://github.com/ankushg/home-cluster/commit/563cf00b7e339797691b4404217dd8309c735aff) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image docker.io/jmalloc/echo-server to v0.3.3 (#316)"
-
-**2022-07-11** — deleted branch "renovate/docker.io-jmalloc-echo-server-0.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2022-07-11** — closed PR [#316](https://github.com/ankushg/home-cluster/pull/316) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image docker.io/jmalloc/echo-server to v0.3.3"
-
-**2022-07-07** — opened issue [#1378](https://github.com/InsertKoinIO/koin/issues/1378) on [InsertKoinIO/koin](https://api.github.com/repos/InsertKoinIO/koin): "Feature Request: Allow instances to be reused, but also garbage collected"
 <!-- githubActivity ends -->
 </td></tr></table>
 
