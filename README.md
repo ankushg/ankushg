@@ -29,6 +29,12 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-07-14** — pushed [`f140f594`](https://github.com/ankushg/home-cluster/commit/f140f5942022e40f936c44c513dcdc6af18337e7) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image ghcr.io/home-assistant/home-assistant to v2022.7.4 (#320)"
+
+**2022-07-14** — deleted branch "renovate/home-assistant" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+
+**2022-07-14** — closed PR [#320](https://github.com/ankushg/home-cluster/pull/320) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image ghcr.io/home-assistant/home-assistant to v2022.7.4"
+
 **2022-07-13** — pushed [`800915d4`](https://github.com/ankushg/home-cluster/commit/800915d4560af2be11b399d763bf3f7c65df6a79) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update terraform cloudflare to v3.19.0 (#319)"
 
 **2022-07-13** — deleted branch "renovate/cloudflare-3.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
@@ -42,12 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-07-12** — closed PR [#314](https://github.com/ankushg/home-cluster/pull/314) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image ghcr.io/home-assistant/home-assistant to v2022.7.3"
 
 **2022-07-11** — pushed [`6db8dd20`](https://github.com/ankushg/home-cluster/commit/6db8dd206016e022603c5459e7766d85de7851e4) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release external-dns to v1.10.0 (#317)"
-
-**2022-07-11** — deleted branch "renovate/external-dns-1.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2022-07-11** — closed PR [#317](https://github.com/ankushg/home-cluster/pull/317) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release external-dns to v1.10.0"
-
-**2022-07-11** — closed PR [#318](https://github.com/ankushg/home-cluster/pull/318) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update pre-commit hook adrienverge/yamllint to v1.27.1"
 <!-- githubActivity ends -->
 </td></tr></table>
 
