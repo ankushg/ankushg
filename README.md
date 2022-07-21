@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-07-21** — pushed 2 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
+
 **2022-07-14** — pushed [`4f7bd41c`](https://github.com/ankushg/home-cluster/commit/4f7bd41cbcdd4f21888969dc98b95051025f7cd2) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release external-dns to v1.10.1 (#322)"
 
 **2022-07-14** — deleted branch "renovate/external-dns-1.10.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-07-14** — deleted branch "renovate/home-assistant" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
 **2022-07-14** — closed PR [#320](https://github.com/ankushg/home-cluster/pull/320) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image ghcr.io/home-assistant/home-assistant to v2022.7.4"
-
-**2022-07-13** — pushed [`800915d4`](https://github.com/ankushg/home-cluster/commit/800915d4560af2be11b399d763bf3f7c65df6a79) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update terraform cloudflare to v3.19.0 (#319)"
 <!-- githubActivity ends -->
 </td></tr></table>
 
