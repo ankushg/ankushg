@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-07-22** — pushed 3 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
+
 **2022-07-22** — pushed [`805387ec`](https://github.com/ankushg/home-cluster/commit/805387ec24a423cd6a39941892b22afe6ad41ef1) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image ghcr.io/home-assistant/home-assistant to v2022.7.6 (#323)"
 
 **2022-07-22** — deleted branch "renovate/home-assistant" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-07-14** — pushed [`4f7bd41c`](https://github.com/ankushg/home-cluster/commit/4f7bd41cbcdd4f21888969dc98b95051025f7cd2) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release external-dns to v1.10.1 (#322)"
 
 **2022-07-14** — deleted branch "renovate/external-dns-1.10.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2022-07-14** — closed PR [#322](https://github.com/ankushg/home-cluster/pull/322) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release external-dns to v1.10.1"
 <!-- githubActivity ends -->
 </td></tr></table>
 
