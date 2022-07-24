@@ -29,25 +29,25 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
-**2022-07-22** — pushed 3 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
+**2022-07-24** — pushed [`aa73b1fe`](https://github.com/ankushg/home-cluster/commit/aa73b1fe1856e2d158ed00ab147c99f9ee49338f) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update cert-manager group to v1.9.0 (#327)"
 
-**2022-07-22** — pushed [`805387ec`](https://github.com/ankushg/home-cluster/commit/805387ec24a423cd6a39941892b22afe6ad41ef1) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image ghcr.io/home-assistant/home-assistant to v2022.7.6 (#323)"
+**2022-07-24** — deleted branch "renovate/cert-manager" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
-**2022-07-22** — deleted branch "renovate/home-assistant" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+**2022-07-24** — closed PR [#327](https://github.com/ankushg/home-cluster/pull/327) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update cert-manager group to v1.9.0 (minor)"
 
-**2022-07-22** — closed PR [#323](https://github.com/ankushg/home-cluster/pull/323) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image ghcr.io/home-assistant/home-assistant to v2022.7.6"
+**2022-07-24** — pushed [`a0e371a1`](https://github.com/ankushg/home-cluster/commit/a0e371a1096fd73924da4fd05bba06b3dd71671e) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update dependency k3s-io/k3s to v1.24.3+k3s1 (#326)"
 
-**2022-07-22** — pushed [`031c3b29`](https://github.com/ankushg/home-cluster/commit/031c3b29f4345222d0a3cb73ed5628c699f05e40) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release reloader to v0.0.118 (#324)"
+**2022-07-24** — deleted branch "renovate/k3s-io-k3s-1.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
-**2022-07-22** — deleted branch "renovate/reloader-0.0.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+**2022-07-24** — closed PR [#326](https://github.com/ankushg/home-cluster/pull/326) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update dependency k3s-io/k3s to v1.24.3+k3s1"
 
-**2022-07-22** — closed PR [#324](https://github.com/ankushg/home-cluster/pull/324) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release reloader to v0.0.118"
+**2022-07-24** — pushed [`9948a136`](https://github.com/ankushg/home-cluster/commit/9948a136ebb304ee49242327e5259a9f2fc8b9ec) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update pre-commit hook compilerla/conventional-pre-commit to v1.4.0 (#328)"
 
-**2022-07-21** — pushed 2 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
+**2022-07-24** — deleted branch "renovate/compilerla-conventional-pre-commit-1.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
-**2022-07-14** — pushed [`4f7bd41c`](https://github.com/ankushg/home-cluster/commit/4f7bd41cbcdd4f21888969dc98b95051025f7cd2) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release external-dns to v1.10.1 (#322)"
+**2022-07-24** — closed PR [#328](https://github.com/ankushg/home-cluster/pull/328) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update pre-commit hook compilerla/conventional-pre-commit to v1.4.0"
 
-**2022-07-14** — deleted branch "renovate/external-dns-1.10.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+**2022-07-24** — pushed [`fbe86d77`](https://github.com/ankushg/home-cluster/commit/fbe86d77f6096cb28e1e003a5b86b6817cd49c6e) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update dependency fluxcd/flux2 to v0.31.4 (#325)"
 <!-- githubActivity ends -->
 </td></tr></table>
 
