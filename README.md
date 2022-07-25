@@ -29,25 +29,25 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
-**2022-07-25** — pushed [`3b6d636b`](https://github.com/ankushg/home-cluster/commit/3b6d636bf41183b5056183a71355a2da1b3ea253) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(omada): drop forward_scheme"
+**2022-07-25** — deleted branch "renovate/ghcr.io-tarampampam-error-pages-2.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
-**2022-07-25** — pushed [`9e5489c5`](https://github.com/ankushg/home-cluster/commit/9e5489c5a2088a18db74650c04fcb9d59b18d9d2) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(omada): remove nginx proxypass"
+**2022-07-25** — pushed [`460d6afe`](https://github.com/ankushg/home-cluster/commit/460d6afe2e32a4f2475d5eceb784e924a615701f) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image ghcr.io/tarampampam/error-pages to v2.17.0 (#329)"
 
-**2022-07-25** — pushed 2 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
+**2022-07-25** — closed PR [#329](https://github.com/ankushg/home-cluster/pull/329) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image ghcr.io/tarampampam/error-pages to v2.17.0"
 
-**2022-07-25** — pushed [`008685d6`](https://github.com/ankushg/home-cluster/commit/008685d6dbb6e5e23c42b500be64ee0960b8a4e8) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(omada): add nginx configuration"
+**2022-07-25** — pushed [`581174a3`](https://github.com/ankushg/home-cluster/commit/581174a35218ef7127b4838855bbb0e0dfac4f92) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "docs(cloudflared): closes #302"
 
-**2022-07-24** — pushed [`9c0c73c8`](https://github.com/ankushg/home-cluster/commit/9c0c73c80a2bacfc1b1b17ee0e0a72f5911a14c6) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "feat(cloudflared): reload on config/secret change"
+**2022-07-25** — closed issue [#302](https://github.com/ankushg/home-cluster/issues/302) on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "Document cloudflare tunnel setup"
 
-**2022-07-24** — pushed [`8514b07a`](https://github.com/ankushg/home-cluster/commit/8514b07a519f9acc4b8380c1a9335cb3a4d83241) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(webhook receiver): update kustomization name"
+**2022-07-25** — closed issue [#312](https://github.com/ankushg/home-cluster/issues/312) on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "Determine how to make Cloudflare Tunnel + TLS play nicely with wildcard hostnames"
 
-**2022-07-24** — pushed 2 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
+**2022-07-25** — commented on [#312](https://github.com/ankushg/home-cluster/issues/312#issuecomment-1194455307) in [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
-**2022-07-24** — pushed [`6600f016`](https://github.com/ankushg/home-cluster/commit/6600f0167e37d5ae914fa656d3fbca3979b87349) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(cloudflared): attempt to use the proper service name, cleanup unneeded ones"
+**2022-07-25** — closed issue [#236](https://github.com/ankushg/home-cluster/issues/236) on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "Github webhook for flux updates"
 
-**2022-07-24** — pushed [`40a56d53`](https://github.com/ankushg/home-cluster/commit/40a56d5310f1f54eebc81d15cec244dbcc8f0979) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(cloudflared): fix naming"
+**2022-07-25** — commented on [#236](https://github.com/ankushg/home-cluster/issues/236#issuecomment-1194454591) in [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
-**2022-07-24** — pushed [`153e69e0`](https://github.com/ankushg/home-cluster/commit/153e69e09dd4a464da7cef97b42596bdbfc73e2c) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(cloudflared): kustomization issues"
+**2022-07-25** — closed issue [#315](https://github.com/ankushg/home-cluster/issues/315) on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "Migrate from traefik to ingress-nginx to match upstream"
 <!-- githubActivity ends -->
 </td></tr></table>
 
