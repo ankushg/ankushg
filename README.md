@@ -29,6 +29,12 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-07-25** — pushed [`e18e7083`](https://github.com/ankushg/home-cluster/commit/e18e7083aee81fc8e12fecac807247581ddb3d9f) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(omada): attempt to set up redirects"
+
+**2022-07-25** — pushed 2 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
+
+**2022-07-25** — opened issue [#331](https://github.com/ankushg/home-cluster/issues/331) on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "Fix Omada web UI access"
+
 **2022-07-25** — deleted branch "renovate/ghcr.io-tarampampam-error-pages-2.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
 **2022-07-25** — pushed [`460d6afe`](https://github.com/ankushg/home-cluster/commit/460d6afe2e32a4f2475d5eceb784e924a615701f) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image ghcr.io/tarampampam/error-pages to v2.17.0 (#329)"
@@ -42,12 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-07-25** — closed issue [#312](https://github.com/ankushg/home-cluster/issues/312) on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "Determine how to make Cloudflare Tunnel + TLS play nicely with wildcard hostnames"
 
 **2022-07-25** — commented on [#312](https://github.com/ankushg/home-cluster/issues/312#issuecomment-1194455307) in [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2022-07-25** — closed issue [#236](https://github.com/ankushg/home-cluster/issues/236) on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "Github webhook for flux updates"
-
-**2022-07-25** — commented on [#236](https://github.com/ankushg/home-cluster/issues/236#issuecomment-1194454591) in [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2022-07-25** — closed issue [#315](https://github.com/ankushg/home-cluster/issues/315) on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "Migrate from traefik to ingress-nginx to match upstream"
 <!-- githubActivity ends -->
 </td></tr></table>
 
