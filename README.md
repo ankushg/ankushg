@@ -29,6 +29,14 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-07-25** — pushed [`3b6d636b`](https://github.com/ankushg/home-cluster/commit/3b6d636bf41183b5056183a71355a2da1b3ea253) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(omada): drop forward_scheme"
+
+**2022-07-25** — pushed [`9e5489c5`](https://github.com/ankushg/home-cluster/commit/9e5489c5a2088a18db74650c04fcb9d59b18d9d2) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(omada): remove nginx proxypass"
+
+**2022-07-25** — pushed 2 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
+
+**2022-07-25** — pushed [`008685d6`](https://github.com/ankushg/home-cluster/commit/008685d6dbb6e5e23c42b500be64ee0960b8a4e8) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(omada): add nginx configuration"
+
 **2022-07-24** — pushed [`9c0c73c8`](https://github.com/ankushg/home-cluster/commit/9c0c73c80a2bacfc1b1b17ee0e0a72f5911a14c6) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "feat(cloudflared): reload on config/secret change"
 
 **2022-07-24** — pushed [`8514b07a`](https://github.com/ankushg/home-cluster/commit/8514b07a519f9acc4b8380c1a9335cb3a4d83241) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(webhook receiver): update kustomization name"
@@ -40,14 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-07-24** — pushed [`40a56d53`](https://github.com/ankushg/home-cluster/commit/40a56d5310f1f54eebc81d15cec244dbcc8f0979) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(cloudflared): fix naming"
 
 **2022-07-24** — pushed [`153e69e0`](https://github.com/ankushg/home-cluster/commit/153e69e09dd4a464da7cef97b42596bdbfc73e2c) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(cloudflared): kustomization issues"
-
-**2022-07-24** — pushed 2 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
-
-**2022-07-24** — pushed [`aa73b1fe`](https://github.com/ankushg/home-cluster/commit/aa73b1fe1856e2d158ed00ab147c99f9ee49338f) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update cert-manager group to v1.9.0 (#327)"
-
-**2022-07-24** — deleted branch "renovate/cert-manager" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2022-07-24** — closed PR [#327](https://github.com/ankushg/home-cluster/pull/327) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update cert-manager group to v1.9.0 (minor)"
 <!-- githubActivity ends -->
 </td></tr></table>
 
