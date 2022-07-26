@@ -29,6 +29,10 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-07-26** — pushed [`9ddd3aee`](https://github.com/ankushg/home-cluster/commit/9ddd3aee41967dd443714edb7ab1ef9dae390fb3) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "Revert "feat(hajimari): update groups for ingresses""
+
+**2022-07-26** — pushed [`dfd53270`](https://github.com/ankushg/home-cluster/commit/dfd53270b80998a1c5e4578491f77dd0dc929689) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "feat(hajimari): update groups for ingresses"
+
 **2022-07-25** — pushed [`e18e7083`](https://github.com/ankushg/home-cluster/commit/e18e7083aee81fc8e12fecac807247581ddb3d9f) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(omada): attempt to set up redirects"
 
 **2022-07-25** — pushed 2 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
@@ -44,10 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-07-25** — pushed [`581174a3`](https://github.com/ankushg/home-cluster/commit/581174a35218ef7127b4838855bbb0e0dfac4f92) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "docs(cloudflared): closes #302"
 
 **2022-07-25** — closed issue [#302](https://github.com/ankushg/home-cluster/issues/302) on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "Document cloudflare tunnel setup"
-
-**2022-07-25** — closed issue [#312](https://github.com/ankushg/home-cluster/issues/312) on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "Determine how to make Cloudflare Tunnel + TLS play nicely with wildcard hostnames"
-
-**2022-07-25** — commented on [#312](https://github.com/ankushg/home-cluster/issues/312#issuecomment-1194455307) in [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 <!-- githubActivity ends -->
 </td></tr></table>
 
