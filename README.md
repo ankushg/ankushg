@@ -29,25 +29,25 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
-**2022-07-26** — pushed [`57acfb7a`](https://github.com/ankushg/home-cluster/commit/57acfb7ac7dc5ee33b89a4c017bbd704bcb20d2c) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(netdata): remove ingressClassName for now"
+**2022-07-26** — pushed [`c4ca134c`](https://github.com/ankushg/home-cluster/commit/c4ca134c563a15bb766a4713aa3d5e827b2ca1f6) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "feat(polaris): add polaris"
 
-**2022-07-26** — pushed [`73cf0aa9`](https://github.com/ankushg/home-cluster/commit/73cf0aa9afc881995e07c933a416159c859a44e8) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(netdata): fix image tag"
+**2022-07-26** — opened issue [#336](https://github.com/ankushg/home-cluster/issues/336) on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "Install Fairwinds Pluto"
 
-**2022-07-26** — pushed [`a84f2157`](https://github.com/ankushg/home-cluster/commit/a84f2157bc26ad3142ada9ed5af7930c683d9c87) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "feat(netdata): attempt to enable netdata"
+**2022-07-26** — opened issue [#335](https://github.com/ankushg/home-cluster/issues/335) on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "Install Fairwinds Goldilocks"
 
-**2022-07-26** — pushed [`9ddd3aee`](https://github.com/ankushg/home-cluster/commit/9ddd3aee41967dd443714edb7ab1ef9dae390fb3) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "Revert "feat(hajimari): update groups for ingresses""
+**2022-07-26** — opened issue [#334](https://github.com/ankushg/home-cluster/issues/334) on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "Install Fairwinds Polaris Dashboard"
 
-**2022-07-26** — pushed [`dfd53270`](https://github.com/ankushg/home-cluster/commit/dfd53270b80998a1c5e4578491f77dd0dc929689) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "feat(hajimari): update groups for ingresses"
+**2022-07-26** — pushed [`5e749e67`](https://github.com/ankushg/home-cluster/commit/5e749e670550ff12659dc27835983d9ee05c06cd) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image ghcr.io/home-assistant/home-assistant to v2022.7.7 (#333)"
 
-**2022-07-25** — pushed [`e18e7083`](https://github.com/ankushg/home-cluster/commit/e18e7083aee81fc8e12fecac807247581ddb3d9f) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(omada): attempt to set up redirects"
+**2022-07-26** — deleted branch "renovate/home-assistant" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
-**2022-07-25** — pushed 2 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
+**2022-07-26** — closed PR [#333](https://github.com/ankushg/home-cluster/pull/333) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image ghcr.io/home-assistant/home-assistant to v2022.7.7"
 
-**2022-07-25** — opened issue [#331](https://github.com/ankushg/home-cluster/issues/331) on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "Fix Omada web UI access"
+**2022-07-26** — pushed [`38020189`](https://github.com/ankushg/home-cluster/commit/38020189962294d631ff7b969c9ab968abb9886b) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update cert-manager group to v1.9.1 (patch) (#332)"
 
-**2022-07-25** — deleted branch "renovate/ghcr.io-tarampampam-error-pages-2.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+**2022-07-26** — deleted branch "renovate/patch-cert-manager" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
-**2022-07-25** — pushed [`460d6afe`](https://github.com/ankushg/home-cluster/commit/460d6afe2e32a4f2475d5eceb784e924a615701f) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image ghcr.io/tarampampam/error-pages to v2.17.0 (#329)"
+**2022-07-26** — closed PR [#332](https://github.com/ankushg/home-cluster/pull/332) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update cert-manager group to v1.9.1 (patch)"
 <!-- githubActivity ends -->
 </td></tr></table>
 
