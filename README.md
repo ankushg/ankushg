@@ -29,6 +29,12 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-07-26** — pushed [`57acfb7a`](https://github.com/ankushg/home-cluster/commit/57acfb7ac7dc5ee33b89a4c017bbd704bcb20d2c) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(netdata): remove ingressClassName for now"
+
+**2022-07-26** — pushed [`73cf0aa9`](https://github.com/ankushg/home-cluster/commit/73cf0aa9afc881995e07c933a416159c859a44e8) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(netdata): fix image tag"
+
+**2022-07-26** — pushed [`a84f2157`](https://github.com/ankushg/home-cluster/commit/a84f2157bc26ad3142ada9ed5af7930c683d9c87) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "feat(netdata): attempt to enable netdata"
+
 **2022-07-26** — pushed [`9ddd3aee`](https://github.com/ankushg/home-cluster/commit/9ddd3aee41967dd443714edb7ab1ef9dae390fb3) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "Revert "feat(hajimari): update groups for ingresses""
 
 **2022-07-26** — pushed [`dfd53270`](https://github.com/ankushg/home-cluster/commit/dfd53270b80998a1c5e4578491f77dd0dc929689) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "feat(hajimari): update groups for ingresses"
@@ -42,12 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-07-25** — deleted branch "renovate/ghcr.io-tarampampam-error-pages-2.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
 **2022-07-25** — pushed [`460d6afe`](https://github.com/ankushg/home-cluster/commit/460d6afe2e32a4f2475d5eceb784e924a615701f) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image ghcr.io/tarampampam/error-pages to v2.17.0 (#329)"
-
-**2022-07-25** — closed PR [#329](https://github.com/ankushg/home-cluster/pull/329) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image ghcr.io/tarampampam/error-pages to v2.17.0"
-
-**2022-07-25** — pushed [`581174a3`](https://github.com/ankushg/home-cluster/commit/581174a35218ef7127b4838855bbb0e0dfac4f92) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "docs(cloudflared): closes #302"
-
-**2022-07-25** — closed issue [#302](https://github.com/ankushg/home-cluster/issues/302) on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "Document cloudflare tunnel setup"
 <!-- githubActivity ends -->
 </td></tr></table>
 
