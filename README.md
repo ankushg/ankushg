@@ -29,25 +29,25 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-07-26** — pushed [`47bfc16f`](https://github.com/ankushg/home-cluster/commit/47bfc16fd1072c04fd7faa933ad57d208b487bdf) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "feat: enable goldilocks for all namesapces"
+
+**2022-07-26** — pushed [`aa0d3959`](https://github.com/ankushg/home-cluster/commit/aa0d3959679f750de12e12070ba986a8c5b4a6ab) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(vpa): fix version"
+
+**2022-07-26** — pushed [`31bdb9d1`](https://github.com/ankushg/home-cluster/commit/31bdb9d1865b8034c6c600af4042fadf91c9dfeb) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(goldilocks): rename pathType to type"
+
+**2022-07-26** — pushed [`0daba5a1`](https://github.com/ankushg/home-cluster/commit/0daba5a16cd5264637313c13430f171b900dd0c3) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(goldilocks): don't use .Release.Name"
+
+**2022-07-26** — pushed [`3cbaa306`](https://github.com/ankushg/home-cluster/commit/3cbaa3060d2b1b35a02fe66644085bfa2f67ab1b) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(goldilocks): cleanup"
+
+**2022-07-26** — pushed 2 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
+
+**2022-07-26** — pushed [`494c3913`](https://github.com/ankushg/home-cluster/commit/494c3913bbfdfa6a3ce053a0b4e2181e6d5f2e2d) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "revert: remove polaris - blocked on multiarch images"
+
+**2022-07-26** — commented on [#334](https://github.com/ankushg/home-cluster/issues/334#issuecomment-1196063274) in [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+
+**2022-07-26** — commented on [#284](https://github.com/FairwindsOps/polaris/issues/284#issuecomment-1196061755) in [FairwindsOps/polaris](https://api.github.com/repos/FairwindsOps/polaris)
+
 **2022-07-26** — pushed [`c4ca134c`](https://github.com/ankushg/home-cluster/commit/c4ca134c563a15bb766a4713aa3d5e827b2ca1f6) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "feat(polaris): add polaris"
-
-**2022-07-26** — opened issue [#336](https://github.com/ankushg/home-cluster/issues/336) on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "Install Fairwinds Pluto"
-
-**2022-07-26** — opened issue [#335](https://github.com/ankushg/home-cluster/issues/335) on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "Install Fairwinds Goldilocks"
-
-**2022-07-26** — opened issue [#334](https://github.com/ankushg/home-cluster/issues/334) on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "Install Fairwinds Polaris Dashboard"
-
-**2022-07-26** — pushed [`5e749e67`](https://github.com/ankushg/home-cluster/commit/5e749e670550ff12659dc27835983d9ee05c06cd) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image ghcr.io/home-assistant/home-assistant to v2022.7.7 (#333)"
-
-**2022-07-26** — deleted branch "renovate/home-assistant" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2022-07-26** — closed PR [#333](https://github.com/ankushg/home-cluster/pull/333) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image ghcr.io/home-assistant/home-assistant to v2022.7.7"
-
-**2022-07-26** — pushed [`38020189`](https://github.com/ankushg/home-cluster/commit/38020189962294d631ff7b969c9ab968abb9886b) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update cert-manager group to v1.9.1 (patch) (#332)"
-
-**2022-07-26** — deleted branch "renovate/patch-cert-manager" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2022-07-26** — closed PR [#332](https://github.com/ankushg/home-cluster/pull/332) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update cert-manager group to v1.9.1 (patch)"
 <!-- githubActivity ends -->
 </td></tr></table>
 
