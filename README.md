@@ -29,6 +29,10 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-07-26** — opened issue [#337](https://github.com/ankushg/home-cluster/issues/337) on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "Apply Goldilocks recommendations to helm releases"
+
+**2022-07-26** — closed issue [#335](https://github.com/ankushg/home-cluster/issues/335) on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "Install Fairwinds Goldilocks"
+
 **2022-07-26** — pushed [`47bfc16f`](https://github.com/ankushg/home-cluster/commit/47bfc16fd1072c04fd7faa933ad57d208b487bdf) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "feat: enable goldilocks for all namesapces"
 
 **2022-07-26** — pushed [`aa0d3959`](https://github.com/ankushg/home-cluster/commit/aa0d3959679f750de12e12070ba986a8c5b4a6ab) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(vpa): fix version"
@@ -44,10 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-07-26** — pushed [`494c3913`](https://github.com/ankushg/home-cluster/commit/494c3913bbfdfa6a3ce053a0b4e2181e6d5f2e2d) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "revert: remove polaris - blocked on multiarch images"
 
 **2022-07-26** — commented on [#334](https://github.com/ankushg/home-cluster/issues/334#issuecomment-1196063274) in [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2022-07-26** — commented on [#284](https://github.com/FairwindsOps/polaris/issues/284#issuecomment-1196061755) in [FairwindsOps/polaris](https://api.github.com/repos/FairwindsOps/polaris)
-
-**2022-07-26** — pushed [`c4ca134c`](https://github.com/ankushg/home-cluster/commit/c4ca134c563a15bb766a4713aa3d5e827b2ca1f6) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "feat(polaris): add polaris"
 <!-- githubActivity ends -->
 </td></tr></table>
 
