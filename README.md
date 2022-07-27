@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-07-27** — opened issue [#338](https://github.com/ankushg/home-cluster/issues/338) on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "Clean up flux tasks"
+
 **2022-07-26** — opened issue [#337](https://github.com/ankushg/home-cluster/issues/337) on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "Apply Goldilocks recommendations to helm releases"
 
 **2022-07-26** — closed issue [#335](https://github.com/ankushg/home-cluster/issues/335) on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "Install Fairwinds Goldilocks"
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-07-26** — pushed 2 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
 
 **2022-07-26** — pushed [`494c3913`](https://github.com/ankushg/home-cluster/commit/494c3913bbfdfa6a3ce053a0b4e2181e6d5f2e2d) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "revert: remove polaris - blocked on multiarch images"
-
-**2022-07-26** — commented on [#334](https://github.com/ankushg/home-cluster/issues/334#issuecomment-1196063274) in [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 <!-- githubActivity ends -->
 </td></tr></table>
 
