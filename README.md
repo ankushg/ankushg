@@ -29,25 +29,25 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
-**2022-07-27** — opened issue [#338](https://github.com/ankushg/home-cluster/issues/338) on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "Clean up flux tasks"
+**2022-07-30** — pushed [`33a6f8f0`](https://github.com/ankushg/home-cluster/commit/33a6f8f03a11fbe0ae68d11fe0bffad178b5d89e) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image koush/scrypted to v0.1.15 (#343)"
 
-**2022-07-26** — opened issue [#337](https://github.com/ankushg/home-cluster/issues/337) on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "Apply Goldilocks recommendations to helm releases"
+**2022-07-30** — deleted branch "renovate/scrypted" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
-**2022-07-26** — closed issue [#335](https://github.com/ankushg/home-cluster/issues/335) on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "Install Fairwinds Goldilocks"
+**2022-07-30** — closed PR [#343](https://github.com/ankushg/home-cluster/pull/343) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image koush/scrypted to v0.1.15"
 
-**2022-07-26** — pushed [`47bfc16f`](https://github.com/ankushg/home-cluster/commit/47bfc16fd1072c04fd7faa933ad57d208b487bdf) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "feat: enable goldilocks for all namesapces"
+**2022-07-30** — closed PR [#340](https://github.com/ankushg/home-cluster/pull/340) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image mbentley/omada-controller to v5.4"
 
-**2022-07-26** — pushed [`aa0d3959`](https://github.com/ankushg/home-cluster/commit/aa0d3959679f750de12e12070ba986a8c5b4a6ab) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(vpa): fix version"
+**2022-07-30** — pushed [`dfabef1d`](https://github.com/ankushg/home-cluster/commit/dfabef1d5f49c5d07329cab9e4d96fed0719b1aa) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image mbentley/omada-controller to v5.4 (#340)"
 
-**2022-07-26** — pushed [`31bdb9d1`](https://github.com/ankushg/home-cluster/commit/31bdb9d1865b8034c6c600af4042fadf91c9dfeb) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(goldilocks): rename pathType to type"
+**2022-07-30** — deleted branch "renovate/omada-controller" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
-**2022-07-26** — pushed [`0daba5a1`](https://github.com/ankushg/home-cluster/commit/0daba5a16cd5264637313c13430f171b900dd0c3) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(goldilocks): don't use .Release.Name"
+**2022-07-30** — pushed [`009a9a72`](https://github.com/ankushg/home-cluster/commit/009a9a72bcd6d18860a2df870625dbf659bef475) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update terraform cloudflare to v3.20.0 (#341)"
 
-**2022-07-26** — pushed [`3cbaa306`](https://github.com/ankushg/home-cluster/commit/3cbaa3060d2b1b35a02fe66644085bfa2f67ab1b) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "fix(goldilocks): cleanup"
+**2022-07-30** — deleted branch "renovate/cloudflare-3.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
-**2022-07-26** — pushed 2 commits to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster).
+**2022-07-30** — closed PR [#341](https://github.com/ankushg/home-cluster/pull/341) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update terraform cloudflare to v3.20.0"
 
-**2022-07-26** — pushed [`494c3913`](https://github.com/ankushg/home-cluster/commit/494c3913bbfdfa6a3ce053a0b4e2181e6d5f2e2d) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "revert: remove polaris - blocked on multiarch images"
+**2022-07-30** — pushed [`a135851e`](https://github.com/ankushg/home-cluster/commit/a135851e7bfd6a7e3243838e4524a0cb9ada2228) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update dependency fluxcd/flux2 to v0.31.5 (#339)"
 <!-- githubActivity ends -->
 </td></tr></table>
 
