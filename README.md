@@ -29,25 +29,25 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
-**2022-07-30** — pushed [`33a6f8f0`](https://github.com/ankushg/home-cluster/commit/33a6f8f03a11fbe0ae68d11fe0bffad178b5d89e) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image koush/scrypted to v0.1.15 (#343)"
+**2022-08-01** — pushed [`2eaad610`](https://github.com/ankushg/home-cluster/commit/2eaad61022c1dc26735da0fab52a30c835ad1945) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release omada-controller to v4.4.0 (#349)"
 
-**2022-07-30** — deleted branch "renovate/scrypted" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+**2022-08-01** — deleted branch "renovate/omada-controller" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
-**2022-07-30** — closed PR [#343](https://github.com/ankushg/home-cluster/pull/343) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image koush/scrypted to v0.1.15"
+**2022-08-01** — closed PR [#349](https://github.com/ankushg/home-cluster/pull/349) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release omada-controller to v4.4.0"
 
-**2022-07-30** — closed PR [#340](https://github.com/ankushg/home-cluster/pull/340) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image mbentley/omada-controller to v5.4"
+**2022-08-01** — pushed [`6a1a37cf`](https://github.com/ankushg/home-cluster/commit/6a1a37cf8444237d1519f027cfc41c06112077ae) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release kah-common-chart to v1.2.0 (#348)"
 
-**2022-07-30** — pushed [`dfabef1d`](https://github.com/ankushg/home-cluster/commit/dfabef1d5f49c5d07329cab9e4d96fed0719b1aa) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update container image mbentley/omada-controller to v5.4 (#340)"
+**2022-08-01** — deleted branch "renovate/kah-common-chart-1.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
-**2022-07-30** — deleted branch "renovate/omada-controller" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+**2022-08-01** — closed PR [#348](https://github.com/ankushg/home-cluster/pull/348) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release kah-common-chart to v1.2.0"
 
-**2022-07-30** — pushed [`009a9a72`](https://github.com/ankushg/home-cluster/commit/009a9a72bcd6d18860a2df870625dbf659bef475) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update terraform cloudflare to v3.20.0 (#341)"
+**2022-08-01** — pushed [`abc5dd34`](https://github.com/ankushg/home-cluster/commit/abc5dd347a87d9f4ef8673a821503a353c9674d1) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release home-assistant to v13.4.0 (#347)"
 
-**2022-07-30** — deleted branch "renovate/cloudflare-3.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
+**2022-08-01** — deleted branch "renovate/home-assistant" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
-**2022-07-30** — closed PR [#341](https://github.com/ankushg/home-cluster/pull/341) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update terraform cloudflare to v3.20.0"
+**2022-08-01** — closed PR [#347](https://github.com/ankushg/home-cluster/pull/347) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release home-assistant to v13.4.0"
 
-**2022-07-30** — pushed [`a135851e`](https://github.com/ankushg/home-cluster/commit/a135851e7bfd6a7e3243838e4524a0cb9ada2228) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update dependency fluxcd/flux2 to v0.31.5 (#339)"
+**2022-08-01** — pushed [`f2475a31`](https://github.com/ankushg/home-cluster/commit/f2475a31f7d2a1af8b32049bbbcf1ca566528612) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update scrypted (#344)"
 <!-- githubActivity ends -->
 </td></tr></table>
 
