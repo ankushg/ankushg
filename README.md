@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-08-09** — commented on [#286](https://github.com/alexbelgium/hassio-addons/issues/286#issuecomment-1209607668) in [alexbelgium/hassio-addons](https://api.github.com/repos/alexbelgium/hassio-addons)
+
 **2022-08-01** — pushed [`2eaad610`](https://github.com/ankushg/home-cluster/commit/2eaad61022c1dc26735da0fab52a30c835ad1945) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release omada-controller to v4.4.0 (#349)"
 
 **2022-08-01** — deleted branch "renovate/omada-controller" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-08-01** — deleted branch "renovate/home-assistant" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
 **2022-08-01** — closed PR [#347](https://github.com/ankushg/home-cluster/pull/347) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release home-assistant to v13.4.0"
-
-**2022-08-01** — pushed [`f2475a31`](https://github.com/ankushg/home-cluster/commit/f2475a31f7d2a1af8b32049bbbcf1ca566528612) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update scrypted (#344)"
 <!-- githubActivity ends -->
 </td></tr></table>
 
