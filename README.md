@@ -29,6 +29,10 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-08-10** — opened PR [#424](https://github.com/alexbelgium/hassio-addons/pull/424) to [alexbelgium/hassio-addons](https://api.github.com/repos/alexbelgium/hassio-addons): "fix(omada): update ports and documentation"
+
+**2022-08-10** — pushed [`64a8d60e`](https://github.com/ankushg/hassio-addons/commit/64a8d60ef374c2016d3089060c0d318f6a57f13f) to [ankushg/hassio-addons](https://api.github.com/repos/ankushg/hassio-addons): "fix(omada): update ports and documentation"
+
 **2022-08-10** — opened issue [#422](https://github.com/alexbelgium/hassio-addons/issues/422) on [alexbelgium/hassio-addons](https://api.github.com/repos/alexbelgium/hassio-addons): "[omada] automatic updates for Omada addon"
 
 **2022-08-09** — commented on [#286](https://github.com/alexbelgium/hassio-addons/issues/286#issuecomment-1209607668) in [alexbelgium/hassio-addons](https://api.github.com/repos/alexbelgium/hassio-addons)
@@ -44,10 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-08-01** — deleted branch "renovate/kah-common-chart-1.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 
 **2022-08-01** — closed PR [#348](https://github.com/ankushg/home-cluster/pull/348) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release kah-common-chart to v1.2.0"
-
-**2022-08-01** — pushed [`abc5dd34`](https://github.com/ankushg/home-cluster/commit/abc5dd347a87d9f4ef8673a821503a353c9674d1) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release home-assistant to v13.4.0 (#347)"
-
-**2022-08-01** — deleted branch "renovate/home-assistant" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
 <!-- githubActivity ends -->
 </td></tr></table>
 
