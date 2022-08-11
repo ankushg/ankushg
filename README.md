@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-08-11** — commented on [#424](https://github.com/alexbelgium/hassio-addons/pull/424#issuecomment-1212354120) in [alexbelgium/hassio-addons](https://api.github.com/repos/alexbelgium/hassio-addons)
+
 **2022-08-10** — opened PR [#424](https://github.com/alexbelgium/hassio-addons/pull/424) to [alexbelgium/hassio-addons](https://api.github.com/repos/alexbelgium/hassio-addons): "fix(omada): update ports and documentation"
 
 **2022-08-10** — pushed [`64a8d60e`](https://github.com/ankushg/hassio-addons/commit/64a8d60ef374c2016d3089060c0d318f6a57f13f) to [ankushg/hassio-addons](https://api.github.com/repos/ankushg/hassio-addons): "fix(omada): update ports and documentation"
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-08-01** — pushed [`6a1a37cf`](https://github.com/ankushg/home-cluster/commit/6a1a37cf8444237d1519f027cfc41c06112077ae) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release kah-common-chart to v1.2.0 (#348)"
 
 **2022-08-01** — deleted branch "renovate/kah-common-chart-1.x" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2022-08-01** — closed PR [#348](https://github.com/ankushg/home-cluster/pull/348) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release kah-common-chart to v1.2.0"
 <!-- githubActivity ends -->
 </td></tr></table>
 
