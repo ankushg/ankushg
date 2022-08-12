@@ -29,6 +29,10 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-08-11** — opened issue [#231](https://github.com/mbentley/docker-omada-controller/issues/231) on [mbentley/docker-omada-controller](https://api.github.com/repos/mbentley/docker-omada-controller): "Better versioning scheme for Docker images?"
+
+**2022-08-11** — commented on [#424](https://github.com/alexbelgium/hassio-addons/pull/424#issuecomment-1212677800) in [alexbelgium/hassio-addons](https://api.github.com/repos/alexbelgium/hassio-addons)
+
 **2022-08-11** — commented on [#422](https://github.com/alexbelgium/hassio-addons/issues/422#issuecomment-1212545967) in [alexbelgium/hassio-addons](https://api.github.com/repos/alexbelgium/hassio-addons)
 
 **2022-08-11** — commented on [#424](https://github.com/alexbelgium/hassio-addons/pull/424#issuecomment-1212354120) in [alexbelgium/hassio-addons](https://api.github.com/repos/alexbelgium/hassio-addons)
@@ -44,10 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-08-01** — pushed [`2eaad610`](https://github.com/ankushg/home-cluster/commit/2eaad61022c1dc26735da0fab52a30c835ad1945) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release omada-controller to v4.4.0 (#349)"
 
 **2022-08-01** — deleted branch "renovate/omada-controller" on [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster)
-
-**2022-08-01** — closed PR [#349](https://github.com/ankushg/home-cluster/pull/349) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release omada-controller to v4.4.0"
-
-**2022-08-01** — pushed [`6a1a37cf`](https://github.com/ankushg/home-cluster/commit/6a1a37cf8444237d1519f027cfc41c06112077ae) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release kah-common-chart to v1.2.0 (#348)"
 <!-- githubActivity ends -->
 </td></tr></table>
 
