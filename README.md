@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-08-14** — opened issue [#21](https://github.com/gradlex-org/build-parameters/issues/21) on [gradlex-org/build-parameters](https://api.github.com/repos/gradlex-org/build-parameters): "Reading from .properties files?"
+
 **2022-08-12** — commented on [#231](https://github.com/mbentley/docker-omada-controller/issues/231#issuecomment-1213387644) in [mbentley/docker-omada-controller](https://api.github.com/repos/mbentley/docker-omada-controller)
 
 **2022-08-11** — opened issue [#231](https://github.com/mbentley/docker-omada-controller/issues/231) on [mbentley/docker-omada-controller](https://api.github.com/repos/mbentley/docker-omada-controller): "Better versioning scheme for Docker images?"
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-08-10** — opened issue [#422](https://github.com/alexbelgium/hassio-addons/issues/422) on [alexbelgium/hassio-addons](https://api.github.com/repos/alexbelgium/hassio-addons): "[omada] automatic updates for Omada addon"
 
 **2022-08-09** — commented on [#286](https://github.com/alexbelgium/hassio-addons/issues/286#issuecomment-1209607668) in [alexbelgium/hassio-addons](https://api.github.com/repos/alexbelgium/hassio-addons)
-
-**2022-08-01** — pushed [`2eaad610`](https://github.com/ankushg/home-cluster/commit/2eaad61022c1dc26735da0fab52a30c835ad1945) to [ankushg/home-cluster](https://api.github.com/repos/ankushg/home-cluster): "chore(deps): update helm release omada-controller to v4.4.0 (#349)"
 <!-- githubActivity ends -->
 </td></tr></table>
 
