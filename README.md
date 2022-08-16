@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-08-16** — opened issue [#36](https://github.com/kosi-libs/MocKMP/issues/36) on [kosi-libs/MocKMP](https://api.github.com/repos/kosi-libs/MocKMP): "Kotlin 1.7.20-Beta support?"
+
 **2022-08-15** — commented on [#21](https://github.com/gradlex-org/build-parameters/issues/21#issuecomment-1215503759) in [gradlex-org/build-parameters](https://api.github.com/repos/gradlex-org/build-parameters)
 
 **2022-08-14** — opened issue [#21](https://github.com/gradlex-org/build-parameters/issues/21) on [gradlex-org/build-parameters](https://api.github.com/repos/gradlex-org/build-parameters): "Reading from .properties files?"
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-08-10** — opened PR [#424](https://github.com/alexbelgium/hassio-addons/pull/424) to [alexbelgium/hassio-addons](https://api.github.com/repos/alexbelgium/hassio-addons): "fix(omada): update ports and documentation"
 
 **2022-08-10** — pushed [`64a8d60e`](https://github.com/ankushg/hassio-addons/commit/64a8d60ef374c2016d3089060c0d318f6a57f13f) to [ankushg/hassio-addons](https://api.github.com/repos/ankushg/hassio-addons): "fix(omada): update ports and documentation"
-
-**2022-08-10** — opened issue [#422](https://github.com/alexbelgium/hassio-addons/issues/422) on [alexbelgium/hassio-addons](https://api.github.com/repos/alexbelgium/hassio-addons): "[omada] automatic updates for Omada addon"
 <!-- githubActivity ends -->
 </td></tr></table>
 
