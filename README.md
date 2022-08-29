@@ -29,6 +29,10 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-08-29** — opened PR [#15](https://github.com/aegjoyce/ha-addons/pull/15) to [aegjoyce/ha-addons](https://api.github.com/repos/aegjoyce/ha-addons): "fix: filter out lite versions from update checker"
+
+**2022-08-29** — pushed [`7e7f7cfe`](https://github.com/ankushg/ha-addons/commit/7e7f7cfe731a0f6bf5f1d4b3634234b97257b79c) to [ankushg/ha-addons](https://api.github.com/repos/ankushg/ha-addons): "fix: filter out lite versions from update checker"
+
 **2022-08-29** — commented on [#437](https://github.com/alexbelgium/hassio-addons/issues/437#issuecomment-1230749398) in [alexbelgium/hassio-addons](https://api.github.com/repos/alexbelgium/hassio-addons)
 
 **2022-08-18** — commented on [#772](https://github.com/InsertKoinIO/koin/issues/772#issuecomment-1220169845) in [InsertKoinIO/koin](https://api.github.com/repos/InsertKoinIO/koin)
@@ -44,10 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-08-11** — opened issue [#231](https://github.com/mbentley/docker-omada-controller/issues/231) on [mbentley/docker-omada-controller](https://api.github.com/repos/mbentley/docker-omada-controller): "Better versioning scheme for Docker images?"
 
 **2022-08-11** — commented on [#424](https://github.com/alexbelgium/hassio-addons/pull/424#issuecomment-1212677800) in [alexbelgium/hassio-addons](https://api.github.com/repos/alexbelgium/hassio-addons)
-
-**2022-08-11** — commented on [#422](https://github.com/alexbelgium/hassio-addons/issues/422#issuecomment-1212545967) in [alexbelgium/hassio-addons](https://api.github.com/repos/alexbelgium/hassio-addons)
-
-**2022-08-11** — commented on [#424](https://github.com/alexbelgium/hassio-addons/pull/424#issuecomment-1212354120) in [alexbelgium/hassio-addons](https://api.github.com/repos/alexbelgium/hassio-addons)
 <!-- githubActivity ends -->
 </td></tr></table>
 
