@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-08-29** — commented on [#437](https://github.com/alexbelgium/hassio-addons/issues/437#issuecomment-1230749398) in [alexbelgium/hassio-addons](https://api.github.com/repos/alexbelgium/hassio-addons)
+
 **2022-08-18** — commented on [#772](https://github.com/InsertKoinIO/koin/issues/772#issuecomment-1220169845) in [InsertKoinIO/koin](https://api.github.com/repos/InsertKoinIO/koin)
 
 **2022-08-16** — opened issue [#36](https://github.com/kosi-libs/MocKMP/issues/36) on [kosi-libs/MocKMP](https://api.github.com/repos/kosi-libs/MocKMP): "Kotlin 1.7.20-Beta support?"
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-08-11** — commented on [#422](https://github.com/alexbelgium/hassio-addons/issues/422#issuecomment-1212545967) in [alexbelgium/hassio-addons](https://api.github.com/repos/alexbelgium/hassio-addons)
 
 **2022-08-11** — commented on [#424](https://github.com/alexbelgium/hassio-addons/pull/424#issuecomment-1212354120) in [alexbelgium/hassio-addons](https://api.github.com/repos/alexbelgium/hassio-addons)
-
-**2022-08-10** — opened PR [#424](https://github.com/alexbelgium/hassio-addons/pull/424) to [alexbelgium/hassio-addons](https://api.github.com/repos/alexbelgium/hassio-addons): "fix(omada): update ports and documentation"
 <!-- githubActivity ends -->
 </td></tr></table>
 
