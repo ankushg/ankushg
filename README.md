@@ -29,6 +29,10 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-08-29** — opened issue [#1](https://github.com/vchkhr/hass-n8n-dev/issues/1) on [vchkhr/hass-n8n-dev](https://api.github.com/repos/vchkhr/hass-n8n-dev): "Feature request: automatic updates as new docker images are released"
+
+**2022-08-29** — commented on [#15](https://github.com/aegjoyce/ha-addons/pull/15#issuecomment-1231156586) in [aegjoyce/ha-addons](https://api.github.com/repos/aegjoyce/ha-addons)
+
 **2022-08-29** — opened PR [#15](https://github.com/aegjoyce/ha-addons/pull/15) to [aegjoyce/ha-addons](https://api.github.com/repos/aegjoyce/ha-addons): "fix: filter out lite versions from update checker"
 
 **2022-08-29** — pushed [`7e7f7cfe`](https://github.com/ankushg/ha-addons/commit/7e7f7cfe731a0f6bf5f1d4b3634234b97257b79c) to [ankushg/ha-addons](https://api.github.com/repos/ankushg/ha-addons): "fix: filter out lite versions from update checker"
@@ -44,10 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-08-14** — opened issue [#21](https://github.com/gradlex-org/build-parameters/issues/21) on [gradlex-org/build-parameters](https://api.github.com/repos/gradlex-org/build-parameters): "Reading from .properties files?"
 
 **2022-08-12** — commented on [#231](https://github.com/mbentley/docker-omada-controller/issues/231#issuecomment-1213387644) in [mbentley/docker-omada-controller](https://api.github.com/repos/mbentley/docker-omada-controller)
-
-**2022-08-11** — opened issue [#231](https://github.com/mbentley/docker-omada-controller/issues/231) on [mbentley/docker-omada-controller](https://api.github.com/repos/mbentley/docker-omada-controller): "Better versioning scheme for Docker images?"
-
-**2022-08-11** — commented on [#424](https://github.com/alexbelgium/hassio-addons/pull/424#issuecomment-1212677800) in [alexbelgium/hassio-addons](https://api.github.com/repos/alexbelgium/hassio-addons)
 <!-- githubActivity ends -->
 </td></tr></table>
 
