@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-09-26** — deleted branch "patch-1" on [ankushg/Adv360-Pro-ZMK](https://api.github.com/repos/ankushg/Adv360-Pro-ZMK)
+
 **2022-08-29** — opened issue [#1](https://github.com/vchkhr/hass-n8n-dev/issues/1) on [vchkhr/hass-n8n-dev](https://api.github.com/repos/vchkhr/hass-n8n-dev): "Feature request: automatic updates as new docker images are released"
 
 **2022-08-29** — commented on [#15](https://github.com/aegjoyce/ha-addons/pull/15#issuecomment-1231156586) in [aegjoyce/ha-addons](https://api.github.com/repos/aegjoyce/ha-addons)
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-08-15** — commented on [#21](https://github.com/gradlex-org/build-parameters/issues/21#issuecomment-1215503759) in [gradlex-org/build-parameters](https://api.github.com/repos/gradlex-org/build-parameters)
 
 **2022-08-14** — opened issue [#21](https://github.com/gradlex-org/build-parameters/issues/21) on [gradlex-org/build-parameters](https://api.github.com/repos/gradlex-org/build-parameters): "Reading from .properties files?"
-
-**2022-08-12** — commented on [#231](https://github.com/mbentley/docker-omada-controller/issues/231#issuecomment-1213387644) in [mbentley/docker-omada-controller](https://api.github.com/repos/mbentley/docker-omada-controller)
 <!-- githubActivity ends -->
 </td></tr></table>
 
