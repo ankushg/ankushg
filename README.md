@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-09-26** — pushed 2 commits to [ankushg/Adv360-Pro-ZMK](https://api.github.com/repos/ankushg/Adv360-Pro-ZMK).
+
 **2022-09-26** — created branch "ergodox-ez" on [ankushg/Adv360-Pro-ZMK](https://api.github.com/repos/ankushg/Adv360-Pro-ZMK)
 
 **2022-09-26** — deleted branch "my-config" on [ankushg/Adv360-Pro-ZMK](https://api.github.com/repos/ankushg/Adv360-Pro-ZMK)
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-08-29** — opened PR [#15](https://github.com/aegjoyce/ha-addons/pull/15) to [aegjoyce/ha-addons](https://api.github.com/repos/aegjoyce/ha-addons): "fix: filter out lite versions from update checker"
 
 **2022-08-29** — pushed [`7e7f7cfe`](https://github.com/ankushg/ha-addons/commit/7e7f7cfe731a0f6bf5f1d4b3634234b97257b79c) to [ankushg/ha-addons](https://api.github.com/repos/ankushg/ha-addons): "fix: filter out lite versions from update checker"
-
-**2022-08-29** — commented on [#437](https://github.com/alexbelgium/hassio-addons/issues/437#issuecomment-1230749398) in [alexbelgium/hassio-addons](https://api.github.com/repos/alexbelgium/hassio-addons)
 <!-- githubActivity ends -->
 </td></tr></table>
 
