@@ -29,6 +29,10 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-09-26** — created branch "ergodox-ez" on [ankushg/Adv360-Pro-ZMK](https://api.github.com/repos/ankushg/Adv360-Pro-ZMK)
+
+**2022-09-26** — deleted branch "my-config" on [ankushg/Adv360-Pro-ZMK](https://api.github.com/repos/ankushg/Adv360-Pro-ZMK)
+
 **2022-09-26** — created branch "my-config" on [ankushg/Adv360-Pro-ZMK](https://api.github.com/repos/ankushg/Adv360-Pro-ZMK)
 
 **2022-09-26** — pushed [`9d83249b`](https://github.com/ankushg/Adv360-Pro-ZMK/commit/9d83249bad0a2fb4e1764504f1514fcfcad271b5) to [ankushg/Adv360-Pro-ZMK](https://api.github.com/repos/ankushg/Adv360-Pro-ZMK): "feat(ci): automatically sync official upstream branches"
@@ -44,10 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-08-29** — pushed [`7e7f7cfe`](https://github.com/ankushg/ha-addons/commit/7e7f7cfe731a0f6bf5f1d4b3634234b97257b79c) to [ankushg/ha-addons](https://api.github.com/repos/ankushg/ha-addons): "fix: filter out lite versions from update checker"
 
 **2022-08-29** — commented on [#437](https://github.com/alexbelgium/hassio-addons/issues/437#issuecomment-1230749398) in [alexbelgium/hassio-addons](https://api.github.com/repos/alexbelgium/hassio-addons)
-
-**2022-08-18** — commented on [#772](https://github.com/InsertKoinIO/koin/issues/772#issuecomment-1220169845) in [InsertKoinIO/koin](https://api.github.com/repos/InsertKoinIO/koin)
-
-**2022-08-16** — opened issue [#36](https://github.com/kosi-libs/MocKMP/issues/36) on [kosi-libs/MocKMP](https://api.github.com/repos/kosi-libs/MocKMP): "Kotlin 1.7.20-Beta support?"
 <!-- githubActivity ends -->
 </td></tr></table>
 
