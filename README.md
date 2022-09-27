@@ -29,6 +29,12 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-09-27** — opened PR [#1](https://github.com/ankushg/Adv360-Pro-ZMK/pull/1) to [ankushg/Adv360-Pro-ZMK](https://api.github.com/repos/ankushg/Adv360-Pro-ZMK): "Egodox-EZ inspired Keymap"
+
+**2022-09-27** — pushed [`9e22aa68`](https://github.com/ankushg/Adv360-Pro-ZMK/commit/9e22aa68fe692fe7df77e4894a358c763718e38e) to [ankushg/Adv360-Pro-ZMK](https://api.github.com/repos/ankushg/Adv360-Pro-ZMK): "revert macro formatting change"
+
+**2022-09-27** — pushed [`31f2ca8c`](https://github.com/ankushg/Adv360-Pro-ZMK/commit/31f2ca8c07387fe53bd951a5e66430a721b3efa7) to [ankushg/Adv360-Pro-ZMK](https://api.github.com/repos/ankushg/Adv360-Pro-ZMK): "replace macros with real key combos for hyper\meh"
+
 **2022-09-26** — pushed 2 commits to [ankushg/Adv360-Pro-ZMK](https://api.github.com/repos/ankushg/Adv360-Pro-ZMK).
 
 **2022-09-26** — created branch "ergodox-ez" on [ankushg/Adv360-Pro-ZMK](https://api.github.com/repos/ankushg/Adv360-Pro-ZMK)
@@ -42,12 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-09-26** — deleted branch "patch-1" on [ankushg/Adv360-Pro-ZMK](https://api.github.com/repos/ankushg/Adv360-Pro-ZMK)
 
 **2022-08-29** — opened issue [#1](https://github.com/vchkhr/hass-n8n-dev/issues/1) on [vchkhr/hass-n8n-dev](https://api.github.com/repos/vchkhr/hass-n8n-dev): "Feature request: automatic updates as new docker images are released"
-
-**2022-08-29** — commented on [#15](https://github.com/aegjoyce/ha-addons/pull/15#issuecomment-1231156586) in [aegjoyce/ha-addons](https://api.github.com/repos/aegjoyce/ha-addons)
-
-**2022-08-29** — opened PR [#15](https://github.com/aegjoyce/ha-addons/pull/15) to [aegjoyce/ha-addons](https://api.github.com/repos/aegjoyce/ha-addons): "fix: filter out lite versions from update checker"
-
-**2022-08-29** — pushed [`7e7f7cfe`](https://github.com/ankushg/ha-addons/commit/7e7f7cfe731a0f6bf5f1d4b3634234b97257b79c) to [ankushg/ha-addons](https://api.github.com/repos/ankushg/ha-addons): "fix: filter out lite versions from update checker"
 <!-- githubActivity ends -->
 </td></tr></table>
 
