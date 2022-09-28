@@ -29,6 +29,16 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-09-28** — pushed 12 commits to [ankushg/Adv360-Pro-ZMK](https://api.github.com/repos/ankushg/Adv360-Pro-ZMK).
+
+**2022-09-28** — pushed [`76cb6bec`](https://github.com/ankushg/Adv360-Pro-ZMK/commit/76cb6bec92581ebfafc2e3e8718259103189e259) to [ankushg/Adv360-Pro-ZMK](https://api.github.com/repos/ankushg/Adv360-Pro-ZMK): "update concurrency on build workflow"
+
+**2022-09-28** — pushed 2 commits to [ankushg/Adv360-Pro-ZMK](https://api.github.com/repos/ankushg/Adv360-Pro-ZMK).
+
+**2022-09-28** — opened issue [#52](https://github.com/nickcoutsos/keymap-editor/issues/52) on [nickcoutsos/keymap-editor](https://api.github.com/repos/nickcoutsos/keymap-editor): "Feature Request: "Raw Mode""
+
+**2022-09-28** — opened issue [#51](https://github.com/nickcoutsos/keymap-editor/issues/51) on [nickcoutsos/keymap-editor](https://api.github.com/repos/nickcoutsos/keymap-editor): "Feature Request: Support for user-defined behaviors.json"
+
 **2022-09-27** — opened PR [#1](https://github.com/ankushg/Adv360-Pro-ZMK/pull/1) to [ankushg/Adv360-Pro-ZMK](https://api.github.com/repos/ankushg/Adv360-Pro-ZMK): "Egodox-EZ inspired Keymap"
 
 **2022-09-27** — pushed [`9e22aa68`](https://github.com/ankushg/Adv360-Pro-ZMK/commit/9e22aa68fe692fe7df77e4894a358c763718e38e) to [ankushg/Adv360-Pro-ZMK](https://api.github.com/repos/ankushg/Adv360-Pro-ZMK): "revert macro formatting change"
@@ -38,16 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-09-26** — pushed 2 commits to [ankushg/Adv360-Pro-ZMK](https://api.github.com/repos/ankushg/Adv360-Pro-ZMK).
 
 **2022-09-26** — created branch "ergodox-ez" on [ankushg/Adv360-Pro-ZMK](https://api.github.com/repos/ankushg/Adv360-Pro-ZMK)
-
-**2022-09-26** — deleted branch "my-config" on [ankushg/Adv360-Pro-ZMK](https://api.github.com/repos/ankushg/Adv360-Pro-ZMK)
-
-**2022-09-26** — created branch "my-config" on [ankushg/Adv360-Pro-ZMK](https://api.github.com/repos/ankushg/Adv360-Pro-ZMK)
-
-**2022-09-26** — pushed [`9d83249b`](https://github.com/ankushg/Adv360-Pro-ZMK/commit/9d83249bad0a2fb4e1764504f1514fcfcad271b5) to [ankushg/Adv360-Pro-ZMK](https://api.github.com/repos/ankushg/Adv360-Pro-ZMK): "feat(ci): automatically sync official upstream branches"
-
-**2022-09-26** — deleted branch "patch-1" on [ankushg/Adv360-Pro-ZMK](https://api.github.com/repos/ankushg/Adv360-Pro-ZMK)
-
-**2022-08-29** — opened issue [#1](https://github.com/vchkhr/hass-n8n-dev/issues/1) on [vchkhr/hass-n8n-dev](https://api.github.com/repos/vchkhr/hass-n8n-dev): "Feature request: automatic updates as new docker images are released"
 <!-- githubActivity ends -->
 </td></tr></table>
 
