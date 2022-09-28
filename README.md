@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-09-28** — commented on [#26](https://github.com/nickcoutsos/keymap-editor/issues/26#issuecomment-1261386737) in [nickcoutsos/keymap-editor](https://api.github.com/repos/nickcoutsos/keymap-editor)
+
 **2022-09-28** — pushed 12 commits to [ankushg/Adv360-Pro-ZMK](https://api.github.com/repos/ankushg/Adv360-Pro-ZMK).
 
 **2022-09-28** — pushed [`76cb6bec`](https://github.com/ankushg/Adv360-Pro-ZMK/commit/76cb6bec92581ebfafc2e3e8718259103189e259) to [ankushg/Adv360-Pro-ZMK](https://api.github.com/repos/ankushg/Adv360-Pro-ZMK): "update concurrency on build workflow"
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-09-27** — pushed [`31f2ca8c`](https://github.com/ankushg/Adv360-Pro-ZMK/commit/31f2ca8c07387fe53bd951a5e66430a721b3efa7) to [ankushg/Adv360-Pro-ZMK](https://api.github.com/repos/ankushg/Adv360-Pro-ZMK): "replace macros with real key combos for hyper\meh"
 
 **2022-09-26** — pushed 2 commits to [ankushg/Adv360-Pro-ZMK](https://api.github.com/repos/ankushg/Adv360-Pro-ZMK).
-
-**2022-09-26** — created branch "ergodox-ez" on [ankushg/Adv360-Pro-ZMK](https://api.github.com/repos/ankushg/Adv360-Pro-ZMK)
 <!-- githubActivity ends -->
 </td></tr></table>
 
