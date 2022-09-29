@@ -29,6 +29,10 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-09-29** — opened issue [#632](https://github.com/dwainscheeren/dwains-lovelace-dashboard/issues/632) on [dwainscheeren/dwains-lovelace-dashboard](https://api.github.com/repos/dwainscheeren/dwains-lovelace-dashboard): "Implement a true "Group by device""
+
+**2022-09-29** — opened issue [#631](https://github.com/dwainscheeren/dwains-lovelace-dashboard/issues/631) on [dwainscheeren/dwains-lovelace-dashboard](https://api.github.com/repos/dwainscheeren/dwains-lovelace-dashboard): "Rename "Group by devices" to "Group by entity type""
+
 **2022-09-28** — commented on [#26](https://github.com/nickcoutsos/keymap-editor/issues/26#issuecomment-1261386737) in [nickcoutsos/keymap-editor](https://api.github.com/repos/nickcoutsos/keymap-editor)
 
 **2022-09-28** — pushed 12 commits to [ankushg/Adv360-Pro-ZMK](https://api.github.com/repos/ankushg/Adv360-Pro-ZMK).
@@ -44,10 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-09-27** — opened PR [#1](https://github.com/ankushg/Adv360-Pro-ZMK/pull/1) to [ankushg/Adv360-Pro-ZMK](https://api.github.com/repos/ankushg/Adv360-Pro-ZMK): "Egodox-EZ inspired Keymap"
 
 **2022-09-27** — pushed [`9e22aa68`](https://github.com/ankushg/Adv360-Pro-ZMK/commit/9e22aa68fe692fe7df77e4894a358c763718e38e) to [ankushg/Adv360-Pro-ZMK](https://api.github.com/repos/ankushg/Adv360-Pro-ZMK): "revert macro formatting change"
-
-**2022-09-27** — pushed [`31f2ca8c`](https://github.com/ankushg/Adv360-Pro-ZMK/commit/31f2ca8c07387fe53bd951a5e66430a721b3efa7) to [ankushg/Adv360-Pro-ZMK](https://api.github.com/repos/ankushg/Adv360-Pro-ZMK): "replace macros with real key combos for hyper\meh"
-
-**2022-09-26** — pushed 2 commits to [ankushg/Adv360-Pro-ZMK](https://api.github.com/repos/ankushg/Adv360-Pro-ZMK).
 <!-- githubActivity ends -->
 </td></tr></table>
 
