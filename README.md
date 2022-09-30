@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-09-30** — pushed 0 commits to [ankushg/Adv360-Pro-ZMK](https://api.github.com/repos/ankushg/Adv360-Pro-ZMK).
+
 **2022-09-30** — opened issue [#38](https://github.com/kosi-libs/MocKMP/issues/38) on [kosi-libs/MocKMP](https://api.github.com/repos/kosi-libs/MocKMP): "Official 1.7.20 build?"
 
 **2022-09-29** — opened issue [#632](https://github.com/dwainscheeren/dwains-lovelace-dashboard/issues/632) on [dwainscheeren/dwains-lovelace-dashboard](https://api.github.com/repos/dwainscheeren/dwains-lovelace-dashboard): "Implement a true "Group by device""
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-09-28** — opened issue [#52](https://github.com/nickcoutsos/keymap-editor/issues/52) on [nickcoutsos/keymap-editor](https://api.github.com/repos/nickcoutsos/keymap-editor): "Feature Request: "Raw Mode""
 
 **2022-09-28** — opened issue [#51](https://github.com/nickcoutsos/keymap-editor/issues/51) on [nickcoutsos/keymap-editor](https://api.github.com/repos/nickcoutsos/keymap-editor): "Feature Request: Support for user-defined behaviors.json"
-
-**2022-09-27** — opened PR [#1](https://github.com/ankushg/Adv360-Pro-ZMK/pull/1) to [ankushg/Adv360-Pro-ZMK](https://api.github.com/repos/ankushg/Adv360-Pro-ZMK): "Egodox-EZ inspired Keymap"
 <!-- githubActivity ends -->
 </td></tr></table>
 
