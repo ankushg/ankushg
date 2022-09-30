@@ -29,6 +29,12 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-09-30** — pushed 2 commits to [ankushg/Adv360-Pro-ZMK](https://api.github.com/repos/ankushg/Adv360-Pro-ZMK).
+
+**2022-09-30** — pushed 15 commits to [ankushg/Adv360-Pro-ZMK](https://api.github.com/repos/ankushg/Adv360-Pro-ZMK).
+
+**2022-09-30** — created branch "main" on [ankushg/Adv360-Pro-ZMK](https://api.github.com/repos/ankushg/Adv360-Pro-ZMK)
+
 **2022-09-30** — pushed 0 commits to [ankushg/Adv360-Pro-ZMK](https://api.github.com/repos/ankushg/Adv360-Pro-ZMK).
 
 **2022-09-30** — opened issue [#38](https://github.com/kosi-libs/MocKMP/issues/38) on [kosi-libs/MocKMP](https://api.github.com/repos/kosi-libs/MocKMP): "Official 1.7.20 build?"
@@ -42,12 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-09-28** — pushed 12 commits to [ankushg/Adv360-Pro-ZMK](https://api.github.com/repos/ankushg/Adv360-Pro-ZMK).
 
 **2022-09-28** — pushed [`76cb6bec`](https://github.com/ankushg/Adv360-Pro-ZMK/commit/76cb6bec92581ebfafc2e3e8718259103189e259) to [ankushg/Adv360-Pro-ZMK](https://api.github.com/repos/ankushg/Adv360-Pro-ZMK): "update concurrency on build workflow"
-
-**2022-09-28** — pushed 2 commits to [ankushg/Adv360-Pro-ZMK](https://api.github.com/repos/ankushg/Adv360-Pro-ZMK).
-
-**2022-09-28** — opened issue [#52](https://github.com/nickcoutsos/keymap-editor/issues/52) on [nickcoutsos/keymap-editor](https://api.github.com/repos/nickcoutsos/keymap-editor): "Feature Request: "Raw Mode""
-
-**2022-09-28** — opened issue [#51](https://github.com/nickcoutsos/keymap-editor/issues/51) on [nickcoutsos/keymap-editor](https://api.github.com/repos/nickcoutsos/keymap-editor): "Feature Request: Support for user-defined behaviors.json"
 <!-- githubActivity ends -->
 </td></tr></table>
 
