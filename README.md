@@ -29,6 +29,12 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-09-30** — pushed 0 commits to [ankushg/Adv360-Pro-ZMK](https://api.github.com/repos/ankushg/Adv360-Pro-ZMK).
+
+**2022-09-30** — pushed [`1d6e6e38`](https://github.com/ankushg/Adv360-Pro-ZMK/commit/1d6e6e388bbcba7f6e0b484fde296a62b9c68703) to [ankushg/Adv360-Pro-ZMK](https://api.github.com/repos/ankushg/Adv360-Pro-ZMK): "Updated keymap"
+
+**2022-09-30** — opened PR [#2](https://github.com/ankushg/Adv360-Pro-ZMK/pull/2) to [ankushg/Adv360-Pro-ZMK](https://api.github.com/repos/ankushg/Adv360-Pro-ZMK): "Diffs from upstream"
+
 **2022-09-30** — pushed 2 commits to [ankushg/Adv360-Pro-ZMK](https://api.github.com/repos/ankushg/Adv360-Pro-ZMK).
 
 **2022-09-30** — pushed 15 commits to [ankushg/Adv360-Pro-ZMK](https://api.github.com/repos/ankushg/Adv360-Pro-ZMK).
@@ -42,12 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-09-29** — opened issue [#632](https://github.com/dwainscheeren/dwains-lovelace-dashboard/issues/632) on [dwainscheeren/dwains-lovelace-dashboard](https://api.github.com/repos/dwainscheeren/dwains-lovelace-dashboard): "Implement a true "Group by device""
 
 **2022-09-29** — opened issue [#631](https://github.com/dwainscheeren/dwains-lovelace-dashboard/issues/631) on [dwainscheeren/dwains-lovelace-dashboard](https://api.github.com/repos/dwainscheeren/dwains-lovelace-dashboard): "Rename "Group by devices" to "Group by entity type""
-
-**2022-09-28** — commented on [#26](https://github.com/nickcoutsos/keymap-editor/issues/26#issuecomment-1261386737) in [nickcoutsos/keymap-editor](https://api.github.com/repos/nickcoutsos/keymap-editor)
-
-**2022-09-28** — pushed 12 commits to [ankushg/Adv360-Pro-ZMK](https://api.github.com/repos/ankushg/Adv360-Pro-ZMK).
-
-**2022-09-28** — pushed [`76cb6bec`](https://github.com/ankushg/Adv360-Pro-ZMK/commit/76cb6bec92581ebfafc2e3e8718259103189e259) to [ankushg/Adv360-Pro-ZMK](https://api.github.com/repos/ankushg/Adv360-Pro-ZMK): "update concurrency on build workflow"
 <!-- githubActivity ends -->
 </td></tr></table>
 
