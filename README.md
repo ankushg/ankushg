@@ -29,6 +29,10 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-10-04** — opened issue [#1907](https://github.com/esphome/feature-requests/issues/1907) on [esphome/feature-requests](https://api.github.com/repos/esphome/feature-requests): "Allow me to set ESP32 esp-idf framework version to a branch"
+
+**2022-10-04** — commented on [#1897](https://github.com/esphome/feature-requests/issues/1897#issuecomment-1266525403) in [esphome/feature-requests](https://api.github.com/repos/esphome/feature-requests)
+
 **2022-10-03** — opened issue [#3](https://github.com/jackyzha0/tabspace/issues/3) on [jackyzha0/tabspace](https://api.github.com/repos/jackyzha0/tabspace): "FR: Detect system dark mode"
 
 **2022-09-30** — pushed 0 commits to [ankushg/Adv360-Pro-ZMK](https://api.github.com/repos/ankushg/Adv360-Pro-ZMK).
@@ -44,10 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-09-30** — created branch "main" on [ankushg/Adv360-Pro-ZMK](https://api.github.com/repos/ankushg/Adv360-Pro-ZMK)
 
 **2022-09-30** — pushed 0 commits to [ankushg/Adv360-Pro-ZMK](https://api.github.com/repos/ankushg/Adv360-Pro-ZMK).
-
-**2022-09-30** — opened issue [#38](https://github.com/kosi-libs/MocKMP/issues/38) on [kosi-libs/MocKMP](https://api.github.com/repos/kosi-libs/MocKMP): "Official 1.7.20 build?"
-
-**2022-09-29** — opened issue [#632](https://github.com/dwainscheeren/dwains-lovelace-dashboard/issues/632) on [dwainscheeren/dwains-lovelace-dashboard](https://api.github.com/repos/dwainscheeren/dwains-lovelace-dashboard): "Implement a true "Group by device""
 <!-- githubActivity ends -->
 </td></tr></table>
 
