@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-10-13** — commented on [#615](https://github.com/hacs/frontend/pull/615#issuecomment-1277948472) in [hacs/frontend](https://api.github.com/repos/hacs/frontend)
+
 **2022-10-06** — pushed [`46ead316`](https://github.com/ankushg/zigbee-herdsman-converters/commit/46ead3165d9d2b967ca517b1cb938754c1c5d458) to [ankushg/zigbee-herdsman-converters](https://api.github.com/repos/ankushg/zigbee-herdsman-converters): "lint: fix spacing"
 
 **2022-10-06** — opened PR [#4749](https://github.com/Koenkk/zigbee-herdsman-converters/pull/4749) to [Koenkk/zigbee-herdsman-converters](https://api.github.com/repos/Koenkk/zigbee-herdsman-converters): "Add support for ABL Juno Connect Wafer lights"
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-10-06** — pushed [`1fc2a03e`](https://github.com/ankushg/zigbee-herdsman-converters/commit/1fc2a03e7bf6983168ae9ef6ee1f5c75a70e8162) to [ankushg/zigbee-herdsman-converters](https://api.github.com/repos/ankushg/zigbee-herdsman-converters): "Add support for ABL Juno Connect Wafer lights"
 
 **2022-10-06** — created branch "ankushg/juno-connect-support" on [ankushg/zigbee-herdsman-converters](https://api.github.com/repos/ankushg/zigbee-herdsman-converters)
-
-**2022-10-04** — opened issue [#1907](https://github.com/esphome/feature-requests/issues/1907) on [esphome/feature-requests](https://api.github.com/repos/esphome/feature-requests): "Allow me to set ESP32 esp-idf framework version to a branch"
 <!-- githubActivity ends -->
 </td></tr></table>
 
