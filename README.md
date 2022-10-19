@@ -29,6 +29,10 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-10-19** — opened PR [#3](https://github.com/metbril/home-assistant-blueprints/pull/3) to [metbril/home-assistant-blueprints](https://api.github.com/repos/metbril/home-assistant-blueprints): "feat: clarify pre/finishing actions"
+
+**2022-10-19** — pushed [`ff423f10`](https://github.com/ankushg/home-assistant-blueprints/commit/ff423f106b73fb4e59d73b5e729d8f892c2cfa73) to [ankushg/home-assistant-blueprints](https://api.github.com/repos/ankushg/home-assistant-blueprints): "feat: clarify pre/finishing actions"
+
 **2022-10-13** — commented on [#615](https://github.com/hacs/frontend/pull/615#issuecomment-1277948472) in [hacs/frontend](https://api.github.com/repos/hacs/frontend)
 
 **2022-10-06** — pushed [`46ead316`](https://github.com/ankushg/zigbee-herdsman-converters/commit/46ead3165d9d2b967ca517b1cb938754c1c5d458) to [ankushg/zigbee-herdsman-converters](https://api.github.com/repos/ankushg/zigbee-herdsman-converters): "lint: fix spacing"
@@ -44,10 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-10-06** — deleted branch "ankushg/juno-connect-support" on [ankushg/zigbee-herdsman-converters](https://api.github.com/repos/ankushg/zigbee-herdsman-converters)
 
 **2022-10-06** — opened PR [#4748](https://github.com/Koenkk/zigbee-herdsman-converters/pull/4748) to [Koenkk/zigbee-herdsman-converters](https://api.github.com/repos/Koenkk/zigbee-herdsman-converters): "Add support for ABL Juno Connect Wafer lights"
-
-**2022-10-06** — pushed [`1fc2a03e`](https://github.com/ankushg/zigbee-herdsman-converters/commit/1fc2a03e7bf6983168ae9ef6ee1f5c75a70e8162) to [ankushg/zigbee-herdsman-converters](https://api.github.com/repos/ankushg/zigbee-herdsman-converters): "Add support for ABL Juno Connect Wafer lights"
-
-**2022-10-06** — created branch "ankushg/juno-connect-support" on [ankushg/zigbee-herdsman-converters](https://api.github.com/repos/ankushg/zigbee-herdsman-converters)
 <!-- githubActivity ends -->
 </td></tr></table>
 
