@@ -29,6 +29,10 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-10-20** — opened PR [#19](https://github.com/leofabri/hassio_appliance-status-monitor/pull/19) to [leofabri/hassio_appliance-status-monitor](https://api.github.com/repos/leofabri/hassio_appliance-status-monitor): "Filter automation entity by power device_class"
+
+**2022-10-20** — pushed [`1f8594d7`](https://github.com/ankushg/hassio_appliance-status-monitor/commit/1f8594d74288c0594f3a4e908052e6c3fc84d032) to [ankushg/hassio_appliance-status-monitor](https://api.github.com/repos/ankushg/hassio_appliance-status-monitor): "Filter automation entity by power device_class"
+
 **2022-10-19** — opened PR [#3](https://github.com/metbril/home-assistant-blueprints/pull/3) to [metbril/home-assistant-blueprints](https://api.github.com/repos/metbril/home-assistant-blueprints): "feat: clarify pre/finishing actions"
 
 **2022-10-19** — pushed [`ff423f10`](https://github.com/ankushg/home-assistant-blueprints/commit/ff423f106b73fb4e59d73b5e729d8f892c2cfa73) to [ankushg/home-assistant-blueprints](https://api.github.com/repos/ankushg/home-assistant-blueprints): "feat: clarify pre/finishing actions"
@@ -44,10 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-10-06** — created branch "ankushg/juno-connect-support" on [ankushg/zigbee-herdsman-converters](https://api.github.com/repos/ankushg/zigbee-herdsman-converters)
 
 **2022-10-06** — deleted branch "patch-1" on [ankushg/zigbee-herdsman-converters](https://api.github.com/repos/ankushg/zigbee-herdsman-converters)
-
-**2022-10-06** — deleted branch "ankushg/juno-connect-support" on [ankushg/zigbee-herdsman-converters](https://api.github.com/repos/ankushg/zigbee-herdsman-converters)
-
-**2022-10-06** — opened PR [#4748](https://github.com/Koenkk/zigbee-herdsman-converters/pull/4748) to [Koenkk/zigbee-herdsman-converters](https://api.github.com/repos/Koenkk/zigbee-herdsman-converters): "Add support for ABL Juno Connect Wafer lights"
 <!-- githubActivity ends -->
 </td></tr></table>
 
