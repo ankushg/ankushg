@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-10-23** — commented on [#308](https://github.com/basnijholt/adaptive-lighting/issues/308#issuecomment-1288113678) in [basnijholt/adaptive-lighting](https://api.github.com/repos/basnijholt/adaptive-lighting)
+
 **2022-10-20** — opened PR [#19](https://github.com/leofabri/hassio_appliance-status-monitor/pull/19) to [leofabri/hassio_appliance-status-monitor](https://api.github.com/repos/leofabri/hassio_appliance-status-monitor): "Filter automation entity by power device_class"
 
 **2022-10-20** — pushed [`1f8594d7`](https://github.com/ankushg/hassio_appliance-status-monitor/commit/1f8594d74288c0594f3a4e908052e6c3fc84d032) to [ankushg/hassio_appliance-status-monitor](https://api.github.com/repos/ankushg/hassio_appliance-status-monitor): "Filter automation entity by power device_class"
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-10-06** — closed PR [#4748](https://github.com/Koenkk/zigbee-herdsman-converters/pull/4748) to [Koenkk/zigbee-herdsman-converters](https://api.github.com/repos/Koenkk/zigbee-herdsman-converters): "Add support for ABL Juno Connect Wafer lights"
 
 **2022-10-06** — created branch "ankushg/juno-connect-support" on [ankushg/zigbee-herdsman-converters](https://api.github.com/repos/ankushg/zigbee-herdsman-converters)
-
-**2022-10-06** — deleted branch "patch-1" on [ankushg/zigbee-herdsman-converters](https://api.github.com/repos/ankushg/zigbee-herdsman-converters)
 <!-- githubActivity ends -->
 </td></tr></table>
 
