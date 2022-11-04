@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-11-04** — commented on [#34](https://github.com/kosi-libs/MocKMP/issues/34#issuecomment-1304269173) in [kosi-libs/MocKMP](https://api.github.com/repos/kosi-libs/MocKMP)
+
 **2022-10-25** — opened issue [#20](https://github.com/leofabri/hassio_appliance-status-monitor/issues/20) on [leofabri/hassio_appliance-status-monitor](https://api.github.com/repos/leofabri/hassio_appliance-status-monitor): "Request: Example Lovelace card to show status of an appliance"
 
 **2022-10-23** — commented on [#308](https://github.com/basnijholt/adaptive-lighting/issues/308#issuecomment-1288113678) in [basnijholt/adaptive-lighting](https://api.github.com/repos/basnijholt/adaptive-lighting)
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-10-06** — pushed [`46ead316`](https://github.com/ankushg/zigbee-herdsman-converters/commit/46ead3165d9d2b967ca517b1cb938754c1c5d458) to [ankushg/zigbee-herdsman-converters](https://api.github.com/repos/ankushg/zigbee-herdsman-converters): "lint: fix spacing"
 
 **2022-10-06** — opened PR [#4749](https://github.com/Koenkk/zigbee-herdsman-converters/pull/4749) to [Koenkk/zigbee-herdsman-converters](https://api.github.com/repos/Koenkk/zigbee-herdsman-converters): "Add support for ABL Juno Connect Wafer lights"
-
-**2022-10-06** — closed PR [#4748](https://github.com/Koenkk/zigbee-herdsman-converters/pull/4748) to [Koenkk/zigbee-herdsman-converters](https://api.github.com/repos/Koenkk/zigbee-herdsman-converters): "Add support for ABL Juno Connect Wafer lights"
 <!-- githubActivity ends -->
 </td></tr></table>
 
