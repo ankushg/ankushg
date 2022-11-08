@@ -29,6 +29,10 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-11-08** — opened issue [#39](https://github.com/growthbook/growthbook-kotlin/issues/39) on [growthbook/growthbook-kotlin](https://api.github.com/repos/growthbook/growthbook-kotlin): "Feature Request: Allow users to provide their own NetworkDispatcher and extract Ktor dependency into a separate artifact"
+
+**2022-11-08** — opened issue [#38](https://github.com/growthbook/growthbook-kotlin/issues/38) on [growthbook/growthbook-kotlin](https://api.github.com/repos/growthbook/growthbook-kotlin): "Javascript support?"
+
 **2022-11-04** — commented on [#34](https://github.com/kosi-libs/MocKMP/issues/34#issuecomment-1304269173) in [kosi-libs/MocKMP](https://api.github.com/repos/kosi-libs/MocKMP)
 
 **2022-10-25** — opened issue [#20](https://github.com/leofabri/hassio_appliance-status-monitor/issues/20) on [leofabri/hassio_appliance-status-monitor](https://api.github.com/repos/leofabri/hassio_appliance-status-monitor): "Request: Example Lovelace card to show status of an appliance"
@@ -44,10 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-10-19** — pushed [`ff423f10`](https://github.com/ankushg/home-assistant-blueprints/commit/ff423f106b73fb4e59d73b5e729d8f892c2cfa73) to [ankushg/home-assistant-blueprints](https://api.github.com/repos/ankushg/home-assistant-blueprints): "feat: clarify pre/finishing actions"
 
 **2022-10-13** — commented on [#615](https://github.com/hacs/frontend/pull/615#issuecomment-1277948472) in [hacs/frontend](https://api.github.com/repos/hacs/frontend)
-
-**2022-10-06** — pushed [`46ead316`](https://github.com/ankushg/zigbee-herdsman-converters/commit/46ead3165d9d2b967ca517b1cb938754c1c5d458) to [ankushg/zigbee-herdsman-converters](https://api.github.com/repos/ankushg/zigbee-herdsman-converters): "lint: fix spacing"
-
-**2022-10-06** — opened PR [#4749](https://github.com/Koenkk/zigbee-herdsman-converters/pull/4749) to [Koenkk/zigbee-herdsman-converters](https://api.github.com/repos/Koenkk/zigbee-herdsman-converters): "Add support for ABL Juno Connect Wafer lights"
 <!-- githubActivity ends -->
 </td></tr></table>
 
