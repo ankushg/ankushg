@@ -29,6 +29,10 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-12-01** — created branch "main" on [ankushg/advent-of-code-2022](https://api.github.com/repos/ankushg/advent-of-code-2022)
+
+**2022-12-01** — created repository on [ankushg/advent-of-code-2022](https://api.github.com/repos/ankushg/advent-of-code-2022)
+
 **2022-11-09** — opened issue [#542](https://github.com/alexbelgium/hassio-addons/issues/542) on [alexbelgium/hassio-addons](https://api.github.com/repos/alexbelgium/hassio-addons): "✨ [REQUEST] Mastodon"
 
 **2022-11-08** — opened issue [#39](https://github.com/growthbook/growthbook-kotlin/issues/39) on [growthbook/growthbook-kotlin](https://api.github.com/repos/growthbook/growthbook-kotlin): "Feature Request: Allow users to provide their own NetworkDispatcher and extract Ktor dependency into a separate artifact"
@@ -44,10 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-10-20** — opened PR [#19](https://github.com/leofabri/hassio_appliance-status-monitor/pull/19) to [leofabri/hassio_appliance-status-monitor](https://api.github.com/repos/leofabri/hassio_appliance-status-monitor): "Filter automation entity by power device_class"
 
 **2022-10-20** — pushed [`1f8594d7`](https://github.com/ankushg/hassio_appliance-status-monitor/commit/1f8594d74288c0594f3a4e908052e6c3fc84d032) to [ankushg/hassio_appliance-status-monitor](https://api.github.com/repos/ankushg/hassio_appliance-status-monitor): "Filter automation entity by power device_class"
-
-**2022-10-19** — opened PR [#3](https://github.com/metbril/home-assistant-blueprints/pull/3) to [metbril/home-assistant-blueprints](https://api.github.com/repos/metbril/home-assistant-blueprints): "feat: clarify pre/finishing actions"
-
-**2022-10-19** — pushed [`ff423f10`](https://github.com/ankushg/home-assistant-blueprints/commit/ff423f106b73fb4e59d73b5e729d8f892c2cfa73) to [ankushg/home-assistant-blueprints](https://api.github.com/repos/ankushg/home-assistant-blueprints): "feat: clarify pre/finishing actions"
 <!-- githubActivity ends -->
 </td></tr></table>
 
