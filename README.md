@@ -29,6 +29,10 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-12-13** — commented on [#1](https://github.com/pkmn/smogon/issues/1#issuecomment-1350245521) in [pkmn/smogon](https://api.github.com/repos/pkmn/smogon)
+
+**2022-12-13** — opened issue [#1](https://github.com/pkmn/smogon/issues/1) on [pkmn/smogon](https://api.github.com/repos/pkmn/smogon): "Issue with `name` function for new Gen9 variants"
+
 **2022-12-02** — pushed 5 commits to [ankushg/advent-of-code-2022](https://api.github.com/repos/ankushg/advent-of-code-2022).
 
 **2022-12-01** — created branch "main" on [ankushg/advent-of-code-2022](https://api.github.com/repos/ankushg/advent-of-code-2022)
@@ -44,10 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-11-04** — commented on [#34](https://github.com/kosi-libs/MocKMP/issues/34#issuecomment-1304269173) in [kosi-libs/MocKMP](https://api.github.com/repos/kosi-libs/MocKMP)
 
 **2022-10-25** — opened issue [#20](https://github.com/leofabri/hassio_appliance-status-monitor/issues/20) on [leofabri/hassio_appliance-status-monitor](https://api.github.com/repos/leofabri/hassio_appliance-status-monitor): "Request: Example Lovelace card to show status of an appliance"
-
-**2022-10-23** — commented on [#308](https://github.com/basnijholt/adaptive-lighting/issues/308#issuecomment-1288113678) in [basnijholt/adaptive-lighting](https://api.github.com/repos/basnijholt/adaptive-lighting)
-
-**2022-10-20** — opened PR [#19](https://github.com/leofabri/hassio_appliance-status-monitor/pull/19) to [leofabri/hassio_appliance-status-monitor](https://api.github.com/repos/leofabri/hassio_appliance-status-monitor): "Filter automation entity by power device_class"
 <!-- githubActivity ends -->
 </td></tr></table>
 
