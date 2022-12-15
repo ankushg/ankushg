@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-12-15** — opened issue [#1331](https://github.com/nicklockwood/SwiftFormat/issues/1331) on [nicklockwood/SwiftFormat](https://api.github.com/repos/nicklockwood/SwiftFormat): "Feature Request: Support junit-style output for lint-mode in CI"
+
 **2022-12-13** — commented on [#1](https://github.com/pkmn/smogon/issues/1#issuecomment-1350245521) in [pkmn/smogon](https://api.github.com/repos/pkmn/smogon)
 
 **2022-12-13** — opened issue [#1](https://github.com/pkmn/smogon/issues/1) on [pkmn/smogon](https://api.github.com/repos/pkmn/smogon): "Issue with `name` function for new Gen9 variants"
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-11-08** — opened issue [#38](https://github.com/growthbook/growthbook-kotlin/issues/38) on [growthbook/growthbook-kotlin](https://api.github.com/repos/growthbook/growthbook-kotlin): "Javascript support?"
 
 **2022-11-04** — commented on [#34](https://github.com/kosi-libs/MocKMP/issues/34#issuecomment-1304269173) in [kosi-libs/MocKMP](https://api.github.com/repos/kosi-libs/MocKMP)
-
-**2022-10-25** — opened issue [#20](https://github.com/leofabri/hassio_appliance-status-monitor/issues/20) on [leofabri/hassio_appliance-status-monitor](https://api.github.com/repos/leofabri/hassio_appliance-status-monitor): "Request: Example Lovelace card to show status of an appliance"
 <!-- githubActivity ends -->
 </td></tr></table>
 
