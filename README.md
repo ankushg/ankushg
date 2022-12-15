@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-12-15** — opened issue [#3](https://github.com/fxm90/fastlane-plugin-swiftformat/issues/3) on [fxm90/fastlane-plugin-swiftformat](https://api.github.com/repos/fxm90/fastlane-plugin-swiftformat): "Feature Request: Include a way to download CLI client, taking platform into account"
+
 **2022-12-15** — opened issue [#1331](https://github.com/nicklockwood/SwiftFormat/issues/1331) on [nicklockwood/SwiftFormat](https://api.github.com/repos/nicklockwood/SwiftFormat): "Feature Request: Support junit-style output for lint-mode in CI"
 
 **2022-12-13** — commented on [#1](https://github.com/pkmn/smogon/issues/1#issuecomment-1350245521) in [pkmn/smogon](https://api.github.com/repos/pkmn/smogon)
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-11-08** — opened issue [#39](https://github.com/growthbook/growthbook-kotlin/issues/39) on [growthbook/growthbook-kotlin](https://api.github.com/repos/growthbook/growthbook-kotlin): "Feature Request: Allow users to provide their own NetworkDispatcher and extract Ktor dependency into a separate artifact"
 
 **2022-11-08** — opened issue [#38](https://github.com/growthbook/growthbook-kotlin/issues/38) on [growthbook/growthbook-kotlin](https://api.github.com/repos/growthbook/growthbook-kotlin): "Javascript support?"
-
-**2022-11-04** — commented on [#34](https://github.com/kosi-libs/MocKMP/issues/34#issuecomment-1304269173) in [kosi-libs/MocKMP](https://api.github.com/repos/kosi-libs/MocKMP)
 <!-- githubActivity ends -->
 </td></tr></table>
 
