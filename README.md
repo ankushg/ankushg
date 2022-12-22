@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-12-22** — opened issue [#157](https://github.com/architdate/PKHeX-Plugins/issues/157) on [architdate/PKHeX-Plugins](https://api.github.com/repos/architdate/PKHeX-Plugins): "FR: Set all possible Technical Records upon creation"
+
 **2022-12-15** — opened issue [#3](https://github.com/fxm90/fastlane-plugin-swiftformat/issues/3) on [fxm90/fastlane-plugin-swiftformat](https://api.github.com/repos/fxm90/fastlane-plugin-swiftformat): "Feature Request: Include a way to download CLI client, taking platform into account"
 
 **2022-12-15** — opened issue [#1331](https://github.com/nicklockwood/SwiftFormat/issues/1331) on [nicklockwood/SwiftFormat](https://api.github.com/repos/nicklockwood/SwiftFormat): "Feature Request: Support junit-style output for lint-mode in CI"
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-11-09** — opened issue [#542](https://github.com/alexbelgium/hassio-addons/issues/542) on [alexbelgium/hassio-addons](https://api.github.com/repos/alexbelgium/hassio-addons): "✨ [REQUEST] Mastodon"
 
 **2022-11-08** — opened issue [#39](https://github.com/growthbook/growthbook-kotlin/issues/39) on [growthbook/growthbook-kotlin](https://api.github.com/repos/growthbook/growthbook-kotlin): "Feature Request: Allow users to provide their own NetworkDispatcher and extract Ktor dependency into a separate artifact"
-
-**2022-11-08** — opened issue [#38](https://github.com/growthbook/growthbook-kotlin/issues/38) on [growthbook/growthbook-kotlin](https://api.github.com/repos/growthbook/growthbook-kotlin): "Javascript support?"
 <!-- githubActivity ends -->
 </td></tr></table>
 
