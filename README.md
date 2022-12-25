@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-12-25** — commented on [#417](https://github.com/supabase/gotrue-js/issues/417#issuecomment-1364703143) in [supabase/gotrue-js](https://api.github.com/repos/supabase/gotrue-js)
+
 **2022-12-22** — opened issue [#157](https://github.com/architdate/PKHeX-Plugins/issues/157) on [architdate/PKHeX-Plugins](https://api.github.com/repos/architdate/PKHeX-Plugins): "FR: Set all possible Technical Records upon creation"
 
 **2022-12-15** — opened issue [#3](https://github.com/fxm90/fastlane-plugin-swiftformat/issues/3) on [fxm90/fastlane-plugin-swiftformat](https://api.github.com/repos/fxm90/fastlane-plugin-swiftformat): "Feature Request: Include a way to download CLI client, taking platform into account"
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-12-01** — created repository on [ankushg/advent-of-code-2022](https://api.github.com/repos/ankushg/advent-of-code-2022)
 
 **2022-11-09** — opened issue [#542](https://github.com/alexbelgium/hassio-addons/issues/542) on [alexbelgium/hassio-addons](https://api.github.com/repos/alexbelgium/hassio-addons): "✨ [REQUEST] Mastodon"
-
-**2022-11-08** — opened issue [#39](https://github.com/growthbook/growthbook-kotlin/issues/39) on [growthbook/growthbook-kotlin](https://api.github.com/repos/growthbook/growthbook-kotlin): "Feature Request: Allow users to provide their own NetworkDispatcher and extract Ktor dependency into a separate artifact"
 <!-- githubActivity ends -->
 </td></tr></table>
 
