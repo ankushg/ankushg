@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-12-25** — commented on [#23](https://github.com/supabase/supabase-js/issues/23#issuecomment-1364739612) in [supabase/supabase-js](https://api.github.com/repos/supabase/supabase-js)
+
 **2022-12-25** — commented on [#417](https://github.com/supabase/gotrue-js/issues/417#issuecomment-1364703143) in [supabase/gotrue-js](https://api.github.com/repos/supabase/gotrue-js)
 
 **2022-12-22** — opened issue [#157](https://github.com/architdate/PKHeX-Plugins/issues/157) on [architdate/PKHeX-Plugins](https://api.github.com/repos/architdate/PKHeX-Plugins): "FR: Set all possible Technical Records upon creation"
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-12-01** — created branch "main" on [ankushg/advent-of-code-2022](https://api.github.com/repos/ankushg/advent-of-code-2022)
 
 **2022-12-01** — created repository on [ankushg/advent-of-code-2022](https://api.github.com/repos/ankushg/advent-of-code-2022)
-
-**2022-11-09** — opened issue [#542](https://github.com/alexbelgium/hassio-addons/issues/542) on [alexbelgium/hassio-addons](https://api.github.com/repos/alexbelgium/hassio-addons): "✨ [REQUEST] Mastodon"
 <!-- githubActivity ends -->
 </td></tr></table>
 
