@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2022-12-28** — opened issue [#748](https://github.com/supabase/cli/issues/748) on [supabase/cli](https://api.github.com/repos/supabase/cli): "Typescript type for `interval` is generated as `unknown`"
+
 **2022-12-25** — commented on [#23](https://github.com/supabase/supabase-js/issues/23#issuecomment-1364739612) in [supabase/supabase-js](https://api.github.com/repos/supabase/supabase-js)
 
 **2022-12-25** — commented on [#417](https://github.com/supabase/gotrue-js/issues/417#issuecomment-1364703143) in [supabase/gotrue-js](https://api.github.com/repos/supabase/gotrue-js)
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-12-02** — pushed 5 commits to [ankushg/advent-of-code-2022](https://api.github.com/repos/ankushg/advent-of-code-2022).
 
 **2022-12-01** — created branch "main" on [ankushg/advent-of-code-2022](https://api.github.com/repos/ankushg/advent-of-code-2022)
-
-**2022-12-01** — created repository on [ankushg/advent-of-code-2022](https://api.github.com/repos/ankushg/advent-of-code-2022)
 <!-- githubActivity ends -->
 </td></tr></table>
 
