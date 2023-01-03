@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2023-01-03** — opened issue [#1](https://github.com/ewisted/PokemonSVAutomation/issues/1) on [ewisted/PokemonSVAutomation](https://api.github.com/repos/ewisted/PokemonSVAutomation): "Building/flashing instructions?"
+
 **2022-12-28** — opened issue [#748](https://github.com/supabase/cli/issues/748) on [supabase/cli](https://api.github.com/repos/supabase/cli): "Typescript type for `interval` is generated as `unknown`"
 
 **2022-12-25** — commented on [#23](https://github.com/supabase/supabase-js/issues/23#issuecomment-1364739612) in [supabase/supabase-js](https://api.github.com/repos/supabase/supabase-js)
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-12-13** — opened issue [#1](https://github.com/pkmn/smogon/issues/1) on [pkmn/smogon](https://api.github.com/repos/pkmn/smogon): "Issue with `name` function for new Gen9 variants"
 
 **2022-12-02** — pushed 5 commits to [ankushg/advent-of-code-2022](https://api.github.com/repos/ankushg/advent-of-code-2022).
-
-**2022-12-01** — created branch "main" on [ankushg/advent-of-code-2022](https://api.github.com/repos/ankushg/advent-of-code-2022)
 <!-- githubActivity ends -->
 </td></tr></table>
 
