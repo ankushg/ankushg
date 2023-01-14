@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2023-01-13** — opened issue [#19](https://github.com/elk-zone/elk-native/issues/19) on [elk-zone/elk-native](https://api.github.com/repos/elk-zone/elk-native): "Native Mobile artifacts"
+
 **2023-01-12** — opened issue [#1](https://github.com/RyanLefebvre/RP-Hypertrophy-Hub-Visualizer/issues/1) on [RyanLefebvre/RP-Hypertrophy-Hub-Visualizer](https://api.github.com/repos/RyanLefebvre/RP-Hypertrophy-Hub-Visualizer): "FR: tooltips for abbreviations"
 
 **2023-01-09** — opened issue [#1](https://github.com/fortheusers/hbas-frontend/issues/1) on [fortheusers/hbas-frontend](https://api.github.com/repos/fortheusers/hbas-frontend): "Feature Request: RSS or Atom feed for recently updated items per platform"
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2022-12-15** — opened issue [#3](https://github.com/fxm90/fastlane-plugin-swiftformat/issues/3) on [fxm90/fastlane-plugin-swiftformat](https://api.github.com/repos/fxm90/fastlane-plugin-swiftformat): "Feature Request: Include a way to download CLI client, taking platform into account"
 
 **2022-12-15** — opened issue [#1331](https://github.com/nicklockwood/SwiftFormat/issues/1331) on [nicklockwood/SwiftFormat](https://api.github.com/repos/nicklockwood/SwiftFormat): "Feature Request: Support junit-style output for lint-mode in CI"
-
-**2022-12-13** — commented on [#1](https://github.com/pkmn/smogon/issues/1#issuecomment-1350245521) in [pkmn/smogon](https://api.github.com/repos/pkmn/smogon)
 <!-- githubActivity ends -->
 </td></tr></table>
 
