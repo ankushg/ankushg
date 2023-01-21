@@ -29,6 +29,18 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2023-01-20** — commented on [#36](https://github.com/astro-community/astro-embed/pull/36#issuecomment-1399105883) in [astro-community/astro-embed](https://api.github.com/repos/astro-community/astro-embed)
+
+**2023-01-20** — commented on [#36](https://github.com/astro-community/astro-embed/pull/36#issuecomment-1399103168) in [astro-community/astro-embed](https://api.github.com/repos/astro-community/astro-embed)
+
+**2023-01-20** — opened PR [#36](https://github.com/astro-community/astro-embed/pull/36) to [astro-community/astro-embed](https://api.github.com/repos/astro-community/astro-embed): "Update every package.json to support Astro 2.0.0 betas"
+
+**2023-01-20** — pushed [`094eec60`](https://github.com/ankushg/astro-embed/commit/094eec60ba643cffac3cfb8fd8b57eaf52f1503e) to [ankushg/astro-embed](https://api.github.com/repos/ankushg/astro-embed): "update all package.json's to support ^2.0.0-beta"
+
+**2023-01-20** — pushed [`dd241a90`](https://github.com/ankushg/astro-embed/commit/dd241a901ddd25c6857374ff45277a407155350c) to [ankushg/astro-embed](https://api.github.com/repos/ankushg/astro-embed): "update astro-embed package.json"
+
+**2023-01-20** — opened issue [#35](https://github.com/astro-community/astro-embed/issues/35) on [astro-community/astro-embed](https://api.github.com/repos/astro-community/astro-embed): "Support for Astro v2 betas"
+
 **2023-01-13** — opened issue [#19](https://github.com/elk-zone/elk-native/issues/19) on [elk-zone/elk-native](https://api.github.com/repos/elk-zone/elk-native): "Native Mobile artifacts"
 
 **2023-01-12** — opened issue [#1](https://github.com/RyanLefebvre/RP-Hypertrophy-Hub-Visualizer/issues/1) on [RyanLefebvre/RP-Hypertrophy-Hub-Visualizer](https://api.github.com/repos/RyanLefebvre/RP-Hypertrophy-Hub-Visualizer): "FR: tooltips for abbreviations"
@@ -36,18 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2023-01-09** — opened issue [#1](https://github.com/fortheusers/hbas-frontend/issues/1) on [fortheusers/hbas-frontend](https://api.github.com/repos/fortheusers/hbas-frontend): "Feature Request: RSS or Atom feed for recently updated items per platform"
 
 **2023-01-03** — opened issue [#1](https://github.com/ewisted/PokemonSVAutomation/issues/1) on [ewisted/PokemonSVAutomation](https://api.github.com/repos/ewisted/PokemonSVAutomation): "Building/flashing instructions?"
-
-**2022-12-28** — opened issue [#748](https://github.com/supabase/cli/issues/748) on [supabase/cli](https://api.github.com/repos/supabase/cli): "Typescript type for `interval` is generated as `unknown`"
-
-**2022-12-25** — commented on [#23](https://github.com/supabase/supabase-js/issues/23#issuecomment-1364739612) in [supabase/supabase-js](https://api.github.com/repos/supabase/supabase-js)
-
-**2022-12-25** — commented on [#417](https://github.com/supabase/gotrue-js/issues/417#issuecomment-1364703143) in [supabase/gotrue-js](https://api.github.com/repos/supabase/gotrue-js)
-
-**2022-12-22** — opened issue [#157](https://github.com/architdate/PKHeX-Plugins/issues/157) on [architdate/PKHeX-Plugins](https://api.github.com/repos/architdate/PKHeX-Plugins): "FR: Set all possible Technical Records upon creation"
-
-**2022-12-15** — opened issue [#3](https://github.com/fxm90/fastlane-plugin-swiftformat/issues/3) on [fxm90/fastlane-plugin-swiftformat](https://api.github.com/repos/fxm90/fastlane-plugin-swiftformat): "Feature Request: Include a way to download CLI client, taking platform into account"
-
-**2022-12-15** — opened issue [#1331](https://github.com/nicklockwood/SwiftFormat/issues/1331) on [nicklockwood/SwiftFormat](https://api.github.com/repos/nicklockwood/SwiftFormat): "Feature Request: Support junit-style output for lint-mode in CI"
 <!-- githubActivity ends -->
 </td></tr></table>
 
