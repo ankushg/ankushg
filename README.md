@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-01** — opened issue [#18](https://github.com/usefulsensors/openai-whisper/issues/18) on [usefulsensors/openai-whisper](https://api.github.com/repos/usefulsensors/openai-whisper): "Support for --initial_prompt feature?"
+
 **2023-01-26** — commented on [#85357](https://github.com/home-assistant/core/issues/85357#issuecomment-1405859040) in [home-assistant/core](https://api.github.com/repos/home-assistant/core)
 
 **2023-01-20** — commented on [#36](https://github.com/astro-community/astro-embed/pull/36#issuecomment-1399105883) in [astro-community/astro-embed](https://api.github.com/repos/astro-community/astro-embed)
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2023-01-13** — opened issue [#19](https://github.com/elk-zone/elk-native/issues/19) on [elk-zone/elk-native](https://api.github.com/repos/elk-zone/elk-native): "Native Mobile artifacts"
 
 **2023-01-12** — opened issue [#1](https://github.com/RyanLefebvre/RP-Hypertrophy-Hub-Visualizer/issues/1) on [RyanLefebvre/RP-Hypertrophy-Hub-Visualizer](https://api.github.com/repos/RyanLefebvre/RP-Hypertrophy-Hub-Visualizer): "FR: tooltips for abbreviations"
-
-**2023-01-09** — opened issue [#1](https://github.com/fortheusers/hbas-frontend/issues/1) on [fortheusers/hbas-frontend](https://api.github.com/repos/fortheusers/hbas-frontend): "Feature Request: RSS or Atom feed for recently updated items per platform"
 <!-- githubActivity ends -->
 </td></tr></table>
 
