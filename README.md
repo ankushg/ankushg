@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-02** — commented on [#6](https://github.com/AMeng/personal_capital_plus/issues/6#issuecomment-1414397703) in [AMeng/personal_capital_plus](https://api.github.com/repos/AMeng/personal_capital_plus)
+
 **2023-02-01** — opened issue [#18](https://github.com/usefulsensors/openai-whisper/issues/18) on [usefulsensors/openai-whisper](https://api.github.com/repos/usefulsensors/openai-whisper): "Support for --initial_prompt feature?"
 
 **2023-01-26** — commented on [#85357](https://github.com/home-assistant/core/issues/85357#issuecomment-1405859040) in [home-assistant/core](https://api.github.com/repos/home-assistant/core)
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2023-01-20** — opened issue [#35](https://github.com/astro-community/astro-embed/issues/35) on [astro-community/astro-embed](https://api.github.com/repos/astro-community/astro-embed): "Support for Astro v2 betas"
 
 **2023-01-13** — opened issue [#19](https://github.com/elk-zone/elk-native/issues/19) on [elk-zone/elk-native](https://api.github.com/repos/elk-zone/elk-native): "Native Mobile artifacts"
-
-**2023-01-12** — opened issue [#1](https://github.com/RyanLefebvre/RP-Hypertrophy-Hub-Visualizer/issues/1) on [RyanLefebvre/RP-Hypertrophy-Hub-Visualizer](https://api.github.com/repos/RyanLefebvre/RP-Hypertrophy-Hub-Visualizer): "FR: tooltips for abbreviations"
 <!-- githubActivity ends -->
 </td></tr></table>
 
