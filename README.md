@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-04** — opened issue [#691](https://github.com/alexbelgium/hassio-addons/issues/691) on [alexbelgium/hassio-addons](https://api.github.com/repos/alexbelgium/hassio-addons): "✨ [REQUEST] tuya-convert"
+
 **2023-02-03** — opened issue [#347](https://github.com/elax46/custom-brand-icons/issues/347) on [elax46/custom-brand-icons](https://api.github.com/repos/elax46/custom-brand-icons): "Custom Icon request: Nest Hub/Nest Hub Max"
 
 **2023-02-02** — commented on [#6](https://github.com/AMeng/personal_capital_plus/issues/6#issuecomment-1414397703) in [AMeng/personal_capital_plus](https://api.github.com/repos/AMeng/personal_capital_plus)
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2023-01-20** — pushed [`094eec60`](https://github.com/ankushg/astro-embed/commit/094eec60ba643cffac3cfb8fd8b57eaf52f1503e) to [ankushg/astro-embed](https://api.github.com/repos/ankushg/astro-embed): "update all package.json's to support ^2.0.0-beta"
 
 **2023-01-20** — pushed [`dd241a90`](https://github.com/ankushg/astro-embed/commit/dd241a901ddd25c6857374ff45277a407155350c) to [ankushg/astro-embed](https://api.github.com/repos/ankushg/astro-embed): "update astro-embed package.json"
-
-**2023-01-20** — opened issue [#35](https://github.com/astro-community/astro-embed/issues/35) on [astro-community/astro-embed](https://api.github.com/repos/astro-community/astro-embed): "Support for Astro v2 betas"
 <!-- githubActivity ends -->
 </td></tr></table>
 
