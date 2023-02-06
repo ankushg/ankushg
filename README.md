@@ -29,6 +29,10 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-05** — opened issue [#17](https://github.com/spinspire/pocketbase-sveltekit-starter/issues/17) on [spinspire/pocketbase-sveltekit-starter](https://api.github.com/repos/spinspire/pocketbase-sveltekit-starter): "FR: More details about how to use prebuilt pockebase binary?"
+
+**2023-02-05** — opened issue [#16](https://github.com/spinspire/pocketbase-sveltekit-starter/issues/16) on [spinspire/pocketbase-sveltekit-starter](https://api.github.com/repos/spinspire/pocketbase-sveltekit-starter): "FR: continuous integration deploys?"
+
 **2023-02-05** — opened issue [#532](https://github.com/AdguardTeam/AdGuardDNS/issues/532) on [AdguardTeam/AdGuardDNS](https://api.github.com/repos/AdguardTeam/AdGuardDNS): "FR: Redirect domain to another domain"
 
 **2023-02-04** — opened issue [#691](https://github.com/alexbelgium/hassio-addons/issues/691) on [alexbelgium/hassio-addons](https://api.github.com/repos/alexbelgium/hassio-addons): "✨ [REQUEST] tuya-convert"
@@ -44,10 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2023-01-20** — commented on [#36](https://github.com/astro-community/astro-embed/pull/36#issuecomment-1399105883) in [astro-community/astro-embed](https://api.github.com/repos/astro-community/astro-embed)
 
 **2023-01-20** — commented on [#36](https://github.com/astro-community/astro-embed/pull/36#issuecomment-1399103168) in [astro-community/astro-embed](https://api.github.com/repos/astro-community/astro-embed)
-
-**2023-01-20** — opened PR [#36](https://github.com/astro-community/astro-embed/pull/36) to [astro-community/astro-embed](https://api.github.com/repos/astro-community/astro-embed): "Update every package.json to support Astro 2.0.0 betas"
-
-**2023-01-20** — pushed [`094eec60`](https://github.com/ankushg/astro-embed/commit/094eec60ba643cffac3cfb8fd8b57eaf52f1503e) to [ankushg/astro-embed](https://api.github.com/repos/ankushg/astro-embed): "update all package.json's to support ^2.0.0-beta"
 <!-- githubActivity ends -->
 </td></tr></table>
 
