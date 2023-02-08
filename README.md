@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-08** — commented on [#49](https://github.com/zachcheatham/ha-omada/issues/49#issuecomment-1423222042) in [zachcheatham/ha-omada](https://api.github.com/repos/zachcheatham/ha-omada)
+
 **2023-02-08** — commented on [#416](https://github.com/Koenkk/Z-Stack-firmware/issues/416#issuecomment-1422978075) in [Koenkk/Z-Stack-firmware](https://api.github.com/repos/Koenkk/Z-Stack-firmware)
 
 **2023-02-06** — commented on [#4](https://github.com/usefulsensors/openai-whisper/issues/4#issuecomment-1419596357) in [usefulsensors/openai-whisper](https://api.github.com/repos/usefulsensors/openai-whisper)
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2023-02-03** — opened issue [#347](https://github.com/elax46/custom-brand-icons/issues/347) on [elax46/custom-brand-icons](https://api.github.com/repos/elax46/custom-brand-icons): "Custom Icon request: Nest Hub/Nest Hub Max"
 
 **2023-02-02** — commented on [#6](https://github.com/AMeng/personal_capital_plus/issues/6#issuecomment-1414397703) in [AMeng/personal_capital_plus](https://api.github.com/repos/AMeng/personal_capital_plus)
-
-**2023-02-01** — opened issue [#18](https://github.com/usefulsensors/openai-whisper/issues/18) on [usefulsensors/openai-whisper](https://api.github.com/repos/usefulsensors/openai-whisper): "Support for --initial_prompt feature?"
 <!-- githubActivity ends -->
 </td></tr></table>
 
