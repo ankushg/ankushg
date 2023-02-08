@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-08** — commented on [#416](https://github.com/Koenkk/Z-Stack-firmware/issues/416#issuecomment-1422978075) in [Koenkk/Z-Stack-firmware](https://api.github.com/repos/Koenkk/Z-Stack-firmware)
+
 **2023-02-06** — commented on [#4](https://github.com/usefulsensors/openai-whisper/issues/4#issuecomment-1419596357) in [usefulsensors/openai-whisper](https://api.github.com/repos/usefulsensors/openai-whisper)
 
 **2023-02-06** — opened issue [#49](https://github.com/kosi-libs/MocKMP/issues/49) on [kosi-libs/MocKMP](https://api.github.com/repos/kosi-libs/MocKMP): "Missing 1.12.0 artifact for native targets?"
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2023-02-02** — commented on [#6](https://github.com/AMeng/personal_capital_plus/issues/6#issuecomment-1414397703) in [AMeng/personal_capital_plus](https://api.github.com/repos/AMeng/personal_capital_plus)
 
 **2023-02-01** — opened issue [#18](https://github.com/usefulsensors/openai-whisper/issues/18) on [usefulsensors/openai-whisper](https://api.github.com/repos/usefulsensors/openai-whisper): "Support for --initial_prompt feature?"
-
-**2023-01-26** — commented on [#85357](https://github.com/home-assistant/core/issues/85357#issuecomment-1405859040) in [home-assistant/core](https://api.github.com/repos/home-assistant/core)
 <!-- githubActivity ends -->
 </td></tr></table>
 
