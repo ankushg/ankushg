@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-13** — commented on [#705](https://github.com/piitaya/lovelace-mushroom/pull/705#issuecomment-1428865243) in [piitaya/lovelace-mushroom](https://api.github.com/repos/piitaya/lovelace-mushroom)
+
 **2023-02-08** — commented on [#49](https://github.com/zachcheatham/ha-omada/issues/49#issuecomment-1423222042) in [zachcheatham/ha-omada](https://api.github.com/repos/zachcheatham/ha-omada)
 
 **2023-02-08** — commented on [#416](https://github.com/Koenkk/Z-Stack-firmware/issues/416#issuecomment-1422978075) in [Koenkk/Z-Stack-firmware](https://api.github.com/repos/Koenkk/Z-Stack-firmware)
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2023-02-04** — opened issue [#691](https://github.com/alexbelgium/hassio-addons/issues/691) on [alexbelgium/hassio-addons](https://api.github.com/repos/alexbelgium/hassio-addons): "✨ [REQUEST] tuya-convert"
 
 **2023-02-03** — opened issue [#347](https://github.com/elax46/custom-brand-icons/issues/347) on [elax46/custom-brand-icons](https://api.github.com/repos/elax46/custom-brand-icons): "Custom Icon request: Nest Hub/Nest Hub Max"
-
-**2023-02-02** — commented on [#6](https://github.com/AMeng/personal_capital_plus/issues/6#issuecomment-1414397703) in [AMeng/personal_capital_plus](https://api.github.com/repos/AMeng/personal_capital_plus)
 <!-- githubActivity ends -->
 </td></tr></table>
 
