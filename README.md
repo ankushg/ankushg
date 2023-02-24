@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-24** — commented on [#88723](https://github.com/home-assistant/core/pull/88723#issuecomment-1444597745) in [home-assistant/core](https://api.github.com/repos/home-assistant/core)
+
 **2023-02-23** — opened issue [#60](https://github.com/zachcheatham/ha-omada/issues/60) on [zachcheatham/ha-omada](https://api.github.com/repos/zachcheatham/ha-omada): "Merge with official Omada integration in HA 2023 beta?"
 
 **2023-02-13** — commented on [#705](https://github.com/piitaya/lovelace-mushroom/pull/705#issuecomment-1428865243) in [piitaya/lovelace-mushroom](https://api.github.com/repos/piitaya/lovelace-mushroom)
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2023-02-05** — opened issue [#16](https://github.com/spinspire/pocketbase-sveltekit-starter/issues/16) on [spinspire/pocketbase-sveltekit-starter](https://api.github.com/repos/spinspire/pocketbase-sveltekit-starter): "FR: continuous integration deploys?"
 
 **2023-02-05** — opened issue [#532](https://github.com/AdguardTeam/AdGuardDNS/issues/532) on [AdguardTeam/AdGuardDNS](https://api.github.com/repos/AdguardTeam/AdGuardDNS): "FR: Redirect domain to another domain"
-
-**2023-02-04** — opened issue [#691](https://github.com/alexbelgium/hassio-addons/issues/691) on [alexbelgium/hassio-addons](https://api.github.com/repos/alexbelgium/hassio-addons): "✨ [REQUEST] tuya-convert"
 <!-- githubActivity ends -->
 </td></tr></table>
 
