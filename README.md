@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-23** — opened issue [#60](https://github.com/zachcheatham/ha-omada/issues/60) on [zachcheatham/ha-omada](https://api.github.com/repos/zachcheatham/ha-omada): "Merge with official Omada integration in HA 2023 beta?"
+
 **2023-02-13** — commented on [#705](https://github.com/piitaya/lovelace-mushroom/pull/705#issuecomment-1428865243) in [piitaya/lovelace-mushroom](https://api.github.com/repos/piitaya/lovelace-mushroom)
 
 **2023-02-08** — commented on [#49](https://github.com/zachcheatham/ha-omada/issues/49#issuecomment-1423222042) in [zachcheatham/ha-omada](https://api.github.com/repos/zachcheatham/ha-omada)
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2023-02-05** — opened issue [#532](https://github.com/AdguardTeam/AdGuardDNS/issues/532) on [AdguardTeam/AdGuardDNS](https://api.github.com/repos/AdguardTeam/AdGuardDNS): "FR: Redirect domain to another domain"
 
 **2023-02-04** — opened issue [#691](https://github.com/alexbelgium/hassio-addons/issues/691) on [alexbelgium/hassio-addons](https://api.github.com/repos/alexbelgium/hassio-addons): "✨ [REQUEST] tuya-convert"
-
-**2023-02-03** — opened issue [#347](https://github.com/elax46/custom-brand-icons/issues/347) on [elax46/custom-brand-icons](https://api.github.com/repos/elax46/custom-brand-icons): "Custom Icon request: Nest Hub/Nest Hub Max"
 <!-- githubActivity ends -->
 </td></tr></table>
 
