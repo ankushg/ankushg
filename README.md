@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-28** — opened issue [#76](https://github.com/emericg/WatchFlower/issues/76) on [emericg/WatchFlower](https://api.github.com/repos/emericg/WatchFlower): "[Feature Request] BTHome Format Support?"
+
 **2023-02-24** — commented on [#88723](https://github.com/home-assistant/core/pull/88723#issuecomment-1444597745) in [home-assistant/core](https://api.github.com/repos/home-assistant/core)
 
 **2023-02-23** — opened issue [#60](https://github.com/zachcheatham/ha-omada/issues/60) on [zachcheatham/ha-omada](https://api.github.com/repos/zachcheatham/ha-omada): "Merge with official Omada integration in HA 2023 beta?"
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2023-02-05** — opened issue [#17](https://github.com/spinspire/pocketbase-sveltekit-starter/issues/17) on [spinspire/pocketbase-sveltekit-starter](https://api.github.com/repos/spinspire/pocketbase-sveltekit-starter): "FR: More details about how to use prebuilt pockebase binary?"
 
 **2023-02-05** — opened issue [#16](https://github.com/spinspire/pocketbase-sveltekit-starter/issues/16) on [spinspire/pocketbase-sveltekit-starter](https://api.github.com/repos/spinspire/pocketbase-sveltekit-starter): "FR: continuous integration deploys?"
-
-**2023-02-05** — opened issue [#532](https://github.com/AdguardTeam/AdGuardDNS/issues/532) on [AdguardTeam/AdGuardDNS](https://api.github.com/repos/AdguardTeam/AdGuardDNS): "FR: Redirect domain to another domain"
 <!-- githubActivity ends -->
 </td></tr></table>
 
