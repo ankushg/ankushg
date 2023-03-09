@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2023-03-08** — opened issue [#1](https://github.com/mooseh/enphase-prometheus/issues/1) on [mooseh/enphase-prometheus](https://api.github.com/repos/mooseh/enphase-prometheus): "Documentation request: list of exposed metrics and frequency of updates?"
+
 **2023-02-28** — opened issue [#76](https://github.com/emericg/WatchFlower/issues/76) on [emericg/WatchFlower](https://api.github.com/repos/emericg/WatchFlower): "[Feature Request] BTHome Format Support?"
 
 **2023-02-24** — commented on [#88723](https://github.com/home-assistant/core/pull/88723#issuecomment-1444597745) in [home-assistant/core](https://api.github.com/repos/home-assistant/core)
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2023-02-06** — opened issue [#49](https://github.com/kosi-libs/MocKMP/issues/49) on [kosi-libs/MocKMP](https://api.github.com/repos/kosi-libs/MocKMP): "Missing 1.12.0 artifact for native targets?"
 
 **2023-02-05** — opened issue [#17](https://github.com/spinspire/pocketbase-sveltekit-starter/issues/17) on [spinspire/pocketbase-sveltekit-starter](https://api.github.com/repos/spinspire/pocketbase-sveltekit-starter): "FR: More details about how to use prebuilt pockebase binary?"
-
-**2023-02-05** — opened issue [#16](https://github.com/spinspire/pocketbase-sveltekit-starter/issues/16) on [spinspire/pocketbase-sveltekit-starter](https://api.github.com/repos/spinspire/pocketbase-sveltekit-starter): "FR: continuous integration deploys?"
 <!-- githubActivity ends -->
 </td></tr></table>
 
