@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2023-03-10** — opened issue [#16990](https://github.com/Koenkk/zigbee2mqtt/issues/16990) on [Koenkk/zigbee2mqtt](https://api.github.com/repos/Koenkk/zigbee2mqtt): "[Feature request]: Option to store/restore previous configuration when a previously paired device is re-paired"
+
 **2023-03-08** — opened issue [#1](https://github.com/mooseh/enphase-prometheus/issues/1) on [mooseh/enphase-prometheus](https://api.github.com/repos/mooseh/enphase-prometheus): "Documentation request: list of exposed metrics and frequency of updates?"
 
 **2023-02-28** — opened issue [#76](https://github.com/emericg/WatchFlower/issues/76) on [emericg/WatchFlower](https://api.github.com/repos/emericg/WatchFlower): "[Feature Request] BTHome Format Support?"
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2023-02-06** — commented on [#4](https://github.com/usefulsensors/openai-whisper/issues/4#issuecomment-1419596357) in [usefulsensors/openai-whisper](https://api.github.com/repos/usefulsensors/openai-whisper)
 
 **2023-02-06** — opened issue [#49](https://github.com/kosi-libs/MocKMP/issues/49) on [kosi-libs/MocKMP](https://api.github.com/repos/kosi-libs/MocKMP): "Missing 1.12.0 artifact for native targets?"
-
-**2023-02-05** — opened issue [#17](https://github.com/spinspire/pocketbase-sveltekit-starter/issues/17) on [spinspire/pocketbase-sveltekit-starter](https://api.github.com/repos/spinspire/pocketbase-sveltekit-starter): "FR: More details about how to use prebuilt pockebase binary?"
 <!-- githubActivity ends -->
 </td></tr></table>
 
