@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2023-03-26** — commented on [#6452](https://github.com/withastro/astro/issues/6452#issuecomment-1484285747) in [withastro/astro](https://api.github.com/repos/withastro/astro)
+
 **2023-03-13** — opened issue [#756](https://github.com/alexbelgium/hassio-addons/issues/756) on [alexbelgium/hassio-addons](https://api.github.com/repos/alexbelgium/hassio-addons): "✨ [REQUEST] sponsorblockcast"
 
 **2023-03-10** — opened issue [#16990](https://github.com/Koenkk/zigbee2mqtt/issues/16990) on [Koenkk/zigbee2mqtt](https://api.github.com/repos/Koenkk/zigbee2mqtt): "[Feature request]: Option to store/restore previous configuration when a previously paired device is re-paired"
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2023-02-08** — commented on [#49](https://github.com/zachcheatham/ha-omada/issues/49#issuecomment-1423222042) in [zachcheatham/ha-omada](https://api.github.com/repos/zachcheatham/ha-omada)
 
 **2023-02-08** — commented on [#416](https://github.com/Koenkk/Z-Stack-firmware/issues/416#issuecomment-1422978075) in [Koenkk/Z-Stack-firmware](https://api.github.com/repos/Koenkk/Z-Stack-firmware)
-
-**2023-02-06** — commented on [#4](https://github.com/usefulsensors/openai-whisper/issues/4#issuecomment-1419596357) in [usefulsensors/openai-whisper](https://api.github.com/repos/usefulsensors/openai-whisper)
 <!-- githubActivity ends -->
 </td></tr></table>
 
