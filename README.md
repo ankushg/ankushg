@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2023-04-09** — commented on [#16990](https://github.com/Koenkk/zigbee2mqtt/issues/16990#issuecomment-1501268133) in [Koenkk/zigbee2mqtt](https://api.github.com/repos/Koenkk/zigbee2mqtt)
+
 **2023-03-26** — commented on [#6452](https://github.com/withastro/astro/issues/6452#issuecomment-1484285747) in [withastro/astro](https://api.github.com/repos/withastro/astro)
 
 **2023-03-13** — opened issue [#756](https://github.com/alexbelgium/hassio-addons/issues/756) on [alexbelgium/hassio-addons](https://api.github.com/repos/alexbelgium/hassio-addons): "✨ [REQUEST] sponsorblockcast"
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2023-02-13** — commented on [#705](https://github.com/piitaya/lovelace-mushroom/pull/705#issuecomment-1428865243) in [piitaya/lovelace-mushroom](https://api.github.com/repos/piitaya/lovelace-mushroom)
 
 **2023-02-08** — commented on [#49](https://github.com/zachcheatham/ha-omada/issues/49#issuecomment-1423222042) in [zachcheatham/ha-omada](https://api.github.com/repos/zachcheatham/ha-omada)
-
-**2023-02-08** — commented on [#416](https://github.com/Koenkk/Z-Stack-firmware/issues/416#issuecomment-1422978075) in [Koenkk/Z-Stack-firmware](https://api.github.com/repos/Koenkk/Z-Stack-firmware)
 <!-- githubActivity ends -->
 </td></tr></table>
 
