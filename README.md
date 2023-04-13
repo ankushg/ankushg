@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2023-04-12** — opened issue [#56](https://github.com/kosi-libs/MocKMP/issues/56) on [kosi-libs/MocKMP](https://api.github.com/repos/kosi-libs/MocKMP): "java.lang.RuntimeException: Could not find a way to get a reference of MySealedInterface"
+
 **2023-04-10** — opened issue [#104](https://github.com/rickclephas/KMP-NativeCoroutines/issues/104) on [rickclephas/KMP-NativeCoroutines](https://api.github.com/repos/rickclephas/KMP-NativeCoroutines): "Configuration option to auto-generate wrapped coroutines/flows?"
 
 **2023-04-09** — commented on [#16990](https://github.com/Koenkk/zigbee2mqtt/issues/16990#issuecomment-1501268133) in [Koenkk/zigbee2mqtt](https://api.github.com/repos/Koenkk/zigbee2mqtt)
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2023-02-24** — commented on [#88723](https://github.com/home-assistant/core/pull/88723#issuecomment-1444597745) in [home-assistant/core](https://api.github.com/repos/home-assistant/core)
 
 **2023-02-23** — opened issue [#60](https://github.com/zachcheatham/ha-omada/issues/60) on [zachcheatham/ha-omada](https://api.github.com/repos/zachcheatham/ha-omada): "Merge with official Omada integration in HA 2023 beta?"
-
-**2023-02-13** — commented on [#705](https://github.com/piitaya/lovelace-mushroom/pull/705#issuecomment-1428865243) in [piitaya/lovelace-mushroom](https://api.github.com/repos/piitaya/lovelace-mushroom)
 <!-- githubActivity ends -->
 </td></tr></table>
 
