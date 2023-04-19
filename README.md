@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2023-04-19** — opened issue [#105](https://github.com/rickclephas/KMP-NativeCoroutines/issues/105) on [rickclephas/KMP-NativeCoroutines](https://api.github.com/repos/rickclephas/KMP-NativeCoroutines): "NullPointerException with 1.0.0-ALPHA-7"
+
 **2023-04-12** — opened issue [#56](https://github.com/kosi-libs/MocKMP/issues/56) on [kosi-libs/MocKMP](https://api.github.com/repos/kosi-libs/MocKMP): "java.lang.RuntimeException: Could not find a way to get a reference of MySealedInterface"
 
 **2023-04-10** — opened issue [#104](https://github.com/rickclephas/KMP-NativeCoroutines/issues/104) on [rickclephas/KMP-NativeCoroutines](https://api.github.com/repos/rickclephas/KMP-NativeCoroutines): "Configuration option to auto-generate wrapped coroutines/flows?"
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2023-02-28** — opened issue [#76](https://github.com/emericg/WatchFlower/issues/76) on [emericg/WatchFlower](https://api.github.com/repos/emericg/WatchFlower): "[Feature Request] BTHome Format Support?"
 
 **2023-02-24** — commented on [#88723](https://github.com/home-assistant/core/pull/88723#issuecomment-1444597745) in [home-assistant/core](https://api.github.com/repos/home-assistant/core)
-
-**2023-02-23** — opened issue [#60](https://github.com/zachcheatham/ha-omada/issues/60) on [zachcheatham/ha-omada](https://api.github.com/repos/zachcheatham/ha-omada): "Merge with official Omada integration in HA 2023 beta?"
 <!-- githubActivity ends -->
 </td></tr></table>
 
