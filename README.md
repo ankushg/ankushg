@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2023-05-19** — commented on [#3181](https://github.com/square/retrofit/issues/3181#issuecomment-1555099205) in [square/retrofit](https://api.github.com/repos/square/retrofit)
+
 **2023-05-10** — opened issue [#785](https://github.com/koush/scrypted/issues/785) on [koush/scrypted](https://api.github.com/repos/koush/scrypted): "Feature Request: variants for Home Assistant OS Addon for all docker tags?"
 
 **2023-05-10** — commented on [#16990](https://github.com/Koenkk/zigbee2mqtt/issues/16990#issuecomment-1542961660) in [Koenkk/zigbee2mqtt](https://api.github.com/repos/Koenkk/zigbee2mqtt)
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2023-03-26** — commented on [#6452](https://github.com/withastro/astro/issues/6452#issuecomment-1484285747) in [withastro/astro](https://api.github.com/repos/withastro/astro)
 
 **2023-03-13** — opened issue [#756](https://github.com/alexbelgium/hassio-addons/issues/756) on [alexbelgium/hassio-addons](https://api.github.com/repos/alexbelgium/hassio-addons): "✨ [REQUEST] sponsorblockcast"
-
-**2023-03-10** — opened issue [#16990](https://github.com/Koenkk/zigbee2mqtt/issues/16990) on [Koenkk/zigbee2mqtt](https://api.github.com/repos/Koenkk/zigbee2mqtt): "[Feature request]: Option to store/restore previous configuration when a previously paired device is re-paired"
 <!-- githubActivity ends -->
 </td></tr></table>
 
