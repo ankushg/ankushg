@@ -46,8 +46,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2023-04-09** — commented on [#16990](https://github.com/Koenkk/zigbee2mqtt/issues/16990#issuecomment-1501268133) in [Koenkk/zigbee2mqtt](https://api.github.com/repos/Koenkk/zigbee2mqtt)
 
 **2023-03-26** — commented on [#6452](https://github.com/withastro/astro/issues/6452#issuecomment-1484285747) in [withastro/astro](https://api.github.com/repos/withastro/astro)
-
-**2023-03-13** — opened issue [#756](https://github.com/alexbelgium/hassio-addons/issues/756) on [alexbelgium/hassio-addons](https://api.github.com/repos/alexbelgium/hassio-addons): "✨ [REQUEST] sponsorblockcast"
 <!-- githubActivity ends -->
 </td></tr></table>
 
