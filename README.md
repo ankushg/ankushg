@@ -42,8 +42,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2023-04-12** — opened issue [#56](https://github.com/kosi-libs/MocKMP/issues/56) on [kosi-libs/MocKMP](https://api.github.com/repos/kosi-libs/MocKMP): "java.lang.RuntimeException: Could not find a way to get a reference of MySealedInterface"
 
 **2023-04-10** — opened issue [#104](https://github.com/rickclephas/KMP-NativeCoroutines/issues/104) on [rickclephas/KMP-NativeCoroutines](https://api.github.com/repos/rickclephas/KMP-NativeCoroutines): "Configuration option to auto-generate wrapped coroutines/flows?"
-
-**2023-04-09** — commented on [#16990](https://github.com/Koenkk/zigbee2mqtt/issues/16990#issuecomment-1501268133) in [Koenkk/zigbee2mqtt](https://api.github.com/repos/Koenkk/zigbee2mqtt)
 <!-- githubActivity ends -->
 </td></tr></table>
 
