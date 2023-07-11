@@ -40,8 +40,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2023-04-19** — opened issue [#105](https://github.com/rickclephas/KMP-NativeCoroutines/issues/105) on [rickclephas/KMP-NativeCoroutines](https://api.github.com/repos/rickclephas/KMP-NativeCoroutines): "NullPointerException with 1.0.0-ALPHA-7"
 
 **2023-04-12** — opened issue [#56](https://github.com/kosi-libs/MocKMP/issues/56) on [kosi-libs/MocKMP](https://api.github.com/repos/kosi-libs/MocKMP): "java.lang.RuntimeException: Could not find a way to get a reference of MySealedInterface"
-
-**2023-04-10** — opened issue [#104](https://github.com/rickclephas/KMP-NativeCoroutines/issues/104) on [rickclephas/KMP-NativeCoroutines](https://api.github.com/repos/rickclephas/KMP-NativeCoroutines): "Configuration option to auto-generate wrapped coroutines/flows?"
 <!-- githubActivity ends -->
 </td></tr></table>
 
