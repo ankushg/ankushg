@@ -38,8 +38,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2023-04-19** — commented on [#105](https://github.com/rickclephas/KMP-NativeCoroutines/issues/105#issuecomment-1515205703) in [rickclephas/KMP-NativeCoroutines](https://api.github.com/repos/rickclephas/KMP-NativeCoroutines)
 
 **2023-04-19** — opened issue [#105](https://github.com/rickclephas/KMP-NativeCoroutines/issues/105) on [rickclephas/KMP-NativeCoroutines](https://api.github.com/repos/rickclephas/KMP-NativeCoroutines): "NullPointerException with 1.0.0-ALPHA-7"
-
-**2023-04-12** — opened issue [#56](https://github.com/kosi-libs/MocKMP/issues/56) on [kosi-libs/MocKMP](https://api.github.com/repos/kosi-libs/MocKMP): "java.lang.RuntimeException: Could not find a way to get a reference of MySealedInterface"
 <!-- githubActivity ends -->
 </td></tr></table>
 
