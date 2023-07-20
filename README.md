@@ -40,8 +40,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2023-05-10** — commented on [#16990](https://github.com/Koenkk/zigbee2mqtt/issues/16990#issuecomment-1542961660) in [Koenkk/zigbee2mqtt](https://api.github.com/repos/Koenkk/zigbee2mqtt)
 
 **2023-04-19** — commented on [#105](https://github.com/rickclephas/KMP-NativeCoroutines/issues/105#issuecomment-1515205703) in [rickclephas/KMP-NativeCoroutines](https://api.github.com/repos/rickclephas/KMP-NativeCoroutines)
-
-**2023-04-19** — opened issue [#105](https://github.com/rickclephas/KMP-NativeCoroutines/issues/105) on [rickclephas/KMP-NativeCoroutines](https://api.github.com/repos/rickclephas/KMP-NativeCoroutines): "NullPointerException with 1.0.0-ALPHA-7"
 <!-- githubActivity ends -->
 </td></tr></table>
 
