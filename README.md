@@ -38,8 +38,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2023-05-10** — opened issue [#785](https://github.com/koush/scrypted/issues/785) on [koush/scrypted](https://api.github.com/repos/koush/scrypted): "Feature Request: variants for Home Assistant OS Addon for all docker tags?"
 
 **2023-05-10** — commented on [#16990](https://github.com/Koenkk/zigbee2mqtt/issues/16990#issuecomment-1542961660) in [Koenkk/zigbee2mqtt](https://api.github.com/repos/Koenkk/zigbee2mqtt)
-
-**2023-04-19** — commented on [#105](https://github.com/rickclephas/KMP-NativeCoroutines/issues/105#issuecomment-1515205703) in [rickclephas/KMP-NativeCoroutines](https://api.github.com/repos/rickclephas/KMP-NativeCoroutines)
 <!-- githubActivity ends -->
 </td></tr></table>
 
