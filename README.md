@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2023-07-27** — commented on [#725](https://github.com/gradle/gradle-build-action/issues/725#issuecomment-1654478584) in [gradle/gradle-build-action](https://api.github.com/repos/gradle/gradle-build-action)
+
 **2023-07-24** — opened issue [#180](https://github.com/DataDog/dd-sdk-android-gradle-plugin/issues/180) on [DataDog/dd-sdk-android-gradle-plugin](https://api.github.com/repos/DataDog/dd-sdk-android-gradle-plugin): "Gradle Plugin is not honoring parameters while using Gradle KTS?"
 
 **2023-07-20** — commented on [#1367](https://github.com/DataDog/dd-sdk-android/issues/1367#issuecomment-1644504741) in [DataDog/dd-sdk-android](https://api.github.com/repos/DataDog/dd-sdk-android)
