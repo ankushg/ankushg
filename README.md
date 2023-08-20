@@ -46,8 +46,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2023-07-19** — opened issue [#1550](https://github.com/DataDog/dd-sdk-android/issues/1550) on [DataDog/dd-sdk-android](https://api.github.com/repos/DataDog/dd-sdk-android): "Allow client SDK to provide a custom version number"
 
 **2023-07-19** — commented on [#1367](https://github.com/DataDog/dd-sdk-android/issues/1367#issuecomment-1642874647) in [DataDog/dd-sdk-android](https://api.github.com/repos/DataDog/dd-sdk-android)
-
-**2023-05-19** — commented on [#3181](https://github.com/square/retrofit/issues/3181#issuecomment-1555099205) in [square/retrofit](https://api.github.com/repos/square/retrofit)
 <!-- githubActivity ends -->
 </td></tr></table>
 
