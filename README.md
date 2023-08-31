@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-31** — commented on [#5501](https://github.com/detekt/detekt/issues/5501#issuecomment-1701506589) in [detekt/detekt](https://api.github.com/repos/detekt/detekt)
+
 **2023-08-06** — commented on [#434](https://github.com/NabuCasa/hass-nabucasa/issues/434#issuecomment-1666935900) in [NabuCasa/hass-nabucasa](https://api.github.com/repos/NabuCasa/hass-nabucasa)
 
 **2023-08-06** — opened issue [#494](https://github.com/NabuCasa/hass-nabucasa/issues/494) on [NabuCasa/hass-nabucasa](https://api.github.com/repos/NabuCasa/hass-nabucasa): "Fix Google Home Support for Fan Speed Control"
