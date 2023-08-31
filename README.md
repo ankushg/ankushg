@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-31** — commented on [#5501](https://github.com/detekt/detekt/issues/5501#issuecomment-1701808449) in [detekt/detekt](https://api.github.com/repos/detekt/detekt)
+
 **2023-08-31** — commented on [#5501](https://github.com/detekt/detekt/issues/5501#issuecomment-1701506589) in [detekt/detekt](https://api.github.com/repos/detekt/detekt)
 
 **2023-08-06** — commented on [#434](https://github.com/NabuCasa/hass-nabucasa/issues/434#issuecomment-1666935900) in [NabuCasa/hass-nabucasa](https://api.github.com/repos/NabuCasa/hass-nabucasa)
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2023-07-20** — commented on [#1550](https://github.com/DataDog/dd-sdk-android/issues/1550#issuecomment-1644503665) in [DataDog/dd-sdk-android](https://api.github.com/repos/DataDog/dd-sdk-android)
 
 **2023-07-19** — opened issue [#1550](https://github.com/DataDog/dd-sdk-android/issues/1550) on [DataDog/dd-sdk-android](https://api.github.com/repos/DataDog/dd-sdk-android): "Allow client SDK to provide a custom version number"
-
-**2023-07-19** — commented on [#1367](https://github.com/DataDog/dd-sdk-android/issues/1367#issuecomment-1642874647) in [DataDog/dd-sdk-android](https://api.github.com/repos/DataDog/dd-sdk-android)
 <!-- githubActivity ends -->
 </td></tr></table>
 
