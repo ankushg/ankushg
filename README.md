@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2023-10-01** — commented on [#1010](https://github.com/alexbelgium/hassio-addons/issues/1010#issuecomment-1742215246) in [alexbelgium/hassio-addons](https://api.github.com/repos/alexbelgium/hassio-addons)
+
 **2023-10-01** — opened issue [#1010](https://github.com/alexbelgium/hassio-addons/issues/1010) on [alexbelgium/hassio-addons](https://api.github.com/repos/alexbelgium/hassio-addons): "[Omada controller] ignore “beta” version"
 
 **2023-09-25** — commented on [#54](https://github.com/magico13/PyEmVue/issues/54#issuecomment-1733884264) in [magico13/PyEmVue](https://api.github.com/repos/magico13/PyEmVue)
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2023-08-06** — opened issue [#494](https://github.com/NabuCasa/hass-nabucasa/issues/494) on [NabuCasa/hass-nabucasa](https://api.github.com/repos/NabuCasa/hass-nabucasa): "Fix Google Home Support for Fan Speed Control"
 
 **2023-07-27** — commented on [#299](https://github.com/google/ksp/issues/299#issuecomment-1654564076) in [google/ksp](https://api.github.com/repos/google/ksp)
-
-**2023-07-27** — commented on [#725](https://github.com/gradle/gradle-build-action/issues/725#issuecomment-1654478584) in [gradle/gradle-build-action](https://api.github.com/repos/gradle/gradle-build-action)
 <!-- githubActivity ends -->
 </td></tr></table>
 
