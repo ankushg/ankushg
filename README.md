@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2023-10-01** — opened issue [#1010](https://github.com/alexbelgium/hassio-addons/issues/1010) on [alexbelgium/hassio-addons](https://api.github.com/repos/alexbelgium/hassio-addons): "[Omada controller] ignore “beta” version"
+
 **2023-09-25** — commented on [#54](https://github.com/magico13/PyEmVue/issues/54#issuecomment-1733884264) in [magico13/PyEmVue](https://api.github.com/repos/magico13/PyEmVue)
 
 **2023-09-24** — opened issue [#54](https://github.com/magico13/PyEmVue/issues/54) on [magico13/PyEmVue](https://api.github.com/repos/magico13/PyEmVue): "[feature request] Emulate wall plug?"
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2023-07-27** — commented on [#299](https://github.com/google/ksp/issues/299#issuecomment-1654564076) in [google/ksp](https://api.github.com/repos/google/ksp)
 
 **2023-07-27** — commented on [#725](https://github.com/gradle/gradle-build-action/issues/725#issuecomment-1654478584) in [gradle/gradle-build-action](https://api.github.com/repos/gradle/gradle-build-action)
-
-**2023-07-24** — opened issue [#180](https://github.com/DataDog/dd-sdk-android-gradle-plugin/issues/180) on [DataDog/dd-sdk-android-gradle-plugin](https://api.github.com/repos/DataDog/dd-sdk-android-gradle-plugin): "Gradle Plugin is not honoring parameters while using Gradle KTS?"
 <!-- githubActivity ends -->
 </td></tr></table>
 
