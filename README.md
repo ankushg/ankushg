@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2023-10-03** — commented on [#1010](https://github.com/alexbelgium/hassio-addons/issues/1010#issuecomment-1744843962) in [alexbelgium/hassio-addons](https://api.github.com/repos/alexbelgium/hassio-addons)
+
 **2023-10-01** — commented on [#1010](https://github.com/alexbelgium/hassio-addons/issues/1010#issuecomment-1742215246) in [alexbelgium/hassio-addons](https://api.github.com/repos/alexbelgium/hassio-addons)
 
 **2023-10-01** — opened issue [#1010](https://github.com/alexbelgium/hassio-addons/issues/1010) on [alexbelgium/hassio-addons](https://api.github.com/repos/alexbelgium/hassio-addons): "[Omada controller] ignore “beta” version"
@@ -46,8 +48,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2023-08-06** — commented on [#434](https://github.com/NabuCasa/hass-nabucasa/issues/434#issuecomment-1666935900) in [NabuCasa/hass-nabucasa](https://api.github.com/repos/NabuCasa/hass-nabucasa)
 
 **2023-08-06** — opened issue [#494](https://github.com/NabuCasa/hass-nabucasa/issues/494) on [NabuCasa/hass-nabucasa](https://api.github.com/repos/NabuCasa/hass-nabucasa): "Fix Google Home Support for Fan Speed Control"
-
-**2023-07-27** — commented on [#299](https://github.com/google/ksp/issues/299#issuecomment-1654564076) in [google/ksp](https://api.github.com/repos/google/ksp)
 <!-- githubActivity ends -->
 </td></tr></table>
 
