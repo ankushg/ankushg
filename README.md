@@ -40,10 +40,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2023-09-24** — opened issue [#54](https://github.com/magico13/PyEmVue/issues/54) on [magico13/PyEmVue](https://api.github.com/repos/magico13/PyEmVue): "[feature request] Emulate wall plug?"
 
 **2023-09-15** — opened issue [#2](https://github.com/Devofure/advance-android-version-actions/issues/2) on [Devofure/advance-android-version-actions](https://api.github.com/repos/Devofure/advance-android-version-actions): "Typo in action output for version code"
-
-**2023-08-31** — commented on [#5501](https://github.com/detekt/detekt/issues/5501#issuecomment-1701808449) in [detekt/detekt](https://api.github.com/repos/detekt/detekt)
-
-**2023-08-31** — commented on [#5501](https://github.com/detekt/detekt/issues/5501#issuecomment-1701506589) in [detekt/detekt](https://api.github.com/repos/detekt/detekt)
 <!-- githubActivity ends -->
 </td></tr></table>
 
