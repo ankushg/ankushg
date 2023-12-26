@@ -34,8 +34,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2023-10-01** — commented on [#1010](https://github.com/alexbelgium/hassio-addons/issues/1010#issuecomment-1742215246) in [alexbelgium/hassio-addons](https://api.github.com/repos/alexbelgium/hassio-addons)
 
 **2023-10-01** — opened issue [#1010](https://github.com/alexbelgium/hassio-addons/issues/1010) on [alexbelgium/hassio-addons](https://api.github.com/repos/alexbelgium/hassio-addons): "[Omada controller] ignore “beta” version"
-
-**2023-09-25** — commented on [#54](https://github.com/magico13/PyEmVue/issues/54#issuecomment-1733884264) in [magico13/PyEmVue](https://api.github.com/repos/magico13/PyEmVue)
 <!-- githubActivity ends -->
 </td></tr></table>
 
