@@ -29,7 +29,7 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
-**2023-10-03** — commented on [#1010](https://github.com/alexbelgium/hassio-addons/issues/1010#issuecomment-1744843962) in [alexbelgium/hassio-addons](https://api.github.com/repos/alexbelgium/hassio-addons)
+
 <!-- githubActivity ends -->
 </td></tr></table>
 
