@@ -29,7 +29,7 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
-
+**2024-05-03** — opened issue [#176](https://github.com/create-dmg/create-dmg/issues/176) on [create-dmg/create-dmg](https://api.github.com/repos/create-dmg/create-dmg): "Any way to use 2x density background on retina devices?"
 <!-- githubActivity ends -->
 </td></tr></table>
 
