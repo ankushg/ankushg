@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2024-08-17** — opened issue [#2](https://github.com/bitdisaster/electron-windows-msix/issues/2) on [bitdisaster/electron-windows-msix](https://api.github.com/repos/bitdisaster/electron-windows-msix): "Feature Request: override params for Windows SDK tools"
+
 **2024-08-16** — opened PR [#10452](https://github.com/actions/runner-images/pull/10452) to [actions/runner-images](https://api.github.com/repos/actions/runner-images): "Add Windows SDK 22621 to toolset-2022.json"
 
 **2024-08-16** — pushed [`583ecd27`](https://github.com/ankushg/runner-images/commit/583ecd272a7e78554bce97da165e504271e7f121) to [ankushg/runner-images](https://api.github.com/repos/ankushg/runner-images): "add Windows SDK 22621 to toolset-2022.json"
