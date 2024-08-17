@@ -29,6 +29,10 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2024-08-16** — opened PR [#10452](https://github.com/actions/runner-images/pull/10452) to [actions/runner-images](https://api.github.com/repos/actions/runner-images): "Add Windows SDK 22621 to toolset-2022.json"
+
+**2024-08-16** — pushed [`583ecd27`](https://github.com/ankushg/runner-images/commit/583ecd272a7e78554bce97da165e504271e7f121) to [ankushg/runner-images](https://api.github.com/repos/ankushg/runner-images): "add Windows SDK 22621 to toolset-2022.json"
+
 **2024-06-08** — opened issue [#121](https://github.com/LeoKlaus/plappa/issues/121) on [LeoKlaus/plappa](https://api.github.com/repos/LeoKlaus/plappa): "[request] multi-library mode"
 <!-- githubActivity ends -->
 </td></tr></table>
