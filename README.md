@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2024-09-05** — commented on [#3048](https://github.com/microsoft/winget-cli/issues/3048#issuecomment-2333340376) in [microsoft/winget-cli](https://api.github.com/repos/microsoft/winget-cli)
+
 **2024-08-30** — commented on [#10349](https://github.com/actions/runner-images/issues/10349#issuecomment-2322012635) in [actions/runner-images](https://api.github.com/repos/actions/runner-images)
 
 **2024-08-27** — opened issue [#34461](https://github.com/home-assistant/home-assistant.io/issues/34461) on [home-assistant/home-assistant.io](https://api.github.com/repos/home-assistant/home-assistant.io): "Yale Access Bluetooth integration should clarify what entities it provides over HomeKit"
