@@ -29,6 +29,8 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
+**2024-10-28** — closed PR [#10452](https://github.com/actions/runner-images/pull/10452) to [actions/runner-images](https://api.github.com/repos/actions/runner-images): "Add Windows SDK 26100 to toolset-2022.json"
+
 **2024-09-09** — opened issue [#69](https://github.com/square/papa/issues/69) on [square/papa](https://api.github.com/repos/square/papa): "Crash: lateinit property currentTrigger has not been initialized at `papa.internal.MainThreadTriggerTracer`"
 
 **2024-09-05** — commented on [#3048](https://github.com/microsoft/winget-cli/issues/3048#issuecomment-2333340376) in [microsoft/winget-cli](https://api.github.com/repos/microsoft/winget-cli)
