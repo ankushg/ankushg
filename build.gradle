@@ -76,7 +76,7 @@ jar {
 dependencies {
   kapt "com.squareup.moshi:moshi-kotlin-codegen:1.12.0"
   kapt "dev.zacsweers.moshix:moshi-sealed-codegen:0.14.1"
-  kapt 'com.tickaroo.tikxml:processor:0.8.13'
+  kapt 'com.tickaroo.tikxml:processor:0.8.15'
 
   implementation "com.github.ajalt:clikt:2.8.0"
   implementation "org.jetbrains.kotlinx:kotlinx-coroutines-core:1.5.2"
@@ -90,9 +90,9 @@ dependencies {
 
   // XML serialization
   implementation 'com.tickaroo.tikxml:annotation:0.8.13'
-  implementation 'com.tickaroo.tikxml:core:0.8.13'
-  implementation 'com.tickaroo.tikxml:retrofit-converter:0.8.13'
-  implementation 'com.tickaroo.tikxml:converter-htmlescape:0.8.13'
+  implementation 'com.tickaroo.tikxml:core:0.8.15'
+  implementation 'com.tickaroo.tikxml:retrofit-converter:0.8.15'
+  implementation 'com.tickaroo.tikxml:converter-htmlescape:0.8.15'
 
   testImplementation "junit:junit:4.13.2"
   testImplementation "com.google.truth:truth:1.1.3"
