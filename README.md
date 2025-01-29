@@ -32,8 +32,6 @@ More on [ankushg.com](https://ankushg.com/)
 **2025-01-12** — opened issue [#28](https://github.com/Luligu/matterbridge-hass/issues/28) on [Luligu/matterbridge-hass](https://api.github.com/repos/Luligu/matterbridge-hass): "Feature Request: Integrate with Home Assistant's Voice Assistant section "
 
 **2024-11-14** — opened issue [#843](https://github.com/supabase/postgres-meta/issues/843) on [supabase/postgres-meta](https://api.github.com/repos/supabase/postgres-meta): "Typescript type for `interval` is generated as `unknown`"
-
-**2024-10-28** — closed PR [#10452](https://github.com/actions/runner-images/pull/10452) to [actions/runner-images](https://api.github.com/repos/actions/runner-images): "Add Windows SDK 26100 to toolset-2022.json"
 <!-- githubActivity ends -->
 </td></tr></table>
 
