@@ -29,7 +29,7 @@ More on [ankushg.com](https://ankushg.com/)
 
 ## Public GitHub Activity
 <!-- githubActivity starts -->
-**2025-01-12** — opened issue [#28](https://github.com/Luligu/matterbridge-hass/issues/28) on [Luligu/matterbridge-hass](https://api.github.com/repos/Luligu/matterbridge-hass): "Feature Request: Integrate with Home Assistant's Voice Assistant section "
+
 <!-- githubActivity ends -->
 </td></tr></table>
 
